@@ -7,7 +7,7 @@ tags: code4hk
 
 二十一世紀第十四年，香港人經歷了一個壯闊波瀾的雨傘革命，為掌握自己的命運踏出了第一步，相信很多人已經choose the red pill，回不了去。CODE4HK 和大家一起，經歷了很多高高低低。
 
-在前年十二月，Vincent首先把我倆在大圍的酒吧吹水吹了兩年多的事綜合，寫了”Code for Hong Kong”一文，想不到一文激起幾百like，似乎大家都覺得這是美事。我們想心動不如行動，就找朋友一起共襄義舉，要用程式改變香港。當時﹐我們只有八個人。
+在前年十二月，Vincent首先把我倆在大圍的酒吧吹水吹了兩年多的事綜合，寫了”Code for Hong Kong”[1]一文，想不到一文激起幾百like，似乎大家都覺得這是美事。我們想心動不如行動，就找朋友一起共襄義舉，要用程式改變香港。當時﹐我們只有八個人。
 
 這樣Code for Hong Kong 就成立了。初時，得到了很多社會賢達、技術高手的支持。首先和主場新聞合作推出了「預算計稅機」，使市民能輕易計算出前一年和當年的稅款變化，務求令預算案更貼身。
 
@@ -27,9 +27,7 @@ tags: code4hk
 
 你願意為香港我城出一分力嗎？
 
-寫於二零一五年四月一日
-
 感謝Vincent 的校對及編輯
 
-https://kleineblase.wordpress.com/2013/12/01/code-for-hong-kong/
+[1]: [https://kleineblase.wordpress.com/2013/12/01/code-for-hong-kong/](https://kleineblase.wordpress.com/2013/12/01/code-for-hong-kong/)
 
