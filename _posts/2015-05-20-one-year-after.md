@@ -23,7 +23,7 @@ tags: code4hk
 
 老套一點都要寫，沒有大家的參與，根本沒有CODE4HK 。從我們的curators Ken, Tim 和Pili，他們是CODE4HK 的主要推手。還有我們很多恩師，包括Ada和Kelvin 我們的MaD Accumulator mentors，Tony@GoodLab，Code for America Amy，Erwin 都給我們很多幫助和意見。還有高手Haggen, Toby,  Alan, Allen, Elaine, Linquize, Licoln, Ben Lau, 樹熊, Frankie Kenneth 阿西出招 commit 的projects 和 code。Gabriel，King 和PolyU設計的學生，幫忙設計。CY Kasey 的文章和幫忙打理Code for Hong Kong Facebook Page。Ivan Jason Herman 有心貢獻。ODHK, 前線科技人員議政小組等友好組織的synergy，Oursky 創業公社 Charles Mok 動用自己的資源幫忙。
 
-想謝謝Vincent，沒有你的勇氣、洞見和「死掂佢」魄力，CODE4HK只會只人生的遺憾。在這裡自私一點，謝謝我老板Thomas和最重要我的（藍絲）爸和媽。恩重如山，無以為報。I must give them 200% and make sure I don’t fail them. 
+想謝謝Vincent，沒有你的勇氣、洞見和「死掂佢」魄力，CODE4HK只會只人生的遺憾。在這裡自私一點，謝謝女朋友Suki，我老板Thomas和最重要我的（藍絲）爸和媽。恩重如山，無以為報。I must give them 200% and make sure I don’t fail them. 
 
 你願意為香港我城出一分力嗎？
 
