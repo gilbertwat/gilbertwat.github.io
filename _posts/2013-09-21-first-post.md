@@ -2,7 +2,7 @@
 layout: post
 title: My First Post in Get Things Done
 weather: rainy
-categories: nothing
+categories: journal
 tags: nothing
 ---
 This is my first post in this new found freedom. Jekyll and ability to self-host!

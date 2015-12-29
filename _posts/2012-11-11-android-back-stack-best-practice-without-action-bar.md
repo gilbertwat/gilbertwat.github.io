@@ -2,6 +2,7 @@
 layout: post
 title: Android Back Stack Best Practice (without action bar)
 date: '2012-11-11T17:31:01+08:00'
+categories: software-engineering
 tags:
 - android
 - development

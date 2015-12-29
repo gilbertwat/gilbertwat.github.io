@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where to fork a thread?
-categories: android
+categories: software-engineering
 tags: Android Java Concurrency
 ---
 This is a repost of a post in Tumblr over a years ago. Time flies and I found the solution.

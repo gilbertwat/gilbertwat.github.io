@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Just another day in Android-land: DatePickerDialog that honor the app locale'
 date: '2013-01-25T12:15:00+08:00'
+categories: software-engineering
 tags:
 - Android Development
 - android

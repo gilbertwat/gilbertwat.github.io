@@ -2,6 +2,7 @@
 layout: post
 title: Representing Statuses
 date: '2012-07-12T17:10:00+08:00'
+categories: software-engineering
 tags:
 - software design
 - system design

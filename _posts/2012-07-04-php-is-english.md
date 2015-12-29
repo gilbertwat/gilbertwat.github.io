@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I prefer static typed language
-categories: PHP
+categories: software-engineering
 tags: programming java PHP software debate clojure python
 ---
 Recently many software gurus\(e\.g\.: [Jeff Atwood]\(http://www.codinghorror.com/blog/2012/06/the-php-singularity.html &amp; [Fabien Potencier](http://fabien.potencier.org/article/64/php-is-much-better-than-what-you-think)\) whom I admired debates how good/bad PHP is\. Some criticized, with strong technical reasons that PHP should be cast to hell and leave them rot like what we did to COBOL\. I wholeheartedly agree with them\. PHP is simply not suitable for large projects\. My experience with plain PHP, Wordpress and Drupal makes me want to strangle myself over and over\.

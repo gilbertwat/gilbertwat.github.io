@@ -1,11 +1,13 @@
-gems: [jekyll-paginate, 'jekyll-lunr-js-search']
+# Plugin
+gems: [jekyll-paginate, jekyll-lunr-js-search]
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 #Ignore export
-exclude: ['Gemfile', 'Gemfile.lock', 'Guardfile', 'Rakefile', '.gitignore']
+exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore"]
 
 # Setup
 title:               Gilbert Wat
