@@ -4,6 +4,9 @@ gems: [jekyll-paginate, 'jekyll-lunr-js-search']
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+#Ignore export
+exclude: ['Gemfile', 'Gemfile.lock', 'Guardfile', 'Rakefile', '.gitignore']
+
 # Setup
 title:               Gilbert Wat
 tagline:             his learning in software development and product building
@@ -25,7 +28,7 @@ github:
 
 #Lunr
 lunr_search:
-  excludes: [rss.xml, atom.xml]
+  excludes: [rss.xml, atom.xml, sitemap.txt, 404.html]
 
 # Custom vars
 version:             4.0.0
