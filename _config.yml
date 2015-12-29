@@ -1,5 +1,8 @@
 # Plugin
-gems: [jekyll-paginate, jekyll-lunr-js-search]
+gems: [
+  jekyll-paginate, 
+  jekyll-lunr-js-search
+]
 
 # Permalinks
 #
@@ -34,3 +37,18 @@ lunr_search:
 
 # Custom vars
 version:             4.0.0
+
+# Defaults
+defaults:
+ - 
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    comments: true
+
+# Related posts
+# For some unknown reason the lsi is not available in guard mode...
+# lsi : true
+
