@@ -1,0 +1,17 @@
+---
+---
+@import 'variables';
+
+body {
+  nav {
+    font-family: $title-font;
+    text-align:center;
+    margin-top: 0.25rem;
+    .nav-item {
+      &:last-child {
+        margin-right: 0px;
+      }
+      margin-right: 3rem;
+    }
+  }
+}
