@@ -19,7 +19,7 @@ namespace :blog do
     })).process
 
     # Get the origin to which we are going to push the site.
-    origin = `git config --get remote.origin.url`
+    origin = `GIT_DIR=./.git git config --get remote.origin.url`
 
     # Make a temporary directory for the build before production release.
     # This will be torn down once the task is complete.
@@ -31,10 +31,14 @@ namespace :blog do
     Dir.chdir tmp
 
     # Prepare all the content in the repo for deployment.
+    system "echo 'init repo'"
+    ENV.delete('GIT_WORK_TREE')
     system "git init" # Init the repo.
+    system "echo 'Add and commit'"
     system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
 
     # Add the origin remote for the parent repo to the tmp folder.
+    system "echo 'Add origin #{origin}'"
     system "git remote add origin #{origin}"
 
     # Push the files to the master branch, forcing an overwrite.

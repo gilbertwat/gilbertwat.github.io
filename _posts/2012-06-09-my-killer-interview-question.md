@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My killer interview question (for junior software engineer)
-categories: management
+categories: peopleware
 tags: management interview job software development
 ---
 ***This post is full of ignorance. But my main point still stand.***

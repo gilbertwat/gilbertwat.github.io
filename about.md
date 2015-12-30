@@ -2,16 +2,21 @@
 layout: page
 title: Resumé
 ---
-Co-founded [CODE4HK](http://www.code4.hk) to drive social changes via code. I get the right things done. Works speak louder than words. Checkout my [blog]({{ site.baseurl }}/archive/) and my [github](https://www.github.com/gilbertwat/) pages. Also publishing most of my posts in [medium](https://www.medium.com/@gilbertwat).
 
-Ongoing projects:  
-- CODE4HK
+Co-founded [CODE4HK](http://www.code4.hk) to drive social changes via code. I get the right things done. Works speak louder than words. Checkout my blog and my [github](https://www.github.com/gilbertwat/) pages. Also publishing most of my posts in [medium](https://www.medium.com/@gilbertwat).
 
-###Current Position
-***Founding Engineer at Clione Labs Ltd.***  
+Current focusing on:  
+
+- Attending [Machine Learning course](https://www.coursera.org/learn/machine-learning)
+- Figuring how to move [CODE4HK](http://www.code4.hk) forward
+
+*****
+
+##Current Position
+***Founding Engineer at [Clione Labs Ltd.](www.clionelabs.com)***  
 From Oct 2014 to Feb 2016 
 
-- Brief descriptions:
+- Brief Description:
   - Anything related to product, particularly engineering
 - Major achievements:
   - Delivered [Double - Business Admin on demand](http://www.double.co) & [Looppulse - Re-engage missed opportunities in physical stores](http://www.looppulse.com) with increasing quality overtime
@@ -20,10 +25,10 @@ From Oct 2014 to Feb 2016
   - Contributed back to global MeteorJS community
 - Related Blog Posts: 
 
-***Cofounder at CODE4HK***  
+***Cofounder at [CODE4HK](http://www.code4.hk)***  
 From Jan 2014 to (Until Hong Kong become the IT hub of Asia)  
 
-- Brief descriptions:
+- Brief Description:
   - Anything to push our goals forward
 - Major Achievements:
   - Community of ~2000 people, with ~50 active community members
@@ -31,11 +36,17 @@ From Jan 2014 to (Until Hong Kong become the IT hub of Asia)
   - Jointly held a Javascript crash course with CityU Apps Lab
 - Related Blog Posts:
 
-###Past positions
-***Software Engineer at MPayme Ltd.(Aquired by Powa Technology Ltd.)***  
+*****
+
+*if you read up to here, wanna [contact](mailto:g@getthingsdone.hk) me for a coffee?*
+
+*****
+
+##Past Positions
+***Software Engineer at [MPayme Ltd.](http://www.mpayme.com)(Acquired by [Powa Technology Ltd.](http://www.powa.com))***  
 From Sep 2012 to Oct 2014
 
-- Brief descriptions:
+- Brief Description:
   - 1 of 8 developers of Android clients of ZNAP platform: an O2O-commerce platform.
 - Major Achievements:
   - Coordinated a taskforce of 4 people, consisted of Dev, DevOps, QA and developed an in-house Continous Delievery System for the Android client. KPI: 
@@ -46,10 +57,10 @@ From Sep 2012 to Oct 2014
   - Collaborate on design of RESTful API of ZNAP platform  
 - Related Blog Posts:
 
-***Analyst Programmer at Easyapps***
+***Analyst Programmer at Easyapps***  
 From Oct 2011 to Sep 2012
 
-- Brief descriptions:
+- Brief Description:
   - Developer in all projects, focusing on system and mobile.
 - Major achievements: 
   - Suggested and implemented technical solutions ranging from Coupon system to mobile app full stack solution.
@@ -58,9 +69,10 @@ From Oct 2011 to Sep 2012
   - Notable projects: doupons.tv, Pleo rb android app, Infotech android app
 - Related Blog Posts:
   
-***Freelance Programmer at [Content Lizenz Agentur](http://www.cla-online.de/)***
+***Freelance Programmer at [Content Lizenz Agentur](http://www.cla-online.de/)***  
+From Feb 2011 to Jul 2011
 
-- Brief descriptions:
+- Brief Description:
   - In-house developer in Germany
 - Major achievements:
   - Developed mobile website and optimized performance of a VOD platform
@@ -71,20 +83,30 @@ From Oct 2011 to Sep 2012
 - Related Blog:
   - [Travel Blog](http://gilberttravelgermany.wordpress.com/)
 
-###Even more ancient positions...
-***Research Assistant at The University of Hong Kong***
+*****
+
+*Thanks for reading till here, [contact](mailto:g@getthingsdone.hk) me to know more what I can offer?*
+
+*****
+
+##Even more ancient positions...
+***Research Assistant at The University of Hong Kong***  
+From May 2010 to Aug 2010
 
 - Refactored final-year project of my team - an E-Hospital system into a framework.
 - Created a training session for the final year students in year 2010/11 who were interested in Dr Hui's topic in final year project.
 - Created a SDK for further development of my group's final year project.
 - Created training materials in development of my group's final year project
 
-***Software Engineer Trainee at [Uniforce System Ltd.](http://www.uniforce.net/)***
+***Software Engineer Trainee at [Uniforce System Ltd.](http://www.uniforce.net/)***  
+From May 2008 to Aug 2008
 
 - Researched on realistic product display in web.
 - Implemented the overall layout of cyberbuy.com
 - Communicated with designers, clients and developers to ensure the design of the site is fully implemented.
 - Developed plugins for Drupal CMS.
 
-***Programmer Trainee at Asia Solution Corp. Ltd.***
+***Programmer Trainee at Asia Solution Corp. Ltd.***  
+From May 2005 to Aug 2005
+
 - Developed flash game based on Sokuban.
