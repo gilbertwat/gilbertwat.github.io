@@ -5,6 +5,7 @@ title: Home
 <html lang='en'>  
   <head>
     <title>Gilbert Wat's Schloss</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='css/search.css' rel='stylesheet'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   </head>
@@ -12,7 +13,7 @@ title: Home
     <div id="search" class="full-screen">
       <form action="/search" method="get" class="full-screen">
         <div class='input-box'>
-          <span id="search-query" name="q" contenteditable="true">Know more about me.</span>
+          <span id="search-query" name="q" contenteditable="true">Type here to know more</span>
           <i class="fa fa-search"></i>
         </div>
       </form>
@@ -37,6 +38,7 @@ title: Home
 
     <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
     <script src='/js/search.js' type='text/javascript'></script>
+    {% include scripts.html %}
   </body>
 </html>
 
