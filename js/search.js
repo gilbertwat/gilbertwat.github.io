@@ -145,11 +145,11 @@
     options = $.extend({}, $.fn.lunrSearch.defaults, options);      
 
     // create search object
-    new LunrSearch(this, options);
-
+    var lunr = new LunrSearch(this, options);
     return this;
   };
 
+  
   $.fn.lunrSearch.defaults = {
     indexUrl  : '/js/index.json',   // Url for the .json file containing search index data
     results   : '#search-results',  // selector for containing search results element
@@ -158,7 +158,6 @@
     emptyMsg  : 'Nothing found.'    // shown message if search returns no results
   };
 })(jQuery);
-
 
 $(function() {
   $.fn.selectText = function(){
@@ -178,6 +177,7 @@ $(function() {
   };
   var isSearchBarFocused = false;
   $("#search-query").on("focus", function () {
+    $('.input-box').addClass('focus');
     if (!isSearchBarFocused) {
       $(this).selectText();
       isSearchBarFocused = true;
@@ -191,6 +191,7 @@ $(function() {
   });
   $("#search-query").on("focusout", function () {
     isSearchBarFocused = false;
+    $('.input-box').removeClass('focus');
   });
 
   $('#search-query').mouseup(function(e){
@@ -210,9 +211,9 @@ $(function() {
   });
   $('#search-query').bind('keyup', function() {
     if ($('#search-results:hidden')[0]) {
-      $('#search form').addClass('full-screen');
+      $('#search').addClass('full-screen');
     } else {
-      $('#search form').removeClass('full-screen');
+      $('#search').removeClass('full-screen');
     }
   });
 });
