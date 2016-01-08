@@ -1,6 +1,6 @@
 ---
 title: Bounce off Ideas
-categories: peopleware
+category: Peopleware
 ---
 Originally posted in [Medium](https://medium.com/@gilbertwat/bounce-off-ideas-244bfa1bbad1#.yftgx5pq6)
 
@@ -11,7 +11,7 @@ the same. We call it “bouncing off idea”.
 
 Whenever we start bouncing off idea, we always keep the idea on the table. How? we keep improving the original ideas without being critical about it. We try to be imaginative about the possibilities of the idea, no matter how absurd it is. Usually it is fun to play with ideas and be exploratory about the ideas. When we reach an apparent end of the road, we will try another idea until we are satisfied. Only by then we are going to implement the idea we are all satisfied in.
 
-What’s good for you to do this? What’s good for company to do this? Creativity is practiced every day. Daily job, even inside a dynamic startup like us, is not always as hard as you think. There will always be less challenging work, like recreating the design in HTML+CSS, filling up invoice form. Bouncing off idea make sure your creative muscle in your team’s brains are not overwhelmed by day to day routines. It is good for team building too. Save your budget on team building courses and let them bouncing ideas instead. When you hit the wall, the team will be ready to step up and come up with brilliant solution.
+What’s good for you to do this? What’s good for company to do this? Creativity is practiced every day. Daily job, even inside a dynamic startup like us, is not always as hard as you think. There will always be less challenging work, like recreating the Design in HTML+CSS, filling up invoice form. Bouncing off idea make sure your creative muscle in your team’s brains are not overwhelmed by day to day routines. It is good for team building too. Save your budget on team building courses and let them bouncing ideas instead. When you hit the wall, the team will be ready to step up and come up with brilliant solution.
 
 Ideas are also got refined and examined with more perspectives, producing more insights. The solution tend to be more satisfying to the team. Everyone is involved and we are happy with what we are building. The happiness always drive us keep doing what we are doing.
 

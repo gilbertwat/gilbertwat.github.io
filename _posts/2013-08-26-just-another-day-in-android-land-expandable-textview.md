@@ -2,6 +2,7 @@
 layout: post
 title: ! 'Just Another Day in Android-land: Expandable TextView with Custom Ellipsis'
 date: '2013-08-26T14:07:00+08:00'
+categories: ["Software Engineering"]
 tags:
 - Android Development
 - Android

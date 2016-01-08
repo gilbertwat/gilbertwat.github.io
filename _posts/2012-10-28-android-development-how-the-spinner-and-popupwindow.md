@@ -3,7 +3,7 @@ layout: post
 title: ! 'Android Development: How the Spinner and PopupWindow finally clarify my
   misconception about Context'
 date: '2012-10-28T00:43:00+08:00'
-categories: software-engineering
+categories: ["Software Engineering"]
 tags:
 - android development
 - android

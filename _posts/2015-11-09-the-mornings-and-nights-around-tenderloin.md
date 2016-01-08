@@ -1,6 +1,6 @@
 ---
 title: The mornings and nights around Tenderloin
-categories: journal
+category: Journal
 ---
 Originally posted in [Medium](https://medium.com/@gilbertwat/the-mornings-and-nights-around-tenderloin-9fe512d6acd1#.p5rne7vtb)
 
@@ -16,4 +16,4 @@ The next night, I heard gunshot and siren.
 
 During my stay, I also took jog in the neighborhood in the mornings, one morning, I saw a long line of mostly men lining up in front of a church. In a closer look there, they are waiting for food. But once I jogged two blocks away, I am once again in the Promised Land. The land of opportunity.
 
-The contrast is too visible. I figure what is the tradeoff in this society that lead to this.
+The contrast is too visible. I figure what is the tradeoff in this Society that lead to this.

@@ -1,6 +1,6 @@
 ---
 title: How a single icon delights 50% of our users
-categories: design
+category: Design
 ---
 ***Originally post in [Medium](https://medium.com/@gilbertwat/how-a-single-icon-delights-50-of-our-customers-249a4f254f9#.m6jjbuqsb)***
 
@@ -29,4 +29,4 @@ Until I saw this,
 
 ![Reaction](/assets/images/2015-11-05-how-a-single-icon-delights/reaction.png)
 
-I didn’t expect changing a single icon could make users delight. In hindsight of course this was common sense, but I am still in awe how little the effort was and how high the impact is. This is a great lesson for me to think again what is impact. Also it is a great example of the importance of design thinking to make great product. Listening to users is always the key to fill in holes in your common sense.
+I didn’t expect changing a single icon could make users delight. In hindsight of course this was common sense, but I am still in awe how little the effort was and how high the impact is. This is a great lesson for me to think again what is impact. Also it is a great example of the importance of Design thinking to make great product. Listening to users is always the key to fill in holes in your common sense.

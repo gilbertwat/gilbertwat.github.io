@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where to fork a thread?
-categories: software-engineering
+categories: ["Software Engineering"]
 tags: Android Java Concurrency
 ---
 This is a repost of a post in Tumblr over a years ago. Time flies and I found the solution.
@@ -10,7 +10,7 @@ This is a repost of a post in Tumblr over a years ago. Time flies and I found th
 
 As my project starts to grow and I am trying to refactor my code into different modules to enhance code reuse. In the Android world it is a NO-NO to perform any blocking functions in the UI-thread. For example when there is a HTTP request to the server, and display the response in the UI. Everyone must put the HTTP request routine to a separate thread and notify the UI thread once it is finished. In Android case, you can always use AsyncTask / Handler / Service.
 
-The problem doesn\'t exist when the HTTP request and the Activity(UI class) is in the same package. The problem is when the HTTP request and the Activity should be refactored to a separate package. Where should the forking routine reside? Should it be in the main package? Should it be the responsibility of sub-package? Both of the solutions are technically plausible. let\'s set aside the performance issue because the performance difference will be negligible compared to the response time of the HTTP request. So the problem boils down to the system design and the development process.
+The problem doesn\'t exist when the HTTP request and the Activity(UI class) is in the same package. The problem is when the HTTP request and the Activity should be refactored to a separate package. Where should the forking routine reside? Should it be in the main package? Should it be the responsibility of sub-package? Both of the solutions are technically plausible. let\'s set aside the performance issue because the performance difference will be negligible compared to the response time of the HTTP request. So the problem boils down to the system Design and the development process.
 
 Let\'s take a look at the pros &amp; cons of two different approaches.
 
@@ -45,4 +45,4 @@ Method 3: separate UI blocking operations into a generic library. The other serv
 
 This method separate the concern of the UI blocking operation, the depending library logics, and our client facing application.
 
-Another intriguing part is that I claim that there are only a few people in Hong Kong software industry understands thread. How young and foolish I am! It is always fun to reread my journal.
+Another intriguing part is that I claim that there are only a few people in Hong Kong software industry understands thread. How young and foolish I am! It is always fun to reread my Journal.

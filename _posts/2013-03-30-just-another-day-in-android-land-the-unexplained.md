@@ -7,7 +7,7 @@ tags:
 - software development
 - software engineering
 - locale
-tumblr_url: http://gilbertinsoftware.tumblr.com/post/46608426706/just-another-day-in-android-land-the-unexplained
+categories: ["Software Engineering"]
 ---
 
 ***Personally I think this is a very bad decision. But I have not tried hard enough to convince people it is a bad idea.***

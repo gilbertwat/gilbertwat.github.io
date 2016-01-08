@@ -1,12 +1,12 @@
 ---
 layout: post
 title: My killer interview question (for junior software engineer)
-categories: peopleware
+category: Peopleware
 tags: management interview job software development
 ---
 ***This post is full of ignorance. But my main point still stand.***
 
-In the last interview, we have a failed hiring\. We have hired a person who is perfectly nice, but very inept in our designated role\. He was supposed to be a frontend web developer\. He would help us to solve most of our designer/programmer conflicts, and would be responsible to write "awesome"\(murican!!\) Javascript\. In turns out to be a misfit for both of us\.
+In the last interview, we have a failed hiring\. We have hired a person who is perfectly nice, but very inept in our Designated role\. He was supposed to be a frontend web developer\. He would help us to solve most of our Designer/programmer conflicts, and would be responsible to write "awesome"\(murican!!\) Javascript\. In turns out to be a misfit for both of us\.
 
 Of course we have asked many questions\. One of my question, in retrospect, somehow hinted our doom in our hire\.
 We are discussing his role in his previous job\. And of course it comes down to the casual question of tool set he was exposed to\. The question is about whether he will implement his own template engine, or using one of the open-source solution such as Smarty or Twig in his next project\. His answer was unsurprisingly, "no"\.

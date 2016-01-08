@@ -2,12 +2,12 @@
 layout: post
 title: Representing Statuses
 date: '2012-07-12T17:10:00+08:00'
-categories: software-engineering
+categories: ["Software Engineering"]
 tags:
-- software design
-- system design
+- software Design
+- system Design
 ---
-When I am doing system design, there are some recurring problems. One of the problem is to represent status of certain records. Take an example of a transaction table.
+When I am doing system Design, there are some recurring problems. One of the problem is to represent status of certain records. Take an example of a transaction table.
 
 Solution #1: Saving the actual name of the status as is.
 

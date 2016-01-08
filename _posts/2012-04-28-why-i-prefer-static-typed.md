@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I prefer static typed language
-categories: software-engineering
+categories: ["Software Engineering"]
 tags: programming java PHP software engineering
 ---
 Yes\. It is been a long time\.

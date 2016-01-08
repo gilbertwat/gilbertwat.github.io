@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一年之後
-categories: journal
+category: Journal
 tags: code4hk
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gotcha in CodeIgniter
-categories: software-engineering
+categories: ["Software Engineering"]
 tags: programming java PHP software engineering
 ---
 After 2 months of hustling, the development phase of my first "big" project is over\. In this 2 months, I had to spend half of my brain debugging and implementing new features in a now defunct version of a group buying site\. Another half was working on the new version of it in the same time\. The old version is simply a "tar pit" - spaghetti of PHP HTML MySQL CSS Javascript soup is taking me back to the "good old days"\. I simply cannot understand why someone in the 2012 get stuck in the 2001 web development style, I will not allow such non sense in the new version\.
