@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/gilbertwat/gilbertwat.github.io#readme",
   "dependencies": {
+    "jquery": "^2.1.4",
+    "jquery.panzoom": "^2.0.5",
     "moment": "^2.10.6",
     "typed.js": "^1.1.1",
     "underscore": "^1.8.3"

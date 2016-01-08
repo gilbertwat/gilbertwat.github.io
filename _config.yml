@@ -10,7 +10,7 @@ gems: [
 permalink:           pretty
 
 #Ignore export
-exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore"]
+exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm-debug.log"]
 
 # Setup
 title:               Gilbert Wat
