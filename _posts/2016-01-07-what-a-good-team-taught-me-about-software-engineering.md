@@ -153,6 +153,8 @@ No need to worry the dimension of a and b, even more so, you can check if your a
 
 ##Message passing solves most of the problems
 
+Both abstraction and easy to understand can be easily achieved by wrapping your mind around message passing.
+
 For example, we have two mechanisms to charge our customers. One is purchase on behalf, say you want to order some goods or services from a third party vendors of your choice. Another is our monthly invoice.
 
 As there is different security concerns between internal dashboard and external web application, we put all external communication logic in another system. Here is the resultant diagram.
