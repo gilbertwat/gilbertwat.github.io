@@ -157,9 +157,7 @@
     template  : '#search-results-template',  // selector for Mustache.js template
     emptyMsg  : 'Nothing found.'    // shown message if search returns no results
   };
-})(jQuery);
 
-$(function() {
   $.fn.selectText = function(){
     var doc = document;
     var element = this[0];
@@ -216,5 +214,5 @@ $(function() {
       $('#search').removeClass('full-screen');
     }
   });
-});
+})(jQuery);
 
