@@ -8,7 +8,7 @@ Co-founded [CODE4HK](http://www.code4.hk) to drive social changes via code. I ge
 Current focusing on:  
 
 - Attending [Machine Learning course](https://www.coursera.org/learn/machine-learning)
-- Figuring how to move [CODE4HK](http://www.code4.hk) forward
+- Figuring next steps for myself and CODE4HK
 
 *****
 
@@ -24,6 +24,8 @@ From Oct 2014 to Feb 2016
   - Applied state of the art technologies, e.g. MeteorJS and iBeacon
   - Contributed back to global MeteorJS community
 - Related Blog Posts: 
+  - [What a good team taught me about software engineering](http://getthingsdone.hk/software%20engineering/2016/01/07/what-a-good-team-taught-me-about-software-engineering/)
+  - [Bounce off Ideas](http://getthingsdone.hk/peopleware/2015/07/14/bounce-off-ideas/)
 
 ***Cofounder at [CODE4HK](http://www.code4.hk)***  
 From Jan 2014 to (Until Hong Kong become the IT hub of Asia)  
@@ -35,6 +37,7 @@ From Jan 2014 to (Until Hong Kong become the IT hub of Asia)
   - Held numerous hackathons and events, ranging from [social](https://www.facebook.com/events/750463905023074/) to [technical](https://www.facebook.com/events/1527453744151029/) issues
   - Jointly held a Javascript crash course with CityU Apps Lab
 - Related Blog Posts:
+  - [一年之後](http://getthingsdone.hk/journal/2015/05/20/one-year-after/)
 
 *****
 
@@ -56,6 +59,8 @@ From Sep 2012 to Oct 2014
     - The whole developement team switched from SVN to Git.
   - Collaborate on design of RESTful API of ZNAP platform  
 - Related Blog Posts:
+  - [The journey in MPM as a software engineer](http://getthingsdone.hk/journal/2014/09/07/mpm/)
+  - [Expandable TextView](http://getthingsdone.hk/software%20engineering/2013/08/26/just-another-day-in-android-land-expandable-textview/)
 
 ***Analyst Programmer at Easyapps***  
 From Oct 2011 to Sep 2012
@@ -67,7 +72,6 @@ From Oct 2011 to Sep 2012
   - Improved and established practices to improve efficiency in technical aspects, such as introduced Hg as version control system.
   - System design and implementation on both client and server side for different clients
   - Notable projects: doupons.tv, Pleo rb android app, Infotech android app
-- Related Blog Posts:
   
 ***Freelance Programmer at [Content Lizenz Agentur](http://www.cla-online.de/)***  
 From Feb 2011 to Jul 2011
