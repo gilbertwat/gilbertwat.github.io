@@ -1,4 +1,4 @@
-(function($) {
+! function($) {
 
   var debounce = function(fn) {
     var timeout;
@@ -214,5 +214,5 @@
       $('#search').removeClass('full-screen');
     }
   });
-})(jQuery);
+}(window.jQuery);
 

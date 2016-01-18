@@ -1,4 +1,4 @@
-$(function() {
+! function($) {
   setTimeout(function() {
     $('.hint').removeClass('hide');
   }, 2500);
@@ -16,4 +16,4 @@ $(function() {
       }
     });
   });
-});
+}($);
