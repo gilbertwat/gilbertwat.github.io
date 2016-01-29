@@ -18,3 +18,42 @@ body {
     margin-bottom: 3rem;
   }
 }
+
+@media print {
+  body {
+    font-size: 10pt;
+    line-height: 1.3;
+    color: #111;
+    background-color: #fff;
+  }
+  h1.page-title,h1.post-title,h1.post-title a,h2 {
+    font-weight : 700;
+    color: #111;
+  }
+  em,strong {
+    font-weight: 400;
+    color: #999;
+  }
+  a { 
+    color: #999;
+  }
+
+  @page {
+    margin: 3cm auto;
+  }
+
+  .hidden-print {
+    display: none;
+  }
+  .page-break {
+    page-break-before: always;
+  }
+
+  .past-positions {
+    page-break-before: always;
+  }
+  .even-more-ancient-positions {
+    page-break-before: always;
+  }
+}
+
