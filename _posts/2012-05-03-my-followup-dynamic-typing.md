@@ -1,8 +1,9 @@
 ---
 layout: post
 title: My follow-up on dynamic typing
-categories: ["Software Engineering"]
+category: "Software Engineering"
 tags: programming java PHP software engineering
+author: Gilbert Wat
 ---
 In my [previous post](/php/2012/04/28/why-i-prefer-static-typed/), I've mentioned that it is up to the implementation to define whether the function will behave properly\. Another issue that I can came out with is the readability of your code to average Gilbert\. I have once written a function, which came back to bite my team\. The function briefly return whether the user is activated or not, and return NULL when the user is not found\.
 

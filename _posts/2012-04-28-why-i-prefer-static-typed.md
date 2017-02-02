@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Why I prefer static typed language
-categories: ["Software Engineering"]
-tags: programming java PHP software engineering
+category: "Software Engineering"
+tags: programming java PHP
+author: Gilbert Wat
 ---
 Yes\. It is been a long time\.
 

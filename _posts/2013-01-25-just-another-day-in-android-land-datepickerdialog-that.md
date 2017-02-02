@@ -2,13 +2,14 @@
 layout: post
 title: ! 'Just another day in Android-land: DatePickerDialog that honor the app locale'
 date: '2013-01-25T12:15:00+08:00'
-categories: ["Software Engineering"]
+category: "Software Engineering"
 tags:
 - Android Development
 - android
 - software engineering
 - programming
 tumblr_url: http://gilbertinsoftware.tumblr.com/post/41417090073/just-another-day-in-android-land-datepickerdialog-that
+author: Gilbert Wat
 ---
 Recently our company needed to unify the whole app into one locale, we have faced obstacle in making the DatePickerDialog to use app locale instead of system locale. In case you don’t want to read my story of finding, you can directly [download it](https://gist.github.com/4631571). For the patience, here is the long story.
 

@@ -2,12 +2,13 @@
 layout: post
 title: ! 'Just Another Day in Android-land: Expandable TextView with Custom Ellipsis'
 date: '2013-08-26T14:07:00+08:00'
-categories: ["Software Engineering"]
+category: "Software Engineering"
 tags:
 - Android Development
 - Android
 - software development
 tumblr_url: http://gilbertinsoftware.tumblr.com/post/59373670269/just-another-day-in-android-land-expandable-textview
+author: Gilbert Wat
 ---
 After over 4 months of my first notorious “death march” our team can at last have life. I finally have time to write a custom component for my future use. It is a customized TextView with a few customization on the function that trim down excessive characters. Suppose the UI can only display a limited lines of characters by specifying android:maxLine attribute, The TextView can be clicked to show the whole text. Also the ellipsis (…) at the end of the text while trimmed, aka ellipsized, can be customized.
 

@@ -4,46 +4,22 @@ title: Home
 ---
 <html lang='en'>  
   <head>
-    <title>Gilbert Wat's Schloss</title>
+    <title>{{ site.title }} &middot; {{ site.tagline }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='css/search.css' rel='stylesheet'>
+    <link href='public/css/main.css' rel='stylesheet'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   </head>
-  <body>
-    <div id="search" class="full-screen">
-      <div class='search-box'>
-        <form action="/search" method="get" class="full-screen">
-          <div class='input-box'>
-            <span id="search-query" name="q" contenteditable="true">Type here to know me more.</span>
-            <i class="fa fa-search"></i>
-          </div>
-        </form>
-        <div class='hint hide'>maybe you can try <span data-keyword='blog' class='hint-keywords'>Blog</span> or <span data-keyword='javascript' class='hint-keywords'>Javascript</span>?
-        </div>  
-      </div>
+  <body class="main">
+    <div class="container">
+      <div class="cover"></div>
+    <h1>Monthly post(s) on application development, data analysis and occasionally business</h1>
+    <div class="latest-post">
+      <h2>Latest Post</h2>
+      <p>{{ site.posts.first.author }} - <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}&nbsp;&#x2192;</a></p>
     </div>
-    <section id="search-results" style="display: none;">
-      <p class='intro'>Things about me...</p>
-        <div class="entries">
-        </div>
-    </section>
-    {% raw %}
-    <script id="search-results-template" type="text/mustache">
-      {{#entries}}
-      <article>
-        <h3>
-          {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-          <a href="{{url}}">{{title}}</a>
-        </h3>
-      </article>
-      {{/entries}}
-    </script>
-    {% endraw %}
-
-    <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src='/js/search.js' type='text/javascript'></script>
-    <script src='/node_modules/typed.js/js/typed.js' type='text/javascript'></script>
-    <script src='/js/hint.js' type='text/javascript'></script>
+    {% include nav.html %}
+    {% include footer.html %}
+    </div>
     {% include scripts.html %}
   </body>
 </html>

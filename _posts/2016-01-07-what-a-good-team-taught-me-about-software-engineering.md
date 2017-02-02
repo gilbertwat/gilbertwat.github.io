@@ -1,10 +1,12 @@
 ---
 title : What a good team taught me about software engineering
-categories: ["Software Engineering"]
+category: "Software Engineering"
+tags: ["software engineering", "personal experience"]
+author: Gilbert Wat
 ---
 Last year I was very privileged to work with some of best engineers you can find in the region. Together we delivered products in the top-most software engineering quality. Here I learned a lot from my colleagues. Here is a summary of my learning in the last year.
 
-##Abstraction, abstraction, abstraction
+## Abstraction, abstraction, abstraction
 
 Software engineering is all about abstraction. The abstraction is what the whole complication about building a software. Consider there are 2 classes.
 
@@ -118,7 +120,7 @@ TaskCustomer = {
 
 Clearly this is easier to understand. The neat thing about Javascript is that the namespace is very clear and easy. Programmers like me are lazy. The way of thinking is like normalizing database schema. Whenever there is relationship between two concept, combination logic with be in a separate file.
 
-##Clarity is the sole measurement of quality
+## Clarity is the sole measurement of quality
 
 Software code is written for people to read. There is no difference between writing an article and writing a piece of code. Consider this,
 
@@ -151,7 +153,7 @@ c = a * b;
 
 No need to worry the dimension of a and b, even more so, you can check if your algorithm is correct by those dimension check.
 
-##Message passing solves most of the problems
+## Message passing solves most of the problems
 
 Both abstraction and easy to understand can be easily achieved by wrapping your mind around message passing.
 
@@ -163,6 +165,6 @@ As there is different security concerns between internal dashboard and external 
 
 This approach force us to think in smaller chunks of responsibilities for each class/system. For both flexibility and maintainability point of view, this approach provides great plus. The variant of such thinking, such as publish-subscription, job queue etc. is a great tool in the arsenal of every software engineer.
 
-##TDD… is counter-intuitive at best
+## TDD… is counter-intuitive at best
 
 For the record, I have tried to follow TDD twice in my job. I think the problem of TDD is that the incentive is not aligned. What is my incentive to write a piece of code: to create a product that many people want. Does TDD help me to archieve what I am coding for? Yes. But you have to jump through many hoops, and the green red thing is actually getting into my way of creating solutions. I am well aware of the benefit, but until I do something mission critical. TDD will just be another tools in my belt.

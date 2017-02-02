@@ -1,3 +1,4 @@
+.idea/*
 _site/*
 _theme_packages/*
 
@@ -8,6 +9,7 @@ Thumbs.db
 
 !.gitkeep
 
+Gemfile.lock
 .rbenv-version
 .rvmrc
 .jekyll-metadata

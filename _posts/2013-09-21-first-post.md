@@ -2,8 +2,9 @@
 layout: post
 title: My First Post in Get Things Done
 weather: rainy
-category: Journal
+category: "Announcement"
 tags: nothing
+author: Gilbert Wat
 ---
 This is my first post in this new found freedom. Jekyll and ability to self-host!
 

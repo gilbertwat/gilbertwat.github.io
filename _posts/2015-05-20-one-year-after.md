@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 一年之後
-category: Journal
+category: "Yearly Review"
 tags: code4hk
+author: Gilbert Wat
 ---
 
 二十一世紀第十四年，香港人經歷了一個壯闊波瀾的雨傘革命，為掌握自己的命運踏出了第一步，相信很多人已經choose the red pill，回不了去。CODE4HK 和大家一起，經歷了很多高高低低。

@@ -1,7 +1,6 @@
 # Plugin
 gems: [
-  jekyll-paginate, 
-  jekyll-lunr-js-search
+  jekyll-paginate
 ]
 
 # Permalinks
@@ -13,9 +12,8 @@ permalink:           pretty
 exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm-debug.log"]
 
 # Setup
-title:               Gilbert Wat
-tagline:             his learning in software development and product building
-description:         "learn more about Gilbert Wat"
+title:               "Get Things Done"
+tagline:             "Newsletter on application development, data analytics and ocassionally business, delivered monthly"
 url:                 http://www.getthingsdone.hk
 baseurl:             ""
 paginate:            5
@@ -32,12 +30,8 @@ author:
 github:
   repo:             https://github.com/gilbertwat/gilbertwat.github.io   
 
-#Lunr
-lunr_search:
-  excludes: [rss.xml, atom.xml, sitemap.txt, 404.html]
-
 # Custom vars
-version:             4.0.0
+version:             5.0.0
 
 # Defaults
 defaults:
