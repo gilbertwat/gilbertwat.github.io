@@ -5,7 +5,7 @@ author: Gilbert Wat
 category: "Announcement"
 tags: ["pivot", "fail fast"]
 ---
-Starting from February, Get Things Done will be a platform for product developers and data analysts to write about their learnings on those topics. Topics may include "how to better develop an X product in Y language" or "How to start competing in Kaggle?". To start out, I will post a long article monthly on a topic of choice. 
+Starting from February, Get Things Done will become a platform for product developers and data analysts to write about their learnings on those topics. Topics may include "how to better develop an X product in Y language" or "How to start competing in Kaggle?". To start out, I will post a long article monthly on a topic of choice. 
 
 Why I am doing this? 2016 I tried out in the open water, putting myself into a new environment(San Francisco and sort of my own company) and get lost. My whole career has aimed to be able to work in the Bay Area / Silicon Valley. After the experience, I was kind of lost motivation and wondering what is my next move should be. I then started a new venture with one of my best friend and one of his best friends. The topic is wine. It has been quite an experience. 
 

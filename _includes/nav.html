@@ -1,5 +1,6 @@
 <nav>
   <a class="nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+  <a class="nav-item{% if page.url == site.baseurl + '/subscribe/' %} active{% endif %}" href="{{ site.baseurl }}/subscribe/">Subscribe</a>
   {% assign pagesList = site.pages | sort:"url" %}
     {% for node in pagesList %}
       {% if node.title != null %}

@@ -60,7 +60,8 @@ body {
 
   img {
     object-fit:cover;
-    max-width: calc(100% - 2rem);
+    max-width: 100%;
+    margin:1rem auto;
     @media (min-width: 641px) {
       max-width:320px;
       margin:3rem;
@@ -78,9 +79,15 @@ body {
     .mc-field-group {
       margin-top:1rem;
     }
-    button {
+    #mc-embedded-subscribe-form div.mce_inline_error.mce_inline_error {
+      background: transparent;
+    }
+    #mc-embedded-subscribe {
       font-size: 20px;
       background: $highlight-color;
+      line-height: 24px;
+      padding:0.5rem 1rem;
+      height: 24px + 20px *0.5 * 2;
     }
   }
 
@@ -108,9 +115,20 @@ body {
       margin: 4rem 0;
     }
   }
+  .default {
+    nav {
+      margin-top:1.44rem;
+    }
+  }
   input {
     font-family: "Baskerville", "Libre Baskerville", serif;
     font-size: 20px;
+  }
+
+  .post {
+    .post-date-author {
+      margin-top: 1rem;
+    }
   }
 }
 

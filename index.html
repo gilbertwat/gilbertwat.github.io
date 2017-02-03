@@ -1,26 +1,11 @@
 ---
-layout: null
+layout: main
 title: Home
 ---
-<html lang='en'>  
-  <head>
-    <title>{{ site.title }} &middot; {{ site.tagline }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='public/css/main.css' rel='stylesheet'>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-  </head>
-  <body class="main">
-    <div class="container">
-      <div class="cover"></div>
-    <h1>Monthly post(s) on application development, data analysis and occasionally business</h1>
-    <div class="latest-post">
-      <h2>Latest Post</h2>
-      <p>{{ site.posts.first.author }} - <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}&nbsp;&#x2192;</a></p>
-    </div>
-    {% include nav.html %}
-    {% include footer.html %}
-    </div>
-    {% include scripts.html %}
-  </body>
-</html>
+<div class="cover"></div>
+<h1>Monthly post(s) on application development, data analysis and occasionally business</h1>
+<div class="latest-post">
+  <h2>Latest Post</h2>
+  <p>{{ site.posts.first.author }} - <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}&nbsp;&#x2192;</a></p>
+</div>
 
