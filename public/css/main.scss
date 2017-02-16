@@ -130,6 +130,10 @@ body {
       margin-top: 1rem;
     }
   }
+  ul,ol {
+    -webkit-padding-start: 1em;
+    -moz-padding-start: 1em;
+  }
 }
 
 @media print {
@@ -138,8 +142,6 @@ body {
     line-height: 1.3;
     color: #111;
     background-color: #fff;
-    margin-left: 2cm;
-    margin-right: 2cm;
   }
   h1.page-title,h1.post-title,h1.post-title a,h2 {
     font-weight : 700;
@@ -152,9 +154,14 @@ body {
   a { 
     color: #999;
   }
+  ul,ol {
+    -webkit-padding-start: 1.5cm;
+    -moz-padding-start: 1.5cm;
+    margin-left: 0.1cm;
+  }
 
   @page {
-    margin: 3cm auto;
+    margin: 1.5cm auto;
   }
 
   .hidden-print {
