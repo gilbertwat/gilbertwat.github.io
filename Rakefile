@@ -25,6 +25,7 @@ namespace :blog do
     # This will be torn down once the task is complete.
     Dir.mktmpdir do |tmp|
     # Copy accross our compiled _site directory.
+    cp_r ".nojekyll", tmp
     cp_r "_site/.", tmp
 
     # Switch in to the tmp dir.
