@@ -13,9 +13,8 @@ exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm
 
 # Setup
 title:               "Get Things Done"
-tagline:             "Newsletter on application development, data analytics and ocassionally business, delivered monthly"
+tagline:             "Weekly article on software development, artificial intelligence and occasionally business"
 url:                 http://www.getthingsdone.hk
-baseurl:             ""
 paginate:            5
 paginate_path: "page:num"
 host: 0.0.0.0

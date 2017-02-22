@@ -20,4 +20,10 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- OG -->
+  <meta property='og:title' content="{{ page.title }}"/>
+  <meta property='og:image' content="{{ site.url }}{{ page.image }}"/>
+  <meta property='og:description' content="{{ page.content | strip_html | truncatewords: 100 }}"/>
+  <meta property='og:url' content="{{ site.url }}{{ page.url }}" />
 </head>
