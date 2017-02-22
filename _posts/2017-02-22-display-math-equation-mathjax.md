@@ -6,6 +6,8 @@ category: "Small Tools"
 tags: ["Javascript", "tools"]
 ---
 
+<img class="center" src="/assets/images/2017-02-22-mathjax/example.gif"/>
+
 Recently I need to joint notes during my machine learning beginner course offered by [Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome). I would like to share them in the following few weeks. So I shopped for some solutions for me to put a lot of mathematical equations, formatted beautifully, in here. I spent 5 minutes on searching, realizing the solution is right in front of me. I am taking the course from Coursera, and Coursera used MathJax as their solution. This solved my problem brilliantly as it is very comprehensive in displaying mathematical equations.
 
 What is so brilliant of MathJax? MathJax is able to display LATEX in HTML page, here is an example:
