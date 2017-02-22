@@ -143,6 +143,18 @@ body {
   pre {
     font-size: 0.69rem;
   }
+  .job {
+    margin-top:1rem;
+    .job-header {
+      span.title {
+        font-size: 1.44rem;
+      }
+      margin-bottom: 0;
+    }
+    ul.outmost {
+      margin-top:0.5rem;
+    }
+  }
 }
 
 @media print {
