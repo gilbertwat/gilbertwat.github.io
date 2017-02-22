@@ -24,6 +24,6 @@
   <!-- OG -->
   <meta property='og:title' content="{{ page.title }}"/>
   <meta property='og:image' content="{{ site.url }}{{ page.image }}"/>
-  <meta property='og:description' content="{{ page.content | strip_html | truncatewords: 100 }}"/>
+  <meta property='og:description' content="{{ page.content | strip_html | truncate : 250 }}"/>
   <meta property='og:url' content="{{ site.url }}{{ page.url }}" />
 </head>
