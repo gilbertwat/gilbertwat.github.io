@@ -133,6 +133,12 @@ body {
   ul,ol {
     -webkit-padding-start: 1em;
     -moz-padding-start: 1em;
+    li {
+      margin-top:0.44rem;
+      ul li {
+        margin-top:0rem;
+      }
+    }
   }
   pre {
     font-size: 0.69rem;
