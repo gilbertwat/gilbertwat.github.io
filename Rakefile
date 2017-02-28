@@ -15,7 +15,8 @@ namespace :blog do
     Jekyll::Site.new(Jekyll.configuration({
       "source"      => ".",
       "destination" => "_site",
-      "config" => "_config.yml"
+      "config" => "_config.yml",
+      "future" => "true"
     })).process
 
     # Get the origin to which we are going to push the site.
