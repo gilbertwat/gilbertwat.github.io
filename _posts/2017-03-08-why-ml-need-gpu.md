@@ -13,7 +13,7 @@ Let’s take the easiest machine learning algorithm as an example. The algorithm
 The algorithm can be split into two parts: the cost function “J(&theta;)” and its derivative J`(&theta;).
 
 <img class="center" src="/assets/images/2017-03-08-why-ml-need-gpu/cost-fx.gif"/>
-<img class="center" src="/assets/images/2017-03-08-why-ml-need-gpu/delta-cost-fx.gif"/>
+<img class="center" src="/assets/images/2017-03-08-why-ml-need-gpu/d-cost-fx.gif"/>
 <img class="center" src="/assets/images/2017-03-08-why-ml-need-gpu/d-cost-fx-j0.gif"/>
 <img class="center" src="/assets/images/2017-03-08-why-ml-need-gpu/d-cost-fx-j1.gif"/>
 
