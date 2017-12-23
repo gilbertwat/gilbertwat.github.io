@@ -13,9 +13,9 @@ exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm
 
 # Setup
 title:               "Get Things Done"
-tagline:             "Weekly article on software development, artificial intelligence and occasionally business"
+tagline:             "Monthly article on software development, artificial intelligence and occasionally business"
 url:                 http://www.getthingsdone.hk
-paginate:            5
+paginate:            10
 paginate_path: "page:num"
 host: 0.0.0.0
 
@@ -30,7 +30,7 @@ github:
   repo:             https://github.com/gilbertwat/gilbertwat.github.io   
 
 # Custom vars
-version:             5.0.0
+version:             6.0.0
 
 # Defaults
 defaults:
