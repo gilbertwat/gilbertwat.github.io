@@ -1,5 +1,5 @@
 # Plugin
-gems: [
+plugins: [
   jekyll-paginate
 ]
 
@@ -10,6 +10,8 @@ permalink:           pretty
 
 #Ignore export
 exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm-debug.log"]
+
+include: ['node_modules/jquery/dist/jquery.js']
 
 # Setup
 title:               "Get Things Done"

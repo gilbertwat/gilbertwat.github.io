@@ -25,26 +25,31 @@ namespace :blog do
     # Make a temporary directory for the build before production release.
     # This will be torn down once the task is complete.
     Dir.mktmpdir do |tmp|
-    # Copy accross our compiled _site directory.
-    cp_r ".nojekyll", tmp
-    cp_r "_site/.", tmp
+      # Copy accross our compiled _site directory.
+      cp_r ".nojekyll", tmp
+      cp_r "_site/.", tmp
 
-    # Switch in to the tmp dir.
-    Dir.chdir tmp
+      cp_r 'node_modules/jquery/dist/jquery.js', tmp
+      cp_r 'node_modules/jquery.panzoom/dist/jquery.panzoom.js', tmp
+      cp_r 'node_modules/jquery/dist/jquery.js', tmp
+      cp_r 'node_modules/mathjax/unpacked/MathJax.js', tmp
 
-    # Prepare all the content in the repo for deployment.
-    system "echo 'init repo'"
-    ENV.delete('GIT_WORK_TREE')
-    system "git init" # Init the repo.
-    system "echo 'Add and commit'"
-    system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
+      # Switch in to the tmp dir.
+      Dir.chdir tmp
 
-    # Add the origin remote for the parent repo to the tmp folder.
-    system "echo 'Add origin #{origin}'"
-    system "git remote add origin #{origin}"
+      # Prepare all the content in the repo for deployment.
+      system "echo 'init repo'"
+      ENV.delete('GIT_WORK_TREE')
+      system "git init" # Init the repo.
+      system "echo 'Add and commit'"
+      system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
 
-    # Push the files to the master branch, forcing an overwrite.
-    system "git push origin master:refs/heads/master --force"
+      # Add the origin remote for the parent repo to the tmp folder.
+      system "echo 'Add origin #{origin}'"
+      system "git remote add origin #{origin}"
+
+      # Push the files to the master branch, forcing an overwrite.
+      system "git push origin master:refs/heads/master --force"
     end
 
   # Done.
