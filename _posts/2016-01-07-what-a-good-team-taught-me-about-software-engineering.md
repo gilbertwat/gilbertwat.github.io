@@ -1,8 +1,5 @@
 ---
 title : What a good team taught me about software engineering
-category: "Software Engineering"
-tags: ["software engineering", "personal experience"]
-author: Gilbert Wat
 ---
 Last year I was very privileged to work with some of best engineers you can find in the region. Together we delivered products in the top-most software engineering quality. Here I learned a lot from my colleagues. Here is a summary of my learning in the last year.
 

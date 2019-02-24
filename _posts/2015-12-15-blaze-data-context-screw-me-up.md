@@ -1,9 +1,5 @@
 ---
-layout: post
 title: The time Meteor Blaze data context screw me up
-category: "Software Engineering"
-tags: Javascript MeteorJS
-author: Gilbert Wat
 ---
 ***Originally posted in [Medium](https://medium.com/@gilbertwat/the-time-meteor-blaze-data-context-screw-me-up-6eb84abb6f6#.p6dm57cjw)***
 

@@ -1,10 +1,5 @@
 ---
-layout: post
 title: Why Machine learning tools need GPU to shine — a deeper look from software perspective
-author: Gilbert Wat
-category: "Software Engineering"
-image: "/assets/images/2017-03-08-why-ml-need-gpu/cost-fx.gif"
-tags: ["GPU", "Machine Learning"] 
 ---
  In our previous article, we have discovered GPU programming in the most unexpected place - an API of a SaaS product. It is the JQL of Mixpanel. And in this article we will explore further about the relationship of GPU programming and machine learning or deep learning. They are the most trendy terms in the tech world nowadays. So what is the connection between machine learning / deep learning tools and GPU programming? I guess every software developers will immediately scream “parallelization” and call it a day. But why is that so? Why is parallelization has anything to do with machine learning and GPU programming?
 

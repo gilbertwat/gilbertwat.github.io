@@ -1,14 +1,5 @@
 ---
-layout: post
 title: ! 'Just Another Day in Android-land: The unexplained Locale'
-date: '2013-03-30T02:08:00+08:00'
-tags:
-- android
-- software development
-- software engineering
-- locale
-category: "Software Engineering"
-author: Gilbert Wat
 ---
 
 ***Personally I think this is a very bad decision. But I have not tried hard enough to convince people it is a bad idea.***

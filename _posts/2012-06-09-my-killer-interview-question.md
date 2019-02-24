@@ -1,9 +1,5 @@
 ---
-layout: post
 title: My killer interview question (for junior software engineer)
-category: Peopleware
-tags: management interview job software development
-author: Gilbert Wat
 ---
 ***This post is full of ignorance. But my main point still stand.***
 

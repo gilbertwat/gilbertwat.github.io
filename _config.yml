@@ -1,17 +1,11 @@
 # Plugin
-plugins: [
-  jekyll-paginate
-]
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-
-#Ignore export
-exclude: ["Gemfile", "Gemfile.lock", "Guardfile", "Rakefile", ".gitignore", "npm-debug.log"]
-
-include: ['node_modules/jquery/dist/jquery.js']
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-avatar
 
 # Setup
 title:               "Get Things Done"
@@ -21,9 +15,11 @@ paginate:            10
 paginate_path: "page:num"
 host: 0.0.0.0
 
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+
 # About/contact
 author:
-  name:              Wat Chun Pang Gilbert
+  name:              Gilbert Wat (屈振鵬)
   url:               http://www.getthingsdone.hk
   email:             g@getthingsdone.hk 
 
@@ -32,19 +28,4 @@ github:
   repo:             https://github.com/gilbertwat/gilbertwat.github.io   
 
 # Custom vars
-version:             6.0.0
-
-# Defaults
-defaults:
- - 
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: "post"
-    comments: true
-
-# Related posts
-# For some unknown reason the lsi is not available in guard mode...
-# lsi : true
-
+version:             8.0.0

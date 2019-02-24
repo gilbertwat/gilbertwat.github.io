@@ -1,10 +1,5 @@
 ---
-layout: post
 title: How can you display mathematical equation in HTML? MathJax can help.
-author: Gilbert Wat
-category: "Small Tools"
-image: "/assets/images/2017-02-22-mathjax/example.gif"
-tags: ["Javascript", "tools"]
 ---
 
 <img class="center" src="/assets/images/2017-02-22-mathjax/example.gif"/>

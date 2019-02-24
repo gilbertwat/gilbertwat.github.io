@@ -1,13 +1,5 @@
 ---
-layout: post
 title: Android Back Stack Best Practice (without action bar)
-date: '2012-11-11T17:31:01+08:00'
-category: "Software Engineering"
-tags:
-- android
-- development
-- Activity management
-author: Gilbert Wat
 ---
 One of the recurring problem of developing Android application is the notorious back stack. In our application, we firstly following the o’almighty advice of Google and following the advice religiously.
 

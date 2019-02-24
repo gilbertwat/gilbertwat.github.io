@@ -1,7 +1,5 @@
 ---
 title: Bounce off Ideas
-category: "Peopleware"
-author: Gilbert Wat
 ---
 Originally posted in [Medium](https://medium.com/@gilbertwat/bounce-off-ideas-244bfa1bbad1#.yftgx5pq6)
 

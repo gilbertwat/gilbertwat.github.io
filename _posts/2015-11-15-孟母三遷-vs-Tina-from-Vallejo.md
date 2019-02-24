@@ -1,9 +1,5 @@
 ---
-layout: post
 title: 孟母三遷 vs Tina from Vallejo
-category: "Society"
-tags: Hong-Kong CODE4HK
-author: Gilbert Wat
 ---
 ***係[Medium](https://medium.com/@gilbertwat/%E5%AD%9F%E6%AF%8D%E4%B8%89%E9%81%B7-vs-tina-from-vallejo-e07d48edfe9#.eaaxm1lue) 都有刋登***
 
