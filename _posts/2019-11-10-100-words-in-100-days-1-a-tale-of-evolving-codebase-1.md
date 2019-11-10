@@ -4,7 +4,7 @@ title: 100 Words in 100 Days(1/100)&#58; A Tale of An Evolving API (1)
 
 This is my second attempt to revive a habit to write technical article. Everyday. Let's see how it goes. 
 
-This is a story about a happy story about scaling the codebase of an essential API to the business. Hope you enjoy.
+This is about a happy story about scaling a business-crucial API. Hope you enjoy.
 
 The story started when a startup was creating a marketplace for people who need a van in Hong Kong to be able to place a request of service to the system. The registered drivers of the system then can pick it up via another API. The CTO, let's call her Lucy, picked up her most familiar tools, Ruby on Rails and started cranking out the API to place a request of service in the system.
 
