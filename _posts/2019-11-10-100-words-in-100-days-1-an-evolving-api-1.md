@@ -1,5 +1,7 @@
 ---
-title: 100 Words in 100 Days(1/100)&#58; A Tale of An Evolving API (1)
+title: 100 Words in 100 Days(1/100)&#58; An Evolving API (1)
+redirect_from:
+  - 2019/11/10/100-words-in-100-days-1-a-tale-of-evolving-codebase-1.html
 ---
 
 This is my second attempt to revive a habit to write technical article. Everyday. Let's see how it goes. 
