@@ -145,6 +145,11 @@ pre, pre code, p code, p pre code { font-family: $code-font;  // removed .code '
         font-size: 1.2rem;                   // also added p code, p pre code and pre selector to account for Markdown parsing
         line-height: 1.71428571;        // of triple backticks plus rationalized line-heights and margins
         margin-top: 1.71428571rem; }
+code.highlighter-rouge {
+        background:rgba(0, 0, 0, 0.05);
+        padding:1px;
+        border-radius: 3px;
+}
 
 
 h1 code, h2 code, h3 code { font-size: 0.80em; } //left in for no real reason
@@ -599,11 +604,11 @@ hr.slender {
 
 #disqus_thread {
   margin-top:2em;
-	width: 90%;
+	width: 55%;
 }
 
 pre.highlight {
-  width: 90%;
+  width: 55%;
   background-color: rgba(0,0,0,0.05);
   padding: 2%;
 }
