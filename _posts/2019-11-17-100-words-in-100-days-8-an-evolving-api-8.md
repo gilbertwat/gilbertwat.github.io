@@ -2,12 +2,12 @@
 title: 100 Words in 100 Days 8/100&#58; An evolving API (8)
 ---
 
-In [last article](2019/11/18/100-words-in-100-days-7-an-evolving-api-7.html), the team has run into some unclear code with mutating object. This makes debugging very hard. Bob suggest the team picked is to enforce 2 new coding standard.
+In [last article](/2019/11/16/100-words-in-100-days-7-an-evolving-api-7.html), the team has run into some unclear code with mutating object. This makes debugging very hard. Bob suggest the team to enforce 2 new coding standard.
 
-1. Separating mutating function and non mutating functions with different naming convention
-    1. non mutating function: `function_name(a: , b:)`
-    1. mutating function: `function_name!(a:, b:)`
-2. Only use mutating function in the model layer.
+1. Separating mutating functions from non mutating functions with different naming convention
+    1. non mutating functions: `function_name(a: , b:)`
+    1. mutating functions: `function_name!(a:, b:)`
+2. Only use mutating functions in the model layer.
 
 Bob also take the initiative to clarify with Stephanie on the real business case and retain the `default_price` logic.
 
@@ -59,4 +59,6 @@ def ServiceRequest < ActiveRecord
 end
 ```
 
-Under the new coding standard, we are able to understand our business easily. In the next article, we are going to introduce coupon to the client and how it complicates this API. 
+Under the new coding standard, we were able to understand our business easily.
+
+In the next article, we are going to introduce coupon to the client and how it has complicated this API.
