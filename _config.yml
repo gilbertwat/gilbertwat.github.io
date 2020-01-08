@@ -1,31 +1,101 @@
-# Plugin
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: getthingsdone.hk
+
+# Name of the author
+author: Gilbert Wat (屈振鵬)
+
+# Short bio or description (displayed in the header)
+description: My stories to make things people want
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: //en.gravatar.com/userimage/127977763/f71b62dae0eaded897d290d8163ddd04.jpg?size=200
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: g@getthingsdone.hk
+  facebook:
+  flickr:
+  github: gilbertwat
+  instagram:
+  linkedin: gilbertwat
+  pinterest:
+  rss: rss
+  twitter: gilbertwat
+  stackoverflow: 
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  playconsole:
+
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: gilbertwat
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-44306800-1
+
+# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
+# Used for Sitemap.xml and your RSS feed
+url: https://www.getthingsdone.hk
+enforce_ssl: https://www.getthingsdone.hk
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+# permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
+  - jekyll-paginate
   - jemoji
   - jekyll-redirect-from
   - jekyll-avatar
 
-# Setup
-title:               "Get Things Done"
-tagline:             "Monthly article on software development, artificial intelligence and occasionally business"
-url:                 http://www.getthingsdone.hk
-paginate:            10
-paginate_path: "page:num"
-host: 0.0.0.0
+include: ['_pages']
 
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+paginate: 10
+paginate_path: /page:num/
 
-# About/contact
-author:
-  name:              Gilbert Wat (屈振鵬)
-  url:               http://www.getthingsdone.hk
-  email:             g@getthingsdone.hk 
-
-#Github
-github:
-  repo:             https://github.com/gilbertwat/gilbertwat.github.io   
-
-# Custom vars
-version:             8.0.0
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
