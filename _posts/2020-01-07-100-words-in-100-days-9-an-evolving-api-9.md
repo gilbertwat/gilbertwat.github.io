@@ -1,5 +1,5 @@
 ---
-title: 100 Words in 100 Days 8/100&#58; An evolving API (8)
+title: 100 Words in 100 Days 9/100&#58; An evolving API (9)
 ---
 
 In [last article](/2019/11/17/100-words-in-100-days-8-an-evolving-api-8.html), the team has put in new coding standard to make our code easier to understand and modify. In the next few weeks, they started to realize they can boost their number of service requests by giving out discount code. And after a few iterations of the discount code, the logic of the discount code module became complex, just like this.
