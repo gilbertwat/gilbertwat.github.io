@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+encoding: utf-8
+
 # Name of your site (displayed in the header)
 name: getthingsdone.hk
 
