@@ -17,4 +17,4 @@ If you need a full-stack and experienced engineer who is also kind, patience and
 
 Outside work, I am a father, husband, son and brother. I am deeply into cycling and writing in my free time. But as a self-diagnosed ADHD "patient", I am dabbling into a wide range of skills and knowledge, from playing guitar to handless whistling.
 
-P.S.: For recruiter friends, my Resumé is [here](https://docs.google.com/document/d/1xhTVir1HQEr45H-PrzaBKdg5FU6EVD2rPX3wzGnp6sg/edit?usp=sharing).
+P.S.: For my recruiter friends, my Resumé is [here](https://docs.google.com/document/d/1xhTVir1HQEr45H-PrzaBKdg5FU6EVD2rPX3wzGnp6sg/edit?usp=sharing).
