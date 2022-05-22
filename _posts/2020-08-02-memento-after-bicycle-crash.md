@@ -1,5 +1,5 @@
 ---
-title: Memento&#58; After My Bicycle Crash
+title: Memento Mori&#58; After My Bicycle Crash
 tags: ["life"]
 ---
 
