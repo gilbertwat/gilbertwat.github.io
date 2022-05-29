@@ -15,7 +15,7 @@ Of course first thing first I check if it is a scam or not. It seems not be the 
 
 I immediately check if the hackers has posted something on my behalf. After all, all I care is my reputation. Luckily there is none. What a relief. :relieved:
 
-Of course the next move I take is to reset my password. Twice. I admit it was irrational but it made me feel ... cleaner. This password cracker have violated me. 
+Of course the next move I take is to reset my password. Twice. I admit it was irrational but it made me feel ... cleaner. This password cracker have violated me.
 
 After this irrational move, it may have tended my own emotion. And my rational self came back. I was very concerned about the __blast radius__. How many of my personal information has been exposed? How many accounts are linked to this Instagram account and I need to take care of? Can people use those information to do harm? I went through a thorough exercise, and I concluded my personal photos, phone numbers, 2 email addresses and Facebook accounts has been compromised. Luckily I have published those information somewhere and there was nothing I was too concerned about.
 
@@ -25,5 +25,5 @@ It is very lucky that I always practice a good security hygience to prevent an a
 2. Everything I uploaded to facebook is considered public. This company cannot be trusted.
 3. Use a long password. For example, `%4FHcdh` is less secured than `this-is-a-good-pwd` or `hack-shanghai-xijingping-winnie`. Just checkout your password strength in [this tool](https://www.my1login.com/resources/password-strength-test/)
 
-Hope you won't have to go through what I had this morning! 
+Hope you won't have to go through what I had this morning!
 

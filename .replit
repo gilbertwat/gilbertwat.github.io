@@ -1,2 +1,1 @@
-language = "ruby"
-run = "jekyll serve"
+run = "nix-shell -p bundler --run 'bundle exec jekyll serve'"
