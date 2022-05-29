@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,10 +20,10 @@ title                    : "Cha Chaan Teng"
 title_separator          : "-"
 subtitle                 : "Let's grab a cup of milk tea and talk tech"# site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "The journey of making things people want"
+description              : "The journey of making things people want for Gilbert Wat."
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gilbertwat/v9blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Gilbert Wat"
   avatar           : "/assets/images/profile-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Everyday, I build software and write to make my surrounding better."
+  bio              : "Everyday, I build software and write to make people around me healthier, wiser and more hopeful."
   location         : "+0800 UTC"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
