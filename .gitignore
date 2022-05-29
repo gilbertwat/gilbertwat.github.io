@@ -1,16 +1,16 @@
-.idea/*
-_site/*
-_theme_packages/*
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
 
-node_modules/
+# bundler cache
+_site
+vendor
 
-Thumbs.db
-.DS_Store
+# rubygem
+*.gem
 
-!.gitkeep
-
-Gemfile.lock
-.rbenv-version
-.rvmrc
-.jekyll-metadata
-.sass-cache
+# npm dependencies
+node_modules
