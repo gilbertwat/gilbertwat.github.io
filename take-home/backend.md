@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Take Home Test - Senior Software Engineer (Backend)
 ---
 

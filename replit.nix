@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
-        pkgs.bundler
+      pkgs.ruby
+      pkgs.bundler
     ];
 }
