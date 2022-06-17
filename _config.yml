@@ -12,15 +12,15 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Cha Chaan Teng"
+locale                   : "en-HK"
+title                    : "Gilbert Wat's Cha Chaan Teng"
 title_separator          : "-"
-subtitle                 : "Let's grab a cup of milk tea and talk tech"# site tagline that appears below site title in masthead
+subtitle                 : "Let's grab a cup of milk tea and talk tech" # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "The journey of making things people want for Gilbert Wat."
+description              : "A journal of making things people want"
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
