@@ -1,3 +1,7 @@
+---
+title: Positively Negative
+tags: ["mindset", "teamwork"]
+---
 Do you find you simply cannot get things done with some of your colleagues? They may always drift away from the main topic in the meetings, or find faults in the solutions, or have a too simplistic view of projects. Sometimes it may even be someone whom you manage or whom you report to.
 
 I understand your frustration. But it doesn't has to be like that. You don't need to meet emotion with emotion. I hope you after reading this, you can focus on make progress, such as growth of a certain key metric. You can meet emotion with calmness. You can avoid my mistake. In one of my workplace, there was a colleague that is very critical to every initiatives from other departments to improve the collective productivity, including mine. We have been suggesting a lot of possible improvements, but because he is so insisted to his own way of working it is hard for us to collaborate. I gradually grew emotional whenever I have to deal with him. Although I consider my emotion comes from I care deeply about the growth of the company, this is when leadership see me as immature and unable to work with colleagues. 
