@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-HK"
-title                    : "Gilbert Wat's Cha Chaan Teng"
-title_separator          : "-"
-subtitle                 : "Let's grab a cup of milk tea and talk tech" # site tagline that appears below site title in masthead
+title                    : "Blog of Gilbert Wat"
+title_separator          : "|"
+subtitle                 : "share thoughts on technology and experience in building successful products." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "A journal of making things people want"
+description              : "Blog of Gilbert Wat. Talks about technology, software development and some more."
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "custom" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -105,16 +105,17 @@ analytics:
 # Site Author
 author:
   name             : "Gilbert Wat"
-  avatar           : "/assets/images/profile-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Everyday, I build software and write to make people around me healthier, wiser and more hopeful."
-  location         : "+0800 UTC"
+  avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a tech lead with multiple successes in building good software and new revenue streams. Now I am building an A.I. powered learning experience at Preface."
+  location         : "Hong Kong"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:g@chachaanteng.co"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+18575243173"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -183,6 +184,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - .idea
 keep_files:
   - .git
   - .svn
