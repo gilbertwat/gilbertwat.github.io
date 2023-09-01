@@ -12,6 +12,7 @@ My highlights throughout my career so far are:
 - In [Preface](https://www.preface.ai), I introduced [ChatGPT](https://chat.openai.com) within 24 hour of release. This allow Preface to lead the market in education tech space in Hong Kong.
 - In [GOGOX](https://www.gogox.com), I build a stable and scalable Platform and Mobile App, with 99.9% SLA in 6 regions. This achievement can be found in the [application proof of GOGOX IPO](https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0624/sehk22042400132.pdf).
 - In [AndyOS](https://www.andyroid.net), bootstrapped one of the ad products and 4X of revenue in 5 months.
+- Found [Code4HK](https://code4.hk), a community of 2000+ developers in Hong Kong to improve Hong Kong with tech.
 - Contributed as core team in building a Alipay rival in [MPayme](https://www.crunchbase.com/organization/mpayme).
 - Built an Android App and Mobile Web App in Berlin during my working holiday in Germany.
 
