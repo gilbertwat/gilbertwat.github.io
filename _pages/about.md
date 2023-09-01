@@ -1,11 +1,11 @@
 ---
 layout: single
-title: About
+title: About Gilbert Wat
 permalink: /about/
 ---
-## About me
+## About Gilbert Wat
 
-I am a tech lead with multiple success cases in shipping software that achieved business results. My extensive hands-on experience in integrating latest technology into your services, compounded with a drive to make your products and services desirable, I can provide business results to your technology investment.
+I am a tech lead consistently shipping software that achieved business results. My extensive hands-on experience in integrating latest technology into your services, compounded with a drive to make your products and services desirable, I can provide business results to your technology investment.
 
 My highlights throughout my career so far are:
 
