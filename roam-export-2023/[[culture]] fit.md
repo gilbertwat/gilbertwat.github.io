@@ -1,0 +1,6 @@
+- My culture will be
+    - Humble
+    - Playful
+    - Open
+    - Cadence
+    - Spark of intuition

@@ -1,0 +1,67 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Discussion with [[Vincent Chan]] [[Young]] 
+- Discussion with [[Jackson Chung]] [[Ivo Wu]] [[Keith Chan]]
+- [[GOGOEnergy]] [[JIRA]] [[Slack]] sharing
+    - I want to understanding current workflow
+        - Day in: Whatsapp or In person talk about the day / week work
+        - Day out: sync up week work
+        - It is all fine.
+    - Why change?
+        - New engineers with collaboration
+        - Share more context
+        - If we hire contractor, easier to be on the same page
+    - Ideal
+        - Minimial additional admin cost
+        - More clear project view
+        - A way for performance review and capacity improvement
+    - Introduction of JIRA
+        - Discussion
+            - Notion / Google Doc / Slack / Whatsapp / JIRA
+        - Simple task only
+            - Ready TODO
+            - In Progress
+            - Done
+        - Daily operation
+            - Go to the board
+            - Have a sync up
+            - Done!
+        - Ongoing discussion
+            - On JIRA (App if you want)
+            - On Slack (Link to JIRA)
+    - Reiterate
+        - Why change?
+            - New engineers with collaboration
+            - Share more context
+            - If we hire contractor, easier to be on the same page
+        - Ideal
+            - Minimial additional admin cost
+            - More clear project view
+            - A way for performance review and capacity improvement
+    - Q & A
+- [[Ergon]] backend
+    - apply job redevelopment
+        - add confidential job handling
+        - add NDA signing api
+        - add apply confidential NDA handling
+    - rejecting job redevelopment
+        - get reason list
+    - get company info
+    - get Job List
+        - get best job match
+        - get sub-industries
+    - Get job detail
+        - confidential handling
+    - get image redevelopment
+        - S3 caching
+- [[1:1]] with [[Keith Chan]]
+    - [[Ka Kui Tsang]] is not performing well
+        - Too vague instruction from his pov
+        - 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

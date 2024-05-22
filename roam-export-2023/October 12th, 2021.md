@@ -1,0 +1,3 @@
+- 09:00 [[[[Quarterly Hong Kong manager meetings]] [[[[2021]] Q4]]]] Prep
+- 10:00 [[1:1]] with [[Young]]
+- #[[🧘🏻‍♂️ Self Awareness]] https://lihkg.com/thread/2735567/page/1 about An old woman sold her granddaughters' dog for 10$

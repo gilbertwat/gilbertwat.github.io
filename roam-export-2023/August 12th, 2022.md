@@ -1,0 +1,29 @@
+- [[1:1]] with [[Tommie Lo]]
+    - Shared about the further vision of [[Preface]], related to [[[[Preface]] Pre-Series B plan]]
+        - To connect online-first company with offline experience, e.g. Animoca Brand
+        - To connect offline-first company with online experience, e.g IWC
+    - {{[[DONE]]}}  Find the cost of building a metaverse coding class experience Finished at 11:09 [[November 17th, 2022]]
+    - {{[[DONE]]}}  [[ideas]] a tokenomic for [[Preface]] on [[web3]] 
+    - #progress to support the [[web3]] narrative on 
+- [[weekly meeting on [[Preface]] research on AI]] with [[Jeffy Fung]] [[Alexander Li]] [[Yoon Kim]]
+    - 
+    - [[Alexander Li]] suggest we do an experiment on [[dbt]] to better manage our data pipeline and data metadata
+    - {{[[DONE]]}} Experiment on [[dbt]] if it fits our [[[[Preface]] data [[architecture]]]]
+    - {{[[DONE]]}} [[Alexander Li]] To enhance the list of contents with education related websites   Finished at 11:10 [[November 17th, 2022]]
+    - Last week we look for datasets of people  
+        - No public datasets usable for us  
+        - have to separation of kids/adults  
+        - data quality issue  
+            - Learning Review?  
+    - Ultimate question will be: customer retention  
+        - Email feedback loop construction  
+            - What does our customer wants from us?  
+    - {{[[DONE]]}} Find out which course is the hottest with a certain set of customers?   Finished at 11:09 [[November 17th, 2022]]
+    - Summary:
+        - Next week, we will focus on ideate on where can we apply AI to tackle Ultimate question: How can we retain our customers?  
+            - Also ideate on missing data fields and even the SOP to collect.
+        - Next week another focus will be ideate data collection
+        - #progress Identify challenges in AI front
+        - #progress focus the team on solving the customer retention
+- Work with Anna on [[[[product]] requirement document]]
+    - #progress refined the requirements of our [[[[product]] requirement document]] in [[Preface]]

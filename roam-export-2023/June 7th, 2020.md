@@ -1,0 +1,18 @@
+- 
+    - {{[[DONE]]}} Continue to figure out [[🧘🏻‍♂️ Self Awareness]]
+    - {{[[DONE]]}} Weekly Goals
+        - ((T0YFimL-T))
+- How do you feel when you wake up?
+    - I am pretty content today.
+    - I am still thinking about [[GOGOX]], but I think in a career and constructive way. 
+- How do you feel when you wake up?
+    - Being content about life currently
+    - Being present in some daily life activities such as grocery
+    - ((menlSYjzi))
+        - why are ((7upLuxbjw)) and  drawn by those political Youtube channel recently?
+            - There is an emotion aspect on it.
+                - ((7upLuxbjw)) is about revenge. She want to hear someone can take revenge on injustice.
+                - I am about taming the helplessness and seek logical and actionable advice.
+- https://hbr.org/2014/12/how-your-state-of-mind-affects-your-performance
+    - Mentorship: I have to ask my team current mental state face to face.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FwPmqon02bu.png?alt=media&token=bedb4162-03ec-46ac-95b8-1d9432c1e85e)

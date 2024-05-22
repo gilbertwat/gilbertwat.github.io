@@ -1,0 +1,34 @@
+- {{[[DONE]]}} #Notes Read https://www.linkedin.com/pulse/%25E6%2596%25B0%25E6%2589%258B%25E7%25B8%25BD%25E7%25B6%2593%25E7%2590%2586%25E7%259A%2584%25E4%25B8%2580%25E5%25B9%25B4%25E6%259C%259F%25E5%25BF%2583%25E5%25BE%2597-jamie-lin/?trackingId=DXt%2FsMvNQtG%2FeNmKT%2BXVXQ%3D%3D 
+    - Why are you reading this?
+        - I want to learn from CEO to build my own [[Globalized self]]
+    - Topics
+        - [[Entrepeneurship]]
+    - Excerpts from the article and some scribble
+        - 戰術上的勤奮無法彌補戰略上的錯誤。
+        - 2. Engineer多贏 — 在推動合作時，如果犧牲一方去成就另一方，那麼勢必不會長久。因此，做為創業者、經理人，我們應該努力去設計多贏的架構，盡可能讓參與合作的每一個 Stakeholders，都是過程中的得益者。許多時候，這個工作很難，但我把它當作一個 Engineering Problem，一個考驗我理解力、系統思考力的挑戰，必須把需求與利益拆解，短期、長期、有形、無形、內部、外顯等，研究它們之間的連動關係，然後從中找出最佳解。
+        - 面對客戶、同仁、合作夥伴、股東、媒體朋友，越快、越清楚理解他們的感受與需求，就越能創造多贏。所以，用心去認識、體會身邊每一個人，不斷提升自我的同理心，才是創業者、經營者，最需要長期投入的修行。
+        - 先求小改變，再慢慢放大，往往是更好的策略。
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} #Notes Read https://www.linkedin.com/pulse/二年級總經理心得-jamie-lin/ 
+    - Why are you reading this?
+        - I want to learn from CEO to build my own [[Globalized self]]
+    - Topics
+        - [[Entrepeneurship]]
+    - Excerpts from the article and some scribble
+        - 首先是 營收成長率，它代表成長引擎的速率，唯有持續提升，才有機會在 10-15 年内，達到目標的千億美金市值規模。
+        - 另一個先行指標是 EBITDA
+        - BHAG (North Star Metrics)先行
+        - Specific, Methodical, and Consistent Recipe
+    - Takeaways to be insert into [[Permanent Notes]]
+        - [[revenue]] [[Growth]] can be a [[leading idicator]] of [[Growth]] in a [[company]].
+        - [[EBITDA]] can be a [[leading idicator]] of [[Growth]] in a [[company]].
+- [[Phoenix Lau]] [[Ben Cheng]] discussion on [[[[GOGOX]] Partner Wallet]]
+    - There is a lot of [[emotions]] with [[Reeve Kwan]] and [[Ming Tse]]
+        - Decision making process is not project goal oriented
+        - The communication between business and product is unclear.
+        - The relationship is hostile between [[Ming Tse]] + [[Reeve Kwan]] vs [[Tom Lui]] + [[Phoenix Lau]].
+            - [[Tom Lui]] regards [[Ming Tse]] to find data to go against all his product features.
+                - {{[[DONE]]}} Observe [[Ming Tse]] tendencies.
+                - {{[[DONE]]}} Observe [[Reeve Kwan]] tendencies. 
+    - The alignment between company department is not there.

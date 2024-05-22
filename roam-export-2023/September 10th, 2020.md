@@ -1,0 +1,40 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read https://arstechnica.com/gadgets/2020/08/apple-explains-how-it-uses-machine-learning-across-ios-and-soon-macos/
+        - #[[Artificial Intelligence]]
+        - Apple use AI for better consumer experience
+        - Apple doesn't think AI more data the better.
+            - __Yes, I understand this perception of bigger models in data centers somehow are more accurate, but it's actually wrong. It's actually technically wrong. It's better to run the model close to the data, rather than moving the data around. And whether that's location data—like what are you doing— [or] exercise data—what's the accelerometer doing in your phone—it's just better to be close to the source of the data, and so it's also privacy preserving.__
+                - But why?
+                    - Latency
+                        - if send to server cannot do frame-rate level of response
+                - [[Homecourt]] is really doing AI with the Apple direction
+                - [[market]] and [[Founder]] influences how a company culture is formed
+        - #Management Repeating core message is key to an executive
+            - #Management how about managers?
+    - {{{[[DONE]]}}}} Read https://twitter.com/goodmarketinghq/status/1301190238824472576
+        - #writings
+    - {{{[[DONE]]}}}} Read https://restofworld.org/2020/turkey-getir-grocery-delivery/
+        - #Logistics
+        - __he wanted to ensure that his shipments would arrive in less time than it takes for a local delivery boy to show up with an order.__
+            - Hard work is needed to achieve this.
+            - Competitive advantage
+            - Local knowledge
+        - Bakkal:
+            - Mixed of delivery with credit card 
+        - Balancing supply and demand curve
+            - More complicated with different demands
+        - Driver are the lowest of the food chain
+    - [[Ergon]] [[UAT]]
+        - Value
+            - Grateful
+            - Entrepeneur
+            - Respect
+            - nurturing
+    - [[QA]] Roadmap [[GOGOX]]
+    - 
+- How do you feel when you wind down?
+    - {{slider}}

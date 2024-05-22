@@ -1,0 +1,20 @@
+- What is your meme today?
+    - I can't think of one 😞 because of 
+- What is the coding you have done for 120 minutes?
+    - alias
+- [[1:1]] with [[Young]]
+    - Quite a few sharings
+    - [[Steven Lam]] need to do all decisions
+    - Tech team decisions cannot be done effectively because of a [[consensus [[culture]]]]
+        - [[consensus [[culture]]]] is intervening decision
+    - [[Hubert Chan]] is resigning
+        - Better offer
+        - Push factor in [[GOGOX]]
+            - Lack of resource to achieve what you
+- [[Interview]]
+    - Eager to learning
+    - Timid
+    - Inexperienced
+    - [[decision]]: Not to advance in 
+- ❌ #[[💦 Workout]] today for 45 minutes in [[recovery]]
+- ❌ [[Lower back spasm]] stretch

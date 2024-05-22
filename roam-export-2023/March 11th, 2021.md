@@ -1,0 +1,10 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - better but still lazy because a bit sore throat
+- Start the day **strong**!

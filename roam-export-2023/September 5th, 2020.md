@@ -1,0 +1,13 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[[[Retrospective]] of [[Week 37]]]]
+    - {{{[[DONE]]}}}} [[Ergon]] [[Kingson Kwan]] is getting nervous
+        - Why?
+            - Or is this the nature of him?
+            - Financial problem?
+    - {{{[[DONE]]}}}}  Write [[6 shades of project management tools - Which one should I use?]]
+- How do you feel when you wind down?
+    - {{slider}}

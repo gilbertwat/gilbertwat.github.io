@@ -1,0 +1,12 @@
+- Prep Offsite for [[Preface]] on [[January 3rd, 2023]]
+    - (Honest Q: can we meet the business need?)
+    - Proposed Q1 2023
+        - Pillars: +Revenue(LTV,MAU…etc);-Cost(CAC,CRC…etc);+Customer Profile Data”CPD”;+brand
+        - Credit system MVP launch (customer behavioral data+,potentially: +LTV,+MAU,-CAC)
+        - Nomad payout update (-CRC)
+        - Data collection in customer portal (+CPD)
+    - Problem
+        - Meeting expectation of delivery
+        - Adopting AI-assisted software development
+        - Attract and retain high performer
+        - Data/AI talents

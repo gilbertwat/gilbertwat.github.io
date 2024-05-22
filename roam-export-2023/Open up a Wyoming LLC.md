@@ -1,0 +1,4 @@
+- Why are we doing this?
+    - To go around the more stricter then ever restriction from the States for High Tech stuff
+    - To set up a business entity to prepare myself to either go remote on working OR start a business in the States
+    - If everything goes well, we will have a better foothold when I probably want to move to the States 

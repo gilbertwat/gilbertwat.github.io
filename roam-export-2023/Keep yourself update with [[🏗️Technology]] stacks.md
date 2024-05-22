@@ -1,0 +1,4 @@
+- [Safari]()https://webkit.org/blog/)
+- [PosgreSQL](https://www.postgresql.org/about/newsarchive/pgsql/)
+- [Kafka](https://kafka.apache.org/downloads.html)
+- 

@@ -1,0 +1,8 @@
+- #ideas for [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+    - To display 404 pages.
+    - To display the required rights needed for each individual page.
+    - To update course list icon for display in [[[[Preface]] [[product]]: website]]
+- #ideas 
+- [[1:1]] with [[Ben Cheng]]
+- {{[[DONE]]}}  Publish Linkedin post on what I enjoy in interviewing interns 👏🏼 finished on [[April 11th, 2023]]
+- 

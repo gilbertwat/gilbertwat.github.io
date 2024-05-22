@@ -1,0 +1,49 @@
+- #[[15 2023]]
+- 10:30
+    - [[1:1]] [[Moses Ngan]]
+        - Shared the current salary adjustment
+            - Calm
+        - Shared my challenges in managing him
+            - stated that I am being affected by the relationship between founding team and OGs.
+                - But since I cannot have the control I can only mitigate
+- 11:30
+    - [[1:1]] [[Ben Cheng]]
+        - He shared his observation of my level of energy is lower.
+            - and do not sound convincing now
+- 12:11
+    - [[[[Preface]] [[strategy]]: product metrics]]
+- 13:30
+    - [[1:1]] [[Tommie Lo]]
+        - Shared the current hiring and recruitment and there is some complexity
+            - Will be hiring 2 freelancer to speed up the process
+            - crypto.com is firing.
+        - Got a signal that the capital allocation will not move just yet.
+            - I think otherwise but I need more convincing arguments than "things ought to be". 
+                - By investor pov
+                - By track record pov
+        - Shared suggestion for a coordinated north star metrics that is not revenue
+            - {{[[DONE]]}}  [[[[Preface]] [[strategy]]: product metrics]] with [[Joseph Chan]] [[Ellen Lau]] [[Carmen Yeung]] and [[Tommie Lo]] before [[January 20th, 2023]]
+- 14:00
+    - [[[[Preface]] [[project]]: Hubspot replacement]] with [[Mandy Ng]] [[Hema Shah]] [[Anne Rommero]] [[Alex Li]]
+        - Shared about the usage pattern from everyone
+        - Aligned we are going to replace Hubspot
+            - {{[[DONE]]}} With a CRM which we are going to work on it and I will drive the research and decision on it
+            - {{[[DONE]]}}  [[Mandy Ng]] will work on trying out our current EDM sender [[Postmarkapp]] 👏🏼 finished on [[February 14th, 2023]]
+- 16:00
+    - [[1:1]] [[Alex Li]]
+        - Chat about [[[[Preface]] [[project]]: Hubspot replacement]]
+        - Chat about the difficulties to construct a customer journey
+            - Concluded that it is because our business nature that it is hard for us to do so.
+                - We are a high ticket size business and the sales journey has to go through a high human touch.
+            - Conclude it will be easier to do so if our ticket size is lower, e.g. buying courses, techbites...etc.
+        - Chat about achievement of 2022
+            - Not much but he feels OK.
+            - Achievement is that he could transform his career.
+                - Sense of completion
+                - Sense of transformation
+                - Sense of impact
+        - Chat about 2023
+            - If data team can facilitate the conversation of business strategy in data, I will be genuiuely feel achieved.
+- 22:29
+    - [[gratitude dairy]]
+        - Host a brilliant meeting of [[[[Preface]] [[project]]: Hubspot replacement]] with [[Mandy Ng]] [[Hema Shah]] [[Anne Rommero]] [[Alex Li]]

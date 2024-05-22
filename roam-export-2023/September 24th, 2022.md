@@ -1,0 +1,7 @@
+- {{[[DONE]]}} #read https://twitter.com/markbrooks/status/1573286323515170816?s=20&t=Psr-aYS1n5ecv1DA5IXAkQ Finished at 
+    - [[change]] = [[vision]] + [[skills]] + [[incentives]] + [[resources]] + [[plan]]
+    - [[change]] - [[vision]] = [[confusion]]
+    - [[change]] - [[skills]] = [[anxiety]]
+    - [[change]] - [[incentives]] = [[resistance]]
+    - [[change]] - [[resources]] = [[frustration]]
+    - [[change]] - [[plan]] = [[false starts]]

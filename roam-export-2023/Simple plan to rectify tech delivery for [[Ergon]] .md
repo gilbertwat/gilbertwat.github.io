@@ -1,0 +1,17 @@
+- {{{[[DONE]]}}}} Objective
+    - To deliver an acceptable quality of [[Ergon]] v1.0 on [[September 1st, 2020]]
+        - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2F9kCGzl27gT.pdf?alt=media&token=8592d596-fac4-43bc-9699-9773a714c127}}
+    - To reduce stress and surprises in delivering [[Ergon]] v1.0
+- Success criteria
+    - Deliver an acceptable quality of [[Ergon]] v1.0 on [[September 1st, 2020]]
+    - https://drive.google.com/drive/folders/12hRsICI2gQQEXehTaKpMrVzzN3vwHTKP?usp=sharing
+- 3 simple steps
+    - Weekly sync up and target agreed with Kingson, Chris and Tony
+        - UAT
+        - Project Management
+        - Projection
+    - Clear expectation from ticketing system
+- Retrospective
+    - Two parties cannot agreed on the ticketing system, result in task based tickets.
+    - Weekly follow up is not consistent
+        - Due to too frequent.

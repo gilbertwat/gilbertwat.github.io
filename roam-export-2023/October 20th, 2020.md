@@ -1,0 +1,53 @@
+- Radiate your gratitude and energy; Focus; Pace yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Still a bit of bloating
+- [[Ergon]] Project management
+    - 08:30 - 09:39
+    - Completed Phase 1
+- #Notes Read https://amplitude.com/blog/asking-better-questions 
+    - Topics
+        - #meetings
+    - Excerpt
+        - Great questions spring from less-great questions which spring from “bad” questions. It takes time and multiple cycles of divergence and convergence to come up with the highest impact questions.
+        - When it comes to being “data informed”, people generally have one of three related needs:
+            - I need to make a decision, and I need data to inform that decision.
+            - I want to reduce uncertainty related to an assumption.
+            - I want to understand performance and impact. I want to know if something is working. I want to prove something is working (or not working) or will work (or will not work).
+        - The table has three columns: one for decisions, one for assumptions, and one for areas of performance and impact. For each column I give sample questions/assumptions along a spectrum of specificity.
+        - Broad --> Specific
+        - why, who, what, when, where, which, how many, how, how long, do, are, will, have, should, and is.
+        - **Good questions guide the way.** Once you’ve prioritized important questions, the next step is to ask “what can we measure to reduce uncertainty related to this question?”
+    - {{[[DONE]]}}  Takeaways
+        - A good leader is guiding the team to solve problems.
+        - Problems can come from different granularity.
+        - Solution of the same problem can come from another granularity
+        - Decision is where and how we move forward.
+        - Assumption is where we could fail in gauging the reality.
+        - Impact is where we could gain if it works out.
+- #Notes Read https://twitter.com/davidjbland/status/1317237337101791232?s=20 
+    - Topics
+        - #[[ideas]] [[Fear]]
+    - Excerpt
+        - What's your biggest fear when testing a new idea in market?
+            - Management
+            - Evidence
+            - Acquistion
+            - Customers
+            - Time
+            - Biases
+            - Process
+            - Money
+    - {{[[DONE]]}}  Takeaways
+        - This is a good starter of list of categories of [[Fear]] in adventure into new territory.
+            - Social
+            - Timing
+            - Capital
+            - Biases
+            - Process
+            - Constraints
+- 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

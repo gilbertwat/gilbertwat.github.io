@@ -1,0 +1,2 @@
+- {{[[query]]: {and: {or: [[writings]] [[project]]} [[TODO]]}}}
+- [[project]] and [[writings]]

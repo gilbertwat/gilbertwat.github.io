@@ -1,0 +1,32 @@
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- Body
+    - {{[[DONE]]}}  Exercise 15 minutes
+- Mind
+    - {{[[DONE]]}}  Meditate or Read Bible 15 minutes
+- [[career]]
+    - {{[[DONE]]}}  30 minutes of any one of #writings
+        - [[McKinsey is wrong but business demands a measurement on developer productivity, what should be it?]]
+    - {{[[DONE]]}}  30 minutes of any one of #reading #books
+- 10:42
+    - #project migrate my blog to https://quartz.jzhao.xyz/
+- 13:00
+    - {{[[TODO]]}}  Revoke autotransfer to Zurich [[Family [[finance]]]]
+    - {{[[DONE]]}}  Ask Bonnie on the withdrawal on Zurich account #[[Family [[finance]]]]
+- 15:45
+    - Meeting with [[[[Preface]] School of Technology]] again
+        - About [[[[Preface]] [[project]]: #sourcing CRM]]
+            - The mindset towards CRMs has a bit of problematic
+            - The mindset towards automations has a bit of problems
+            - 10% onboarding / 90% retention
+                - Not align to business needs.
+            - Action to address those mindset
+                - Ask
+- 21:00
+    - Look for ways to invest in T-bill [[Family [[finance]]]]
+        - Seems the market has changed [[December 6th, 2023]] no longer required
+- New tricks in #management
+    - Listen and recap all problems and put all problems into your thinking framework of moving things forwards 
+    - Ask dumb questions to guard rails discussions.
+        - For example: Ask if an leads with little nurturing will join our IP to pay us 38000?

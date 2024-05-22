@@ -1,0 +1,10 @@
+- http://www.cs.utoronto.ca/~hehner/aPToP/aPToP.pdf
+- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FHYsi_QpU--.pdf?alt=media&token=def99ccc-ccae-4868-9332-b4ff06ded0a2}}
+- Author: [[Eric C.R. Hehner]]
+- Why do I want to read this book?
+    - I want to refresh and consolidate my understanding of programming theory and write correct programs. In a world of [[cryptocurrency]] this will be an invaluable asset.
+- http://www.cs.utoronto.ca/~hehner/aPToP/aPToP.pdf
+- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FHYsi_QpU--.pdf?alt=media&token=def99ccc-ccae-4868-9332-b4ff06ded0a2}}
+- Author: [[Eric C.R. Hehner]]
+- Why do I want to read this book?
+    - I want to refresh and consolidate my understanding of programming theory and write correct programs. In a world of [[cryptocurrency]] this will be an invaluable asset.

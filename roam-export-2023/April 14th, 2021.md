@@ -1,0 +1,46 @@
+- {{[[DONE]]}} [[Interview]] Vikas Kumar
+    - 4 dev 2 QA
+        - 1 FE and 3 BE
+    - 3 week scrum -> 1 week is QA external
+    - UAT
+    - frequent coordination is needed with module lead
+    - Most challenging
+        - priorities shift inside 1 sprint
+            - production fail
+            - legacy code support
+    - Product sense:
+        - 80 ports billion
+    - leaving reason
+        - technology stack
+            - messaging queue
+            - redis
+    - Refactoring
+        - Transaction Management
+        - Parallelization
+    - ActiveMQ
+        - Freezing
+- {{[[DONE]]}} [[Interview]] Ali Sanzhar
+    - Shy
+    - Fresh bright
+    - Humble
+    - Pass System design test
+- {{[[DONE]]}} Interview Sam Lai
+    - Clear separation
+    - Bottom up not sure
+        - Bottlenecked
+    - lack of self confidence
+    - Senior guidances
+    - Ask questions before act on the problems
+- {{[[DONE]]}}  [[1:1]] [[Leo Chen]]
+    - No questions so far
+- {{[[DONE]]}}  [[Keith Chan]] [[1:1]]
+    - [[Peter Wong]] issues
+- {{[[DONE]]}} [[1:1]] [[Ben Cheng]]
+    - What is a [[cost center]] in a [[business]] owners' mind?
+        - [[Ben Cheng]] discuss with me he is not happy with [[Steven Lam]]'s comment about [[R&D]] department is a [[cost center]] in [[GOGOX]]
+            - 2m per month for 8 years -> 192m investment into tech
+            - did tech give back 192m revenue to the company for 192m HKD / 24m USD?
+                - No
+            - But did tech tea increase the valuation of the company for 24m USD?
+                - Definitely
+                - If there is no tech [[GOGOX]] is just a FF/3PL with a little valuation

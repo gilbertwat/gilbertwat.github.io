@@ -1,0 +1,19 @@
+- Bottom line:
+    - Stability of video playback
+    - Scalability of content delivery
+- Product Direction
+    - As a customer, Increase utility 
+        - Retaining technology knowledge to keep themselves relevant in ever changing technology scene
+        - Apply relevant level of knowledge in the right context to make the right decision regarding technology
+        - Legitimate assessment of technology knowledge
+    - North Star
+        - Referral and comments on varies platforms and DMs
+- Feature to be considered
+    - Like
+    - Share
+    - Bookmark
+    - Notes taking
+    - Export as Markdown
+    - Contextual Notes
+    - Recording voice as memo
+    - 

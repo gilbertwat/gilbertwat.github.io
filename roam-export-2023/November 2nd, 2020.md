@@ -1,0 +1,93 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- 9:00 - 09:24 [[[[GOGOX]] Driver Experience Theme]] [[Retrospective]] 
+    - Success:
+        - Led the team to discover their bottleneck in decision making.
+        - Suggested the team to talk about ambiguity in priorities and progress in 
+        - [[Shamiya Patel]] acknowledge the limit of manual testing, but I don't know if it sticks or not
+        - Laugh about failures
+    - Next steps:
+        - Make sure QA and Dev are comfortable to bring up blocking issues in [[standup]]
+            - Radical candor
+    - Warning sign:
+        - No blame culture is not in the theme [[[[GOGOX]] Driver Experience Theme]]
+            - At least among [[Shamiya Patel]] and [[Anthony Chan]]
+                - "I don't know the priority." - [[Anthony Chan]]
+                - "I think MOB tasks are creating bugs." - [[Shamiya Patel]]
+        - 
+    - Sidenotes
+- 9:30 - 9:55 [[1:1]] This round [[Retrospective]]
+    - Boring
+        - Business as Usual not very exciting
+    - No concerns on long term vision
+    - No concerns on financial stability of company
+    - What do each one of my teammates care at the moment? #[[🤔 Questions]]
+- #Notes URL https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/ 
+    - [[Topics]]
+        - [[culture]] [[Interview]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - Before taking your seat across from the hiring manager, priortize around what’s __most__ important in your new job: Company growth, personal role and 
+- responsibility, a great team and manager. Every single question you ask 
+- should clearly map back to those priorities — and pack a punch.
+    - “Before I narrow down my list of questions, I always ask myself, ‘**Would
+    - I change my decision about working here based on the answer?’ If the 
+- answer is no, then there is no point in asking the question**.”
+    - ** [Company growth and priorities:](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_fb1f383b2b4d406b911d94357e71917b)**[](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_fb1f383b2b4d406b911d94357e71917b) What’s on the horizon for the company, and what are the biggest blockers to reaching that summit?
+    - ** [Culture and values](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_6c1b5164f54e44818b08da7c898401b9):** How does the company want to conduct its work?
+    - ** [Diversity, equality and inclusion](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_298eaf31caa5415e8ed0871621e105a2):** What tangible steps is the company taking to put DEI efforts front-and-center?
+    - ** [Employee experience](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_3995f98e074e481d971d937d37f41564):** What factors determine whether or not someone is successful at growing within the company?
+    - ** [Founder fit](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_e6ae5279add2456a8ac02c09603dfabb):**
+    - For those interviewing at early-stage startups, how do you assess 
+- whether the founding team is well-equipped for the bumpy road that lies 
+- ahead?
+    - ** [Manager compatibility](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_d0d80dfc94a84b6395a4e881b413a049):** Will you and your manager work harmoniously, and will they be someone who gently nudges you to be better?
+    - ** [Role and responsibilities](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_9ab5b626707f40be95c38730fdbd6b48):** Does the role adequately fulfill the next steps you’re looking to accomplish in your career?
+    - ** [Team impact and dynamics](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/#text_5aa6e1007cbf4f5a8b5a33420ebef6d8):** How does the team function as a unit to drive meaningful change for the company and its customers?
+    - Company growth and priorities
+        - 1. What’s the biggest existential threat to this business? What are the things that keep you up at night?
+        - 2. What are the most recent examples of things the company has tried and failed at?
+        - 3. What are some of the key financial metrics that the company optimizes for?
+        - 4. What are the top three customers that you’ve won, and the top three customers that you’ve lost?
+        - 5. Which companies does the leadership admire and hope to emulate? Why?
+        - 6. What area of the business would you say this company is behind on, given its stage?
+    - Culture and value
+        - 7. What’s something that would only happen here but wouldn’t at other organizations?
+        - 8. How have you changed during your time here?
+        - 9. When you’ve done your best work here, what about the culture has enabled you to do that?
+        - 10. Has the company ever made a decision that prioritized its values over revenue?
+        - 11. How did leadership at your organization respond in the first days of the COVID-19 crisis?
+    - INTERVIEW QUESTIONS ON DIVERSITY, EQUALITY AND INCLUSION
+        - 12. What specific initiatives has the company launched to improve diversity and inclusion?
+        - 13. What is the title of the most senior underrepresented person at the company?
+            - I focus on asking factual questions that don't have to do with how persuasive the person can be,” he says.
+        - 14. What would 1:1's be like with my direct manager? What types of topics would we discuss?
+        - 15. How do you personally learn how to be more inclusive? What's an example of a situation in which these learnings have changed the way you do 
+- your job?
+    - 16. Can I see your calendar for the week?
+    - 17. What common attributes have you found among people who join and are successful, versus those who aren't?
+    - 18. What are the top reasons that people have left the company of their own volition?
+    - 19. What is something that the company changed at the request of its employees that did not originate from an executive?
+    - 20. Can you tell me about your founding team’s background and why you’re tackling this particular problem?
+    - {{[[DONE]]}} Takeaways
+        - In an [[job interview]], ask questions that will change your decision.
+- [[Roger Ho]] failed retention [[Retrospective]]
+- [[[[1:1]] with [[Jay Chang]]]]
+    - How do you feel recently?
+    - How is your {personal project / family}?
+    - How is your theme / project?
+        - QA problem
+        - QA not aware of backend/frontend issues
+        - In themes
+    - How is your function?
+        - feedback from Ivo / Keith
+            - Minimal
+        - Career goals
+    - #CircleBack topics
+- 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

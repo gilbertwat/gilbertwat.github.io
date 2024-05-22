@@ -1,0 +1,12 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - late [[sleep]] but energtic
+- Start the day **strong**!
+- {{embed: TODOs}}
+- {{[[DONE]]}} recover [[Principal 800 [[MPF]]]] password (Need to call Mon-Fri 9-5pm)
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

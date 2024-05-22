@@ -1,0 +1,74 @@
+- Rest
+    - {{[[ARCHIVED]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- Body
+    - {{[[DONE]]}}  Exercise 15 minutes
+- Mind
+    - {{[[ARCHIVED]]}}  Meditate or Read Bible 15 minutes
+- [[career]]
+    - {{[[ARCHIVED]]}}  30 minutes of #investment
+    - {{[[DONE]]}}  30 minutes of reading Financial Report from Companies
+        - Watch how siu san diagnose the problem of New World Development.
+        - For some business that can bring a lot of cash but the profit is slim.
+        - Asset and Liability relationship
+        - Debt to asset ratio
+        - I am more on the camp of [[Free cash flow]] is now the king of the business.
+            - Whenever I see a positive [[Free cash flow]] business I should be very happy.
+            - I am building a #business that will bring in [[Free cash flow]] in 3-6 months.
+        - Asset and Liability can be fixed if the ratio is not too bad.
+- [[Preface]]
+    - Planning
+        - [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+        - [[[[Preface]] [[product]]: Customer Portal]]
+            - TechBites registration page
+            - 
+        - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+            - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing CRM]]
+        - [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+            - {{[[DONE]]}}  Test the vertical orientation of LG TV we are using.
+        - [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]]
+            - Check out [[Kit Tang]]'s work
+        - [[[[Preface]] [[product]]: website]]
+            - {{[[DONE]]}}  [[writings]] [[SOP for blog upload [[Preface]]]]
+- https://twitter.com/joulee/status/1482057435627999235?s=20&t=qJ3SUApYxSN6RgqQE3HOxQ
+    - Biased towards actions. #mindset
+- {{[[DONE]]}}  https://twitter.com/sambhigham/status/1639257715787862024?s=20
+    - Nowadays I think [[psychology]] is a subject that has too little practicality as it is very dotted and separated. It is not a unified theory. When people are buying stuff, it is usually multiple reasons to buy and like a person. Drill into and geek about the individual reason is kinda against the human nature.
+- {{[[TODO]]}}  #project [[Open up a Wyoming LLC]]
+    - {{[[DONE]]}}  Consider how to set up an LLC in USA [[ChaChaanTech]]
+        - LegalZoom
+        - ZenBusiness
+- Follow up on {{[[TODO]]}}  Register Azure OpenAI access
+- {{[[DONE]]}}  #writings [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]
+- 09:00
+    - Plan for the week
+- 10:00
+    - Write {{[[DONE]]}}  [[writings]] [[SOP for blog upload [[Preface]]]]
+- 13:20
+    - Work on [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+        - {{[[DONE]]}}  Work on the sound of the narrator
+            - [ElevenLab](https://docs.elevenlabs.io/api-reference/quick-start/introduction)
+            - Self hosted https://github.com/suno-ai/bark
+            - Self hosted 2 https://github.com/neonbjb/tortoise-tts
+        - Work on the content of the narrator
+- 14:30
+    - [[Tech x Content weekly meeting [[Preface]]]]
+- 15:00
+    - [[[[Preface]] School of Technology]] marketing team meeting [[Ellen Lau]] [[Darren Yeung]] [[Jennifer Ling]] [[Joseph Chan]]
+        - EDM
+        - Whatsapp
+            - Not very trackable
+            - Sales
+        - Eventbrite (Seasonal)
+            - drop off
+            - analytics CRM
+        - Source Untrackable
+        - Suggest
+        - Notes
+            - The customer journey of [[[[Preface]] School of Technology]] is somehow like the following
+                - Leads: The people who can be our customers that is aware of us.
+                - Enquirer: The people who enquire more detail with us.
+                - Taster: Customers that have purchase our product in the lower ticket size.
+                - Spender: Customers that is so trusted us that they purchase our product with a high ticket size.
+                - Fan: Customers that are so trusted with us that they recommended us to their peers.
+            - 

@@ -1,0 +1,15 @@
+- {{[[DONE]]}} #Notes Read https://twitter.com/coin_artist/status/1458173274949619718 
+    - Why are you reading this?
+        - I want to [[building a [[company]]]]
+        - #NoteToSelf
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+        - "Your company is not a family. It is a guild. A guild of assassins. If one of you is not an assassin and slaying, they get kicked from the guild."
+        - "Your company is not a family. It is a city. A city of Spartans. If one of you is not a Spartan and conquering, they get kicked from the city."
+    - Further [[🤔 Questions]] to think about
+- [[Replan my life [[2022]] onward]]
+- [[[[🔮 Bets]] 2021]] Got airdrops from [[ENS]] and the price per token is 30 (60) USD
+- [[🧘🏻‍♂️ Self Awareness]] #Hypothesis: I am good at identifying chance in internet related infrastructure company
+    - Good [[investment]]s so far
+        - [[Cloudflare]]
+        - [[ENS]]

@@ -1,0 +1,29 @@
+- Wordpress Blog is down for 20 hours
+- # Summary of the incident
+    - On 2022/02/07, our blog is down for more than 20 hours and none of the blog posts are serving our visitors. We need to contact the provider to resolve a technical issue on their side to bring the wordpress blog back online.
+- # Timeline of key events
+    - 13:00 https://prefaceeducation.slack.com/archives/C02VB07HJNQ/p1644210317557849 Tech team colleague discovered our blog is down.
+    - 13:10 Tech team is handling it by investigating the infrastructure of wordpress blog.
+    - 15:30 Tech team notified the company through product_strategies. https://prefaceeducation.slack.com/archives/GV7AY81RT/p1644219410539329
+    - 17:00 Product team communicate with 101domain to resolve payment issue. https://prefaceeducation.slack.com/archives/GV7AY81RT/p1644227343377899?thread_ts=1644219410.539329&cid=GV7AY81RT
+    - —--   Next Day   —-
+    - 09:51 Product team confirmed our blog is back up. https://prefaceeducation.slack.com/archives/GV7AY81RT/p1644285068176579
+- # Key metrics
+- ## Time to Recovery
+    - ~20 hours
+- # Business Impact
+    - Blog impression is gone for the day.
+    - ![](https://lh3.googleusercontent.com/VrSwe9IpZDgt84pFcbH7qBrH3XVRRVyCy3iOpZ4PGKfW1r841lfijrfsImbway067561i65FVKZdK9eHoQBgotBA-b6kljFltnPyXe059nyH9EKxrHS6kwicYWYPc51kYJgOOxbK)![](https://lh6.googleusercontent.com/OVmmtf85o-bhQnFxOt7GJhN-PYhj6jZdV-hqvcA5GzhH047wo6iAfw205hSc6PbSxCVig1s1uF8NKInLAL8hWapnOtIKN4Sa6NCq6nWEymxNZyyuNPp_73VdIFlkgMl7bxvybWTs)![](https://lh5.googleusercontent.com/Rn9RSA5ugWYmTP34AX9f1Dge4s3kHf6dyiYEaMgMvBn5bT1GFat0PB_gHV4s5KlwTBvpQKIg80RFOjaQwATz4IgzBFWhDLUPFeYTfJ5lbzAbas0mxIR04jALF42b2-koVCm2Oumz)
+- # Why is it happening?
+    - The hosting provider of our wordpress blog has suspended our blog without notifying us. And their support has only responded to our support ticket after 7 hours, way more than what we can afford.
+- # Prevention & Mitigation
+- ## Short term (< 3months)
+    - Source and try out monitoring and alert tools
+- ## Long term (> 3 months)
+    - Source a more reliable and responsive wordpress provider.
+        - Uptime guarantee
+        - Response time guarantee
+        - And more…etc.
+- # References
+    - https://my.101domain.com/dQBkAQAQAN9qIGVGzeIOh7ePMhgDZnuVTD3HjlwTGwPQyhSPdyb447KRLgNSawMsw-EkhMaSVkdtvuVk1fK5TcKy20HZk9bUKyM8XR5MfD_Ij-fb4g/vo.html
+    - ![](https://lh5.googleusercontent.com/bXQ2P4ESpqRMhdsaEQKvoistqK_3EHtpfLJIRsRGJTQ3mrugCqZfyhMz9kW6s6Hvzs-bv_uljDlkYLf7o6vDdLhN_PvWZj7yvfDzib_yYWaG3-EA2rb1cE_DMJfSIDjhPyRpKj9i)

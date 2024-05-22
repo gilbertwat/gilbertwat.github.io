@@ -1,0 +1,23 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- #Clubhouse Boss talks with [[Ali Ghodsi]]
+    - How to balance new and existing
+        - Depends on strategy
+        - Tech debt is because it is not on the strategy
+    - If you are doing what the big guys are doing a little bit better, you are screwed.
+    - Define the category
+    - What is a terrain?
+        - None of it shows on the book.
+    - Product engineering (build for 1 customers vs talk to them for workaround)
+        - Depending on strategy
+        - Product management is to sass out the requirement.
+        - Product management (Future down the road) working with Sales (Current need).
+    - Protecting engineering for building the future.
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

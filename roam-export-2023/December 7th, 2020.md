@@ -1,0 +1,63 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- https://whizzoe.com/ #Motivation
+- [[Ergon]] Top of [[Kingson Kwan]]'s mind about tech [[2020 Week 50]]
+    - Performance of apps
+        - [[Myself]] doesn't want [[Kwong Kin Ming (KM)]] to work on this as it is very tricky to get it right for his skillset currently
+        - Performance
+            - Changing data is A.L.W.A.Y.S slow
+                - current
+                    - {{mermaid}}
+                        - graph LR
+                            - App -->|save very slow| Bullhorn
+                            - App -->MongoDB -->|very slow| Bullhorn
+                            - Bullhorn -->|very slow| MongoDB --> App
+                - ideal Mar 2021
+                    - {{mermaid}}
+                        - graph LR
+                            - App --- MongoDB
+                            - MongoDB ---|asynchronous and not immediate| Bullhorn
+    - Career Analytics preview in dashboard
+        - [[Kwong Kin Ming (KM)]] is choosing this to execute as it is the easiest to handle for him
+    - Chrome Extension
+        - [[Kwong Kin Ming (KM)]] will eventually take over it.
+        - But in this [[2020 Week 51]], we are going to learn how it works first
+            - What is the data flow within the app?
+            - What is the user experience?
+        - This is crucial to the scalability of the company to start a cold desk
+    - [[Kwong Kin Ming (KM)]] next step in tech
+        - He is good in solving basic problems
+            - He can get some part of the solution correct right off the bet.
+        - Next challenge for him would be using data structures to solve more advance problems
+            - List (Array)
+            - Stack
+            - Queue
+            - Heap
+            - Map (Key Value Pair)
+            - Graph
+            - Tree
+- 頭先去街要等過馬路，旁邊有一間7-11，個阿姐走出黎，問我可唔可以幫佢將一盒飯俾一個人，果個人就係對面跪係到。我望左一陣，原來有一個人跪左係到行乞。我就走過去，放低左盒飯，講左聲「快啲襯熱食！」我回頭同個阿姐點頭示意，我就走喇。當一下
+- [[1:1]] with [[Belda Chan]]
+    - Steven mention bonuses
+        - Bonuses will be on April
+        - It is to be determined if there is one.
+        - Everyone will get it on April
+    - Belda would like to take more responsibilities to be able to promote/ get a raise or bigger bonus
+        - Leadership
+        - More system 
+    - Better communication is needed for WFH etiquette
+        - [[Myself]] will communicate the sentiments / takes with senior management
+    - How can [[Myself]] be more effective in our [[1:1]]?
+        - He is helpful so far 😄
+        - If there is more question about current projects, that would be helpful.
+    - One thing to improve tech team
+        - More engineers to work on the platform, that would be great.
+            - [[Belda Chan]] have heard a lot of context switch and more tickets than time.
+            - Code review is not effective as there is no 2 people co-work on the same theme.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

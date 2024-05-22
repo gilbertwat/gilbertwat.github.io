@@ -1,0 +1,5 @@
+- 
+- #[[Quick Capture]] #[[Delivery Manager]]
+    - To prove the design system works 
+    - we have to have some Proof of increasing the delivery speed.
+    - ￼so we can predict the delivery speed of having a new design systems to be a log functions that and then will measure them￼

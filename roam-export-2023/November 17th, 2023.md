@@ -1,0 +1,18 @@
+- #[[18 2023]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+    - To fix my [[nose allergy]] I am trying out a new formula
+        - Tumeric + Black Pepper + Lemon + Water
+- 10:21
+    - {{[[TODO]]}}  Enhance [[[[Preface]] School of Technology]] Primary Data and Secondary Data
+        - Very #frustrated because of the click rate of the EDM we sent is 16/2383 = 0.5%
+            - {{[[ARCHIVED]]}}  Need to work on improving this
+                - [[Jennifer Ling]] knows it is the right thing to do but hesitated to do so.
+                    - Maybe because I am very forceful.
+                - Signal: of [[team dynamic]] it is very sensitive to bring tech team into their #marketing and #sales
+- 15:00
+    - Meeting with [[Michelle Chan]] [[Kelvin Chan [[Preface]]]] [[Hema Shah]] [[Yoon Kim]]
+    - 

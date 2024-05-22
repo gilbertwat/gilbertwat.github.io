@@ -1,0 +1,87 @@
+- 08:00 
+    - http://peach1234.com/doc_U01lVEVDYitSc2tWQUxIZDRWa1owZz09 [[Theodore]]
+- 09:00 
+    - [[[[Preface]] Coding]] Onboarding
+        - [[1:1]] with [[Tommie Lo]] also with [[Carmen Yeung]] 
+            - New [[[[Preface]] [[NFT]]]] initiatives to promote the new blockchain course
+                - #Solana is approaching them to do a joint program.
+                - Overheard the research work is on [[Ronald Kwok]], and he is a bit cynical on it, not sure if it is real cynical or HK-style cynical.
+        - #Environment issues that may affect developer productivitiy
+            - {{[[DONE]]}}  The sun problem of the office #plan [[->]] [[Yuki]]
+        - #questions in the onboarding
+            - {{[[DONE]]}}  Can I know my team’s salary and market rate? #plan [[->]] [[Vegas Ho]]
+        - {{[[DONE]]}} They are very concerned about title [[toxic [[culture]]]] symptoms
+            - Without goals that excites them?
+        - {{[[DONE]]}} Are the company self aware and transparent enough to operate as a startup speed?
+            - Seems very good as the 2021 reflection
+        - [[2022 Tech Plan [[Preface]]: High level]]
+            - {{[[ARCHIVED]]}} Point of Contacts for tech team.
+            - {{[[ARCHIVED]]}} Brag document for each and every teammates.
+            - {{[[ARCHIVED]]}} Do we have some tech sharing place?
+            - [[1:1]] questions for 4 of them.
+                - Do you need OT?
+            - {{[[ARCHIVED]]}} What does the team want?
+            - {{[[ARCHIVED]]}} What does the company want?
+            - {{[[ARCHIVED]]}} Whom should be focusing on what?
+- 10:30 Tech all-hands delivered message:
+    - 2 weeks before an initial plan.
+        - [[2022 Tech Plan [[Preface]]: High level]]
+    - If there is any company policy that is not fit tech team, let me know.
+    - Default use new technology will be a very probable direction of us.
+- 12:30 Lunch with [[Kenneth She]] [[Carmen Yeung]] [[Tommie Lo]] [[Queena]]
+    - #culture is very hands-on and collaborative in the leadership team.
+        - {{[[DONE]]}} how to spread this collaborative culture down the chain of command?
+- 15:00 STP pitching about a 36 hours of deep tech course
+    - They are very concerned about why we don't provide NVIDIA Certificate
+- Goal -> Place the participant in STP
+- Fix momad’s microphone
+- Meeting tactics: going off-topic to tackle I want everything: -> Remind the customer what is the utmost important.
+- 16:30 Project overview with [[Carmen Yeung]] and afterwards [[Hema Shah]]
+    - {{[[DONE]]}} #[[To be organized]]
+    - 3 major applications:
+        - Coffee App
+            - Current status is not publicly launched 
+            - Q1 on Public Launch Aaron is a bottleneck
+            - BE [[->]] [[Aaron Lai]]
+        - Internal Portal
+            - Current status is pending revamp
+        - Public website
+            - Current status is on Production
+            - Strange deployment on Heroku
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FIvpJbl5IiC.png?alt=media&token=ad980dce-2161-40cf-bb35-b657361f7702)
+        - [[Ehsan Ayaz]] FE Next.js
+            - {{[[DONE]]}} Reluctance to learn ROR because of?
+        - BE ROR Internal Portal [[->]] [[Moses Ngan]] 
+        - Data request handling [[->]] [[Moses Ngan]]
+        - Data Dashboard [[->]] [[Alexander Li]]
+        - [[Joseph Cheng]] Tracking GA4
+        - Communicated #[[fulfilling commitments]] No more enhancement of Internal Portal: ROR #[[until Feb 2022]]
+            - Somehow it is not observed from dev perspective
+        - Tech debt creation
+            - There is no expectation set for experimental endeavour vs real product market fit that needs engineering
+                - Example: Regular Class addition to the internal portal
+        - 1:1 course 
+        - Bootcamp course
+    - [[Hema Shah]] already block a lot of request
+    - {{[[DONE]]}} Change language of backend?????
+    - Alex Lost because of the lack of focus
+    - Why not build model
+        - Too away of reality
+        - Too manual in adult 1:1 data science
+    - Ideal: Auto-matching for 1:1 model
+    - {{[[ARCHIVED]]}} WIKI Urgent and important for definition of data / terms ...etc.
+    - {{[[ARCHIVED]]}}  Payment gateway is blocked in [[Fiserv]]
+    - {{[[ARCHIVED]]}} POS changing
+    - ETH vs SOL [[talk to]] [[Tommie Lo]] about Branding
+    - Minor projects Hubspot for sales team sync internal portal.
+    - Coffee App Scrum Sprint 2 weeks Anna PO Daily Standup
+    - Sprint planning
+    - Daily standup
+    - {{[[ARCHIVED]]}} Missing QA process
+    - Estimation communication with 
+    - Internal Portal is Kanban in weekly. Data update >>>> feature request.
+    - {{[[ARCHIVED]]}} We need a culture change: be comfortable to be wrong and create a learning culture and organization
+    - Suggestions When we are in [[Sprint Retrospective]], we can try to rephrase the questions to talk more about feelings.
+    - Communicated: We will de-prioritize the cross training of the developers and focus on improving morales and setting a good individual growth track.
+- 18:00 
+    - {{[[DONE]]}} #ideas To connect [[Ronald Kwok]] with with communications and leadership team by having him present a POC for solana NFT 

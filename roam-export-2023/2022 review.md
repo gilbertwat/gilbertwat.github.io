@@ -1,0 +1,25 @@
+- # Mind and Body
+    - COVID in fifth waves.
+    - Body weight refuse to go down.
+    - Lack of exercise.
+    - Vitamin D supplement is crucial to [[mental health]]
+    - Reading books is inconsistent, but more than before
+    - More self aware about my emotion.
+    - More aware about the emotion of others.
+- # Family
+    - [[Grandpa]] had a surgery to treat Hernia.
+        - Discovered the relationship between [[Dad]] and [[Uncle]] is rocky.
+    - [[Mum]] had a hip surgery.
+    - [[Lionel]] is pursuing a master degree in Chinese University.
+    - [[Dad]] is finally retiring.
+    - [[Theodore]] is born on [[February 20th, 2022]].
+    - Reconnect with [[Uncle William]] through [[Family [[finance]]]]
+    - Has a better understanding on [[Family [[finance]]]]  after losing money.
+- # Friends
+    - Cannot keep up the cadence of catching up when taking care of [[Theodore]]
+- # Career
+    - [[2022 review in [[Preface]]]]
+    - Consultancy has zero revenue this year.
+    - Cannot build Twitter audience.
+    - Connect with Jane Wong through [[Preface]].
+    - First exposure to investor.

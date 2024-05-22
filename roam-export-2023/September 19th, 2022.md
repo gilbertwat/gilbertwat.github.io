@@ -1,0 +1,36 @@
+- [[[[2022]] Week 38]] [[goals]]
+    - [[Preface]]
+        - [[team building]]
+            - {{[[DONE]]}}  Celebrate with tech team on MVP launch for buy link on [[September 21st, 2022]]
+        - shipping
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 1 Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+            - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+        - #hiring
+            - {{[[DONE]]}}  [[Gemmy Wong]] follow up Finished at [[September 24th, 2022]]
+- {{[[DONE]]}} [[September 20th, 2022]] has with breakfast tasting, remember to notify [[Wifey]]
+- Read https://news.ycombinator.com/item?id=32854528 about [[software]] [[architecture]]
+    - Always [[design]] the [[software]] not to depend on the external parties.
+    - {{[[DONE]]}}  #shared this with tech team for designing system references Finished at 14:59 [[October 3rd, 2022]]
+- Read https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/ about [[marketing]] and [[management]]
+    - A note on people working in audio companies who aren't experts in audio. Product development and management (among others) are important skills that most businesses can't live without. And you don't need audio expertise to be good at them. Audio companies simply suffer from the same problems as any other technical business - sometimes management ignores engineers at the wrong time. Or engineers don't speak up at the right time. You may have heard the results of such failures here and there. [[management]]
+    - Would you rather make $50 per unit on 100 units, or $5 per unit on 100,000 units? Yes, so would they. Niche applications are not of interest to most manufacturers, especially in China, because marketing to high end audiences isn't (at least a few years ago, it wasn't) as easy for them. [[business]]
+    - If you want excellent sound, you need to look for a specialty shop or a DTC online marketplace (e.g. Amazon). If you want **anyone** in retail to know and care about audio, well, follow the advice of many people in this thread exhorting you to support local specialty shops. They are the only ones who can afford to care. [[business]]
+- https://medium.com/@reidtandy/the-pitfalls-of-churn-rate-a45b4f5bdf00 about [[churn]] and [[LTV]] about building a [[SaaS]] [[business]]
+    - [[churn]] is an aggregate metric, not very actionable and could be misleading
+    - [[retention rate]] is on per-user, more actionable.
+    - [[retention rate]] is also able to derive [[cohort analysis]].
+    - [[churn]] rate is completely independent of improvement in [[LTV]]
+    - [[churn]] spikes during periods of exceptional subscriber growth
+    - Growth stage & other factors impact the application of [[churn]] rate
+    - [[churn]] rate is industrially dependent
+    - Do NOT use [[churn]] rate to determine [[LTV]]
+    - [[churn]] will burn through the TAM
+- [[Anna Yu]]
+    - Pricing
+    - Nomad matching (state machine)
+    - Not using current feature
+    - Recommendation (duplicate courses)
+    - Personal Touch is differentiating
+    - Phone and Laptop is 50/50

@@ -1,0 +1,4 @@
+- Transfer 100USD to [[firstrade]] account for [[stock]] to test out the flows
+- Research and learn [[SEO Project]]
+    - The water is deep
+- [[[[Preface]] [[product]]: A.I. Coffee 2.0]] update for [[Chanel]] chat with [[Silvia Wong]]

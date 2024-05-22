@@ -1,0 +1,107 @@
+- 00:00
+    - {{[[DONE]]}}  Check bambooHR #[[foundation activity]]
+- 09:30
+    - {{[[DONE]]}}  Check {{[[DONE]]}}  [[Alexander Li]] for [[Preface data strategy from 2022 Q4 onwards]]  Finished at 11:10 [[November 17th, 2022]] and give feedback. #[[foundation activity]]
+- 09:55
+    - {{[[DONE]]}}  Prepare for [[August 23rd, 2022]] [[[[[[Preface]] leadership team]] weekly meeting]] #[[transformative activity]]
+        - {{[[DONE]]}}  Sharing the current [[[[UI]]/[[UX]]]] design of [[[[Preface]] Seamless Buy Link]]
+            - Thank you 
+                - [[Carmen Yeung]] for setting up the brand color guidelines
+                    - with the new color set in the brand color, we can create a warmer first impression
+                - Your patience of course, I am quite nervous not to be able to ship something significant with significant impact.
+            - Background sharing
+                - Recap from [[[[Preface]] tech strategy 2022-2023]]
+                - Why #.rm-hide
+                    - This is an extension of our payment link feature in the portal. Currently we need our colleagues to generate a payment link for our customers to pay. We will update the payment link to require no operation from Preface and no shopping cart. All we need to do is share the link to our potential customers. There is no human intervention in collecting payment from our customers.
+                    - Why is it the utmost important feature? We have a lot of lead generation and conversion channels. Unfortunately those channels are very ineffective. They are not effective because it is very hard to attribute correctly. The attribution and conversion happens in the current conversion channels, either from the payment link and shopping carts. They are both too long, error prone and manual.
+                    - __Seamless Buy Link __is a robust and effective conversion channel. It will unlock even more sales channels. One example is we can now put the specific bootcamp or annual pass buy link on our marketing affiliate websites. Or we can put a QR Code right next to the exact course timetable on our brochures or leaflets. Customers can sign up and pay within less than 1 minute.
+                - TLDR: We need a shorter conversion channel without our attention to operation.
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2F_KzkJJERnF.04.27.png?alt=media&token=4a1c93fd-eb31-4f35-8794-9fe828ea5728)
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2F2gSk2jNpVy.05.22.png?alt=media&token=ed048d0f-c8a4-4477-bbc4-54d25b9d6097)
+            - Walkthrough the [design file](https://www.figma.com/file/uncY5aLrkCffPpvnGshytR/Preface-Web-2022?node-id=6779%3A62418)
+                - Setup the tone: 
+                    - feedback gathering, unsolicited one will be even more welcome
+                    - Stop me whenever you find anything off
+                - In detail on Annual Pass (Membership)
+                    - Each app state can be bookmarked.
+                - In detail on bootcamp selection
+                    - Streamlined the selection of individual course
+                        - Age
+                        - Course
+                        - Venue
+                        - Time
+        - {{[[DONE]]}}  Sharing the approach to make [[Ken Chow]] works
+            - Summary
+                - Ken's work has shown significant improvement, although the efficiency and attitude is still
+            - Thank you [[Carmen Yeung]] for giving me a lot of context and background information
+            - Thank you [[Vegas Ho]] for giving me also a lot of context and background information, also with some very good advice so I am more confident in my approaches.
+            - Actually also need big support from [[Ben Cheng]] and [[Anna Yu]] to already build trust in him.
+            - Also critically, [[Ken Chow]] himself need to be capable and eager.
+            - Set tactics based on his feedback and his workstyle
+            - Tactics
+                - Daily sync up (Slack / IRL)
+                    - Yesterday do we have progress?
+                    - What is your plan for the coming (week / day)?
+                - Timely feedback with him
+                    - Had a [[1:1]] with him on [[August 9th, 2022]]
+                        - References #.rm-hide
+                            - [[1:1]] with [[Ken Chow]]
+                                - Meeting Notes
+                                    - Sharing the gap in quality of work expected from us and him
+                                        - __**It is a sharing document, will iterate. Focus on UX**__
+                                            - Shared that UX there is also gaps.
+                                            - Not expecting the first version to be in such stage.
+                                        - **__Time is a big constraint.__**
+                                            - Shared that time is not a constraint now, quality is.
+                                            - Updated the collaboration model to be:
+                                                - Ask about what will be needed for him to do his best job.
+                                                - Proposed the ideal solution from him
+                                                - Trim by teammates with rationales.
+                                    - Culture problem I picked up
+                                        - **__No one is hearing my concerns before.__**
+                                            - From now on Gilbert, Ben and Anna will be helping you to resolve those blockers.
+                                        - **__I don't have enough tools to design my best work.__**
+                                            - A change of mindset needs to happen, rather than constraining himself, challenge himself to find the right person to talk to.
+                                                - Example: 
+                                                    - If the design system missed some elements, he needs to contribute. (Serif font, monospace font, missing brand color that is warm)
+                                    - Expectation set
+                                        - Best his best self for 8 hours per week day, resolving UI/UX design issues with product / engineering team
+                                        - Bring up challenges in doing his best job (Design System, illustrations, assets, photography, time ...etc.) and proactively resolve those, Gilbert and other leaders are here to help.
+                                        - Can use very technical design lingo to discuss design issues with design team and tech team.
+                                            - Example set:
+                                                - In the meeting we discuss about the color of the primary button and CTA button
+                                                    - In the original design, we use the darkest gray and brand blue for two type of colors.
+                                                    - Gilbert found the color of the secondary button is too strong.
+                                                    - In the debate, we explored:
+                                                        - In the design system, we need to emphasize the button.
+                                                        - In other luxurious brand, we have no exception to use darkest gray to be the color of the primary button.
+                                                        - Data tell brand blue is having the highest number of clicks in our public website.
+                                                        - By hierarchy, they are of the same level.
+                                                    - We settled with a better colors for the secondary button with the rationale of hierarchy
+                        - TLDR: let him be heard, form action plans together
+                        - Trust me it is super hard for me
+                        - Until I can debate with him on [[[[UI]]/[[UX]]]] issue with technical lingo he seems understand more
+                    - Had a meeting with [[Carmen Yeung]] and him on [[August 10th, 2022]]
+                        - References #.rm-hide
+                            - [[Ken Chow]] feedback session with [[Carmen Yeung]]
+                                - A very harsh and honest session
+                                - [[Ken Chow]] is a very high ego person currently
+                                - [[Ken Chow]] has a low self-awareness currently
+                                - [[Ken Chow]] needs to listen currently
+                        - TLDR: based on his character give some productive feedback and motivator.
+                            - We will put ^^designed by Ken Chow^^ in our digital product
+                            - I trust him to do a good work and care, or else he will just go with the flow and not have so many complain
+                            - Disregards / counter unproductive sentences
+                                - **"It is the first time I received such feedback."**
+                                    - __I have put the same feedback on comment session on feedback.__
+                            - Be firm on stuff that is wrong and refine the message along the way.
+                            - #hot-take Use more technical lingo as it will bridge the gap between him and me.
+                - Respect boundary (he took 2 days AL. I didn't call at all, even when I am super impetuous)
+            - All in all luck play a part too
+            - TLDR
+- {{[[DONE]]}}  Give a thought about how I should credit to [[Yoon Kim]] on taking over [[Alexander Li]] on the presentation side.
+- {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]]
+- 16:30
+    - [[Gemmy Wong]] on design critique #[[transformative activity]]
+        - Explore refined UI

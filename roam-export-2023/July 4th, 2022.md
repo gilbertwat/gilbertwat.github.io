@@ -1,0 +1,73 @@
+- {{[[DONE]]}}  Slides for my session to welcome interns
+    - Who are we
+        - Ellen
+        - Carmen
+        - Gilbert
+    - Who is in our team
+        - Ben
+        - Ehsan
+        - Alex
+        - Moses
+        - Yoon
+        - Jeffy
+        - Cheryl
+    - How we organize
+        - Engineering Team
+            - Maintain server reliability and performance
+                - No Portal No Website No business
+            - Ship product features
+                - No new features cannot adapt to changing business needs
+                - We work very closely with product team and ops excellence team on external and internal features
+            - Introduce new technology to the company
+                - New javascript framework such as Next.js
+                - To small library to enhance developer productivity
+            - (More development focus)
+        - Data and AI
+            - Build a data platform for our business units for operations and analytics
+                - Daily Scheduling of class
+                - To a data warehouse to enable self-serving analytics for other departments
+            - Introduce new data technology to the company
+    - What will you contribute?
+        - CODE (Python and Javascript)
+        - Guarantee you will immerse yourself to a startup engineering best practices
+            - TDD, System Design First, Document based discussion and decision
+        - And expect you to put all your energy to our projects
+            - New greenfield projects
+            - No legacy code
+            - Create business critical features
+    - Hope you will enjoy it
+- {{[[DONE]]}} Compile Expense list for [[Preface]]
+    - Vercel
+    - A2Hosting
+    - Team lunch
+- Think about [[hard conversation]] I would like to bring up in [[[[Preface]] leadership team]] offsite on [[July 8th, 2022]]
+    - Attrition
+        - OG
+        - leadership team
+        - New joiners
+        - Solutions??
+    - Investors concerns
+        - Free Cash Flow?
+        - Revenue?
+        - Growth Space?
+        - Growth Bottleneck?
+    - Focus direction
+        - Preface 2.0 - New product line for working adults
+        - Solving current operational hiccups
+        - Content House for technology authority
+    - Speed up the actions on addressing issues
+        - Example:
+            - All hands to be held bi-weekly
+            - Expansion in Tsim Sha Tsui
+        - One of the solution is 2 answers to all initiatives (Go Now/ No Go for now + Why)
+            - No concerns
+    - Enable work level to help us solve problems
+        - Suggestion
+            - Team Heads focus on
+                - New business/product/technology line pioneering
+                - Setting up OKRs for current business
+                - Directional cross team coordination (AKA strategy)
+                - Hiring Key Contributors
+            - Managers
+                - detailed cross team coordination
+                - Hiring and Up-skilling

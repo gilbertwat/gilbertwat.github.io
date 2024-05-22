@@ -1,0 +1,24 @@
+- 2.4.6 Business Performance Milestones set for every six months during the entire incubation period.
+- Milestone Details
+    - First 6 Months
+        - The MVP of our Customer Portal for our digital product is completed.
+        - An AI-powered recommendation for our customers to enroll to the best education / training experience on Preface for themselves and for their kids. 
+        - Target users will be our current base of customers. (~500 MAU)
+    - Second 6 Months
+        - Customer Portal supports B2B customers to subscribe to our happenings with customized experience such as meal and learn.
+        - B2B customers can use our coffee app to enjoy the our food and beverage with unique coding experience.
+        - Collecting our customers contribution to our review and learning progress is streamlined into our recommendation engine to provide more suitable offerings.
+        - Nomad Portal MVP that allow us to onboard quality teachers and up-skill current teachers with marketplace mechanism. 
+        - International support for our product lines.
+        - Customer Portal: ~1000 MAU
+        - Nomad Portal: ~100MAU
+    - Third 6 Months
+        - Customized Video contents for our customers to purchase and learn in their own pace.
+        - B2B customers can see their KPI and analytics for their organization and customize their content for their staff.
+        - Coffee App can be a first playground for non-tech people to have a taste of full-suite coding.
+        - Customer Portal: ~2000 MAU
+        - Nomad Portal: ~200MAU
+    - Forth 6 Months
+        - Modular content system is completed with AI suggestion on customized learning experience for all our customers.
+        - Customer Portal: ~4000 MAU
+        - Nomad Portal: ~400MAU

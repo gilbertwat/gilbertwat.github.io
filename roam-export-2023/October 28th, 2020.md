@@ -1,0 +1,147 @@
+- Always radiate your gratitude and good vibe;
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #[[📚 Learning materials]] https://duckdb.org/docs/why_duckdb#standing-on-the-shoulders-of-giants
+- #Notes URL https://blog.cloud66.com/rails-configuration-in-kubernetes/ 
+    - Topics
+        - #Kubernetes #[[Ruby on Rails]] #Ruby [[local environment development]]
+    - Excerpt
+        - If you're wondering, here is a short list of the challenges of running Rails in Docker:
+            - What's the best way to build an image? Every developer for themselves? A base image shared with the team?
+            - Where to put the code? In the container or mounted as a volume? (BTW, is it only me, or do you have to google Docker Volume syntax every time?)
+            - Issues with Node.js and compiling assets, webpacker, and running webpacker development server in containers.
+            - Docker Compose failing to shutdown containers randomly and consuming four times more resources compared to running Rails web and Sidekiq outside containers.
+            - Have a private gem? Welcome to the nightmare of SSH key sharing inside of a container image.
+    - {{[[DONE]]}}  Takeaways 
+- #Thinking The learn in public movement + streaming online is a good way for teachers and students to learn and teach as it is very accessible.
+- #Thinking The trend of information overload / overflow / accessible to all is still very very strong.
+- #Notes URL https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html 
+    - Topics
+        - [[machine learning]] [[Interview]]
+    - Excerpt
+        - What are some unsupervised learning methods?
+        - What is underfitting / overfitting?
+        - What is batch normalization? What's the motivation behind it?
+        - What is dropout? 
+        - What optimizers have you used? And typically some follow-up like, why does momentum make sense?
+        - What are some object detection techniques / papers that you are familiar with? (Computer Vision specific)
+        - What are decision trees? 
+        - How does logistic regression work?
+        - How do you train a linear regression model?
+        - What are some loss functions that you are familiar with?
+        - Why does Cross Entropy loss make sense?
+        - What are residual networks?
+        - **List Successes** - Write down a list of successful projects and situations from you past that you think you had handled well. Go exhaustive - and try to get to 5-10 situations.
+        - **Story Writing** - For each of these, write how you want the story to be told. This is critical, because you'll likely not do the situation any justice if you are talking about it for the first time during the interview. You have to remember that the interviewer knows absolutely nothing about your situation, and hence spending time on setting up context is important. You should then clearly articulate what the challenges were, and how you handled it, and your takeaways. This process gets easier if you write about successful projects when the memory is fresh in your mind. You'll always need to recap your success stories, for the next job or to get a raise. So spending a few hours at the end of a successful project to write a retrospective is a huge force multiplier, and you'll come back to refer to this document often.
+        - **Map to Competencies** - Before you interview at a company, look at the values / competencies they look for, and map each of them to some story from step (1). This will be a many-to-many map, so you'll have backups, and you can pick a story during the interview to optimize for impact and diversity of stories.
+        - **Rehearse** - Do practice interviews with a friend/co-worker/spouse and rehearse your stories.
+        - Always ask: Is the work that I am going to be doing in this team critical to the product/business? Note that in the case of larger companies, you should try to understand if the product or business that the team supports is large enough. The hiring manager should be able to clearly and succintly articulate the team's mission. There should be well defined examples of past projects and future milestones that relate to company priorities. For ongoing/future projects, how would stakeholders adopt if this team were to stop existing?
+        - If you are joining a research team, the company should be profitable enough and have enough cash to support research activities for the long term, or if not, the research being done has to be critical to the company's mission.
+        - When you decide to start interviewing for jobs, **always always** talk to multiple companies - it is definitely painful to manage and prepare for multiple interviews, but you need to be able to walk away from a sub-optimal offer, and you can only do that when there are multiple offers or promising processes in the pipeline.
+    - {{[[DONE]]}}  Takeaways
+        - Always talk to different companies when job hunting.
+        - Always understand whether the team you are working with is working in business critical areas.
+        - Match your competencies with the company you are evaluating
+        - List your success stories.
+    - [[🤔 Questions]]
+        - #[[machine learning]]
+            - What are some unsupervised learning methods?
+            - What is underfitting / overfitting?
+            - What is batch normalization? What's the motivation behind it?
+            - What is dropout? 
+            - What optimizers have you used? And typically some follow-up like, why does momentum make sense?
+            - What are some object detection techniques / papers that you are familiar with? (Computer Vision specific)
+            - What are decision trees? 
+            - How does logistic regression work?
+            - How do you train a linear regression model?
+            - What are some loss functions that you are familiar with?
+            - Why does Cross Entropy loss make sense?
+            - What are residual networks?
+- #Notes URL https://blog.trezor.io/austrian-economics-and-bitcoin-a-virtuous-cycle-9bf89ca6a7cc 
+    - Topics
+        - [[cryptocurrency]]
+    - Excerpt
+        - Today, interest rates are artificially lower due to the creation of money from thin air. They are lower without lower time preferences. The result of this disequilibrium is a disaster. On the one hand, artificially low interest rates motivate us all to save less and spend more money now (who would save for 0% return?) but, on the other hand, they send a signal to entrepreneurs that they should build long-term projects. Sooner or later, new money will start to push up prices and central banks will have a choice — to either let the market be damaged by inflation or to raise interest rates, which will stop growth and cause the economy to collapse. Doesn’t this feel familiar? How close is it to the story of the 2008 financial crisis? For the Austrians, the crisis was not random noise, but the bursting of a long-inflated artificial bubble. It is the bubble we should study!
+        - To make it even better, Austrians have long talked about how perverse the political market and the public sector are. At the end of the war, Hayek explained why the worst kinds of people rose to the (political) top, and a year before him Mises had perfectly analyzed Bureaucracy in a book of the same name. Bitcoin takes power from politicians and bureaucrats. The worst can still easily reach the top, but they have nothing to destroy there. Bureaucrats may continue to be ineffective figures maximizing their own well-being, but the monetary policy of Bitcoin is not affected.
+    - {{[[DONE]]}}  Takeaways
+- #Notes URL https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html 
+    - Topics
+        - [[🧘🏻‍♂️ Self Awareness]]
+    - Excerpt
+        - 1. They say no to opportunities and things that don't excite them, speak to their values, or further their mission in life.
+        - 2. They say no to superficial [networking events](http://inc.com/marcel-schwantes/3-winning-habits-youll-find-in-most-successful-people-this-year.html) in which people swap business cards and never hear from one another. Why? Because successful people don't network. They build relationships.
+        - 3. They say no to spending time with uninspiring, critical, or negative people who drag them down. Time is precious -- choose a small circle of people who will energize you and challenge you to be better.
+        - 4. They say no to overworking. While it's true some successful people and many entrepreneurs put in 60 to 80 hours per week, very successful people aren't workaholics who neglect self-care and family. They recognize that if they can't take care of themselves, everything else suffers.
+        - 5. They say no to doing all the work. This comes down to one word:
+        - D-E-L-E-G-A-T-I-O-N.
+        - 6. They say no to giving the steering wheel of life to anyone else. Another Buffett quote affirms this: "You've gotta keep control of your time and you can't unless you say no. You can't let people set your agenda in life."
+        - 7. They say no to people-pleasing. Successful people don't neglect their deepest wishes and desires to accommodate and yield to others' wishes and desires.
+        - 1. Write down a list of your top 25 career goals.
+        - 2. Circle the five most important goals that truly speak to you. These are your most urgent goals.
+        - Now here's the real kicker.
+        - 3. Completely eliminate the other 20 goals you have listed. Just cross them off, despite if they hold weight or some level of importance.
+    - {{[[DONE]]}}  Takeaways
+        - Excitement is a key element of making choices.
+        - Your value is a key element of making choices.
+        - Furthering the mission in life is a key element of making choices.
+        - Challenge people to be better is a critical leadership traits.
+        - Delegate works
+        - #MyNoList People pleasing
+- [[Technoidentity]] Testimonial
+    - Technoidentity is one of our essential partners in iterating our products with high cadence and quality. Their mobile experts are adaptive, proactive and have a natural desire to succeed with your projects. We count on them to ship critical features, work seamlessly with our SDLC and improve our developer experience with little onboarding time. Their account manager supports our requirements with great care and flexibility. As a result, we can ship multiple product features on time with good quality to meet our product needs.
+- #Tools #[[🔢 Software Development]] #[[data pipeline]]
+    - https://beam.apache.org/documentation/
+- #Tools #[[🔢 Software Development]] #Frontend Timeline
+    - https://github.com/prabhuignoto/react-chrono
+- [[1:1]] with [[Gemmy Wong]]
+    - In app chat quality issues
+        - User name / User ID on push notification
+            - Design check
+            - QA check 
+            - Dev mindset
+    - B2C Quoting page progress
+        - [[Rob Dong]] a bit agitated
+    - Driver subscription Unify Vocab not started yet.
+    - [[Tom Lau]] Mid December left
+    - Research new direction: understanding landscape
+        - Have a notion page.
+- [[[[1:1]] with [[Jim Wong]]]]
+    - How do you feel recently?
+        - 
+    - How is your {personal project / family}?
+    - How is your theme / project?
+    - How is your function?
+        - bugsnag
+            - Breadcrumb feature. Customized trace.
+    - #CircleBack topics
+- [[1:1]] with [[Ka Kui Tsang]]
+    - Self aware on quality issues
+        - Architectural problem??
+        - Common Library workflow
+            - Too much coupling in in-app chat
+            - Ideal:
+                - Only change version number in DA & CA can apply bug fix
+    - #CircleBack on refactoring project exactly what to do and when to do?
+        - Goals: 
+    - Many small bugs on in-app chat
+    - Most frustrate bug
+        - (memory leak)
+        - Cannot open chatroom (P0)
+- [[1:1]] with [[Rob Dong]]
+    - Feature feature feature too many execution
+        - Possible way out is [[Mohammad Ahmad]] and [[Matthew Ng]] to pick some more planning / retro on feature delivery
+    - [[Rob Kealey]]
+        - Nudge him maybe a lunch? to check temperature
+- [[1:1]] with [[Jackson Chung]]
+    - Not much
+    - Feel good about sonarqube
+- [[GOGOX]] #[[ideas]]
+    - Performance test?
+    - API E2E Test?
+- [[How do you feel when you wind down?]]
+    - {{slider}}

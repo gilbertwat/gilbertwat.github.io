@@ -1,0 +1,21 @@
+- 
+    - https://peterattiamd.com/the-importance-of-red-teams/
+        - Red teaming
+            - Help the organization to improve
+            - A good red team keep the blue team honest
+            - A bad red team
+                - Conspiracy
+                - Cherry-picking
+                - Fake experts
+                - Moving the goalposts
+                - Logical fallacies
+            - Premortem
+- How do you feel when you wake up?
+    - Expressionless
+    - Desperate and hopeless about [[GOGOX]]?
+- ((t2QZpu4R_))
+    - I successfully meditated ([[me time]]) for almost 1 hours throughout the day.
+    - I kinda remove all distractions and practicing [[stoic philosophy]]. 
+    - I tried to remove all 🎯 Focus and search my soul for [[🧘🏻‍♂️ Self Awareness]]. So far I care about ((NYwOUV3mG)), mostly my [[Wifey]] and ((P4PLsikLN)). But my care is not very strong. I need some more [[me time]] to recharge.
+    - I actually care deeply about if I am able to live freely, in an environment of Freedom. But at the same time I have [[GOGOX]] that I either inherited or taken willingly.
+    - 

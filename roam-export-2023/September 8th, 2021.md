@@ -1,0 +1,20 @@
+- 09:00 - 09:30 {{[[DONE]]}}  Tweet 2 [[Twitter]]
+- 09:30 - 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2F0xV1GePgES.png?alt=media&token=5289c388-c17e-414d-9832-b3825d13e30a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Ft7rM6Y1hoi.png?alt=media&token=8d394f3d-ce8a-4fbe-b66b-d1224897d230)
+    - [[Family [[finance]]]] is a way to incentivize people to do things
+        - Assume the world has a unfavorable market of $X USD in a raw material
+        - Raw material -> Refine and sell (y% margin)
+        - Raw material -> Do nothing (z% credit if fulfilled)
+        - Where does this z% credit comes from?
+            - Someone can provide liquidity to gain ownership of those credits
+        - A market hence formed
+        - https://www.investopedia.com/ask/answers/100915/does-working-capital-measure-liquidity.asp
+- #Anger #Feeling when the restaurant owners are struggling to change the dishes for my colleague when there is a mix up in the orders
+    - Reason:
+        - Still a bit hungry although I am already eating
+        - The argument is a waste of time and there is already a good way to solves it
+        - My colleague is being treated badly, and unnecessarily
+- [[Sleekflow.io]] analysis
+    - An aggregator of all customers related instant messaging tools for B2B enterprises
+- [[Rob Dong]] is resigning

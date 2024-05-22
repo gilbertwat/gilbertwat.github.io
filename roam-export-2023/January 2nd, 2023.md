@@ -1,0 +1,9 @@
+- #[[08 2023]]
+- 11:54
+    - {{[[DONE]]}}  Plan for the week ahead
+- 22:32
+    - [[gratitude dairy]]
+        - [[Theodore]] shows a lot of signs of he understands what is cause and effect.
+            - He can roll the ball to his designated direction by a stick or his hand.
+                - In the same move, he is showing a lot of physical movement intelligence.
+        - Able to fully rest because [[Wifey]] is constantly reminding me.

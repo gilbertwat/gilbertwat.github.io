@@ -1,0 +1,7 @@
+- On day preparation
+    - Material
+    - Knowledge
+- 0-3 months
+    - Material
+    - Gradually need no night feeding session
+    - [[Wifey]] and [[Wifey mum]] rest more 

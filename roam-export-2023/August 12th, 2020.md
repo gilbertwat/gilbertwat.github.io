@@ -1,0 +1,48 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Prepare [[Equlibrium.World]] [[Frank Meehan]]
+        - Venture Capitalist
+        - Definitely know how to market himself
+        - Question list for him
+            - How does the market looks like?
+                - Current Market Cap
+                - Growth in market
+                - How does COVID-19 change your business
+            - What is the product vision? Why are we doing this?
+            - Who is our customer?
+                - Big corporation I guess?
+            - Where do you see gaps of innovation?
+            - One sentence in equalibrium culture you want to create.
+        - Prepared questions from him?
+            - Experience
+                - Android dev
+                    - Repeat implementation of same feature 3 times to get it right
+                - Founding team members
+                    - No experience, too focus on tech
+                - Execute Product Market Fit in Ad Product in SF
+                    - Experienced product market fit, a small one
+                - Corporate
+                    - 
+                - Growth stage startup
+                    - 
+            - Principle
+                - Details = Execution
+                    - Steve Job references
+                    - Blog section
+                    - Measure Tartgets
+                - Slow is smooth, smooth is fast
+                - Fast feedback loop
+                - Adaptive
+    - {{{[[DONE]]}}}} QAE Interview
+    - {{{[[DONE]]}}}} [[All Hands [[meetings]]]]
+    - 
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

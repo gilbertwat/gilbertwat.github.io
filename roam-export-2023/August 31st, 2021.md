@@ -1,0 +1,35 @@
+- Still reflect on the [[Sleekflow.io]] interview went bust thingy
+    - #[[🧘🏻‍♂️ Self Awareness]]
+- 09:13 {{[[POMO]]: 25}} 
+    - [[Twitter]]
+        - [[vibe]] #[[🧘🏻‍♂️ Self Awareness]]
+            - Cheerful mostly, sometimes sacarstic
+            - Hot takes
+- 10:00 [[1:1]] with [[Young]]
+- 10:20 {{[[POMO]]: 25}}
+    - {{[[DONE]]}} Read [[Summary of  [[GOGOX]] Application Proof]]
+- 16:00 [[1:1]] with [[Lili Chan]]
+    - Context:
+        - There is an incident recently
+            - Some routes cannot place order after deployment of server
+                - Not online people
+            - CS found out via customer feedback
+            - Incident last from 1pm to 4pm  (3 hours)
+                - Fixed by rolling back server
+        - There is ticket status issue
+            - The main ticket status is not updated properly
+                - Consequence: Day 8-9 [[QA]] rush to verify
+    - [QA]] capacity challenge
+        - Symptoms
+            - do not help in creating solution in firefighting situation
+            - missing communication on the ticket
+            - missing information on the ticket from CS 
+            - product driven vs ticket by ticket
+        - Probable root cause
+            - [QA]] is overwhelmed
+    - [[Actionables]]:
+        - DONE: Agree with [[Shamiya Patel]] concrete process to follow
+        - Use more online communication for firefighting situation
+        - Schedule agreements with the team to push quality and maintain reliability
+        - Work with [[Keith Chan]] on growing [[Karl Tai]] to be more responsible
+            - Suggestion: be warm and kind to contrast [[Keith Chan]] 😅

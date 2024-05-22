@@ -1,0 +1,128 @@
+- # [[Week 36]] Goals
+    - {{[[DONE]]}}  Ship [[[[Preface]] Seamless Buy Link]] MVP
+    - {{[[DONE]]}}  [[Ken Chow]] ultimatum
+        - {{[[DONE]]}}  Develop communication plans
+    - {{[[DONE]]}} #[[carry over]] [[[[2022]] Week 37]] [[Preface]] [[data warehouse]] showcase Finished at 15:02 [[October 3rd, 2022]]
+        - {{[[DONE]]}} [[Alexander Li]] will ship v1 first on [[September 9th, 2022]] -> [[September 16th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+    - # Projects that need time | Overdued
+        - [[Gilbert Wat]]
+            - Investment
+                - {{[[DONE]]}} Consider if I want to get a master degree online https://omscs.gatech.edu/apply-now to increase the chance of getting a good job when I have to migrate Finished at 11:21 [[November 17th, 2022]]
+        - [[Preface]]
+            - Building teams
+                - {{[[DONE]]}}  Find talent to improve [[[[Preface]] [[product]]: Coffee App]] Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Find contractor to update our coffee app to support some new functionalities. Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}} Find talent to build [[Preface]] metaverse experience Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Resolve responsiblities of tools that has no responsible person 
+                    - {{[[DONE]]}}  wix site for AP
+                    - {{[[DONE]]}}  learnworld is [[Ellen Lau]] 
+                    - {{[[DONE]]}}  shopify is [[Mandy Ng]]
+                    - {{[[DONE]]}}  passkit is [[Kenneth She]]
+                - {{[[DONE]]}} Decide with [[Vegas Ho]] on Lok's answer #[[transformative activity]]
+                - Come up with sharing session format
+            - Outsourcing
+                - {{[[DONE]]}}  Find good enough loyalty program SaaS to kick start [[[[Preface]] membership scheme]] Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}} Scheduling software sourcing Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}} Try to ask a meta engineer to join as nomad. Finished at 11:20 [[November 17th, 2022]]
+            - Building company
+                - {{[[DONE]]}}  Can get SIlvia and Annie and Vegas to help write tagline for our packages with [[Anna Yu]] and [[Ken Chow]] [[[[Preface]] 2.0]]
+            - Strategy
+                - {{[[DONE]]}} [[[[tokenomics]] of [[Preface]]]] Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Alexander Li]] for [[Preface data strategy from 2022 Q4 onwards]]  Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Find the cost of building a metaverse coding class experience Finished at 11:09 [[November 17th, 2022]]
+                - {{[[DONE]]}} [[[[Preface]] Pre-Series B plan]] Finished at 11:20 [[November 17th, 2022]]
+            - Research
+                - {{[[DONE]]}} Find out which course is the hottest with a certain set of customers?   Finished at 11:09 [[November 17th, 2022]]
+                - 
+            - Execution
+                - {{[[DONE]]}} [[Alexander Li]] To enhance the list of contents with education related websites   Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Spec membership to outsource to designer and developer Given up at 10:57 [[October 10th, 2022]] as there is directional changes
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]] #[[foundation activity]]
+        - Events in the weekends
+        - Potential mandatory participation of weekend task for all staff as there is lack of manpower.
+- 09:45
+    - [[Vegas Ho]] on [[Ken Chow]] #[[draining activity]]
+        - #decided that we will end our collaboration on [[September 9th, 2022]]
+        - {{[[DONE]]}}  Develop communication plans
+            - {{[[DONE]]}}  to leadership team
+            - {{[[DONE]]}}  to [[Ken Chow]]
+            - {{[[DONE]]}}  to tech team
+            - {{[[DONE]]}}  Plan run down
+- 10:15
+    - [[Ben Cheng]] on [[Ken Chow]] #[[draining activity]]
+        - Explained my decision on Ken
+            - #decided that we will end our collaboration on [[September 9th, 2022]]
+        - Collectively definition of underperformance
+            - We cannot trust him/her to complete his/her responsibilities.
+            - We cannot aligned an effective communication channel and cadence with him/her.
+            - We cannot foresee a future that he/she can be contributing to our projects.
+        - Signs of underperformance:
+            - We are assigning a scope of work to the person and still need to micromanage the execution of the scope of work.
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]] #[[foundation activity]]
+        - Shared the Potential mandatory participation of weekend task for all staff as there is lack of manpower.
+- 12:00
+    - [[data team with [[Tommie Lo]]]] #[[foundation activity]]
+        - Want a demo from AI team.
+        - {{[[DONE]]}}  Delegated [[Alexander Li]] to do the recap
+            - Discussion
+                - Mentioned research into #huggingface and [[Jeffy Fung]]'s intro to [[Transformers]]
+                - Recognise and reiterate the need for further data collection to proceed with more impactful machine learning
+                - [[Tommie Lo]] propose looking into an approach that focuses on a more specific subset of data needed for a focused ML experiment instead of canvasing a wide range of data
+                    - Difficult to capture all the perceived necessary data in one go
+                - Discussion about [[Tommie Lo]]'s vision for machine learning content recommendation
+                    - Have a model that can recommend content close to the student's interests
+he recommendation is for a singular 'entity' but that entity can be made up of `N` number of students
+                        - In case of multiple students, we can aggregate some calculation of interests
+            - Moving Forward
+                - Continue research into ML models
+                - Prepare and think about a more clear roadmap to deployment
+- 12:45
+    - [[Tommie Lo]] on [[Ken Chow]] #[[foundation activity]]
+        - Approved our #decided that we will end our collaboration on [[September 9th, 2022]]
+- 13:00
+    - [[Preface]] content x data team kick off #[[foundation activity]]
+        - {{[[DONE]]}}  Delegated [[Alexander Li]] to do the recap
+            - Discussion
+                - Content Team Workflow & Challenges
+                    - No meaningful feedback loop to know if curriculum topics are close to the interests of students
+                    - Actual note generation is not the biggest issue. Generally as long as the content team knows what topic to use, the rest follows
+            - General
+                - Presented purpose of the meeting
+                    - Connect with  content team and see how the data team may be able to facilitate or enhance the workflow
+                    - Potential leveraging of existing webscraping project to enhance content identification and/or generation
+                    - Topic generation seems to be the most direct entry point
+                        - Current webscraping list is very SEO focused
+                        - If using the [[SEO Project]] to generate topics for curriculum building, will need to have a more comprehensive list of websites that can be focused o targeted at specific audiences
+                        - Brief discussion about targeting people who visit the Preface blog but do not convert into customers
+                        - Will require profiling of those users
+                            - TechBites
+                                - initiative to create weekly casual learning sessions on the most uptrend or hot topics
+                                - Back to hot topic identification as a useful tool
+            - Action item
+                - Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]]
+- 15:00
+    - [[1:1]] with [[Ehsan Ayaz]] #[[foundation activity]]
+        - What is your top of your mind since our last 1:1?
+            - {{[[DONE]]}} Ask about the profile and growth area of [[Ehsan Ayaz]], will get back to him on [[September 9th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+                - He need an action plan instead
+        - What is my top of my mind since our last 1:1?
+            - Growth of him, the blocker of his growth
+                - {{[[DONE]]}} Ask about the profile and growth area of [[Ehsan Ayaz]], will get back to him on [[September 9th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+- 15:30
+    - Fujita san meetup #[[restive activity]] #[[transformative activity]]
+        - New idea about connecting logisitcs and fintech settlement
+        - project to refine the idea for VC money or PoC Given up at 10:54 [[October 10th, 2022]] as there is no follow up
+- 17:00
+    - [[1:1]] with [[Cheryl Lai]] #[[foundation activity]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - {{[[DONE]]}}  Delegated her to draw a CSS mindmap and get back to me on [[September 13th, 2022]]
+- 17:30
+    - [[1:1]] with [[Jeffy Fung]] #[[foundation activity]]
+        - What is your top of your mind since our last 1:1?
+            - Nothing much
+            - Contribution to data / ai team?
+        - What is my top of my mind since our last 1:1?
+            - Nothing much

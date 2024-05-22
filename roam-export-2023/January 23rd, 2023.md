@@ -1,0 +1,4 @@
+- #[[29 2023]]
+- [[gratitude dairy]]
+    - [[Wifey mum]] is healthy and in good spirit
+    - [[Theodore]] has a good time in [[Wifey mum]]'s home

@@ -1,0 +1,12 @@
+- 03:00 [[Theodore]] feed, diaper and ...play time
+- 06:00 Zzzzz...
+- 09:00 [[Theodore]] feed, diaper time
+- 09:30 [[1:1]] [[Tommie Lo]]
+    - []] [[virtual onboarding SoP]]
+    - {{[[DONE]]}} [[[[Preface]] Pre-Series B plan]] Finished at 11:20 [[November 17th, 2022]]
+        - IT audit
+        - Engineering team + AI team expansion
+    - {{[[DONE]]}}  [[[[Preface]] tech debt overview and planning]]
+        - [[[[Preface]] Pre-Series B plan]] is depending on this
+- {{[[DONE]]}} Gas price estimation
+- 10:00

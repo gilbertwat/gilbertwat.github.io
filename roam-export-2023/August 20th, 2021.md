@@ -1,0 +1,26 @@
+- 08:30 [[Lower back spasm]] fix
+- 09:00 - 10:30 [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]] Discussion
+- 10:30 - 11:30 [[Book club]] of [[[[books]]: The Laws of Human Nature]] Preparation
+- 11:30 - 12:15 Monthly [[GOGOX]] [[OKR]] Review
+- 12:15 - 14:30 Lunch
+- 14:30 Set up [[beyond.ai]] First interview with HR manager
+    - Next 
+- 13:00 Set up [[Grantits.io]] Interview next week 
+- 15:00 - 16:30 [[Book club]] of [[[[books]]: The Laws of Human Nature]]
+- 16:30 - 17:00 Nap
+- 17:00 - 18:00 [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+    - [Distraction]] office environment
+    - [[Ceci]] is being bitched behind by her own team
+- [[coding]] with [[[[Maven.hk]] Zohar]]
+    - postpone with Zohar
+- Evaluating a [[Startup]] position jobs
+    - https://twitter.com/joshelman/status/1428206303546003467?s=20
+    - Financial components
+        - Base Salary
+        - Bonus
+        - Stock options
+        - Multiplier
+        - Vesting schedule
+        - Current Valuation
+        - Income sharing agreement
+- https://react-spring.io/common/imperatives-and-refs #React #Library #Animation

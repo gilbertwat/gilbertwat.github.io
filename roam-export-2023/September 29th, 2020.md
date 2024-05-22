@@ -1,0 +1,73 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - A bit headache 
+- [[[[2020]] [[[[Performance]] Review]] [[Victor Lam]]]]
+    - #Management
+- [[[[1:1]] with [[Belda Chan]]]]
+    - #Management
+    - Communication issues in [[firefighting]]
+        - Status updates more frequently in [[firefighting]]
+            - Solution: Role play
+                - Even loop in Product to address user experience in down time.
+        - Conversation in post mortem
+        - Post mortem with infrastructure team
+            - No-blame
+        - Consistency
+        - Feel bad for drivers
+        - Grafana dashboard revitalize
+        - Post Mortem
+- [[Decouple backend service release]] [[[[2020]] Q3]] [[review]]
+    - #Management
+    - We need to carry over to the next quarter as there are quality alignments need to be made and execute to move forward.
+    - **Done:**
+        - Feature flag maturity enough to guarantee business continuity (Even PM has split.io as standard)
+        - Automated Quality Infrastructure ([[Sonarqube]])
+        - Shortened user feedback loop infrastructure PoC([[Instabug]] PoC)
+        - Metrics and dashboard on App Health ([[Bugsnag]], [[Firebase]] and [[NewRelics]])
+        - API E2E tests ([[POSTman]])
+    - **TODO alignments / capabilities:**
+        - User level feature flag / configurations.
+        - Test in production capability. (There is some but not clear to developers yet)
+        - Automated release process capability.
+        - Agreed quality standard and dashboard building.
+        - Integrated API E2E tests to CI/CD pipeline
+        - Integrated App E2E tests to CI/CD pipeline
+    - **Should have alignments / capabilities:**
+        - API version deprecation policy
+        - App force update policy
+- [[Improve quality of delivery]] [[[[2020]] Q3]] [[review]]
+    - #Management
+    - We are quite successful in improving our quality of delivery in 2020 Q3. We are able to further double down on the code coverage and a better infrastructure will enable us to visualize more on our continuous improvement in quality.
+    - **DONE**
+        - Introduction of new Infrastructure [[Sonarqube]]
+        - [[[[GOGOX]] Platform]] area error dashboard on [[NewRelics]]
+        - [[Mobile]] Core SDK code coverage > 60% for both [[iOS]] and [[Android]]
+        - [[software delivery]] [[How to build a world class app?]] mindset
+    - **Next steps** in [[[[2020]] Q4]]
+        - [[Web]] update of some core components
+        - [[Mobile]] adoption of [[Sonarqube]]
+            - Generate report in [[Sonarqube]]
+            - Explore new capabilities in [[Sonarqube]] ecosystem 
+        - [[Mobile]] increase code coverage
+- [[Fuel company growth with enhancing product capabilities]] [[[[2020]] Q3]] [[review]]
+    - #Management
+    - We successfully shipped Configurable Additional Requirement, Van Bulk import for GGB, Radius Filter with increasing complexity and more accurate capacity estimation.
+    - Next step for us will be even better capacity estimation and research new capabilities on mobile and web for new product solution possibilities.
+- [[Praise]] from [[Alia Bei]]
+    - #[[🧘🏻‍♂️ Self Awareness]]
+    - Although this praise is long overdue, a praise has to go on record. I’ve received feedback from multiple sources that your team management skills have improved vastly. I personally agree with those feedback as well, the level of maturity when talking about your team and progress have turned 180 degrees when compared to a year ago.
+        - Your level of self-awareness ⬆️
+        - Level of stress managing deliver team ⬆️
+        - You’ve proven capable of leading mature team leads and retaining them
+        - Although you are still working on articulating your thoughts at 
+- times, you have proven capable of identifying your teams’ strengths and 
+- weaknesses.
+    - In order to continue to move up I strongly urge you to work on 
+- managing conflict (face problems immediately and get them out of the 
+- way) and gaining track record in building a stronger team by raising 
+- their level of self-awareness and how they should play their strength.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

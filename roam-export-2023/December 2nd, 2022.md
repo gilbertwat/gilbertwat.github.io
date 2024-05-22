@@ -1,0 +1,22 @@
+- Playing ChatGPT all day
+- 16:00
+    - [[Ambrose]] on [[[[Preface]] [[product]]: Coffee App]] rollout
+        - POS challenge
+        - Central challenge
+        - CWB challenge
+        - scope of rollout
+            - BP01-Gilbert as an example
+            - Production Pickup, Payment
+            - 100000 per month From PC to PCW
+            - API - Preface Education from report
+                - Extra source
+        - Constantly update hero image
+        - Photo shoot for products again for each menu changes
+        - 1 quarter per menu change
+        - 2/F photoshoot corner
+        - Unavailable has to be "unavailable on app"
+        - Blocked app when event is on
+        - preface calendar
+        - Someone to manage the App functionality
+        - scheduled
+        - 

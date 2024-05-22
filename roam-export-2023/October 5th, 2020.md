@@ -1,0 +1,10 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Muscle pain and my wrist is painful
+- [[[[GOGOX]] [[[[2020]] Q4]] [[planning]]]]
+- {{[[DONE]]}}  P0 definition discussion with Engineers QA and PMs
+- [[How do you feel when you wind down?]]
+    - {{slider}}

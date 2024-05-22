@@ -1,0 +1,13 @@
+- Sichuanese
+- Teo chew
+- Cantonese
+- Hong Kong
+- English
+- French
+- Italian
+- Spanish
+- American
+- Mexican
+- Korean
+- Japanese
+- Arabic

@@ -1,0 +1,2 @@
+- Keep formulate the [[Jordan B. Peterson]] thoughts and write it down
+- Read [[[[books]]: The Silk Road]]

@@ -1,0 +1,7 @@
+- Author:: [[frankrausch.com]]
+- Full Title:: Modern iOS Navigation Patterns · Frank Rausch
+- Category:: #articles
+- URL:: https://frankrausch.com/ios-navigation
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/ios-navigation-1200x.png)
+- ### Highlights first synced by #Readwise [[December 13th, 2023]]
+    - ![Illustration of drill-down columns arranged horizontally to show the concept of cascading lists](https://frankrausch.com/media/pages/tutorials/ios-navigation/c00958b6f4-1696255855/drill-down.svg) ([View Highlight](https://read.readwise.io/read/01hhgpd59w0jxa4gh1nmhgw6x5))

@@ -1,0 +1,4 @@
+- Steps to do depay credit card for [[ChatGPT]] Plus 
+    - Okcoin / Moonpay buy USDT #[[Tx Cost]]
+    - Transfer to depay
+    - convert back to USD #[[Tx Cost]]

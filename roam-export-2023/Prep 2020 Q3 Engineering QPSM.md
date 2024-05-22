@@ -1,0 +1,56 @@
+- Discussion with Young
+    - Country
+    - KR ???
+    - Complain from Driver
+    - Service
+    - Possible senerario
+    - 
+- Highlight on OKR Q2 (2 min)
+    - KPI report
+        - Bugs
+        - Uptime
+    - Delivery
+        - Fuel product growth across all products
+            - As product
+        - Invest into iteration speed and quality across products
+            - Constant Velocity
+            - Streamline JIRA status
+                - A lot of feedback
+                    - Will refine RFC / Communication
+            - Cross theme collaboration framework
+                - Still need more work to iterate on it
+            - Code coverage on mobile
+                - 
+        - Increase possibilities of our technology platform
+            - Kafka 
+            - Some PoC from [[Keith Chan]]
+                - 
+    - Infrastructure
+        - Infrastructure migration
+        - Okta adoption
+- Top 3 proposed priorities on Q3 for Engineering
+    - Percentage of adoption in Kubernetes Numbers**
+        - HK Platform
+        - Data team (Percentage) TBD (Common Understanding)
+    - Decouple Platform(Backend) release with App release
+        - Release anytime for backend services (Platform modules)
+    - Fuel company growth in product.
+        - Common OKRs for engineers in theme.
+- One more thing
+    - Faster iteration
+        - Individually we are capable now.
+        - https://twitter.com/GergelyOrosz/status/1280234303801131012?s=20
+        - Communication is the hardest
+        - Mindset need to change for cross functional collaboration
+            - No more factory streamline
+            - Early cooperation
+            - Light weight in-theme collaboration
+                - Make use of standup and short time after standup
+                    - Story
+                - Give concrete feedback to teammates
+                    - Story
+    - What is collaboration?
+    - 
+- [[SRE]] 2020 Q2 retro + 2020 Q3 planning
+- https://www.notion.so/gogovan/2020-06-18-Engineer-x-QA-Initiative-Sharing-and-Discussion-d3a4230977b441f58caf86e9f225e4b1
+- {{[[DONE]]}} [[Gemmy Wong]] / Gilbert

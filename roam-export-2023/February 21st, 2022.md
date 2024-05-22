@@ -1,0 +1,94 @@
+- 09:30
+    - Settle for [[paterity leave plan]]
+        - Project target date
+            - [[[[Preface]] [[NFT]]]]
+                - NFT webpage ([[February 23rd, 2022]])
+                - NFT User Guide first draft ([[February 25th, 2022]])
+                - NFT website with video (Feb 22)
+                - NFT smart contract first draft (Feb 25) 
+                - NFT deployment playbook first draft (Feb 25)
+            - [[[[Preface]] membership scheme]]
+                - Membership info page (Feb 22)
+                - Data structure first draft (Feb 25)
+                - Tier update mechanism first draft (Feb 25)
+            - [[[[Preface]] [[product]]: Coffee App]]
+                - Testflight + Alpha channel to Tin Hau VIP (Feb 25)
+            - Business Support
+                - Blockchain page (Feb 21)
+                - Livi Bank update on public website discussion(Feb 25)
+        - Projects target
+            - [[[[Preface]] [[NFT]]]]
+                - [[Ronald Kwok]]
+                    - #Research: Security of our NFT contract
+                    - #Discussion Solidify the feature supported by the smart contract
+                        - Suggested to include as little as number of features possible to limit the possible attack vector from a security point of view.
+                            - Public mint
+                            - Private mint
+                            - Verification of ownership
+                            - Burnable (maybe?)
+                            - Upgradable (maybe?)
+                    - #plan deployment of our smart contract on ETH chain
+                - [[Ehsan Ayaz]] 
+                    - #[[Execution]]: public website and NFT main page
+                - [[Gilbert Wat]]
+                    - #[[Execution]]: NFT User Guide
+            - [[[[Preface]] [[product]]: Coffee App]]
+                - [[Aaron Lai]] 
+                    - [[Execution]]: engineering tasks support to be robust for the first 1000 customers.
+                    - [[Execution]]: retool tasks to support CMS
+                    - [[Execution]]: Documentation for backend
+                        - Architectural diagram
+                        - Data Model (Collections) Design
+                        - API test suite
+                        - Operation Guide
+                            - Monitoring dashboard
+                            - Current alerts
+                            - API migration
+                            - Rollback
+                            - CI/CD
+                - [[Ronald Kwok]]
+                    - [[Execution]]: engineering tasks support to be robust for the first 1000 customers.
+                    - [[Execution]]: CI/CD for rolling out new version of mobile apps
+                    - [[Execution]]: Work with marketing team on App store materials
+            - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+                - [[Moses Ngan]]
+                    - [[design]]: Database design support for membership system
+                    - [[Execution]]: BAU support for data operations in internal portal
+                    - [[Execution]]: BAU support for public website update
+                    - [[Research]]: [[[[[[Preface]] [[product]]: website]] migration]]
+                - [[Alexander Li]]
+                    - [[design]]: Database design support for membership system
+                    - [[Execution]]: BAU support for data operations in content recommending system
+                - [[Ehsan Ayaz]]
+                    - [[Execution]]: BAU support for data operations in content recommending system
+                    - [[Execution]]: BAU support for public website update (NFT page, blockchain page, Livi bank page...etc.)
+                    - [[Research]]: [[[[[[Preface]] [[product]]: website]] migration]]
+                - [[Gilbert Wat]]
+                    - [[ideas]]: Blog hosting migration and better integration with public website
+                    - [[Discussion]]: Working with Nomad / Comops / HR / Finance team to consolidate the confirmation of learning hours flow
+                    - [[plan]]: [[[[[[Preface]] [[product]]: website]] migration]]
+            - [[[[Preface]] data [[architecture]]]]
+                - [[Alexander Li]]
+                    - [[Execution]] Categorize our dashboards based on different business requirements in the properties of 
+                        - data latency (How frequent the dataset is updated)
+                        - data accuracy (How accurate the dataset is needed)
+                    - [[Research]]: Data warehousing and data visualization
+                    - [[Execution]] BAU support for data operations
+    - Tech team direction
+        - Reliability first approach
+            - Reliable business routines for a 1000 customers operation
+                - Marketing campaigns
+                - Fulfillment of services (Nomad, comops, membership)
+                - Accuracy of finance and compliance
+            - (In ideation) Target to increase our system reliability to support a 24/7 global operation gradually
+                - 99% uptime for web components (coffee app backend, internal portal with public website, blog, learnworld pages)
+                - 0 error on core APIs and app interaction (to be defined what is core)
+                - 0.1% error rate for mobile apps (iOS/Android)
+                - 0 security breach for web3 and web components
+                - <500ms latency for requests
+- 16:15
+    - [[Billy Wong]]
+        - {{[[DONE]]}}  Verification of wallet access
+        - membership point in coffee app
+        - expiration date of membership in coffee app
+- [[Theodore]] have a difficulty eating from breast.

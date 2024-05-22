@@ -1,0 +1,30 @@
+- Day -2:
+    - These are the decisions still to be made and action to be taken to clear all uncertainties in this rollout plan.
+        - {{[[DONE]]}}  #decided Decide on the exact setup of our company wallet
+        - {{[[DONE]]}} Gas fee estimation of the roll out plan 
+- Day -1:
+    - These are preparation work needed to be done before
+        - Tutorial for VIP to check on Etherscan whether they really owns the NFT (Kevin, Product Team ???)
+        - Create Preface ETH Wallet
+            - how to create: 1 click on [Gnosis](https://gnosis-safe.io/) Multi-sig wallet
+            - {{[[DONE]]}}  How to operate on the Multi-sig wallet [[->]] [[Ronald Kwok]]
+        - On multi-sig wallet, Deploy proxy contract + real v1 NFT contract + link real v1 NFT contract (Gas fee involved) estimation of gwei 
+            - {{[[DONE]]}} Gas Estimation
+        - I can choose to open source NFT contract
+            - If open source, can be verified by OpenSea and EtherScan
+            - If not open source, can be more secure
+            - We can choose to open source after uploading the NFT contract
+            - #decided Let’s start with non open source
+        - Operate on NFT marketplace (OpenSea)
+            - {{[[DONE]]}} Get listed
+            - {{[[DONE]]}} BGM related stuff 
+        - {{[[DONE]]}}  NFT Generation (Product team) [[March 9th, 2022]]
+        - Metadata upload (batch upload for now)
+            - Choosed to put on GCP cloud storage
+            - {{[[DONE]]}} How to go public in metadata when we have a public mint?
+- Day 0:
+    - This is the on day setup
+        - Really mint through ??? 
+            - Option 1: OpenZeppelin Defender
+            - Option 2:  [Gnosis](https://gnosis-safe.io/)
+            - #decided Option 1 (better integration with our Small Contract because we are using OpenZeppelin)

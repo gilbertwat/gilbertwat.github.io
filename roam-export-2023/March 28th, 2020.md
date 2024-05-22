@@ -1,0 +1,27 @@
+- [[Globalized self]]
+    - https://www.csis.org/analysis/marine-corps-radical-shift-toward-china
+        - Agile
+        - Small
+        - Affordable
+        - + Long range missile
+        - Same budget
+        - Structure
+            - Current
+            - Proposed
+            - Why
+        - Risk
+            - Hedge
+                - Adapt in the cost of time and blood
+                - Forgone current ops
+- [[☝🏻 Leadership]]
+    - The main problem is can you get resource
+        - If you cannot get resource you have to play politics
+    - "If you don't do it, we will do it"
+        - Poaching another services missions
+- [[cryptocurrency]]
+    - https://blog.trailofbits.com/2020/03/18/financial-cryptography-2020-recap/
+- [[business]]
+    - https://steveblank.com/2020/03/17/the-virus-survival-strategy-for-your-startup/
+- [[🏗️Technology]]
+    - https://sobolevn.me/2020/03/do-not-log
+    - http://gordonbrander.com/pattern/low-floor-wide-walls-high-ceiling/

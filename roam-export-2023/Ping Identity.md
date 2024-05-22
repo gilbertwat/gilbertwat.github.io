@@ -1,0 +1,5 @@
+- https://www.nasdaq.com/market-activity/stocks/ping/advanced-charting?timeframe=YTD
+- Time frame
+- #[[[[Stock]] Predictions]]
+    - Can buy ~26USD
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FKD37BSYtiH.png?alt=media&token=f5e4596f-9233-49c9-9cfb-ef2a4b97c48f)

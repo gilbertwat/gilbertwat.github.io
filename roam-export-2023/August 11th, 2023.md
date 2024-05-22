@@ -1,0 +1,24 @@
+- Transfer 100USD to [[firstrade]] account for [[stock]] to test out the flows is completed with 1 day of processing from Citibank to [[firstrade]]
+- 11:30
+    - [[1:1]] with [[Tommie Lo]]
+- 12:30
+    - [[1:1]] with [[Ellen Lau]]
+- 13:45
+    - [[Jennifer Ling]] quick chat
+        - Asked me about the work level concerns on pushing ISP now
+            - Advise her to listen and address the concerns from work level
+                - Maybe follow up next time
+        - praised my composure and command of situation when I am working with [[Tommie Lo]]
+            - Happy
+- 14:00
+    - [[Jeffrey Ng]] meeting on Public Blockchain Project
+        - {{[[ARCHIVED]]}}  How to mix and match with [[James Cheuk]] project?
+- 16:00
+    - [[Joseph Chan]] asked
+        - {{[[DONE]]}}  What is the next step of [[[[Preface]] [[project]]: Review]]?
+        - {{[[ARCHIVED]]}}  What is a one pager for the reorganization of [[[[Preface]] [[product]]: website]] and [[[[Preface]] [[product]]: Customer Portal]] to support the current business?
+- 16:30
+    - {{[[ARCHIVED]]}}  [[Jeffy Fung]] on [[[[Preface]] [[project]]: Review]]
+        - New understanding from analytics point of view
+        - A separate review form per courses can be hard to do analysis across time.
+- 

@@ -1,0 +1,21 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[GOGOX]] weekly sync up
+    - [[[[GOGOX]] Partner Wallet]] is in danger mode
+- [[1:1]] with [[Phoenix Lau]] on [[[[GOGOX]] Partner Wallet]]
+    - Tentative sub projects
+        - Financial Report
+            - Data Team Temp solution
+                - ETC: ???
+            - Platform Team reports
+                - ETC: 3 weeks for [[Kira Wei]] [[Peter Tsai]] [[Julie Hsu]] + [[Ravic Poon]]
+        - Bug fixes
+            - Best case 
+        - Data migration
+            - Need to dry run for 1 week to see if there is any data patching is needed.
+                - Good: 
+                - Bad
+                    - Need to reinvestigate and give out updated estimation
+                    - Really realizing
+                    - High risks now

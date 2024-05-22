@@ -1,0 +1,16 @@
+- Author:: [[stephenwolfram.com]]
+- Full Title:: What Is ChatGPT Doing … and Why Does It Work?
+- Category:: #articles
+- URL:: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/hero3-chat-exposition.png)
+- ### Highlights first synced by #Readwise [[August 24th, 2023]]
+    - ChatGPT is always fundamentally trying to do is to produce a “reasonable continuation” of whatever text it’s got so far, where by “reasonable” we mean “what one might expect someone to write after seeing what people have written on billions of webpages, etc.” ([View Highlight](https://read.readwise.io/read/01h8kcrfw948w4zb6h9baf9w6v))
+    - if we always pick the highest-ranked word, we’ll typically get a very “flat” essay, that never seems to “show any creativity” (and even sometimes repeats word for word). But if sometimes (at random) we pick lower-ranked words, we get a “more interesting” essay. ([View Highlight](https://read.readwise.io/read/01h8kcst34cn8x8993jq499kh6))
+    - there’s a particular so-called “temperature” parameter that determines how often lower-ranked words will be used, and for essay generation, it turns out that a “temperature” of 0.8 seems best. ([View Highlight](https://read.readwise.io/read/01h8kctfhmwhka5hr3x0mnjy6k))
+    - And we might imagine that if we were able to use sufficiently long *n*-grams we’d basically “get a ChatGPT”—in the sense that we’d get something that would generate essay-length sequences of words with the “correct overall essay probabilities” ([View Highlight](https://read.readwise.io/read/01h8kczbmwa4pnt5kg6z2jb15p))
+- ### New highlights added [[August 30th, 2023]] at 4:14 PM
+    - But what if instead of always picking the “top” word one sometimes randomly picks “non-top” words (with the “randomness” corresponding to “temperature” 0.8)? Again one can build up text: ([View Highlight](https://read.readwise.io/read/01h927q5an5wb1ap5415j03e5w))
+    - And at the core of ChatGPT is precisely a so-called “large language model” (LLM) that’s been built to do a good job of estimating those probabilities. ([View Highlight](https://read.readwise.io/read/01h927tf22v99072s2vdxpyakn))
+    - Can we “mathematically prove” that they work? Well, no. Because to do that we’d have to have a mathematical theory of what we humans are doing ([View Highlight](https://read.readwise.io/read/01h927wfqa6dcqqe9ty6jgkr2z))
+        - **Note**: Exactly how hard is to evaluate the accuracy of the model.
+    - But at least as of now we don’t have a way to “give a narrative description” of what the network is doing. And maybe that’s because it truly is computationally irreducible, and there’s no general way to find what it does except by explicitly tracing each step. Or maybe it’s just that we haven’t “figured out the science”, and identified the “natural laws” that allow us to summarize what’s going on. ([View Highlight](https://read.readwise.io/read/01h9282t7k9d51dr5smvtrhfkb))

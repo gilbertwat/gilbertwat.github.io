@@ -1,0 +1,9 @@
+- [[☝🏻 Leadership]]
+    - Story are very essential for job hunting LOL
+    - How to visualize Engineering work
+- [[Docker]]
+    - .dockerignore
+    - DockerfileName.dockerignore
+- [[Redis]]
+    - Disable command flushDB and flushAll on the Charts.yaml
+    - 

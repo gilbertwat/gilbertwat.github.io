@@ -1,0 +1,38 @@
+- Threat vectors
+    - DDoS
+    - Compromised credential
+    - Malicious insiders
+    - Poor encryptions
+    - Phishing
+    - Malware / Ransomware
+    - Unpatched vulnerabilities in software
+- Zero trust principle
+    - No automatic trust for any machines or people
+    - Least-privileged access
+- Ergon specific challenges
+    - data sensitivity
+    - Resource constrain
+- Suggested preventive measures
+    - Credentials
+        - G-Suites
+            - Access controls
+        - Bullhorn logs
+            - What is the audit trails of bullhorn trail?
+        - Database(MongoDB)
+            - Password rotation
+        - Application (Heroku)
+            - Access controls
+            - Cache
+    - Application design
+        - No cache on Mobile app.
+    - Policies
+        - on/offboarding
+        - best practices for security hygiene
+- References:
+    - https://aws.github.io/aws-eks-best-practices/
+    - https://developer.rackspace.com/blog/MongoDB-Security-Tips/
+    - https://www.bullhorn.com/talentrover/security/
+    - https://gvnshtn.com/maersk-me-notpetya/
+    - https://gallery.technet.microsoft.com/Cybersecurity-Reference-883fb54c
+    - https://www.okta.com/initiatives/workforce-identity/adopt-a-zero-trust-security-model/
+    - https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/

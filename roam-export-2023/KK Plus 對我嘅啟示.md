@@ -1,0 +1,2 @@
+- $52800 Teletubbies, parents blame their kids in the first place
+- I won't do this (I hope)

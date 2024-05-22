@@ -1,0 +1,83 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]]
+        - #Devops
+        - Chapter 5 Architecture
+            - Different category of systems
+                - Greenfield
+                - System of engagements
+                - System of records
+                - Custom software by another company
+                - Custom software by in house packaged
+                - commercial off-the-shelf
+                - embedded software
+                - Software with user-installed component
+                - Mainframe
+                - Software on prem
+                - Software on cloud
+            - Focus on deployability and testability
+                - High performer
+                    - Can deploy independently
+                    - Can release independently
+                    - Can test independently
+                - Biggest contributor to CD
+                    - Make large-scale changes to the design of their system without the permission of somebody outside the team
+                    - Make large-scale changes to the design of their system without depending on other teams to make changes in their systems on create significant work for other teams
+                    - Complete their work without communicating and coordinating with people outside their
+                    - Complete their work without communicating and coordinating with people outside their team
+                    - Deploy and release their product or service on demand, regardless of other services it depends upon
+                    - Do most of their testing on demand, without requiring an integrated test environment
+                    - Perform deployments during normal business hours with negligible down time
+                - In other word, loosely coupled
+                - Collaborate on higher shared goals level instead of implementation
+                - Allowing team to choose their tools
+                    - Why not?
+                        - Reducing complexity of the environment
+                        - Ensure the necessary skills are in place
+                        - Increasing purchasing power
+                        - Ensuring all technologies are correctly licensed
+                    - When tools actually make life easier for engineers who use them they will adopt them of their own free will.
+                - Architect should focus on their users - the engineers
+        - Chapter 6 Security
+            - OWASP Top 10
+            - Security features are embedded to SDLC
+        - Chapter 7 Management Practices
+            - Goals: Increase flow of delivery
+            - Techniques
+                - Limit Work in Progress
+                - Visual Management
+                - Feedback from Production
+                - Lightweight Change Approvals
+            - Have an external body achieved lower performance
+            - Lightweight and JIT change approval process is better
+        - Chapter 8 Product Development
+            - Work in Small Batches
+            - Make Flow of Work Visible
+            - Gather and Implement Customer Feedback
+            - Team Experimentation
+            - 
+    - {{{[[DONE]]}}}}[[[[1:1]] with [[Rob Dong]]]]
+        - #Management
+        - How do you feel recently?
+        - How is your {personal project / family }?
+        - How is your theme / project?
+        - How is your function?
+            - Examples of real time.
+            - Hire 1 more engineer.
+            - Retention to team.
+            - Praise product feature tasks.
+        - #CircleBack topics
+            - Praise more product features.
+            - Hands on development for setting up example.
+    - {{{[[DONE]]}}}} [[[[Show me the code]] #11 [[GOGOX]]]]
+        - Use OBS / belive  to moderate audience
+        - Use password to moderate audience
+        - Bring in some DJ work in before we start
+        - Need to prepare a template for online events
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}

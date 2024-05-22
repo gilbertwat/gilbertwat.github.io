@@ -1,0 +1,98 @@
+- [[[[2022]] Week 42]] #goals
+    - {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - {{[[DONE]]}}  Decide filter logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+        - {{[[DONE]]}}  Decide adult courses logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+    - [[[[2022]] Week 41]] carry over
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+- 
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Marketing strategy
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]] with [[[[Preface]] Data/AI weekly meeting]]
+        - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] walk through
+- 12:10
+    - {{[[DONE]]}}  Add 1-3 permanent notes from [[July 15th, 2022]] Finished at 12:14 
+- 13:30
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - Dedicated question to [[Anna Yu]]
+- 13:45
+    - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+        - {{[[DONE]]}} Write [[[[job description]] for upwork on [[[[Preface]] [[product]]: Coffee App]]]] Finished at 17:00 [[October 20th, 2022]]
+- 14:00
+    - Set up a clean dataset for our leads / customers [[Yoon Kim]]
+        - [[Hubspot]] usage
+            - Pre-portal CRM
+            - no analysis
+            - Email marketing from events
+            - Reminder email from events
+            - Stripe email is not the same as portal
+            - B2B
+            - Portal new feature is not reflected in Hubspot.
+            - Always get data from data team
+            - Create date and update date is not useful as we import everything daily.
+            - Google sheet is too handy for our non-tech teammates, we are not inputting to our hubspot
+        - Next step for [[Hubspot]] under the [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+            - {{[[DONE]]}}  [[Alexander Li]] and [[Yoon Kim]] will host the next meeting with Growth team in [[[[2022]] Week 43]] Finished at 18:00 [[October 27th, 2022]]
+                - Ask them the current usage of [[Hubspot]]
+                - Propose current tools
+            - {{[[DONE]]}} #to-calculate the [[[[Hubspot]] migration plan]] Finished at 15:22 [[November 27th, 2022]]
+            - {{[[DONE]]}}  [[Hema Shah]] will discover the usage of eventbrite on attendance and basic analysis of our event attendees Finished at 15:22 [[November 27th, 2022]]
+            - {{[[DONE]]}}  [[Hema Shah]] will suggest how to replace [[Hubspot]] will the current other tools Finished at 15:22 [[November 27th, 2022]]
+            - {{[[DONE]]}}  [[Yoon Kim]] will explore how to extract data from Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Calendly]] Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Postmark]] Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Eventbrite]] Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Sleekflow]] Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Mailchimp Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Facebook Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Google Analytics Finished at 10:53 [[November 17th, 2022]]
+            - {{[[DONE]]}}  After {{[[DONE]]}}  [[Alexander Li]] and [[Yoon Kim]] will host the next meeting with Growth team in [[[[2022]] Week 43]] Finished at 18:00 [[October 27th, 2022]] and {{[[DONE]]}} #to-calculate the [[[[Hubspot]] migration plan]] Finished at 15:22 [[November 27th, 2022]] [[Hema Shah]] and [[Gilbert Wat]] will confirm direction to sunset [[Hubspot]] with [[Kenneth She]] and plan for migration execution before [[June 1st, 2023]] Finished at 15:22 [[November 27th, 2022]]
+            - 
+- 16:00
+    - [[1:1]] with [[Tylor Ng]]
+        - What is your top of your mind since our last 1:1?
+            - wanna do research work
+                - My response:
+                    - As a senior, you need to align research work with business / product needs
+        - What is my top of my mind since our last 1:1?
+            - Introduce house rules
+        - Impressed by me going into the source code of [[nextjs]]
+- 16:30
+    - [[1:1]] with [[Jeffy Fung]]
+        - What is your top of your mind since our last 1:1?
+            - Not much
+        - What is my top of my mind since our last 1:1?
+            - Not much
+- 17:00
+    - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+- 17:30
+    - [[1:1]] [[Cheryl Lai]]
+        - What is your top of your mind since our last 1:1?
+            - Leetcode challenge
+            - Microsoft certificate examination
+        - What is my top of my mind since our last 1:1?
+            - Not much
+- 18:00
+    - {{[[DONE]]}}  Answered SC Venture for [[due diligence]] [[venture capitalist]] Finished at 18:30
+        - Can you explain the basic logic of your A.I. model and what are the key data feeding into the model?
+            - Our A.I. recommendation system uses a K-Nearest Neighbours algorithm to do user-based collaborative filtering for students' class project recommendation. The key data being used by the model are the project reviews provided by students after taking our classes.
+        - Please provide the credential of your A.I. development team. Do you own the IP right of the A.I. algorithm and system?
+            - Our engineering leadership consists of tech leaders in acclaimed companies such as [[GOGOX]], Accenture, Loco and OpenRice. They have led, architected and built data intensive systems such as wallet system, online order-matching system, critical metric tracking system with high uptime and low latency business requirements.
+            - Our Data and AI practitioners are a team of passionate educator-turned data engineers and researchers. They have in-depth knowledge in education and research. They are also passionate about better educating our students through impactful application of AI.
+            - We are now focusing on the application of AI and owning IP and publishing educational research is our long term goal.
+        - Where do you host your A.I. system and database?
+            - We are taking a multi-cloud approach to our A.I. system to leverage the best in each provider.
+            - Our model training system is hosted inside the Google Cloud Platform ecosystem. We make use of several services such as Google BigQuery for highly scalable columnar storage and Google Compute Engine for flexible vertical scaling for automation of our A.I recommender system.
+            - The predictions are deployed to our company's Portal application hosted on AWS.
+        - Do you have any data or statistics that can support the argument that Preface's classes are more effective and / or have a higher enrolment and renewal rate compared to other computer education academies in Hong Kong?
+            - The renewal rate for students in Preface that are using our recommender system is 28.8% better than the renewal rate of students who are not. 
+            - As Preface is taking a trailblazing approach to create adaptive content with the help of an A.I. recommendation system, there are no other computer education academy competitors in Hong Kong that we can compare to.

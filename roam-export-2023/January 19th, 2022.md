@@ -1,0 +1,45 @@
+- 10:00 
+    - NFT workshop with [[Ronald Kwok]]
+        - checked the feasibility of blockchain API
+- 10:45 
+    - Reorganize 12:30 Lunch with the team notes
+- 11:00 
+    - [[1:1]] with [[Ehsan Ayaz]]
+        - A self-perceived system guy
+        - A guy who want to tour and have the journey of a "successful" startup.
+        - was in nomad management team.
+            - has some first hand experiences in how they are working together.
+- 12:21
+    - Read https://pratyushbuddiga.substack.com/p/great-storytelling-lessons?token=eyJ1c2VyX2lkIjozMTQ4OTU2NiwicG9zdF9pZCI6NDcyNjY1NjEsIl8iOiJhSkRNaSIsImlhdCI6MTY0MjU2NjA5MSwiZXhwIjoxNjQyNTY5NjkxLCJpc3MiOiJwdWItMTA4ODU3Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.UQ6BhL_k68HAogzrkt7AoPqVgeYCmEAUYCYEoDPRmjU
+        - Why?
+            - A refreshment of the importance of storytelling.
+- 12:30
+    - Lunch with [[Alexander Li]] and [[Ronald Kwok]]
+        - Learn about the history of a technology team in the context of [[Preface]]
+            - The concept of technology team begin.
+- 14:00
+    - [[1:1]] with [[Alexander Li]]
+        - Pleasant surprise that he want to be data engineer
+        - {{[[DONE]]}} to change his title to be a data engineer
+        - [[Hema Shah]] helped to block data requests
+- 15:08
+    - [[[[Preface]] [[NFT]]]]
+        - Character story
+        - Increase trading 
+        - Tin Hau NFTize
+        - 1400 4 Tiers
+        - Pre-sale mechanism SOLANA ma
+- 18:40
+    - [[OKR]] for [[Preface]] Q1
+        - **Create a comprehensive Preface Ecosystem**
+            - Create **centralised login system** across all Preface systems
+            - Complete Preface Ecosystem **structure and database design**
+            - Product ready for **global presence** including payment, language etc.
+        - **Coffee App ready for public launch**
+            - Enhance **coffee scripting with conditional feature**
+            - Complete **public launch functions** to enhance user experience and F&B sale
+            - Define and implement the full **CICD** and **app release process **
+        - **Enhance AI Matching and Recommender System**
+            - At least 1 new data collection method to optimise data accuracy
+            - Complete research and build beta model for AI Matching mechanism
+            - Enhance Recommender System mechanism and complete automation of personalised learning path model

@@ -1,0 +1,18 @@
+- #[[16 2023]]
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - Not a very successful presentation
+- Work on {{[[DONE]]}}  Ship Home page for [[[[Preface]] [[project]]: Website Revamp 2023]] 
+- [[Read [[Bible]]]]
+    - Matthew 6:25
+        - 25“Therefore I tell you, do not worry about your life, what you will eat or what you will drink, or about your body, what you will wear. Is not life more than food, and the body more than clothing? 
+        - 26Look at the birds of the air; they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they? 
+        - 27And can any of you by worrying add a single hour to your span of life? 
+        - 28And why do you worry about clothing? Consider the lilies of the field, how they grow; they neither toil nor spin, 
+        - 29yet I tell you, even Solomon in all his glory was not clothed like one of these. 
+        - 30But if God so clothes the grass of the field, which is alive today and tomorrow is thrown into the oven, will he not much more clothe you—you of little faith? 
+        - 31Therefore do not worry, saying, ‘What will we eat?’ or ‘What will we drink?’ or ‘What will we wear?’ 
+        - 32For it is the Gentiles who strive for all these things; and indeed your heavenly Father knows that you need all these things. 
+        - 33But strive first for the kingdom of God and his righteousness, and all these things will be given to you as well.
+        - 
+        - 34“So do not worry about tomorrow, for tomorrow will bring worries of its own. Today's trouble is enough for today.
+    - In the peak of anxiety, this is exactly what I need to #[[🙏🏼 pray]] on.

@@ -1,0 +1,6 @@
+- Today [[Wifey]] [[M come]]
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Techbites MVP]] 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Retrofit a [PRD](https://docs.google.com/document/d/1RRnuUtdPlHlvrImFcBVFw0C9jUY-KC1Bg2ajzjWhsLE/edit?usp=sharing) to align with [[Joseph Chan]] and [[Tommie Lo]] 👏🏼 finished on [[April 5th, 2023]]
+- 
+- 17:00
+    - Share {{[[DONE]]}}  Retrofit a [PRD](https://docs.google.com/document/d/1RRnuUtdPlHlvrImFcBVFw0C9jUY-KC1Bg2ajzjWhsLE/edit?usp=sharing) to align with [[Joseph Chan]] and [[Tommie Lo]] 👏🏼 finished on [[April 5th, 2023]]

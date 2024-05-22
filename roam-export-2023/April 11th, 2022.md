@@ -1,0 +1,24 @@
+- 16:00
+    - Growth
+        - Lead definition
+            - SEO
+            - Google Ad
+            - Whatsapp
+            - Sleekflow
+            - Hubspot
+                - Pixel
+            - Facebook Ad
+            - Eventbrite
+            - UID
+            - Comops to sales
+            - Livechat
+            - Calendly
+            - Coffee App (Juicy)
+            - Infobip
+        - Definition of lead?
+            - Eventbrite paying still count as lead
+        - Segment.io
+        - Lead segmentation
+    - Hubspot usage
+        - no required field
+        - No SOP across company

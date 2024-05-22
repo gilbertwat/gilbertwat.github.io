@@ -1,0 +1,58 @@
+- Metadata
+    - **Author:** [[Doris Kearns Goodwin]]
+    - **Start date:** [[June 26th, 2020]]
+    - **Reading status:** [[to-read]]
+    - [[Topics]]
+        - #[[Leadership]] #[[History]]
+- Excerpts
+    - For Lincoln, pragmatic, transactional strategies provided the nuts and bolts of principled, transformational leadership.
+        - nuts and bolts
+            - basics
+    - so Roosevelt instructed both Knox and Root, the only two cabinet members apprised of the plan, to "write letters of protest against it if they wished, so as to free themselves from responsibility." He would act on his own as commander in chief, "just as if we were in a state of war."
+        - Protection of his reports.
+    - Roosevelt's gift of communication proved the vital instrument of his success in developing a common mission, clarifying problems, mobilizing action, and earning the people's trust. His faith never foundered that if the people "were taken into the confidence of their government and received a full and trustful statement of what was happening, they would generally choose the right course." This reciprocal connection between Roosevelt and the people he served lay at the heart of his leadership.
+        - Leader needs faith.
+- Learnings
+    - Not all leaders are alike, but some essential is the same
+        - Empathetic to the crowd
+        - Inspiring story-teller
+        - Plan and act accordingly, adaptive
+        - Clear thinker, logical and consistent in their actions
+        - Conviction is strong
+        - Clear communicator
+    - The magic of writing
+        - The book is so easy to read. The flow of words and stories are perfect. Need to learn more from this author.
+        - I am also feeling I was accompanying the presidents.
+    - All leaders have their struggles and their ways to transcend the experience.
+        - Some choose to leave the field.
+        - Some choose to work on some other endeavor
+        - Some choose to go to the ranch.
+- [[Metadata]]
+    - **Author:** [[Doris Kearns Goodwin]]
+    - **Start date:** [[June 26th, 2020]]
+    - **Reading status:** [[to-read]]
+    - [[Topics]]
+        - #[[☝🏻 Leadership]] #[[🏛️ History]] #writings
+- [[Excerpts]]
+    - For Lincoln, pragmatic, transactional strategies provided the nuts and bolts of principled, transformational leadership.
+        - nuts and bolts
+            - basics
+    - so Roosevelt instructed both Knox and Root, the only two cabinet members apprised of the plan, to "write letters of protest against it if they wished, so as to free themselves from responsibility." He would act on his own as commander in chief, "just as if we were in a state of war."
+        - Protection of his reports.
+    - Roosevelt's gift of communication proved the vital instrument of his success in developing a common mission, clarifying problems, mobilizing action, and earning the people's trust. His faith never foundered that if the people "were taken into the confidence of their government and received a full and trustful statement of what was happening, they would generally choose the right course." This reciprocal connection between Roosevelt and the people he served lay at the heart of his leadership.
+        - Leader needs faith.
+- Learnings
+    - Not all leaders are alike, but some essential is the same
+        - Empathetic to the crowd
+        - Inspiring story-teller
+        - Plan and act accordingly, adaptive
+        - Clear thinker, logical and consistent in their actions
+        - Conviction is strong
+        - Clear communicator
+    - The magic of writing
+        - The book is so easy to read. The flow of words and stories are perfect. Need to learn more from this author.
+        - I am also feeling I was accompanying the presidents.
+    - All leaders have their struggles and their ways to transcend the experience.
+        - Some choose to leave the field.
+        - Some choose to work on some other endeavor
+        - Some choose to go to the ranch.

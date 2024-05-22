@@ -1,0 +1,22 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - A bit not want to work
+        - stressed
+- Start the day **strong**!
+- #meditation log:
+    - Super tense in the first few min
+    - into the image state in ~20min
+- [[Ergon]] weekly catch up with [[Kwong Kin Ming (KM)]] and [[Kingson Kwan]]
+    - Lead user problem
+        - [[Kwong Kin Ming (KM)]] not yet understand the business
+        - #[[decision]] Ask [[Kwong Kin Ming (KM)]] to help document the why of the features.
+- #[[🤔 Questions]] #[[🧘🏻‍♂️ Self Awareness]] #[[business]] What kind of problems I want to solve?
+- [[Onboarding]] [[Kether Chau]] [[GOGOEnergy]]
+- It starts when the whole thing hits the market.
+- https://twitter.com/orangebook_/status/1346086038582734850?s=21
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

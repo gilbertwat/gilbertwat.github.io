@@ -1,0 +1,28 @@
+- 2 Blog hosting migration
+- # Summary
+    - Our blog is one of our key lead generation tools. Unfortunately our blog hosting solution is attached to the domain registrar of “preface.ai”. Their service is flaky at best and their support is minimal and late. We need to migrate to another hosting service provider. After the migration, our blog hosting service provider will provide us a reliable service level with responsive support.
+- # Rationales
+    - There are multiple unscheduled downtime of our blog incidents in March 2022.
+    - The unscheduled downtime of our blog is detrimental to our brand and traffic
+    - There are unreliable technical workarounds in Cloudflare that attempted to handle increasing traffic to our blog but failed, creating a more
+- # Plan
+    - Install uptime monitoring tools to current blog and preface.ai
+    - Source hosting solutions. [Blog Hosting Comparison](https://docs.google.com/spreadsheets/u/0/d/1EE4C11mbswrDFSdYL5hXY-Sp4XK0xSg2OoEogQf6KZc/edit)
+    - Decide and submit a budget.
+    - If no migration service provided byBuild data sync between old and new infrastructure
+    - Build plugin sync between old and new infrastructure.
+    - Host up the new infrastructure.
+    - Update preface.ai code to redirect to old infrastructure.
+    - UAT new infrastructure.
+    - Schedule downtime and communicate it.
+    - Shut down old infrastructure.
+    - Switch domain to new infrastructure.
+    - Decommission Cloudflare worker.
+- # Success Metrics
+    - We are able to set up and communicate SLO for preface.ai and blog within the company
+    - The uptime SLO is 99% for our blog.
+    - Speedy support handling for problems in our blog.
+- # Possible Negative Impact
+    - Unscheduled downtime after migration.
+    - Possible data loss
+    - Lost traffic during switching DNS record.

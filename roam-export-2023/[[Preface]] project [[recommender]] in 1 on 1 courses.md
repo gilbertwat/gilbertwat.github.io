@@ -1,0 +1,10 @@
+- Under the [[[[Preface]] data [[architecture]]]]
+- Assumption and limitation
+    - Assume the learning quality of the studentsnomad teaching style and quality
+    - Assume NPS is the sole metric for measuring the learning quality.
+    - Assume learning quality with learning satisfaction is the same thing.
+    - Assume better learning quality results in repurchase and longer LTV.
+    - Assume there is a best path of learning for our curricula.
+    - Assume we provide the best path of learning a certain topic for our curricula.
+- Hypothesis
+    - We are testing the teaching quality will be positively influenced if we are providing the right topic of contents.

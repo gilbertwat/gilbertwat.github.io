@@ -1,0 +1,15 @@
+- #[[05 2023]]
+- 09:00
+    - Breakfast with [[Vincent Lau]]
+- 10:00
+    - Very productive meeting with [[Yoon Kim]] and [[Alex Li]]
+- 14:00
+    - Payment term asking for [[Vincent So]]
+        - Settle on 3 part payment term.
+- 12:30
+    - {{[[DONE]]}}  Handle [[Adrian Chan]] request for switching team
+        - {{[[DONE]]}}  Share a document with [[Adrian Chan]] on the requirement of a software engineer (Lead) 👏🏼 finished on [[February 14th, 2023]]
+- 15:16
+    - [[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - 
+- {{[[ARCHIVED]]}}  Work on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]

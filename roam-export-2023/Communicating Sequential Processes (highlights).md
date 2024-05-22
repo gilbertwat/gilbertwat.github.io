@@ -1,0 +1,11 @@
+- Author:: [[wikipedia.org]]
+- Full Title:: Communicating Sequential Processes
+- Category:: #articles
+- URL:: https://en.wikipedia.org/wiki/Communicating_sequential_processes
+- ### Highlights first synced by #Readwise [[September 11th, 2023]]
+    - Industrial application of CSP to software design has usually focused on dependable and safety-critical systems. ([View Highlight](https://read.readwise.io/read/01ha2czrhzfctkb44e79ch4889))
+    - Since CSP is well-suited to modeling and analyzing systems that incorporate complex message exchanges, it has also been applied to the verification of communications and security protocols. ([View Highlight](https://read.readwise.io/read/01ha2d00dwcx99etc5p548n9cx))
+    - In as much as it is concerned with concurrent processes that exchange messages, the [actor model](https://en.wikipedia.org/wiki/Actor_model) is broadly similar to CSP. ([View Highlight](https://read.readwise.io/read/01ha2d1s3vqcfyec9d3cga6bz3))
+    - CSP processes are anonymous, while actors have identities. ([View Highlight](https://read.readwise.io/read/01ha2d1vfbd97y6kr6ksyq8xsd))
+    - CSP uses explicit channels for message passing, whereas actor systems transmit messages to named destination actors. ([View Highlight](https://read.readwise.io/read/01ha2d21jbtrr59tg9s40mbra9))
+    - CSP message-passing fundamentally involves a rendezvous between the processes involved in sending and receiving the message, i.e. the sender cannot transmit a message until the receiver is ready to accept it. In contrast, message-passing in actor systems is fundamentally asynchronous, i.e. message transmission and reception do not have to happen at the same time, and senders may transmit messages before receivers are ready to accept them. ([View Highlight](https://read.readwise.io/read/01ha2d2g7jwrqtmp9h0p8rz2nv))

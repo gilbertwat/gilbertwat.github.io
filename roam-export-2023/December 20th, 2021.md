@@ -1,0 +1,20 @@
+- #[[sleep]]
+    - Quality: Good 
+    - Hrs: 6.5
+- 09:00 Read Email
+    - [[[[Preface]] Coding]] [[AI]] preparation
+        - Choose a relevant dataset on Kaggle and practice different algorithm on it.
+        - Find industrial gurus in [[AI]] in HK to help
+        - Tap into the university communities for students and professionals
+- Organize [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]] Notes
+- Talk with [[Franco Solis]]
+    - Shared the news of resigning from [[GOGOX]]
+    - Shared a lot of philosophical approach
+- Talk with [[Winnie Fung]] [[GOGOEnergy]]
+    - Shared the news of resigning from [[GOGOX]]
+    - OK with non-HK Vendors
+    - 
+- Talk with [[Adnan Saeed]]
+    - Has a question of himself about he is not curious enough
+        - Describe why and when and where does he find this learning.
+        - Sense a certain sense of regret about the past.

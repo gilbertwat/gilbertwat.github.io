@@ -1,0 +1,47 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]]
+        - #Devops
+        - Chapter 9
+            - Deployment pain correlate to key outcome
+            - We are doing it wrong before by adding QA to the flow
+            - Burnout
+                - Symptoms
+                    - Exhausted
+                    - Cynical
+                    - Ineffective
+                - Devops can help
+                    - fostering a supportive work environment
+                    - ensuring work is meaningful
+                    - ensuring employees understand how their own work ties to strategic objectives
+                - Cause
+                    - Work overload
+                    - Inability to influence decisions that affect your job
+                    - Insufficient rewards
+                    - Unsupportive workplace environment
+                    - Absense of fairness
+                    - Value conflicts
+                - Lean management is giving employee the necessary time and resources to improve
+        - Chapter 10
+            - eNPS
+                - How much you will recommend our product to your friends and relatives
+                - How much you will recommend our workplace to our friends and relatives
+                - How to raise
+                    - The extent to which the organization collects customer feedback and uses it to inform the design of products and features
+                    - The ability of teams to visualize and understand the flow of products or features through development all the way to the customer
+                    - The extent to which employee identify with their organization's values and goals, and the efforts they are willing to put in to make the organization successful
+            - Retention of employee
+                - Effective Management
+                - Technical approaches
+                - Likert-type scale to measure
+                - Continuous delivery practices and taking an experimental approach to product development will build better products + feel more connected to the rest of their organization.
+                - Devops automate menial jobs
+                - Diversity
+                    - ...not applicable yet in Hong Kong
+    - {{{[[DONE]]}}}} Prepare [[How to build a world class app?]]
+        - #Management
+- How do you feel when you wind down?
+    - {{slider}}

@@ -1,0 +1,97 @@
+- 09:30
+    - [[1:1]] [[Tommie Lo]]
+        - Prep
+            - {{[[DONE]]}} Learning budget for the team 
+            - {{[[DONE]]}} New computer for the whole team with more RAM 
+            - WFH policy
+            - {{[[DONE]]}} Deploy [[[[Preface]] data [[architecture]]]] locally findings
+                - Challenges
+                    - BigQuery cannot be tested locally
+                    - Currently we recreate the whole BigQuery database from scratch for each updates
+            - [[[[Preface]] Pre-Series B plan]]
+                - Question for [[Tommie Lo]]
+                    - What growth are we expected to deliver based on this round?
+                        - What growth are we looking for?
+                    - What needs to be true for us to raise again?
+                    - Which major constraints do you currently see?
+                    - What are you most pessimistic and most optimistic about?
+                    - What is our current business strategy to achieve our goals?
+                    - This last question is particularly important, because your engineering strategy will hang on it.
+        - Meeting notes
+            - scalable comops
+            - Momo problem
+            - 
+- 10:30
+    - [[1:1]] [[Carmen Yeung]]
+        - Next next week start internal portal
+        - Ken + Ben + Moses + Anna as 1 product team to improve portal
+            - Ben hands off siu siu
+        - Ellen + Carmen + Gilbert -> Matching discussion + experimentation
+        - recommder -> Ehsan + Adrian + Anna
+        - Nomad Payment record (Vacant )
+        - Yoon hand over
+            - Next week loop in into tech team meeting
+        - Carmen will define KPI for portal + website
+        - {{[[DONE]]}}  Figure out the objective of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] from [[Ellen Lau]] and me
+            - Less authoritative
+- 11:30
+    - [[security]] [[Phishing]] Attempts 1
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FIMB8yd9pqM.png?alt=media&token=30a95b76-2fc1-411d-8559-e270cda15dc9)
+        - The genius part is that it exploits the UI/UX on iPhone Gmail clients. 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FOJqSITFLGF.png?alt=media&token=c9ad2b88-1d57-4004-bb09-aad668a47c73)
+- 14:00
+    - [[[[Preface]] [[Hubspot]] data problem investigation]]
+        - Prepare for Questions::
+- 15:00
+    - [[[[Preface]] [[Hubspot]] data problem investigation]] sharing with [[Queena]] and [[Basil]]
+        - To get alignment in problem identification
+        - Questions:
+            - What is the biggest hiccup in using hubspot / sleekflow / infobip?
+            - Do we consider to use the hubspot sales / services?
+            - Do we consider to use the operation? why?
+            - Deeper questions (will ask work level if not sure)
+                - How do we use `deal`?
+                - 
+        - To get basic alignment in solution direction
+            - Share some initial direction and see if we are aligned.
+        - Objectives
+            - centralized CRM
+                - end to end journey
+                    - persona
+            - history
+                - mailchimp
+                    - lack of automation
+                - hubspot or saleforce
+                    - hubspot only for marketing
+                - sleekflow follow up
+                    - nuturing thru whatsapp
+                        - quick win
+                    - Can do proactive engagement
+                - infobip vs hubspot conversation
+                    - not really understand
+                - hubspot other module
+                    - cheaper tools 
+                        - blaze
+            - Delegate to 1 tools is good
+            - Basil CRM
+                - EDM
+            - website tracking
+            - End to end journey is lack thereof
+                - lead to sales cycle time
+            - Sales pipeline (Sales module)
+        - Airtable (B2B)
+        - Financial reason about hubspot subscription
+            - 5% of functions
+        - Global expansion / operation
+        - Saleforce vs hubspot [[Hema Shah]]
+        - Mandy go deep into CRM / data analysis
+        - Comops vs 
+        - 
+- 16:00
+    - [[1:1]] [[Moses Ngan]]
+        - Very interesting learnings
+            - Team dynamics 
+                - Perspective with [[Carmen Yeung]] and [[Tommie Lo]] is totally different
+            - I am completely wrong on the judgement of risk
+- 16:30
+    - [[[[hiring]] for [[Preface]] 2022 Q2]] Follow up

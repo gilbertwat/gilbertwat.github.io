@@ -1,0 +1,235 @@
+- [[Metadata]]
+    - **Author:** [[Arsène Wenger]] , [[Daniel Hahn]], and [[Andrea Reece]]
+    - **Start date:** [[October 16th, 2020]]
+    - **Reading status:** [[read]]
+    - [[Topics]]
+        - [[☝🏻 Leadership]] [[Biography]]
+- Excerpts:
+    - I was able to influence players’ lives, to instil a playing style in the club, and to experience some truly wonderful victories. I had a freedom and a power that managers no longer have today.
+    - LOCATION: 21
+    - And nor am I sure that a manager nowadays could have overall management responsibility for a team like Arsenal and choose his players in the way I did, with total freedom and total involvement. I was fortunate, but I know what sacrifices I made, too.
+    - LOCATION: 37
+    - A club depends on three things in order to grow: strategy, planning and application.
+    - LOCATION: 58
+    - I’ve always suffered from the intensity of my desires, even if I didn’t know where the feelings came from.
+    - LOCATION: 98
+    - That, too, was what football was about in those days: rivalry between teams, and mutual respect, and friends for life.
+    - LOCATION: 285
+    - That was where I learnt that in the dressing room you should be able to quickly tell your teammates: ‘You can count on me.’ I learnt to make my presence felt. To fight.
+    - LOCATION: 311
+    - Living that isolated, solitary life, where nothing was familiar, was a revelation. I learnt that I could live anywhere and be alone with my passion, with no interference, no personal affection, and that the anxieties did not disappear but I could live with them.
+    - LOCATION: 440
+    - We needed results quickly. Every decision became important and it didn’t take long for the consequences to be seen. We were all about the short term. We put together a team and we had to find a harmony and a balance fast. Often a change of position can make a player really start to soar. The coach’s powers of observation play a crucial part here. More than any psychological tests, it’s the game that really reveals men’s personalities. There is no longer any social veneer. You become what you really are.
+    - LOCATION: 478
+    - I travelled with the team, took responsibility for the result. I liked that responsibility, I liked that constant tension, I liked that power.
+    - LOCATION: 491
+    - Nancy was a big challenge for me as a young coach, and also a proper schooling: we’d have to balance the budget, live frugally, do what we could with whatever we had against better-financed clubs like Metz and Bordeaux, cities that were more football-oriented and with a larger fanbase.
+    - LOCATION: 512
+    - I was also focused on all the things that contribute to performance besides training: dietary regimes, massage, mental preparation, [[sleep]], quality of life, the people the players had around them.
+    - NOTE: How can we apply this into my management work?
+    - LOCATION: 518
+    - By the time they’re five years into their careers, there is a huge gulf between the player who trains with great determination to progress and the one who is satisfied with his standard.
+    - NOTE: So cool
+    - LOCATION: 525
+    - first to acquire technique (between 7 and 12) and then to develop physically (between 12 and 16), then to deepen their mental resilience (between 17 and 19) and finally between 19 and 22 to acquire what is critical, like the roof of a house without which all the rest rots away: intelligence and motivation.
+    - LOCATION: 532
+    - A player cannot understand this all at once. He needs time: to receive the ball, to battle against his opponent, to weigh up the risk of losing the ball, and come to his decision.
+    - LOCATION: 537
+    - At just 37, I was young to be coaching a club like that, but I had the ambition, and clear ideas about what I wanted. Monaco could offer me and the players optimal living and training conditions. And that was why I had chosen them rather than staying at Nancy or moving to PSG.
+    - LOCATION: 597
+    - Coming from a lower-ranked team, and having, earlier in my career, known numerous defeats, more modest clubs, difficult moments, inferior conditions, all this gave me an invaluable humility. This helped me keep a cool head when we had amazing results that first year, and equally not to despair when the going became tough and the climate unhealthy.
+    - NOTE: [[GOGOX]] exp
+    - LOCATION: 609
+    - He gave me a huge helping hand at a delicate moment when I didn’t yet have complete sway over the team, when I was still in a trial phase. He gave them a quiet little talk.
+    - NOTE: Who will be coming to save us this time?
+    - LOCATION: 653
+    - But I’ve always tried to stick to the principle that a leader should above all embody the values that he promotes.
+    - LOCATION: 672
+    - In training sessions at Monaco we emphasised technical abilities above everything. Passing the ball is communicating with another person, it’s being in the service of another person. It’s crucial. For the pass to be a good one, the player has to put himself in the position of the person who’s going to receive it. It’s an act of intelligence and generosity. What I call technical empathy.
+    - NOTE: How can i instill that into our daiky?
+    - LOCATION: 687
+    - On average two-thirds of people would do more if their qualities were better recognised. Less than 30 per cent of people apply the recommendations they’ve been given owing to a lack of confidence, a lack of respect for the coach or a lack of clarity or of practical recommendations. It’s important to be clear in one’s recommendations in order to boost confidence and improve performance. When expressing a negative point, one should put forward three positive points when speaking to a player or to somebody who needs to develop. One should not aim for multiple objectives: just one or two are enough. And never forget that time and place are very important.
+    - LOCATION: 696
+    - Monaco was where I sensed so strongly that the coach creates a style and conveys it to his team, which comes through in the players’ attitude and leaves its mark on them.
+    - LOCATION: 712
+    - That was another lesson in stubbornness and modesty. In football, as in life, you should never close the door. I had faith in him, I believed in his enormous thirst to learn. It also fell to me to remove him from the team when he made huge mistakes, when he was over-precise, notably during one match against Metz. But he is the perfect example of a man with a natural solidity, who is totally committed to the fight, who seeks to understand his mistakes.
+    - LOCATION: 770
+    - Top Score is a tool for evaluating players based on observing and quantifying their performances. You assign points for each action the player carries out – for example, ten points for a forward pass, five for a sideways pass, two for a back pass – and you establish a defensive score and an offensive score which you add up.
+    - NOTE: Can we port that to developers?
+    - LOCATION: 790
+    - I could sense their commitment, but they were disorganised and lacked good players: a holding midfielder, a creative midfielder, a quality centre-back, and ideally a reliable goalkeeper. I saw the team’s potential, the good feeling in the club, the relationship of trust I could build with the directors and the huge amount of work required, all of which pleased me.
+    - LOCATION: 889
+    - I travelled to Brazil where I knew I’d be able to find one or two promising players within the budget that they had allocated me.
+    - LOCATION: 896
+    - Durix and Passi were two highly talented players. I knew exactly what they could bring to the team and to the Japanese game, and I knew exactly what the Japanese league could offer each of them. It was a new opportunity for everyone.
+    - NOTE: I wish i got the same confident
+    - LOCATION: 920
+    - That’s something I’ve tried to teach all my teams: cultivating their strengths and qualities, bringing them to the fore to compensate for any deficiencies, not doubting.
+    - NOTE: What is the strength of our team?
+    - LOCATION: 962
+    - I also learnt to compromise, to adapt my values and my coaching to their traditions, their beliefs. And I learnt to express my demands differently so that they would really hit home and be even more effective.
+    - LOCATION: 965
+    - But having experienced this kind of peace and serenity in Japan was a huge help to me during the very intense, very tough periods that were to come.
+    - LOCATION: 1009
+    - knew the welcome would be frosty, but that was how it was everywhere for any new manager and it was part of his job to gradually gain acceptance through his results and his values.
+    - LOCATION: 1104
+    - I would fight the scepticism with the power of my convictions, my ideas, my capacity to adapt to the team and to get the best out of them.
+    - LOCATION: 1105
+    - Today I know it was all worth it, and that my strength lay in my passion and in the kind of blissful unawareness that enabled me to concentrate on the next match, the players and my involvement in what I was already thinking of as my club.
+    - NOTE: Use my unawareness to my strength
+    - LOCATION: 1108
+    - Everyone who worked at the club knew his life story, ending in his sudden death from pneumonia in 1934. His legacy was that Arsenal became the dominant English team of the decade.
+    - NOTE: Use hero as story
+    - LOCATION: 1123
+    - I felt our facilities were twenty years out of date, and did not reflect the great club we wanted to be. Every Sunday for a year, David and I looked for a place where we could build the new training centre, and in the end it was Ken Friar, the long-standing director of the club, who found the land.
+    - LOCATION: 1267
+    - I’ve always been careful to surround myself with the best people in their particular fields, and to be
+    - LOCATION: 1296
+    - He exerted a kind of subconscious pressure on everyone including the referees. For instance, time added on after injury time was even called Fergie time, and United used to win a lot at home with this additional time.
+    - LOCATION: 1371
+    - A manager, as I have often said, is a man with clear ideas, who knows what he wants and expresses it clearly.
+    - LOCATION: 1456
+    - Commentating on matches and analysing for large audiences helped me to clarify my thinking and to communicate it to others.
+    - LOCATION: 1456
+    - When setting lofty objectives, it takes time and patience for them to become fixed in people’s minds. But my aim was to win all the time, to defer defeat and make the fear of losing disappear.
+    - LOCATION: 1531
+    - We had all endeavoured to develop a unique spirit specific to that particular team. A performance culture. Each player had to have a clear picture of areas that needed improving. This was the moment the team really integrated the values I felt were important: suddenly, my project became theirs and they ran with it for 49 matches.
+    - LOCATION: 1536
+    - All this allowed me to feel the team’s energy through the players’ attitudes, concentration levels and capacity to listen.
+    - LOCATION: 1547
+    - We concentrated solely on what could make us win.
+    - LOCATION: 1549
+    - we realised that enduring motivation is the determining factor in a player’s success.
+    - LOCATION: 1610
+    - If football can be summed up as ball reception, decision-making and the quality of the performance, we realised that the factor that makes the difference between players is the ability to take in information.
+    - LOCATION: 1612
+    - I had accepted that we would lose those star players who wanted to leave; I knew I couldn’t hold them back. It was very difficult, of course, but we had decided to keep our finances under control.
+    - LOCATION: 1647
+    - You need to be philosophical and always put yourself in their shoes; and when somebody has given their all, and you can no longer fulfil their very legitimate ambitions, you cannot be angry.
+    - LOCATION: 1655
+    - and I know that this provoked incomprehension and anger in Robert, but the situation required it. We were going to have to defend and play on the counter-attack.
+    - LOCATION: 1717
+    - it is once again in the best possible financial situation, it must now take the best decisions regarding the technical side.
+    - LOCATION: 1726
+    - Some years, in April, when I thought we wouldn’t make it, that we wouldn’t qualify, I couldn’t [[sleep]] at all, I was extremely tense and, when we got to the last match of the season, I would sing as if we had actually won the league championship.
+    - LOCATION: 1746
+    - That was also difficult, but I had prepared for that: we had to stay within our budget no matter what, keep to our financial commitments. Our budget was strictly managed and, whenever we bought a player, we negotiated his salary hard.
+    - LOCATION: 1762
+    - I was exhausted, and wondering where all this relentless work was leading. David asked me to stay, to think only of the good of the club, but that was not enough to calm me down. I suffered a burnout.
+    - LOCATION: 1805
+    - When a club, an organisation gets too big, there is a risk it might lose its performance culture, and instead think more about protecting personal interests and preserving the status quo. As a result, this does not allow any real innovation or genuine risk-taking.
+    - LOCATION: 1821
+    - When investors buy a club, they want it to work well and be profitable, and obviously their priorities are not the same as those of a supporter-owner who tends to manage a club more like a family business.
+    - LOCATION: 1827
+    - Being a manager really was about doing everything in all sorts of situations.
+    - LOCATION: 1849
+    - By writing this constitution with the whole club every season, we created an idea of our shared values, the ones that were most common to everyone, we clarified what we expected of each person and we became more united.
+    - LOCATION: 1862
+    - I consider transfers to be an integral part of a manager’s work, and the season’s success depends in large part on the quality of the work done during the transfer windows.
+    - LOCATION: 1943
+    - If money had been my priority instead of passion or loyalty, I could have earned two or three times more by leaving Arsenal and moving from one club to another. I have always thought first and foremost of my responsibilities and the future of my club; I did not want anyone to be able to say that I had managed things badly.
+    - LOCATION: 1980
+    - for example, in situations where I spotted something missing, something wrong, fatigue, apathy.
+    - LOCATION: 2014
+    - The manager is there for the game, for the sport.
+    - LOCATION: 2020
+    - A manager must have his own entourage. A manager lives in a totally unsettled world, where results are precarious and his perceived value fluctuates from one day to the next. It is hard to stand tall and stay firm about your principles when things are not going as you want. This is why it is vital to create an active structure around you, men who are united and stand together.
+    - LOCATION: 2026
+    - Before every match, he makes some people unhappy, players who are not playing and feel disappointed, betrayed or sad. They might complain, disconnect from the group spirit, and that can destroy the team’s energy. Managing means taking action and making decisions, while accepting a degree of uncertainty. One must constantly repair strained relationships, with players, agents and supporters. And during difficult moments for the club, it can be tough, but that’s how it is: you turn more to your assistants, to the club, than to your friends and loved ones.
+    - LOCATION: 2037
+    - People at the top are also capable of objectively analysing their own performance and are hard on themselves. A good balance between intelligence and constant motivation and a good dose of humility.
+    - LOCATION: 2074
+    - For me, a coach is somebody who knows what they want, who has a clear vision, a strategy. Who is capable of expressing it clearly. Who puts their ideas into practice and is capable of getting their players to support their plans. So they should be a good communicator. A coach is somebody who can handle stress, judgement, pressure. Who remains lucid, who in difficult situations is able to take a step back, look at the situation from above. Who does not respond to stress with passivity or aggressiveness. A coach is someone of strong convictions, who through their behaviour, values and words influences the life and style of a team as well as the life and style of a player. The coach must earn their players’ respect, and their trust.
+    - LOCATION: 2218
+    - A coach is someone of experience who knows how to make themselves understood by young people, who by definition do not have their experience: listening, adapting, sometimes changing strategy, and keeping an open mind.
+    - LOCATION: 2224
+    - A coach is also a humane, compassionate person who loves their players and is able to point out their faults, their shortcomings, with a know-how that keeps their motivation and wish to excel intact. A coach is someone who seeks out the best, who aims for excellence: for themselves first of all, getting completely involved, without letting up, not neglecting a single detail, focusing their attention on each one. And who also demands the best of their players, pushing them constantly to excel, all the while knowing that even the greatest athletes are not always performing at 100 per cent, and that they need to be pushed to surpass themselves. Coaches ought also to be aware of the responsibility that football has, the power this sport has for young people, for society, the appeal it exercises, the fascination, sometimes the devotion it elicits. A coach, then, is someone who has a duty to be equal to this power and to make this game as beautiful as it can be, to show the art of football at its purest.
+    - LOCATION: 2226
+- [[Permanent Notes]]
+    - Part of the job of a [[manager]] is to influence player's live.
+    - 
+    - Part of the job of a [[manager]] is to instil a playing style in the club.
+    - Part of the job of a [[manager]] is to experience some truly wonderful victories.
+    - [[strategy]] is essential for a [[company]] to have [[Growth]].
+    - [[planning]] is essential for a [[company]] to have [[Growth]].
+    - [[Execution]] is essential for a [[company]] to have [[Growth]].
+    - Accountability from each individual is essential for a [[strong team]]
+    - [[Desires]] drive [[actions]].
+    - [[Responsibilities]] equals [[power]].
+    - [[Techniques]] are the basics of an [[Individuals]] [[Performance]].
+    - [[Physically capable]] is one of the basics of the [[Performance]] of an [[Individuals]].
+    - [[Mental Resilience]] is one of the basics of the [[Performance]] of an [[Individuals]].
+    - [[Intelligence]] is a maximum determining factors of an [[Individuals]] [[Performance]].
+    - [[Motivation]] is a maximum determining factors of an [[Individuals]] [[Performance]].
+    - [[☝🏻 Leadership]] is about embodiment of all the [[value or culture]] he/she is promoting.
+    - A [[good hand-off]] is an act of intelligence to your teammates.
+    - A [[good hand-off]] is an act of generosity to your teammates.
+    - A [[good hand-off]] is essential for [[teamwork]].
+    - When giving [[criticism]], give 3 positive points first.
+    - Look at the time and place for [[Giving candid and actionable feedback]].
+    - Respecting traditions and beliefs of your teammates is essential for [[☝🏻 Leadership]].
+    - [[Conviction]] is a key power of a [[manager]] with [[☝🏻 Leadership]].
+    - Having a clear [[ideas]] is a key power of a [[manager]] with [[☝🏻 Leadership]].
+    - Knowing what he wants is a key power of a [[manager]] with [[☝🏻 Leadership]]
+    - A clear [[Communication]] is a key power of a [[manager]].
+    - Being [[Adaptive]] is a key power of a [[manager]] with [[☝🏻 Leadership]].
+    - Blissful unawareness to minor stuff is crucial to the success of a [[manager]].
+    - When setting lofty [[OKR]], it takes time and patience for them to become fixed in people’s minds.
+    - [[focus]] on what could make us win.
+    - Enduring [[Motivation]] is determining factor in the [[Individuals]] [[Performance]].
+    - [[manager]] need to achieve whatever [[goals]] in whatever situations.
+    - [[manager]] need to build an active support group around him/herself.
+    - [[manager]] accepts a degree of uncertainty.
+    - [[manager]] makes some decisions.
+    - [[Coach]] puts their ideas into practice.
+    - [[Coach]] is capable of getting their players to support their plans.
+    - [[Coach]] is lucid.
+    - [[Coach]] takes a bird-eyes view in difficult situations.
+    - [[Coach]] responds to stress with proactive actions.
+    - [[Coach]] responds to stress with calm.
+    - [[Coach]] earns reports trust and respect.
+    - [[Coach]] keeps an open mind.
+    - [[Coach]] listens.
+    - [[Coach]] adapts.
+    - [[Coach]] changes strategy.
+    - [[Coach]] has a clear vision.
+    - [[Coach]] has [[strategy]].
+    - [[Coach]] has a strong [[Conviction]].
+    - [[Coach]] can communicate clearly his [[strategy]].
+    - [[Coach]] loves his players.
+    - [[Coach]] is able to point out their faults, their shortcomings.
+    - [[Coach]] know how to keep his/her players' motivation and wish to excel intact.
+    - [[Coach]] seeks out the best, aim for excellence.
+    - [[Coach]] demands the best from him/herself.
+    - [[Coach]] demands the best from his/her players.
+    - [[Coach]] pushes players to surpass themselves.
+    - [[Coach]] makes the game beautiful, showing the art of the game at its purest.
+- The context I am in when reading this book:
+    - [[GOGOX]] is in deep trouble as product direction is not set, engineers are jumping ship because of the [[crypto.com]] and [[cryptocurrency]] craze and we are not replacing them at all. [[Young]] is not keeping everyone in the same context at the basic level. The morale of the engineering team is low and I need to read some autobiography to give me inspiration to carry on as a manager who want to keep doing a good job. As doing a good job is one of my pride. [[Arsène Wenger]] is always in the state that he had to let very talented players go, had to be frugal but need to produce good enough results to ensure the finance of the club. What he had been through is very relatable.
+- Something that resonates with me:
+    - I’ve always suffered from the intensity of my desires, even if I didn’t know where the feelings came from.
+        - Desires drives 
+    - Living that isolated, solitary life, where nothing was familiar, was a revelation. I learnt that I could live anywhere and be alone with my passion, with no interference, no personal affection, and that the anxieties did not disappear but I could live with them.
+        - People who can focus and get shit done has gain me a lot of respect as it is very hard to deal with the internal bullshit and get shit done.
+    - Balancing the budget can be a very good training for young managers.
+    - I was also focused on all the things that contribute to performance besides training: dietary regimes, massage, mental preparation, [[sleep]], quality of life, the people the players had around them.
+        - Everything is connected to the individual performance and of the team.
+        - How can I incorporate this into managing the team? #[[🤔 Questions]]
+            - [[1:1]] seems to be a very good place to start for understanding their essentials and their basics.
+    - Sub-optimal conditions can be very valuable to me as some [[GOGOX]] war stories. And keep me [[humble]].
+    - In training sessions at Monaco we emphasised technical abilities above everything. Passing the ball is communicating with another person, it’s being in the service of another person. It’s crucial. For the pass to be a good one, the player has to put himself in the position of the person who’s going to receive it. It’s an act of intelligence and generosity. What I call technical empathy.
+    - Top Score is a tool for evaluating players based on observing and quantifying their performances. You assign points for each action the player carries out – for example, ten points for a forward pass, five for a sideways pass, two for a back pass – and you establish a defensive score and an offensive score which you add up.
+        - How can we rate a [[developer]] or [[manager]] using this? #[[🤔 Questions]]
+    - I could sense their commitment, but they were disorganised and lacked good players: a holding midfielder, a creative midfielder, a quality centre-back, and ideally a reliable goalkeeper. I saw the team’s potential, the good feeling in the club, the relationship of trust I could build with the directors and the huge amount of work required, all of which pleased me.
+        - #[[🧘🏻‍♂️ Self Awareness]] [[🎯 Major [[decision]]]] #[[🤔 Questions]]
+            - Can I see the potential and upside of the team?
+            - Can I feel the good [[vibe]] in the club?
+            - Can I build a good relationship with the decision makers?
+    - That’s something I’ve tried to teach all my teams: cultivating their strengths and qualities, bringing them to the fore to compensate for any deficiencies, not doubting.
+        - #[[🤔 Questions]]
+            - What is the strength of [[[[GOGOX]] Software Delivery Team]]?
+    - If football can be summed up as ball reception, decision-making and the quality of the performance, we realised that the factor that makes the difference between players is the ability to take in information.
+        - How can we distill [[🔢 Software Development]] into a 3 sentences like this? [[🤔 Questions]]
+    - When a club, an organisation gets too big, there is a risk it might lose its performance culture, and instead think more about protecting personal interests and preserving the status quo. As a result, this does not allow any real innovation or genuine risk-taking.
+        - [[GOGOX]] is exactly in this situation.
+    - 

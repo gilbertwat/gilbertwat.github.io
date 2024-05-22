@@ -1,0 +1,83 @@
+- 09:00 Return Email, Slack threads and hiring chore
+- 11:30 Retrospective of Week 39
+    - 22:56 - 00:18 Retrospective of Week 38
+    - What went well?
+        - #[[health]]
+            - Not much discomfort after the first shot of [[COVID-19]] [[vaccination]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+        - #[[Family [[finance]]]]
+            - [[decision]] put in 100USD for [[Terraformation]], The [[Rationale]]s' as follow
+                - It is backed by big names.
+                - The cause is about [[ESG Environment, Sustainability and Governance]]
+        - #[[Family]] & #[[Friends]]
+            - followed up with [[姑姐]]
+                - Everything's fine both in the home and financial front
+                    - Currently jammed in home address proof
+            - Followed up with [[Chris Tang]] on visiting him
+                - {{[[DONE]]}} Get prepared for [[November 7th, 2021]] afternoon meeting with [[Eason Yim]] [[Pizza Chung]] [[Chris Tang]]
+            - [[Vincent Lau]] mid-night chat
+                - Practicing [[speak magic words]] to comfort and give confidence to him.
+                - Making him realized a lot of challenges he is facing is something he wants.
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - A lot of [[Interview]]
+    - What went wrong?
+        - #[[health]]
+            - [[sleep]] debt and always wake up due to discomfort
+            - Failed for 10000+ steps a day. 😅
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[🚴🏼‍♂️ Cycling]] is suspended because of the first shot of [[COVID-19]] [[vaccination]]
+            - Not much [[read]]ing progress
+            - [[Dead Cells]] too much 20+ hours in this week 😅
+        - #[[Family [[finance]]]]
+            - Double down on buying $1000 ETH on ~3100 USD emotionally
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - [[QPSM]] has not much updates on [[[[GOGOX]] Project Flywheel]]
+                - [[5-min-call]] is going slow again
+            - [[Grantits.io]]
+                - Not much update
+            - [[Maven.hk]]
+                - Not much update
+            - [[Ergon]]
+            - [[Distribution channels]]
+                - Lack of motivation from time to time and not much opportunity to ride on in [[Twitter]]
+    - What can be done next week?
+        - #[[health]]
+            - 10000 steps per day
+            - Resume workout lightly
+                - {{[[DONE]]}}  1x [[Pull [[💦 Workout]]]] [[October 4th, 2021]]
+                - 1x [[Push [[💦 Workout]]]] [[October 6th, 2021]]
+                - 1x [[Core [[💦 Workout]]]] [[October 8th, 2021]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Resume 1x [[🚴🏼‍♂️ Cycling]] [[October 10th, 2020]]
+            - Moderate hours in [[Dead Cells]] 😅
+        - #[[Family [[finance]]]]
+            - {{[[DONE]]}} Buy [[Cloudflare]] in a logical manner. 
+                - [[decision]] bought 80 shares at 126 USD. #Stock
+        - #[[Family]]  & #[[Friends]]
+            - Start to read up about [[[[Baby]] prep]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - {{[[DONE]]}} Get well soon card for [[Jay Chang]]
+                - {{[[DONE]]}} Prep for [[[[Quarterly Hong Kong manager meetings]] [[[[2021]] Q4]]]] 
+                - Finish [[5-min-call]] 
+            - [[Grantits.io]]
+                - {{[[ARCHIVED]]}} Outreach if [[October 8th, 2021]] we have no updates 
+            - [[Maven.hk]]
+                - {{[[DONE]]}} Meetings on [[October 4th, 2021]]? 
+            - [[Ergon]]
+                - {{[[DONE]]}} Weekly sync #3 on [[October 8th, 2021]]
+                    - 09:45 [[Ergon]] Sync up
+                        - {{[[DONE]]}} Continue Map out current architecture
+                        - {{[[DONE]]}} Map out potential scenarios for architecture evolvement + Pros&Cons / SWOP analysis.
+                            - {{[[DONE]]}}  Read up Data lake in google
+                            - {{[[DONE]]}}  SWOP google / aws 
+                        - {{[[DONE]]}}  has to figure out how to connect RCRM with our datastore (lake / warehouse)
+                            - choose a data source to [[PoC]] the data pipeline #[[project]]
+                        - {{[[DONE]]}} Think about the tech delivery plans suggestions
+            - [[Distribution channels]]
+                - Post more on [[Twitter]]
+                - Start providing insights [[ideas]] [[🧪 Experiments]]
+                - Make more memes

@@ -1,0 +1,19 @@
+- {{[[DONE]]}}  [[[[2022]] Week 43]] review Finished at 10:30 [[October 31st, 2022]]
+    - **Discussion / Decisions**
+    - It will be the same as last week on 3 fronts:
+        - We foresee we will face a problem of running out of contents to be recommended by our content recommendation engine, we need to see how we should solve this or align our expectations.
+        - Coffee App "code your coffee experience" may need a redesign to fit the current development on mobile coding experience.
+        - Do we want a trusted outside help on our web3 proof of concept? One of my friends who was on the [crypto.com](http://crypto.com/) infrastructure team and has vast knowledge in crypto can help. He claims he can build a loyalty program in 3 months time.
+    - **Team matters**
+    - Tylor will start shadowing in our content team in 2 weeks time, already have worked with Kevin and will kickstart our preparation this week.
+    - **Strategy**
+    - Drafting something for the 2023 strategy, will share some thoughts continuously with you and the leaders.
+    - **Projects**
+    - **Customer Portal**: Phase 1 of our MVP has shipped for internal test. You can [try it here](https://app.preface.ai/). The design of Phase 2 about recommendation engine integration will be finalized in early week 44. Will work with Anna on Phase 3 & 4 product requirements this week.
+    - **Coffee App**: Unfortunately discovered a normal developer cannot onboard to the current state of backend effectively last week. Will need to refine the whole onboarding and do quite a clean up on the codebase. I am personally on this so we cannot be full speed.
+    - **Data**: We are going in a circle in the Hubspot issue. After discussing with the growth team & Hema, we might need to rethink how to handle our Hubspot. As the lack of a complete contact list and good data hygiene all our effort will be wasted, and we need Hema help but she is focusing in Com Excellence team right now In the meantime I have asked Yoon to at least create a list of leads with essential information for data team to support the need of growth team: a complete lead to customer journey, slice and dice of our leads and customers to do targeted marketing in different channels.
+    - **AI**: We are implementing a tag-based vector recommendation algorithm to start with. The automation of the existing recommendation engine will be done this week. Integration with the customer portal will be done in the coming 2 sprints.
+    - **Next week focus**
+        - On execution, the integration of our recommendation engine with our customer portal will be top of my mind.
+        - On team, try to onboard Tylor with the right mindset and work with detail on external vendors for Coffee App.
+        - Strategy wise, I need to integrate with the new insight from Anna's SG trip.

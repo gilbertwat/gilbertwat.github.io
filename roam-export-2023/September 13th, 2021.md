@@ -1,0 +1,63 @@
+- 09:00 - 09:30 [[Twitter]] engagement
+    - Great engagement is timely (~15min within people's engagement)
+- 09:30 - 11:15 [[hiring]] stuck in [[GOGOX]]
+    - Hypothesis
+        - Maybe it is about [[🏴Hong Kong]]
+            - Signal: all developer job in HK is in single digits of applicants even after a long time
+                - Maybe it is about the Linkedin is tricking me / people in HK is not applying through Linkedin.
+        - Maybe it is about non-remote
+            - Signal: Remote work has more applicants than non-remote
+- 11:15 - 11:45 [[Distraction]]
+- 11:45 - 12:00 Chit chat with [[Rob Dong]]
+- 12:00 - 14:30 Lunch
+- 14:30 - 16:30 [[[[GOGOX]] Project Flywheel]] Interview for pet clothes merchant writeup
+    - She is my cousin-in-law 
+    - She sold clothes for pets
+    - She had a good day in New Town Plaza
+        - ~7-8K Revenue HKD/day = good day
+        - Cost of Revenue
+            - Unknown rent (2-3K / Day maybe?)
+            - ~200HKD cost of goods
+    - Component of a good sales
+        - Placement of shops
+            - Public housing estate vs middle class shopping mall
+            - In the "entrance" or in the middle of the mall 
+        - Goods to sale
+            - Good (enough) quality
+            - Understand customers
+        - Selling technique
+            - Booth design
+            - Know your products and customers
+                - Solves problem for your customers.
+            - Energy management
+                - Multiple potential customers handling
+                - Ask the right questions
+                    - "What is the size of your dog?" vs "What is the breed of your dog?"
+                        - Same information from client but different reception (empathy)
+            - Offline superb
+        - Payment and Accounting
+            - Cash + Paper + Calculator 😅
+    - Where [[GOGOVAN]] can help?
+        - Set up / Packing of store from store to booth and return
+- 17:00 - 17:30 
+    - {{[[DONE]]}} #Notes Read https://interconnected.blog/zhang-yiming-last-speech/ 
+        - Why are you reading this?
+            - Understand Bytedance CEO thinking
+        - Topics
+            - [[☝🏻 Leadership]]
+        - Excerpts from the article and some scribble
+            - 过去一年跟很多同事有交流，我觉得保持平常心的人，比较放松，内心没有扭曲，观察事物细腻，实事求是，比较有耐心。
+            - 大多时候，人在没有偏执或者杂念的情况下，都能够有很好的判断，有个说法是 “本自具足”。
+            - Remain Grounded, Keep Aiming Higher
+            - “平常心”在百科里的定义是：“在一切环境和一切行为中，保持无差别不偏执（unbiased）”。在现代心理学，也有一些解释，大意是说：“尽力而为，顺其自然，从容淡定”。如果大家在头条上搜索，还能发现其他一些文章、概念和解释，常见的有：let it be/let it go（顺其自然）、common sense（常识）、intuition（直觉良知）、正心诚意。像“不离日用常行内，直到先天未画时”，说的其实就是intuition（直觉良知）。还有像互联网圈比较流行的“回归本质，实事求是”，以及接受不确定性。
+            - **工作和生活中也是如此，当我们带着预期的时候，就会动作扭曲，容易搞复杂**。
+            - “我应当如何如何”，如果你在乎自己或者他人的预期，那么你在思考或者决策时，多多少少会受到束缚。各种各样的标签都会带来心理负担。
+            - 所有的消极都是由心理时间的累积和对当下的否定造成的。不安、焦虑、紧张、压力、忧虑—— 一切的恐惧都因过于关注未来而引起；愧疚、遗憾、怨恨、委屈、悲伤、苦涩—— 一切的不宽恕都因过分关注过去而出现。
+            - 你不能百分百控制结果，尽可能保持平静，做正确的决策，不要急于做决定，不要panic，往往就已经能取得最好的结果了。
+            - 睁大眼睛看清楚环境，了解用户，没有杂念地做好决策，结果是多少就是多少。
+            - 有一种说法是说，如果你把自己当做客体，就能有更平常心的状态，公司也是如此。
+            - 实际上，我们的很多重要决策并不需要那么复杂的描述。很多重要的判断是通过对用户和事实的观察做出的，保持敏感的同理心和开阔的想象力很重要。
+            - 我经常发现，我们产品中有反直觉的设计。我也经常在想，为什么会做出一些反直觉的设计。如果你不带方法论，只要非常放松使用产品，就会发现，这地方不太对。
+        - Takeaways to be insert into [[Permanent Notes]]
+            - A calm mind has the best chance to [[Making the right enough [[decision]]]]
+        - Further [[🤔 Questions]] to think about

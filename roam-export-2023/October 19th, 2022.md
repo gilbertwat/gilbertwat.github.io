@@ -1,0 +1,54 @@
+- [[[[2022]] Week 42]] #goals
+    - {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - {{[[DONE]]}}  Decide filter logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+        - {{[[DONE]]}}  Decide adult courses logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+    - [[[[2022]] Week 41]] carry over
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+- 
+- {{[[DONE]]}}  [[exercise]] for 30 minutes Finished at 08:10 
+    -  [[Pull [[exercise]]]] + [[core [[exercise]]]]
+- 09:30
+    - [[Anne Rommero]] express interest and think about the challenge we can have for her
+        - {{[[DONE]]}}  [[Communication plan for Anne interest in tech team]] Finished at 10:28 [[October 24th, 2022]]
+- 10:00
+    - {{[[DONE]]}}  [[Tylor Ng]] onboarding: [[Communication plan for Content team attachment of Tylor]] Finished at 16:35 [[October 25th, 2022]]
+- 10:30
+    - {{[[DONE]]}}  Review [[Gemmy Wong]] UX for [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 Finished at 11:30
+- 11:30
+    - [[1:1]] [[Ben Cheng]]
+        - [[Anne Rommero]] [[plan]]
+        - [[Tylor Ng]] sit-in content team [[plan]]
+        - {{[[DONE]]}}  Evaluate the possibility to [[remove]] retool from our stack. [[[[Preface]] [[product]]: Coffee App]] Finished at 15:23 [[November 27th, 2022]]
+            - Not going to do so as it really save developers' time
+- 12:45
+    - Team lunch
+        - [[ice breaking]] [[questions]]
+            - What is the most admired trait of your partner?
+- 14:30
+    - [[1:1]] [[Moses Ngan]]
+        - What is your top of your mind since our last 1:1?
+            - Share more about what tech team is working on in public places.
+        - What is my top of my mind since our last 1:1?
+- 15:00
+    - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+        - {{[[DONE]]}} Write [[[[job description]] for upwork on [[[[Preface]] [[product]]: Coffee App]]]] Finished at 17:00 [[October 20th, 2022]]
+- 15:30
+    - [[solution documents]] design session with [[Ben Cheng]] [[Moses Ngan]]
+        - #decided the solution for [[[[Preface]] [[product]]: Customer Portal]] about the customer concepts
+- 16:30
+    - [[1:1]] [[Alexander Li]]
+        - What is your top of your mind since our last 1:1?
+            - [[Hema Shah]] request is taking up too many time
+                - prioritization of the task
+                - what if we have a great plan to improve our operation and data team is a crucial part of the plan, since it is not in the priority, will data team become the blocker of the great plan?
+                    - No. We should surface this discussion with the leaders and aligned the priority again, ideally when we are planning for the next quarter?
+        - What is my top of my mind since our last 1:1?
+- {{[[DONE]]}}  Get a quotation for Phase 2 of [[[[Preface]] [[product]]: Customer Portal]] MVP from [[Gemmy Wong]] Finished at 10:32 [[October 20th, 2022]]

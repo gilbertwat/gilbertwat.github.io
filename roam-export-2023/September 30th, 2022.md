@@ -1,0 +1,63 @@
+- [[[[2022]] Week 39]] [[goals]]
+    - [[[[2022]] Week 38]] [[goals]] Carry over
+        - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+    - {{[[DONE]]}} Ability to receive email for preface.ai #shipped Finished at 08:08 [[September 29th, 2022]]
+    - {{[[DONE]]}}  #decided how to proceed with nomad payment Finished at 09:44 [[September 28th, 2022]]
+        - Related to {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]]
+        - [[Vegas Ho]] and [[Ellen Lau]] agree on the Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]] solution to delay to [[[[2023]] Q1]]
+        - {{[[DONE]]}}  Reply the decision to [[Vegas Ho]] Finished at 09:55 [[September 28th, 2022]]
+    - Share [[[[Preface]] [[product]]: Customer Portal]] MVP scope on [[All Hands [[meetings]]]]
+        - Delayed to [[October 12th, 2022]] [[[[2022]] Week 41]]
+    - 
+    - 
+    - {{[[DONE]]}}  #written 5E Evaluation for https://docs.google.com/presentation/d/1vqwyOYLifx0MkqlmpnhBRZKrU19XZdIZTmX8ShYHF6E/edit#slide=id.g1360d0d603c_0_1 Finished
+        - {{[[DONE]]}} #written [[Alexander Li]] Finished
+        - {{[[DONE]]}}  #written [[Ehsan Ayaz]] Finished
+        - {{[[DONE]]}}  #written [[Anna Yu]] Finished
+        - {{[[DONE]]}}  #written [[Cheryl Lai]] Finished 
+        - {{[[DONE]]}} #written [[Ben Cheng]] Finished
+        - {{[[DONE]]}}  #written [[Moses Ngan]] Finished
+        - {{[[DONE]]}}  #written [[Jeffy Fung]] Finished
+        - {{[[DONE]]}}  #written [[Yoon Kim]] Finished
+        - {{[[DONE]]}}  #written [[Ken Chow]] Finished at 14:00 
+    - {{[[DONE]]}} Complete UX with [[Gemmy Wong]] on [[[[Preface]] [[product]]: Customer Portal]] Phase 1 Finished at 14:42 [[October 3rd, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - Quite ok but still tired
+- {{[[DONE]]}}  #decided whom to #delegated for [[[[Preface]] rebranding to preface.ai]] project: [[Anna Yu]] Finished at 10:06 
+- 11:00
+    - #delegated [[Hema Shah]] to help sort out the scheduling problem in [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] so it would be a blocker for [[[[Preface]] [[product]]: Customer Portal]]
+        - Revisiting this on [[October 7th, 2022]]
+- 11:30
+    - [[1:1]] with [[Tommie Lo]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Scheduling vs credit system vs nomad payment update priority
+            - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+- 15:30
+    - {{[[DONE]]}} Sort out Finance with [[Clara Ho]] Finished at 15:45
+- 15:36
+    - #decided [[Anna Yu]] will join the SG IWC trip from [[October 17th, 2022]] to [[October 24th, 2022]]
+- 17:30
+    - [[Ben Cheng]] on [[Ehsan Ayaz]]
+        - Read through the PR of [[Ehsan Ayaz]]
+            - Actually there is a lot of comments and the quality of work is not always up to standard before a lot of intervention from [[Ben Cheng]]
+            - A lot of mistakes
+        - Action Plan
+            - Separate comments into 3 categories
+                - Functional bugs
+                - Hard to maintain code
+                - Coding style
+            - Focus [[Ehsan Ayaz]] to resolve the first one on Functional bugs first
+            - 
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]]
+- [[day end evaluation]]
+    - #Energy
+        - OK not very tired
+    - [[Theodore]] growth milestone
+        - 
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - 

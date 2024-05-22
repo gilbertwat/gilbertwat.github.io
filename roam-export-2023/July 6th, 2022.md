@@ -1,0 +1,71 @@
+- 09:52
+    - Sync up with [[Ben Cheng]] and continue on the discussion yesterday
+- 10:39
+    - Simple calculation on default alive for preface new digital product [[[[Preface]] 2.0: credit system]]
+        - Minimal head count cost 4 engineers + 1 designer + 2 content creators + 1 marketing/product/sales
+            - {{calc: 30000 * 8}} HKD
+        - 1 nomad costs 
+            - 350 HKD
+        - 1 credit : 
+            - 500 HKD
+        - If we go for the route of 1 on 1
+            - 1 subscriber: 1000 / month
+            - 1 class: 2 credits = {{calc: 500 *  (1 / 7.78) * 2}} USD
+                - {{calc: ((oqDbuMp01)) * 2}}
+            - profit of 1 class without headcount cost =
+                - {{calc: ((12sWe4Fcc)) - ((5NDv94kKj))}} HKD
+            - 1 normal customers will spend 2 credits per month
+            - Break even:
+                - {{calc: ((WbjzAtG5I)) / ((_yHUajMA8))}} classes
+                - 610 customers
+            - **We need ~700 customers in 1 city to break even**
+        - If we got for the route of group class for corporate training
+            - Assume the average credits bought per month:
+                - 10
+            - Assume class sizes
+                - 5
+            - profit of 1 class
+                - {{calc: ((xz_tuHQvH)) * ((oqDbuMp01)) * 2 - ((5NDv94kKj))}} HKD
+            - Break even
+                - {{calc: ((WbjzAtG5I)) / (((cOvofmLya)))}}
+            - **We need ~60 customers in 1 city to break even**
+        - Known unknown
+            - How to drive down labor costs?
+            - How many customers per nomad?
+            - How many customers per engineer?
+            - How many customers per content creators?
+            - When do we need customer success?
+            - What is the synergy between this product with [[[[Preface]] Coffee & Wine]] and [[[[Preface]] Coding]]??
+- 11:04
+    - Ed come to me to seek advice on tools for tracking effectiveness of SMS and Email marketing.
+    - #CTO learning: we need a set unified tools for the company to work on
+- 11:44
+    - [[Preface]] Tech strategy alignment
+        - Preface 2.0
+            - Digitalization of current businesses
+                - kids bootcamp
+                - 1:1 courses
+                - B2B corporate training
+            - Scalable customized content creation
+- 14:30
+    - Ask Reyes how is it on his test?
+- 15:00
+    - Interview
+        - Verdict
+            - Parked because there could be a large gap in communication with her and her ability to take technical feedback
+        - Self introduction
+            - ✅Definitely passionate
+            - ✅Definitely candid
+            - ✅Definitely strong minded and know what she wants
+            - ✅Super appreciated that she switched to English while we are conducting our interview, could be better if she asked us before head. (Note: not okay for Ben)
+        - Technical part
+            - ✅She built some AI systems to recommend courses for students
+            - ❌That's where the orange flag for both me and Ben is up, she is struggle with some basic javascript stuff, despite she said she used javascript for development
+            - ❌Also another orange flag, potentially red flag is that she doesn't seek help from us when struggling even after some nudge and hint.
+            - ❌Another yellow flag is it seems we switch a few communication styles and wordings and it seems she doesn't get those
+            - ❌Failed to appreciate the complexity of choosing a programming language (Her words, "To me is just a tool." Which is fine if she supplemented with pros and cons of different languages she is exposed to)
+        - Q&A part
+            - ✅Definitely ask a lot of questions
+            - ✅Definitely ask hard questions such as why we are not using some off the shelf e-class systems
+            - ❌Seems does not convinced that we need to build our own e-class systems (innovation, ownership of core technology of the company)
+            - ❌Seems does not appreciate the complexity of building a machine learning system (Her words again, "Just trial and error") despite winning a competition

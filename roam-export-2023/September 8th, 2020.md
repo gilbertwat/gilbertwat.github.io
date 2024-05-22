@@ -1,0 +1,32 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Write [[6 shades of project management tools - Which one should I use?]]
+    - {{{[[DONE]]}}}} Technoidentity performance Review
+        - [[Dharmendra Jadon]]
+            - NPS: 9
+            - Strength
+                - Strong in Architecture
+                - Passionate
+                - Opinionated
+            - Weakness
+                - Understand users
+        - [[Venkata Narasimha]]
+            - NPS: 8
+            - Strength
+                - Proactive
+                - Easy to communicate
+            - To improve
+                - Product quality enhancement beyond user requirement such as no duplicated API calls, performance...etc.
+        - [[Subbarao Venkata Mothe]]
+            - NPS: 8.5
+            - Strength
+                - Proactive
+                - Easy to communicate
+                - Contribute valuable insight in product development
+            - To improve
+                - Product quality enhancement beyond user requirement such as no duplicated API calls, performance...etc.
+- How do you feel when you wind down?
+    - {{slider}}

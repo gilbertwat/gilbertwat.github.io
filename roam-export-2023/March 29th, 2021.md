@@ -1,0 +1,108 @@
+- [[[[Ergon]] weekly sync up]]
+    - Discussion of PM role in [[Ergon]]
+    - [[Kingson Kwan]] is a very creative individual, with a taste of design.
+    - The PM should share the same taste of design with him, but very organized.
+- [[software delivery]] weekly sync up
+    - What is everybody mood?
+- [[1:1]] with [[Gemmy Wong]]
+    - Q2 forecast
+    - [[QA team]] expectation
+        - Current impact
+            - Manually QA each ticket
+            - By ticket acceptance criteria
+            - UI/UX problem (good)
+            - Update report email
+            - per sprint project management 101 (chase tickets)
+        - Expectation
+            - Effectiveness????
+            - Involve more earlier in SDLC
+            - Product process
+            - On QA perspective: 
+                - expectation: more practical / user centric
+                - power users
+                - Edge user behaviors
+                - Exploratory tests ** Use our app as a real users. **
+            - Release is too slow, need to be more iterative
+        - [[Nathan Ng]] needs encouragement
+            - A bit hold back
+            - Logical
+            - Direct
+        - [[Shamiya Patel]] not sure why asking some basic
+            - Ask [[Tom Lui]] [[Matilda]]
+        - [[Chris Lee]] too easy going, hardworking
+        - Rumor:
+            - [[Young]] and [[Paul Leung]] has many difference in [[QA team]]
+- [[Onboarding]] with [[Leo Chen]]
+- [[[[GOGOX]] Internal Efficiency Theme]] handover for [[Kira Wei]] [[Peter Tsai]] to [[Phoenix Lau]]
+- [[1:1]] with [[Phoenix Lau]]
+    - Q2 forecast
+        - [[[[GOGOX]] Internal Efficiency Theme]]
+        - [[[[GOGOX]] Payment Theme]]
+    - [[QA team]] expectation
+        - Current
+            - Testings
+                - Manual testing 
+            - Release scheduling
+                - Close ticket
+                - Send emails
+                - Send email to stakeholder
+                - hotfix
+        - Expectation
+            - Ok
+                - William Cheung
+                    - Any big release?
+                    - Any big risks?
+                    - Clear communication, detailed communication, proactive
+            - Not meeting
+                - Production bugs of Platform (Financial Report
+            - **Release Safe**
+        - [[Shamiya Patel]]
+        - [[Nathan Ng]] proactive share thinking
+        - [[Chris Lee]] hardworking responsible, 90% of [[William Cheung]]
+        - [[Tracy Fung]] Writing is good, clear communicator
+        - [[Lucien Lu]] meet expectation, clear communication written
+    - QA manager expectation
+        - People Managment
+            - Assign people into the right theme
+- [[1:1]] with [[Lili Chan]]
+    - Q2 forecast
+        - [[[[GOGOX]] Growth Marketing Theme]]
+            - Shopify (vendor)
+            - API integrations -> [[Vincent Chan]]
+            - [[[[GOGOX]] GOGODelivery Theme]] -> [[Waikit Kan]]
+            - [[[[GOGOX]] Driver Experience Theme]] -> Subscription / Discovery
+                - Contentful very troublesome to maintain
+        - Q1 integration quality
+            - Braze overload
+            - Tracking a bit chaotic
+            - User centric solution two sets of User ID
+                - [[Keith Chan]]
+            - iOS / Android synchronization
+                - Customerization event not notifying stakeholdersssss (GMT)
+    - [[QA team]] expectation
+        - Current
+            - Walkthrough problem, scope, user stories
+            - Help write test cases
+            - Run test cases through a lot of browsers & devices
+            - ticket by ticket
+        - Expectation
+            - Domain knowledge of [[GOGOX]]
+                - HK have ?? vehicle types
+            - Proactively to find the answer out 
+            - Login for test account **Gilbert**
+            - Braze tickets QA is PM QA
+                - No systematic QA for core features
+            - On the spots 
+        - [[Chris Lee]] ad hoc answering machine Responsive
+        - [[Nathan Ng]] Responsive
+        - [[Tracy Fung]] Responsible, Lack of priority, Responsive
+        - Confidence issue??
+        - Title of bugs
+            - Problems
+            - Or expectation?
+            - Need standandarization
+        - Less private messages
+        - [[Shamiya Patel]] only participating in sprint meeting.
+        - [[Nathan Ng]] proactive ad-hoc questions out of scope
+        - [[Ivo Wu]] out of scope
+- [[1:1]] with [[Rob Dong]]

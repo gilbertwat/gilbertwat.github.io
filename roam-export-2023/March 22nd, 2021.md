@@ -1,0 +1,47 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[[[Ergon]] weekly sync up]]
+    - Finally understand the dynamics of an HR firm
+        - Fill with gossip
+            - Actually there is a reason of that is to build and train the insight on people
+            - [[Feb 2021]] [[blogs]] topic
+    - [[Kwong Kin Ming (KM)]] next role
+        - A stable environment
+        - for coding
+        - Interview is a signal sending game
+- [[[[GOGOX]] Takeover of [[QA team]]]]
+    - main message for me
+        - I am here to help
+        - Everyone is very good individual contributor
+        - To reduce bullshit work
+            - Synergy with engineers and PMs
+            - Automation
+- [[1:1]] [[Alia Bei]]
+    - main message to [[QA team]] in [[[[GOGOX]] Takeover of [[QA team]]]]
+        - We want to retain all of them
+        - More synergy between [[QA team]] and [[software delivery]]
+- [[1:1]] with [[Keith Chan]]
+    - main message he wants to send to [[QA team]] in [[[[GOGOX]] Takeover of [[QA team]]]]
+        - Freedom for them to explore and be effective in the team
+- [[1:1]] with [[Jim Wong]]
+    - Confirmed to work as contractor after he migrates to [[Australia]] #important
+- [[1:1]] with [[Belda Chan]]
+    - I want to understand and listen to her reason of leaving [[GOGOX]] to fucking [[crypto.com]].
+    - [[Alia Bei]] suggest one of the technique of [[1:1]] is to ask the first question and listen
+    - Here is what I find out:
+        - The company is under financial constraints and have little tools for retaining talents
+        - The company should adopt more technology driven features instead of getting dragged by operations
+        - She anticipate there will a different set of Engineering sets of problem is different for 1 million users
+- Great discovery about [[QA team]]
+    - [[Paul Leung]] is not recognizing his team is filled with people capable to become QAE
+        - [[Nathan Ng]] [[Shamiya Patel]] [[Tracy Fung]] is capable
+        - [[Lucien Lu]] and [[Chris Lee]] is with [[GOGOX]] for ages.
+- [[1:1]] with [[Rob Dong]]
+    - [[Rob Dong]] is eager to receive some good news
+    - Discuss about [[promotion]] of [[Matthew Ng]] and [[Mohammad Ahmad]]
+- [[1:1]] with [[Ravic Poon]]
+    - Have a lot of doubt in the SMT, management and PMs, so he is actually eager to leave the company.
+    - An ex-colleague is giving him a good pay raise for him to join them
+    - His current focus is migrating to [[Canada]] #important
+    - 

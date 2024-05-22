@@ -1,0 +1,38 @@
+- 10:30 - 11:00 Answering whatsapp
+    - Received [[Sleekflow.io]] answer for [[VP of [[Engineering]]]]
+        - Morning Gilbert. 
+- Yesterday I had an extensive discussion with my teams - they have 2 thoughts:
+- 1) If we hire a VP of engineering, that person shall have experiences on the role before
+- 2) That person also has to be extremely familiar with most stacks we currently use
+- For now, I think we will hire more junior to mid levels to execute first.
+- But it's really my pleasure to have met you and truly admiring you as a dev
+    - #[[🧘🏻‍♂️ Self Awareness]] #Feeling
+        - I am aware of the power dynamics of the team
+            - [[Henson Tsai [[Sleekflow.io]]]] [[CEO]] of [[Sleekflow.io]] is afraid of his backend engineer
+        - I don't think it is the right choice for a backend engineer to dictate the interview process
+        - But after all, I am not very keen to join and I am more than happy to be rejected.
+        - Still I feel arrogant as I consider myself more experienced. 😈
+        - But I will keep the feeling and advice to myself as it is not worth the effort to change their status quo.
+- 11:00 - 11:30 Wrote [[Ravic Poon]] reference for new job in [[🇨🇦 Canada]]
+- 11:30 - 12:00 Sharing with [[Ravic Poon]] on how to be #[[🧘🏻‍♂️ Self Awareness]] and find out [[the meaning of life]]
+    - Welllllll I cannot answer that for you. But I can share some methods:
+        - 1. Read good, classic books / novels (Recent read: "The laws of human nature", "The Holy Bible"(yes, the only one holy bible even for non-believer), "Lord of the Rings")
+        - 2. Talk to strangers (Interview for job is good way too 🤫)
+        - 3. Talk to friends and family (Wifey the best if you can)
+        - 4. Write shit down and try to articulate (because if you can describe it you can completely understand it)
+        - 5. "Search your feelings" and "watch your actions", my young padawan 😉
+- 12:00 - 12:30 [[Interview]] [[[[QA]] [[Engineer]]]] [[Grantits.io]]
+    - No show, turned into a consultation for [[1:1]] skills for [[Vlad]]
+        - With agenda / without agenda
+- 14:00 - 15:00
+    - [[[[books]]: The Laws of Human Nature]] book club preparation for Ch5. to Ch.6
+- 15:00 - 16:00 [[Interview]] [[[[Backend]] [[software engineer]]]]
+- 16:00 - 16:30 [[1:1]] with [[Ben Cheng]]
+    - Shared about my new #belief in [[☝🏻 Leadership]]
+        - As a leader, the basic is being [[accountable]] and 找數
+    - Challenges in being a leader in [[GOGOX]]
+        - No budget for everything about [[☝🏻 Leadership]]
+            - [[☝🏻 Leadership]] cannot make any promise with the future.
+    - Be aware of the preference of [[Ben Cheng]] himself
+        - He doesn't like people 丟書包
+    - Preference vs biases [[🤔 Questions]]

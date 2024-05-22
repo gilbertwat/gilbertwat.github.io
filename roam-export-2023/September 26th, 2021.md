@@ -1,0 +1,76 @@
+- [[COVID-19]] [[vaccination]] day 2
+    - More severe arm sore
+    - light-headed
+- XXX Payable is inefficient in [[cashflow]].
+    - Company should be turning over the goods and cash as quick as possible
+        - Salary is a fairly inefficient but stable [[cashflow]]
+            - Consultancy fee payable every month is also but stable [[cashflow]]
+- A [[company]] is a legal means to coordinate behavior—a way to treat a group of [[people]], [[assets]], and [[contracts]] as if it's just one person. But this means that it needs some way to verify who is entitled to act on the company's behalf and under what circumstances.
+- 22:56 - 00:18 Retrospective of Week 38
+    - 09:43 - 11:08 Retrospective of Week 37
+    - What went well?
+        - #[[health]]
+            - [[COVID-19]] [[vaccination]] first shot with little [[side-effects]]
+                - [[Why do I [[🎯 Major [[decision]]]] to take the vaccine]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[🚴🏼‍♂️ Cycling]] on [[September 22nd, 2021]]
+            - 🔥 Winning Fifa 21 with last-minute 2 goals in extra time. 
+            - 🔥 Playing [[Dead Cells]] brings back my soul.
+        - #[[Family [[finance]]]]
+            - Invested [[Putizen]] on [[Republic.co]] [[decision]]
+                - {{[[DONE]]}} [[decision]] [[Rationale]]
+                    - I want to support new startup in the retail space
+                    - I want to closely follow the retail space internationally.
+            - Minted [[n-color]] and [[Dream Team]] [[NFT]] [[decision]]
+                - {{[[DONE]]}} [[decision]] [[Rationale]]
+                    - The project is created by [[Dominic Wong]] and his friends, I am supporting my [[Friends]]
+        - #[[Family]] & #[[Friends]]
+            - [[Alia Bei]] thank you lunch
+            - [[Eason Yim]] seems happy.
+            - [[Kwong Kin Ming (KM)]] last day in [[Ergon]], seems good term
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Spent a lot of time [[Interview]]ing [[[[Backend]] [[software engineer]]]]
+                - Pick up the motivation to [[PoC]] on Twilio Video capability on [[5-min-call]]
+            - [[Ergon]]
+                - Meeting on [[September 23rd, 2021]] went well
+            - [[Distribution channels]]
+                - Potential new stream of revenue from [[Maven.hk]]
+    - What went wrong?
+        - #[[health]]
+            - Less [[sleep]] every day because of [[Dead Cells]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Nothing so far
+        - #[[Family [[finance]]]]
+            - [[cryptocurrency]] crash again.
+        - #[[Family]] & #[[Friends]]
+            - Still no time to contact [[Chris Tang]] and [[姑姐]]
+        - #[[🛠️ Work]]
+            - [[Grantits.io]]
+                - Not much response from them after long messages with [[Megan Wong]] or [[Lina Sio]]
+            - [[Distribution channels]]
+                - No post on [[Twitter]]
+                    - Not much of an event or [[ideas]]
+    - What can be done next week?
+        - #[[health]]
+            - Keep monitoring after effect for [[vaccination]] of [[COVID-19]]
+            - Lean diet and 10,000 steps every day.
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Light exercise + 10,000 Steps every day
+        - #[[Family [[finance]]]]
+            - Scout for more small bets to take. [[decision]]
+            - Meet people to brainstorm about what to sell
+        - #[[Family]]  & #[[Friends]]
+            - {{[[DONE]]}}  contact [[Chris Tang]] and [[姑姐]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]] 
+                - continue [[Interview]]s with [[[[Backend]] [[software engineer]]]]
+                - continue [[PoC]] [[5-min-call]]
+            - [[Ergon]]
+                - Finish the TODOs 
+            - [[Grantits.io]]
+                - Spend some time with [[Vlad]] [[Lina Sio]] and [[Megan Wong]]
+            - [[Maven.hk]]
+                - Strike a fair deal with [[Brian Chan [[Maven.hk]]]]
+            - [[Distribution channels]]
+                - Go back to make more memes 😉

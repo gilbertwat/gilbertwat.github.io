@@ -1,0 +1,7 @@
+- {{[[ARCHIVED]]}}  Write about [[[[review]] 2021]]
+- {{[[DONE]]}}  [[1:1]] with [[Alia Bei]]
+    - [[decision]] to disclose [[Preface Coding]] move
+    - Get her to amend the relationship with me
+    - 
+- {{[[ARCHIVED]]}}  Write about [[How can you tell if you are effective as a manager?]]
+- {{[[ARCHIVED]]}} [[Ninja Writing]] writeup

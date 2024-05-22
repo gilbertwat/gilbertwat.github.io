@@ -1,0 +1,2 @@
+- ChaChaanTech is a consulting services / SaaS company that is my second enterpeneurial adventure.
+- Here I will be starting by myself to bootstrap the distribution channel

@@ -1,0 +1,6 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+- [[[[[[Preface]] tech team]] weekly meeting]]
+- 13:10
+    - Mercendes Benz show to deploy [[[[Preface]] [[product]]: A.I. Coffee 2.0]] with [[Carmen Yeung]] and [[Silvia Wong]]
+- 15:30
+    - Nomad matching discussion with [[Ben Cheng]] [[Joseph Chan]] [[Hema Shah]] [[Adrian Chan]]

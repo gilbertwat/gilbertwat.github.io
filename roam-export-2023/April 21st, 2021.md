@@ -1,0 +1,37 @@
+- [[Interview]]
+    - Monitoring 
+        - Anormaly
+            - Alerts
+            - Serverless function to cloudwatch
+        - EC2 instance
+            - constantly
+        - Kubernetes
+    - 2 hours to 3 minutes
+        - Progress
+        - Clean data input from clients
+        - Client database is very low throughput -> DynamoDB
+        - Tags to resources
+    - People from AWS, call them
+        - praise people
+        - ask them directly
+        - AWS discord for engineers
+        - read books
+    - Ask you questions feel happiest.
+    - Previous job: decided to be no downside.
+    - Learn more about technology cloud architect. Different cultures
+    - Very user driven
+    - Very failure driven - Very engineering driven
+    - Very experienced in message queue
+- System Review
+    - Chapter 4: Design A Rate Limiter
+    - Chapter 5: Design Consistent Hashing
+    - Chapter 6: Design A Key-value Store
+    - Chapter 7: Design A Unique Id Generator In Distributed Systems
+    - Chapter 8: Design A Url Shortener
+    - Chapter 9: Design A Web Crawler
+    - Chapter 10: Design A Notification System
+    - Chapter 11: Design A News Feed System
+    - Chapter 12: Design A Chat System
+    - Chapter 13: Design A Search Autocomplete System
+    - Chapter 14: Design Youtube
+    - Chapter 15: Design Google Drive

@@ -1,0 +1,4 @@
+- [[Mum]] birthday!
+- [[gratitude dairy]]
+    - Call to 16C and see everyone is healthy
+    - [[Wifey]] spotted my look is very fatigued and offered a lot of solutions to let me adjust. Felt loved again.

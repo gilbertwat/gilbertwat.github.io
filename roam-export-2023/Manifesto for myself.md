@@ -1,0 +1,2 @@
+- Never stop caring yourself - Nothing can carry on without you.
+- Never stop beliving 

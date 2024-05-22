@@ -1,0 +1,254 @@
+- [[Brag document]]
+- [[Self reflection questions]]
+- [[🎯 Major [[decision]]]]
+- Why do I care about myself?
+    - If I don't, who will?
+- Skills
+    - Gallup 34 strengths #[[🧘🏻‍♂️ Self Awareness]] #[[☝🏻 Leadership]] [[How to find strengths and weaknesses in your teammates]]
+        - **Relation Building (I)**
+            - Communication
+            - Empathy
+            - Harmony
+            - Inclusiveness
+            - Individualization 
+                - [[Myself]]'s Top 10
+                - People exceptionally talented in the Individualization theme are intrigued with the unique qualities of each person. They have a gift for figuring out how different people can work together productively.
+            - Relator
+                - People exceptionally talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
+                - [[Myself]]'s Top 5
+                - How I understand people is not through Empathy, but through my understanding and thoughtfulness in my friends or colleagues
+                - I want to do a deep relationship
+                - Mature Relator: 
+            - Responsibility
+        - **Executing (III)**
+            - Achiever
+            - Adaptability
+            - Belief
+            - Discipline
+            - Focus
+            - Restorative
+        - **Influencing (II)**
+            - Significance
+                - People exceptionally talented in the Significance theme want to make a big impact. They are independent and prioritize projects based on how much influence they will have on their organization or people around them.
+                - [[Myself]]'s Top 10
+            - Self-assurance
+                - People exceptionally talented in the Self-Assurance theme feel confident in their ability to take risks and manage their own lives. They have an inner compass that gives them certainty in their decisions.
+                - [[Myself]]'s Top 5
+            - Command
+            - Competition
+            - Developer
+                - People exceptionally talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from evidence of progress.
+                - [[Myself]]'s Top 10
+            - Maximizer
+            - Positivity
+                - People exceptionally talented in the Positivity theme have contagious enthusiasm. They are upbeat and can get others excited about what they are going to do.
+                - [[Myself]]'s Top 10
+            - Woo
+        - **Strategic Thinking (IV)**
+            - Activator
+                - People exceptionally talented in the Activator theme can make things happen by turning thoughts into action. They want to do things now, rather than simply talk about them.
+                - [[Myself]]'s Top 5
+            - Analytical
+            - Arranger
+            - Connectedness
+            - Consistency
+            - Context
+            - Deliberative
+            - Futuristic
+                - People exceptionally talented in the Futuristic theme are inspired by the future and what could be. They energize others with their visions of the future.
+                - [[Myself]]'s Top 5
+            - Ideation
+                - People exceptionally talented in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena
+                - [[Myself]]'s Top 10
+            - Input
+            - Intellection
+            - Learner
+            - Strategic
+                - People exceptionally talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant 
+- patterns and issues.
+    - [[Myself]]'s Top 5
+    - What am I good at?
+        - I am open
+        - I am resilient
+        - I am Ideal
+        - I learn very very fast, adaptable
+        - I can convince other people
+        - I am authentic
+        - temperament
+        - Visionary
+        - confident in the public
+        - I am funny 😄
+    - What I want to improve in?
+        - Story-telling
+        - Carry out hard conversation
+        - Execution
+        - Empathy
+            - Talk from the others' personal interest
+        - Communicating a vision
+    - What am I bad at and I cannot / do not want to overcome?
+        - I am colorblinded
+        - I am not agile in my hands
+        - I cannot copy and paste
+        - I always second guess my decision.
+        - I am always distracted
+        - I cannot make up my mind
+        - I am easily overloaded and fatigue
+        - I suck as admin work
+        - I easily fatigue
+        - I hate repetitive tasks
+    - What am I not so sure if I am good at?
+        - Reading people's strength and weakness
+        - Accessing team strength and weakness
+    - How do I acquire new information?
+        - Reading
+    - What is my producing feedback loop?
+        - Long (3-5 years): 
+        - Medium (1-3 years): [[product]]
+        - Short (1 day - 1 week): [[routine]]
+    - What is my high leverage activities?
+        - [[1:1]]
+- Priorities
+    - What is the most important thing in my life?
+        - My own peace of mind
+            - Why do I care about my peace of mind?
+                - Because it is my foundation of every 🤝 Family & Friends
+                - Because it is my foundation of every actions
+                - Because it is my foundation of health.
+            - How do you feel when you wake up?
+        - [[💪🏻 Commitments]]
+            - Why do I care about my [[💪🏻 Commitments]]?
+                - Because it is my foundation of commerce.
+                - Because it is my pride.
+                - Because those responsibilities make me feel empowered and fun.
+            - [[Ergon]]
+            - [[GOGOX]]
+        - My personal brand
+            - [[blogs]]
+        - My own [[business]]
+            - Why do I care about building my own [[business]]
+                - Because I want to make my own rules
+                - Because I want to be free
+                - Because I want to mark my existence on earth
+                - Surprisingly, it is not about others 😞
+    - Who are the most important people in my life?
+        - [[Wifey]]
+            - Why do I care about my [[Wifey]]?
+                - If I don't, who will?
+                - I am a Chinese after all in this regards, I do think 身體髪膚，受之父母
+                - I feel a sense of purpose and heritage when talking about [[[[Gilbert Wat]] [[project]]: 屈家歷史]]
+                - They bring meanings to my life.
+                - They always bring [[joy]] and [[Inspiration]] to my life.
+                - I can be myself to them.
+        - ((P4PLsikLN))
+            - Why do I care about my ((P4PLsikLN))?
+                - They always bring [[joy]] and [[Inspiration]] to my life.
+                - I can always trust them to share my [[challenges]] and experience.
+                - I feel a sense of purpose helping them.
+                - I can throw some broken gags to them
+                - I can be myself to them
+    - What’s my definition of success?
+        - Create an organization that can survive the chaos in the next 20 years
+    - What things do I value in life?
+        - Believes
+            - Freedom
+                - Why do I care about my freedom?
+                    - Freedom allows me to explore some of ideas freely
+                    - I believe only through freedom can humanity innovate and co-create solutions to new challenges.
+            - Craftsmanship
+                - Why do I care about my craftsmanship?
+                    - craftsmanship gives me sense of progression
+                    - It doesn't depends on others to progress
+            - Win-Win
+                - Why do I care about win-win?
+                    - It is the only way people can work together and progress together.
+- Emotions
+    - What is my home base emotion?
+        - Why it is important?
+            - It is my driver of improvement.
+        - #rage
+    - What makes me #rage?
+        - People are not advancing the course
+        - People are wasting my time
+        - [[unnecessary stress in the team]]
+    - What makes me happy?
+        - Eureka when I understand something
+        - Learning something
+        - Achieving something
+    - What makes me sad?
+        - Migraine
+        - People leaving HK
+        - Alone without [[Wifey]]
+    - What makes me afraid?
+        - #Fear
+        - My laziness costing the whole organization to fail
+        - My passiveness costing the whole initiative to fail
+        - Start giving negative feedback directly and timely
+- [[Energy]]
+    - How much [[sleep]] do I need?
+        - 7 hours
+    - What relaxes me?
+        - Joking around
+        - Doing nothing
+        - Medidating
+        - Hacking up something
+        - Cycling
+        - Walking
+        - Reorganizing
+        - Cleaning home
+        - Writing & thinking
+        - Listening to ambient music
+        - Reading fiction
+        - Presentation / Performance
+        - brainstorming
+        - problem solving
+        - creating
+    - What makes me tired?
+        - 1:1
+        - reading non-fiction
+        - Socializing
+        - Weight lifting
+        - Phone scrolling
+        - Ranting
+        - Alcohol with food
+        - Got rejected
+    - Not so sure
+        - Cooking
+        - Cleaning dishes
+- [[Motivation]]
+    - What motivates me?
+        - history
+        - technology
+        - philosophy
+        - Making people laugh hysterically
+        - Make people dance
+- Seven sins 👿
+    - What type of person do I want to be?
+        - 
+    - What type of friend do I want to be?
+    - What type of worker am I?
+        - Burst mode
+        - Discipline works
+    - How do I want others to see me?
+        - Generous
+        - Polyglot
+        - Passionate
+- Resources:
+    - [[sleep]]
+        - https://supermemo.guru/wiki/Good_[[sleep]],_good_learning,_good_life#Importance_of_[[sleep]]
+    - Gallup results (2020)
+        - Relator
+            - Relator describes your attitude toward your relationships. In simple terms, the Relator theme pulls you toward people you already know. You do not necessarily shy away from meeting new people—in fact, you may have other themes that cause you to enjoy the thrill of turning strangers into friends—but you do derive a great deal of pleasure and strength from being around your close friends. You are comfortable with intimacy. Once the initial connection has been made, you deliberately encourage a deepening of the relationship. You want to understand their feelings, their goals, their fears, and their dreams; and you want them to understand yours. You know that this kind of closeness implies a certain amount of risk—you might be taken advantage of—but you are willing to accept that risk. For you a relationship has value only if it is genuine. And the only way to know that is to entrust yourself to the other person. The more you share with each other, the more you risk together. The more you risk together, the more each of you proves your caring is genuine. These are your steps toward real friendship, and you take them willingly.
+            - Chances are good that you cause people to feel worthwhile and appreciated. How? You invite them to share their aims for the future. When you know someone’s aspirations, you can begin nurturing a meaningful partnership. Because of your strengths, you consistently measure up to your high expectations when working, studying, or playing. Driven by your talents, you have close companions who frequently seek your guidance. You help them find answers to their personal and professional problems. This makes you a valuable friend. By nature, you are fully aware of what is said when people confide in you. They know you hear them. They know you care about them. They know you comprehend what they are thinking and feeling. Often friends turn to you to test an idea or express an opinion. Based on your comments, they can evaluate whether their ideas make sense. Instinctively, you are drawn to the process of gaining knowledge and skills. You long to build on what you already know. You yearn to improve on what you already can do. When you meet people who value education as much as you do, you are eager to hear about their personal or professional ambitions, intentions, or goals. Understanding what others aim to accomplish in the coming weeks, months, or years can be the beginning of a practical partnership or an enduring friendship
+        - Futuristic
+            - “Wouldn’t it be great if . . .” You are the kind of person who loves to peer over the horizon. The future fascinates you. As if it were projected on the wall, you see in detail what the future might hold, and this detailed picture keeps pulling you forward, into tomorrow. While the exact content of the picture will depend on your other strengths and interests—a better product, a better team, a better life, or a better world—it will always be inspirational to you. You are a dreamer who sees visions of what could be and who cherishes those visions. When the present proves too frustrating and the people around you too pragmatic, you conjure up your visions of the future and they energize you. They can energize others, too. In fact, very often people look to you to describe your visions of the future. They want a picture that can raise their sights and thereby their spirits. You can paint it for them. Practice. Choose your words carefully. Make the picture as vivid as possible. People will want to latch on to the hope you bring.
+            - Because of your strengths, you are innovative, inventive, original, and resourceful. Your mind allows you to venture beyond the commonplace, the familiar, or the obvious. You entertain ideas about the best ways to reach a goal, increase productivity, or solve a problem. First, you think of alternatives. Then you choose the best option. Instinctively, you are energized by your plans for the coming months, years, or decades. Bringing your ideas to life is an exciting proposition for you. You sense you have the power to transform whatever you think is possible into tangible outcomes. Driven by your talents, you take charge of your future. You are determined to shape it as you wish. You probably spend a lot of time thinking about your goals. You are driven to create the experiences you desire. You tend to agree with the notion “If you can think it, you can make it happen.” Chances are good that you sense your life has deep meaning. With remarkable vividness, you often imagine where you will be, what you will be doing, and what you have the ability to accomplish in the coming months, years, or decades. Your dreams of tomorrow are very alive in your mind today. You intentionally strive to transform these possibilities into reality. It’s very likely that you are a visionary thinker. Your vivid mental images of the coming months, years, or decades often impel you to move into action.
+        - Strategic
+            - The Strategic theme enables you to sort through the clutter and find the best route. It is not a skill that can be taught. It is a distinct way of thinking, a special perspective on the world at large. This perspective allows you to see patterns where others simply see complexity. Mindful of these patterns, you play out alternative scenarios, always asking, “What if this happened? Okay, well what if this happened?” This recurring question helps you see around the next corner. There you can evaluate accurately the potential obstacles. Guided by where you see each path leading, you start to make selections. You discard the paths that lead nowhere. You discard the paths that lead straight into resistance. You discard the paths that lead into a fog of confusion. You cull and make selections until you arrive at the chosen path—your strategy. Armed with your strategy, you strike forward. This is your Strategic theme at work: “What if?” Select. Strike.
+            - Instinctively, you can reconfigure factual information or data in ways that reveal trends, raise issues, identify opportunities, or offer solutions. You bring an added dimension to discussions. You make sense out of seemingly unrelated information. You are likely to generate multiple action plans before you choose the best one. Chances are good that you pay close attention to what is going on around you. You listen. You quiz people. You read. You probably take notes on key points. As you accumulate lots of information, you disregard what is unrelated, and pay heed to what is really important. The more you reflect on what you know, the more problems begin to reveal themselves, and eventually solutions start taking shape in your mind. Finally, given the situation, you select the best plan from your list of options. Because of your strengths, you work diligently to invent alternative courses of action. You notice new as well as unusual configurations in facts, evidence, or data. Others, however, can see only separate, unrelated bits of information. You are fascinated by problems that puzzle, confound, or frustrate most people. It’s very likely that you enjoy brainstorming — that is, a group problem-solving technique that involves the spontaneous contribution of ideas from all participants. Because you have acquired special skills and knowledge, you can suggest a number of alternative solutions. Your expertise often serves as a springboard for your own and others’ imaginations. This is the case when you are encouraged to think about the future. Driven by your talents, you have acquired valuable skills and knowledge. You spend time considering numerous courses of action before choosing one. You invent original and innovative techniques for dealing with expected and unexpected challenges. You use the same approach to take advantage of promising opportunities.
+        - Self-Assurance
+            - Self-Assurance is similar to self-confidence. In the deepest part of you, you have faith in your strengths. You know that you are able—able to take risks, able to meet new challenges, able to stake claims, and, most important, able to deliver. But Self-Assurance is more than just self-confidence. Blessed with the theme of Self-assurance, you have confidence not only in your abilities but in your judgment. When you look at the world, you know that your perspective is unique and distinct. And because no one sees exactly what you see, you know that no one can make your decisions for you. No one can tell you what to think. They can guide. They can suggest. But you alone have the authority to form conclusions, make decisions, and act. This authority, this final accountability for the living of your life, does not intimidate you. On the contrary, it feels natural to you. No matter what the situation, you seem to know what the right decision is. This theme lends you an aura of certainty. Unlike many, you are not easily swayed by someone else’s arguments, no matter how persuasive they may be. This Self-Assurance may be quiet or loud, depending on your other themes, but it is solid. It is strong. Like the keel of a ship, it withstands many different pressures and keeps you on your course.
+            - By nature, you bring an electricity — that is, a keen, contagious excitement — to conversations with old friends, long-time associates, or new acquaintances. You can walk up to a group of people, ease into the conversation, and make them feel glad you are there. You gravitate to individuals who talk about mind-boggling — that is, mentally exciting — concepts or innovative projects. You probably are bored by idle chitchat and gossip. Driven by your talents, you are delighted to be part of a group engaged in creative thinking. You probably enjoy meetings where everyone spontaneously contributes ideas. Exchanging innovative concepts and hearing others’ views energize you. Testing ideas with your teammates is much more fun than being alone with your thoughts. Instinctively, you habitually put in very long hours. Some call you a workaholic. You disregard this label and declare, “I love my job. I really enjoy what I’m doing. I know I’m good at this. It gives me great pleasure.” Chances are good that you sometimes improve your results or add to your list of accomplishments by consciously using your talents. Perhaps you are more efficient or effective when you practice doing better what you naturally do well. It’s very likely that you intentionally seek out what is new and different. Unexplored territory appeals to your adventurous spirit. You like to test your limits as a human being in travel, work, sports, or thinking. Even when others worry about your well-being, you trust you can take care of yourself.
+        - Activator
+            - “When can we start?” This is a recurring question in your life. You are impatient for action. You may concede that analysis has its uses or that debate and discussion can occasionally yield some valuable insights, but deep down you know that only action is real. Only action can make things happen. Only action leads to performance. Once a decision is made, you cannot not act. Others may worry that “there are still some things we don’t know,” but this doesn’t seem to slow you. If the decision has been made to go across town, you know that the fastest way to get there is to go stoplight to stoplight. You are not going to sit around waiting until all the lights have turned green. Besides, in your view, action and thinking are not opposites. In fact, guided by your Activator theme, you believe that action is the best device for learning. You make a decision, you take action, you look at the result, and you learn. This learning informs your next action and your next. How can you grow if you have nothing to react to? Well, you believe you can’t. You must put yourself out there. You must take the next step. It is the only way to keep your thinking fresh and informed. The bottom line is this: You know you will be judged not by what you say, not by what you think, but by what you get done. This does not frighten you. It
+            - “When can we start?” This is a recurring question in your life. You are impatient for action. You may concede that analysis has its uses or that debate and discussion can occasionally yield some valuable insights, but deep down you know that only action is real. Only action can make things happen. Only action leads to performance. Once a decision is made, you cannot not act. Others may worry that “there are still some things we don’t know,” but this doesn’t seem to slow you. If the decision has been made to go across town, you know that the fastest way to get there is to go stoplight to stoplight. You are not going to sit around waiting until all the lights have turned green. Besides, in your view, action and thinking are not opposites. In fact, guided by your Activator theme, you believe that action is the best device for learning. You make a decision, you take action, you look at the result, and you learn. This learning informs your next action and your next. How can you grow if you have nothing to react to? Well, you believe you can’t. You must put yourself out there. You must take the next step. It is the only way to keep your thinking fresh and informed. The bottom line is this: You know you will be judged not by what you say, not by what you think, but by what you get done. This does not frighten you. It pleases you.
+            - Because of your strengths, you motivate your friends with your passion for moving ideas from the talking stage to the action stage. Your dedication to various projects rallies numerous individuals to work alongside you. By nature, you realize that individuals can be easily threatened by your proficiency with various topics or skills. You intentionally use your authority and mastery to convey a sense of urgency. This prompts certain people to comply with your wishes. Simply put: You have a way of taking charge and moving others to action. It’s very likely that you excel at launching new projects, assignments, jobs, and other activities. Many times, you are the person who motivates people to begin tasks. You prefer difficult-to-reach goals. You prefer to take charge. You forge ahead rather than wait for someone in authority to give you permission to start. Instinctively, you generate enthusiasm so people become as eager as you are to transform an idea into something tangible. You are energized, not paralyzed, by opportunities and possibilities. Driven by your talents, you characteristically generate enthusiasm. You contend anything is possible. Your optimistic outlook helps people believe in their potential. You encourage individuals to forge ahead quickly. You challenge others to view major and minor assignments as opportunities to excel.

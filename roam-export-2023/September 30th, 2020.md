@@ -1,0 +1,56 @@
+- Radiate your gratitude; Focus; Pace yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[[[GOGOX]] Driver Experience Theme]] [[Retrospective]]
+- [[[[2020]] Q4]] [[OKR]] [[Sync up]]
+- [[[[QA]] [[Engineer]]]] [[Sync up]]
+    - I don't understand why the indian QAE cannot complete the build and run once on the machine.
+    - After 3 weeks he is able to run the test in 3 weeks time.
+- [[🔢 Software Development]] [[Process]]
+    - Agenda
+        - We need to be aligned for
+        - What problem or pain points we have from sprint planning to release
+        - How can we solve them
+        - Do we need Scum Master role for it?
+        - Will discuss for E2E test collaboration
+            - Backend will be fully on BE team. No need QA supports.
+            - QA team will focus on frontend App(and Web), mostly App
+            - How can we collaborate for E2E test in FE, BE, App, QA teams
+    - # Meeting notes
+        - We discuss for backend team decoupling release cycle first.
+        - In Q4, platform team will be **accountable** for the backend release and incidents.
+        - In Q4, platform team will lay the foundation of release separately from app release cycle.
+        - The preparation will include
+            - User level configurations to enable BE feature to specific users, drivers, couriers for testing
+            - No smoke test for every release to speed up release
+            - Test in production after each release by platform team members
+            - No backward incompatible API changes to prevent incidents because of backward incompatibility
+            - Run E2E Postman test to backend API for every task to same as what we are doing for public API now, will include in CI process.
+        - Tentatively in 2021 Q1, platform team will release backend services separately.
+        - **QA team will treat backend services as a black box.**
+        - QA team will work with mobile team to develop on App automation tests.
+        - QA team will validate mobile app release for each sprints.
+        - Next we discuss scrum process.
+        - Nothing need to be changed in scrum process.
+        - @Paul Leung put up a list of pain points and feelings in delivery process experienced by QA teammates.
+            - Story point is not used to estimate QA efforts
+            - Rollover tickets are not properly handled in sprint closing
+            - All tickets are moved to Ready for QA in day 8, resulting stress in smoke test.
+            - Smoke test and feature test in 2 days is not enough.
+            - Sprint meetings are not held properly.
+        - @Young D. suggest @Paul Leung to gather data from QA teammates. Feelings are hard to discuss.
+        - @Gilbert Wat and @Keith Chan re-iterate we need concrete evidence to find root cause of those feelings. This feeling sharing has been in discussion **for a long time** and **adjustments has been made**. The impact of such adjustments need to be **measured**.
+    - # Decisions
+        - **API E2E test suite will now iterated by platform team.**
+        - **Backend release related compliance procedure will now be handled by delivery manager(@Gilbert Wat).**
+        - **Staging defects by QA will always be logged on app side.**
+    - # Action items
+- [[[[[[2020]] Q3]] [[[[Performance]] Review]] [[Keith Chan]]]]
+- [[How do you feel when you wind down?]]
+    - {{slider}}
+- #[[Quick Capture]]
+    - experience when picking up in HKTVMall
+- The transparent background is on9 in dark mode app
+- Intimidating when picking up and need to open my app and click 5 clicks to QR code 

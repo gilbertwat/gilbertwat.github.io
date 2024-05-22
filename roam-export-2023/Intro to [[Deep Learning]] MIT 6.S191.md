@@ -1,0 +1,32 @@
+- [Lab 2](https://github.com/aamini/introtodeeplearning/blob/2021/lab2/Part1_MNIST.ipynb)
+    - [Google Collab](https://colab.research.google.com/drive/1RlWyM6oYGMA4jJpNC62L_ZE9UlI1f8ac#scrollTo=gNQIsvAsIWj5)
+- Perceptron
+    - The most basic building block of deep learning
+    - Forward Propagation
+    - $$\hat{y} = g(w_0 + \sum^{m}_{i=1}x_iw_i)$$
+        - Input
+            - 1 (bias)
+            - $$x_1\cdots{x_m}$$ (Input)
+        - weight
+            - $$w_0 \cdots w_m$$
+        - Sum
+            - $$\sum^{m}_{i=1}$$
+        - Non-Linearity function
+            - $$g()$$
+        - Output
+            - $$\hat{y}$$
+        - Better equation using [[vector]]
+            - $$\hat{y} = g(w_0 + \bold{X^TW})$$
+        - In [[Tensorflow]]
+            - `Dense` layer
+            - 
+- Non-Linearity function is all [[activation function]]
+    - introduce non-linearities into the network
+    - Types of [[activation function]]
+        - ReLU
+            - if positive, keep the value
+            - if negative, set the output to 0
+            - cheaper version for 
+        - tanh
+        - sigmoid
+        - softmax

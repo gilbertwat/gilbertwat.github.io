@@ -1,0 +1,8 @@
+- 10:00 Fix [[chachaanteng.co]]
+    - Removed all contents from [[getthingsdone.hk]]
+- 11:31 Done fixing [[chachaanteng.co]]
+- 12:00 Tell [[Kelvin Chan]] I have resigned from [[GOGOX]]
+- 12:30 Lunch
+- 14:30
+- 16:30 [[js]]
+    - https://roamjs.com/extensions/smartblocks/trigger_your_workflow

@@ -1,0 +1,39 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[ideas]] Siri in Zoom for vibe checking and decision recording
+- [[Kavin Wong]] #resigns 😞
+- 📈 Stocks [[Family [[finance]]]]
+    - [[Wifey]] has picked a few stocks for us to increase our earnings
+        - [[Ping Identity]]
+        - [[Pinterest]]
+        - [[Alphabet Inc.]]
+        - [[Etsy]]
+        - Blue Apron
+        - Invitation Holmes
+        - American Holes 4 Rent
+        - Teladoc Health
+        - Livongo Health
+        - Peloton
+        - Kroger
+        - Bank of America
+        - General Motor
+        - Amazon
+        - Johnson and Johnson
+        - Hendz
+        - Cocacola
+        - 02688 新見能源
+        - 02777 富力地產
+        - 00293 國泰
+        - 00175 吉利
+        - 02318 平安
+        - 醫渡雲
+        - 京東物流
+        - 嘀嘀出行
+        - 微創心通科技
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

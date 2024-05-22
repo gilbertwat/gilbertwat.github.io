@@ -1,0 +1,58 @@
+- [[[[2022]] Week 47]] #goals
+    - Mind
+        - {{[[ARCHIVED]]}}  [[[[books]]: The unbearable lightness of being]] #to-write 
+        - {{[[DONE]]}}  #fixed iPhone back glasses Finished at 14:38 [[November 30th, 2022]]
+    - Body
+    - Friends & Family
+        - {{[[DONE]]}} Plan for [[Mum]]'s operation visiting from [[December 6th, 2022]] 
+    - Financial
+        - {{[[ARCHIVED]]}} #to-audit current liquid assets #finance
+    - Career
+        - {{[[ARCHIVED]]}}  Found my contribution in OSS may be happening in https://github.com/mermaid-js/mermaid-live-editor/pulls unable to output double direction in flow chart
+        - {{[[DONE]]}}  #read [[[[books]]: The AI-First Company]] Finished at [[December 12th, 2022]]
+        - Preface
+            - {{[[DONE]]}} Pimp the documents we have to increase the fun in our documents
+            - {{[[ARCHIVED]]}}  #to-write [[[[Ehsan Ayaz]] [[post mortem]]]]
+            - {{[[DONE]]}}  Wrap up SG trip for [[Anna Yu]] on [[November 23rd, 2022]] -> [[November 28th, 2022]] Finished at 12:05 [[November 28th, 2022]]
+            - [[[[Preface]] [[product]]: Coffee App]]
+                - {{[[DONE]]}}  #shared updated coffee app related document for [[James Cheuk]] Finished at 15:46 [[November 22nd, 2022]]
+            - [[[[[[Preface]] [[product]]: Customer Portal]] MVP]]
+                - {{[[DONE]]}}  #written Phase 4 [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] on [[November 25th, 2022]] -> [[December 9th, 2022]]
+                - {{[[DONE]]}}  #to-finalize Phase 3 [[[[[[Preface]] [[product]]: Customer Portal]] MVP]] design Finished at 15:04 [[November 24th, 2022]]
+            - [[[[Preface]] tag-based courses [[recommender]] system]]
+                - {{[[DONE]]}}  Model retraining cadence decision for [[[[Preface]] tag-based courses [[recommender]] system]] -> [[January 14th, 2023]] Finished at [[December 12th, 2022]]
+            - [[[[Hubspot]] migration plan]]
+                - {{[[DONE]]}}  Presentation in all-hands for [[Yoon Kim]] on [[November 23rd, 2022]] Finished at 18:00 [[November 23rd, 2022]]
+            - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+                - {{[[ARCHIVED]]}}  Upgrade [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] to fix the budget on [[November 24th, 2022]] -> [[December 1st, 2022]]
+- 09:00
+    - {{[[DONE]]}}  fixed [[[[Preface]] [[product]]: Coffee App]] iOS Testflight expiry for 90 days Finished at 11:30
+        - {{[[ARCHIVED]]}} If we didn't update the app, we need to update to new version in the next expiry in [[February 18th, 2023]]
+- 11:30
+    - Rest and play with [[Theodore]]
+- 11:50
+    - Type up 
+        - [[[[2022]] Week 46]] review
+            - Projects
+                - Customer Portal: **On track**
+                    - We are integrating recommendation engine to our customer portal now.
+                - Coffee App: **Delayed, catching up**
+                    - We are in contact with a new contractor called James, whom Ben and I have worked with in [[GOGOX]] . We are in negotiation of scope and price.
+                - Recommendation Engine: **On track**
+                    - We have deployed our first version already on customer portal. Alex will share more detail next week.
+                - Hubspot issue: **On track**
+                    - We finalize the strategy we will be approaching the data collection of leads. TL,DR; will be we will collect everyone's lead into a single source, but everyone can still create their ways to collect data. But we will have a very clear expectation communicated what are we collecting for leads. Yoon will share more detail in the all-hands for this this week.
+                - BUD application for development: **on track**
+                    - We are in contact with Vincent So from Inspect Element and James. We are in parallel negotiation of scope and price.
+            - Team matters
+                - Good news we have some trusted potential contributors in Coffee App and possible credit system.
+            - Bottleneck
+                - Me to plan ahead and do all negotiation now.
+        - A bit distracted by [[Theodore]]
+- 12:30
+    - Lunch and play with [[Theodore]]
+- 13:30
+    - {{[[DONE]]}}  [[[[2022]] Week 47]] #goals Finished at 14:24 #planned
+- 14:24
+    - Distracted to play with [[huggingface]] [[stable-diffusion]]
+    - {{[[DONE]]}}  #shared updated coffee app related document for [[James Cheuk]] Finished at 15:46 [[November 22nd, 2022]]

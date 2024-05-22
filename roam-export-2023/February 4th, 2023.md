@@ -1,0 +1,7 @@
+- #[[05 2023]]
+- 23:18
+    - [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - Finished {{[[DONE]]}}  Run and build the nextJS app successfully once after putting customer-portal codebase to the folder of `app/next`
+- 23:55
+    - {{[[DONE]]}}  Write [[[[blog post]] Productively Negative]] 👏🏼 finished on [[February 13th, 2023]]
+- {{[[ARCHIVED]]}}  Work on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]

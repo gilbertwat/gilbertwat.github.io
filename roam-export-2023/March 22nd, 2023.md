@@ -1,0 +1,7 @@
+- [[[[Preface]] [[project]]: Techbites MVP]]
+    - Prompt engineering
+        - Hallucinate an non-existent courses
+        - "as follow" leaking context
+        - "around 50 words" will have word filler.
+        - "Say you don't know if you are not sure."
+        - Be specific with "<Specific here>"

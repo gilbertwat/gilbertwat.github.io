@@ -1,0 +1,19 @@
+- [[[[2022]] Week 47]] #goals
+- Daily questions: How to build a product management community in Hong Kong?
+- 09:30
+    - Reading up Email for the first time in 3-4 weeks
+- 10:30
+    - [[Theodore]]
+- 12:30
+    - [[Theodore]] Eat
+- 13:30
+    - Lunch
+- 14:15
+    - 
+- 14:45
+    - Reading up Email for the first time in 3-4 weeks
+- 16:30
+    - [[Theodore]]
+- 17:30
+    - 
+- 

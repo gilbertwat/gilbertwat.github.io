@@ -1,0 +1,6 @@
+- [[Tech x Content weekly meeting [[Preface]]]]
+- [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - Work on the demo for voice
+- [[Akash]] quit his freelance with us
+    - #learning I should really take into the account of [[Ben Cheng]] on #offboarding him sooner when I learn that the comments is almost like [[Ehsan Ayaz]]
+    - #learning it is my fourth time tolerating underperformance.

@@ -1,0 +1,10 @@
+- https://snapflows.com/ #design #resourse
+- [[[[Preface]] [[project]]: Techbites MVP]] preview ready
+    - Final touch
+        - {{[[DONE]]}}  Update SEO 👏🏼 finished on [[March 24th, 2023]]
+        - {{[[DONE]]}}  Add description 👏🏼 finished on [[March 24th, 2023]]
+        - {{[[DONE]]}}  Add product analytics 👏🏼 finished on [[March 24th, 2023]]
+- Discussion on a feature on [[[[Preface]] [[project]]: Nomad payment scheme update]] with [[Hema Shah]]
+    - Shared the situation
+- [[Moses Ngan]] resigned
+- 

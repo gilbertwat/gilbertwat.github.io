@@ -1,0 +1,3 @@
+- So assume there is a junior 
+- she choose to get stuck and not asking any questions
+- https://arc.net/e/B90F400E-AF10-4452-A577-9C94D6D99D5B

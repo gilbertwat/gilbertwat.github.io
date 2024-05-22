@@ -1,0 +1,65 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Sunday, whom am I kidding to?
+        - Back still tough.
+- #Notes URL https://twitter.com/LisaK_2020/status/1332563480835223552?s=20 
+    - Topics
+        - #Mentorship [[management]] [[How to mentor potential prospect?]]
+    - [[Excerpts]]
+        - 2x2
+            - Warmness
+                - Personal Warmth
+                - Professional Distance
+            - Demandingness
+                - Passive Leniency
+                - Active Demandingness
+        - Personal Warmth x Active Demandingness: The warm demander
+            - Ideal
+            - build [[rapport]] and [[Trust]]
+            - express warmth in non-verbal way
+            - earn the right to demand engagement and efforts
+            - competent with the technical side of instruction
+            - hold high standard
+            - offers emotional support
+            - instructional scaffolding
+            - encourage productive struggle
+            - tough love
+        - Personal Warmth x Passive Leniency: The sentimentalist
+            - build [[rapport]] and [[Trust]]
+            - make excuses for students' lack of academic performance
+            - consciously holds lower expectations out of pity
+            - Either over-scaffolds instruction or dumb downs the curriculum
+            - Doesn't provide opportunities for students to engage in productive struggle
+            - Allow student to engage unproductive behavior
+            - liked by student
+            - a push over
+        - Professional Distance x Passive Leniency: The elitist
+            - doesn't build rapport and trust
+            - no focus on students
+            - unconsciously hold low expectations for dependent learners
+            - Providing little scaffolding
+            - Mistakes cultural differences of culturally and liguistically diverse students as intellectual deficits
+            - Allow student to engage unproductive behavior
+            - make certain students feel pushed out
+            - cold and uncaring
+        - Professional Distance x Active Demandingness: The technocrat
+            - doesn't build rapport and trust
+            - hold high standards and expects students to meet them
+            - very competent with the technical side of instruction
+            - Able to support independent learners better then dependent learners
+            - likeable even if distant
+    - {{[[DONE]]}} Takeaways
+        - [[☝🏻 Leadership]] needs to build [[rapport]] and [[Trust]]
+        - [[☝🏻 Leadership]] needs to communicate a [[highest standard]]
+        - [[☝🏻 Leadership]] needs to radiate warmth in a non-verbal way.
+    - 
+- https://twitter.com/foundersfund [[Venture-backed]]
+- https://twitter.com/JamesClear/status/1332314862278615042?s=20 #[[resources]]
+    - 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

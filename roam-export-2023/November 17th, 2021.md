@@ -1,0 +1,11 @@
+- [[[[GOGOX]] Project Flywheel]] sync up
+    - Tech
+        - Handover
+            - Dealamart
+                - market segment is jei jei instead of C9
+        - Alfred API
+    - Business
+        - Yoho
+        - price.com.hk
+        - False 集運
+            - 3000 order per day

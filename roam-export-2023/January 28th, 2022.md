@@ -1,0 +1,31 @@
+- 09:02
+    - [[1:1]] with [[Tommie Lo]]
+        - Need to tightly communicate with [[Billy Wong]] [[Queena]] [[Ellen Lau]] for [[[[Preface]] tech team prioritization framework]]
+        - [[Expectation of a [[Preface]] tech team]]
+            - Company health dashboard
+            - Agree engineering standard is priority
+            - Agreed we will build a central nervous system / brain / central database 
+            - Urge me to involve more on recommendation on company growth suggestion.
+- 11:00
+    - [[[[Preface]] [[product]]: Coffee App]] weekly meeting
+        - {{[[DONE]]}} Feel the atmosphere is bad?
+- 12:00
+    - [[1:1]] with [[Vegas Ho]]
+        - Managed to squeeze some budget to get [[Ivo Wu]] and [[Ben Cheng]], pending [[Tommie Lo]]'s approval
+            - And [[Tommie Lo]] approved on the same day.
+- 12:30 Lunch with [[Anna Yu]] and [[Ronald Kwok]] to debug [[[[Preface]] [[product]]: Coffee App]] team dynamics
+    - 
+- 15:38
+    - [[1:1]] with [[Ronald Kwok]]
+        - Not clear division of labor / roles
+        - Push the coffee app to production
+        - Hard feelings
+            - Tuesday offer letter
+            - Wednesday offer letter
+            - Monday offer letter
+            - Finalize ng dou his position
+        - Coach him to navigate the human water.
+        - {{[[DONE]]}} Are there any learning budget for tech team? [[->]] [[Vegas Ho]]
+- 16:48
+    - {{[[DONE]]}} Testing devices for tech team on coffee app
+    - {{[[DONE]]}} [[[[Preface]] [[product]]: Coffee App]] For going to production, what are we missing? [[->]] [[Ronald Kwok]] [[Anna Yu]]

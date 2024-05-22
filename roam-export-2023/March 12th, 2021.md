@@ -1,0 +1,59 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Still not [[sleep]]ing very well, not able to [[sleep]] in 1 go.
+- Start the day **strong**!
+- https://www.gitops.tech #Devops
+- [[1:1]] with [[Matthew Ng]]
+    - ask Gilbert about company update
+    - eNPS
+        - 7-8/10
+            - Flexible
+            - Harmonious web team
+            - A little bit challenging, learning stuff from time to time
+            - Motivation from within team
+                - Presentation
+        - How to improve to a 10?
+            - More company update from Gilbert
+            - More time for exploration of tech
+                - How to balance workload?
+    - Code review questions
+        - Have an idea how to improve the code. Wondering how to proceed
+        - Gilbert suggests that extract that part for a PoC
+            - Rewrite the snippet in several different ways.
+            - Evaluate the code by:
+                - Try to add one or more variant of the UI components.
+                - Try to delete one or more variant of the UI components.
+                - Try to change one function
+        - {{[[DONE]]}}  Next week will ask Gilbert for comments.
+- {{[[DONE]]}} #Notes Read https://www.facebook.com/muddydirtywater/posts/1845122615645904 
+    - Topics
+        - [[Studying]] [[learning]]
+    - Excerpt
+        - 「一本史書，要讀很多遍。」
+        - 「每一遍，都只專注於一個層面。」
+        - 這就是所謂的「每書數過，一意求之」。
+        - 蘇軾
+            - 吾嘗讀《漢書》矣，蓋數過而始盡之」
+            - 「如治道、人物、官制、兵法、財貨之類，每一過專求一事。」
+            - 「不待數過，而事事精竅矣。」
+        - 你得有「研究意識」，然後「讀的多」、「讀的廣」、「讀的深」
+        - 你要變成某個問題的專家，能隨口背誦出大量資料的專家
+        - 「真實世界充滿了細節」
+    - Takeaways 
+        - Read classic with a focus or topic.
+        - Read multiple time of the same classics with different topics in mind.
+        - The reality is complex.
+    - [[🤔 Questions]]
+- [[1:1]] with [[Hon Chan]]
+    - Not enough people in backend for you to pick up backend tasks
+    - Leaving the company for a smaller team
+- [[1:1]] with [[Mohammad Ahmad]]
+    - Read [The Way of Kings (The Stormlight Archive, Book 1)](https://www.amazon.com/gp/product/B003P2WO5E/ref=dbs_a_def_rwt_bibl_vppi_i2)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FWlLYBzs1lI.PNG?alt=media&token=7b5ea180-4145-4c5d-af97-49b56f100d6f) #[[product]] #[[Software quality]]
+- 

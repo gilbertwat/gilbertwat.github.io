@@ -1,0 +1,18 @@
+- 09:30
+    - [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  Migrate `login` to the shared folder. 👏🏼 finished on [[March 13th, 2023]]
+- 10:30
+    - check out {{[[DONE]]}}  Segment and mixpanel evaluation  👏🏼 finished on [[March 13th, 2023]] with [[Alex Li]] and [[Yoon Kim]]
+    - check out [[[[Preface]] Company Dashboard]]
+- 11:00
+- 12:30
+    - Lunch and Learn
+- 13:45
+    - [[1:1]] with [[Tommie Lo]]
+        - Trust and support from him
+- 14:30
+    - Continue [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- [[gratitude dairy]]
+    - Able to gain trust and support from [[Tommie Lo]]
+    - Able to gain trust from [[Ben Cheng]]
+    - Able to gain trust from [[Vincent So]] and [[Charlie Mak]]

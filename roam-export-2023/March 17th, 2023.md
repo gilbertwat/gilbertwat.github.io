@@ -1,0 +1,3 @@
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Techbites MVP]] 👏🏼 finished on [[April 5th, 2023]]
+    - Work on {{[[DONE]]}} lead gen feature on [[[[Preface]] [[product]]: website]] using [[ChatGPT]] API 👏🏼 finished on [[April 5th, 2023]]
+    - 

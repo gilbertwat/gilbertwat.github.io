@@ -1,0 +1,519 @@
+- [[decided]]: Why do I want to read this book?
+    - [[Daniel Vassallo]] who is an engineer turned entrepreneur is recommending this book about [[marketing]] mindset
+    - #Verdict
+        - I found this book very eye-opening. Although the organization of the book is a bit messy, but the storytelling of this book is very strong. I gained a lot of marketing insights in the once hyper-rational world I am living in.
+- [[Rory Sutherland]]
+- Notes
+    - Prologue: Challenging Coca-Cola ix
+        - Unfortunately, because reductionist logic has proved so reliable in the physical sciences, we now believe it must be applicable everywhere – even in the much messier field of human affairs. The models that dominate all human decision-making today are duly heavy on simplistic logic, and light on magic – a spreadsheet leaves no room for miracles.
+        - LOCATION: 141
+        - The need to appear scientific in our methodology may prevent us from considering other, less logical and more magical solutions, which can be cheap, fast-acting and effective. The mythical ‘butterfly effect’ does exist, but we don’t spend enough time butterfly hunting.
+        - LOCATION: 163
+    - Introduction: Cracking the (Human) Code 1
+        - There are often two reasons behind people’s behaviour: the ostensibly logical reason, and the real reason.
+        - LOCATION: 208
+        - My assertion is that large parts of human behaviour are like a cryptic crossword clue: there is always a plausible surface meaning, but there is also a deeper answer hidden beneath the surface.
+        - LOCATION: 220
+        - There is hence an ever-present temptation to pretend things are more ‘logical’ than they really are.
+        - LOCATION: 241
+        - Logic is what makes a successful engineer or mathematician, but psycho-logic is what has made us a successful breed of monkey, that has survived and flourished over time. This alternative logic emerges from a parallel operating system within the human mind, which often operates unconsciously, and is far more powerful and pervasive than you realise. Rather like gravity, it is a force that nobody noticed until someone put a name to it.
+        - LOCATION: 248
+        - but you could make equally strong cases that the Remain campaign in Britain and Hillary Clinton’s failed bid for the American presidency failed because of the clueless, hyper-rational behaviour of overeducated advisors, who threw away huge natural advantages.
+        - LOCATION: 285
+        - To solve logic-proof problems requires intelligent, logical people to admit the possibility that they might be wrong about something, but these people’s minds are often most resistant to change – perhaps because their status is deeply entwined with their capacity for reason.
+        - LOCATION: 311
+        - Being slightly bonkers can be a good negotiating strategy: being rational means you are predictable, and being predictable makes you weak. Hillary thinks like an economist, while Donald is a game theorist, and is able to achieve with one tweet what would take Clinton four years of congressional infighting. That’s alchemy; you may hate it, but it works.
+        - LOCATION: 344
+        - The human mouth allows you to eat, but if your nose is blocked, it also allows you to breathe. In a similar way, it seems illogical to break into a building using the noisiest means possible, until you understand the context in which the offender is operating.
+        - LOCATION: 374
+        - If you are a technocrat, you’ll generally have achieved your status by explaining things in reverse; the plausible post-rationalisation is the stock-in-trade of the commentariat.
+        - LOCATION: 380
+        - There are two separate forms of scientific enquiry – the discovery of what works and the explanation and understanding of why it works. These are two entirely different things, and can happen in either order.
+        - LOCATION: 385
+        - Perhaps a plausible ‘why’ should not be a pre-requisite in deciding a ‘what’, and the things we try should not be confined to those things whose future success we can most easily explain in retrospect. The record of science in some ways casts doubt on a scientific approach to problem solving.
+        - LOCATION: 395
+        - I’m not joking. I recently had a meeting with a client where I learned that a customer prize draw to win ‘free energy for a year – worth over £1,000’ received 67,000 entries. The subsequent draw, where you could win a cute penguin nightlight (with a value of £15) received over 360,000 entries.
+        - LOCATION: 406
+        - Business, creativity and the arts are full of successful non-sense. In fact the single greatest strength of free markets is their ability to generate innovative things whose popularity makes no sense. Non-sense includes things that are useful or effective, even though (or perhaps because) they defy conventional logic.
+        - LOCATION: 457
+        - Presenting such things in a business setting packed with MBA graduates is slightly embarrassing; you start to envy people in IT or tax-planning, who can go into a meeting with rational proposals on a chart or spreadsheet. However, this fixation with sense-making can prove expensive. Imagine you are a company whose product is not selling well. Which of the following proposals would be easier to make in a board meeting called to resolve the problem? a) ‘We should reduce the price’ or b) ‘We should feature more ducks in our advertising’. The first, of course – and yet the second could, in fact, be much more profitable.
+        - LOCATION: 466
+        - In fact, we derive pleasure from ‘expensive treats’ and also enjoy finding ‘bargains’.
+        - LOCATION: 523
+        - By contrast, the mid-range retailer offers far less of an emotional hit; you don’t get a dopamine rush from mid-market purchases.
+        - NOTE: The key is too induce emotional response.
+        - LOCATION: 523
+        - The success of the brilliant engineer-alchemist James Dyson in selling vacuum cleaners seems to arise from a similar mental disparity.
+        - LOCATION: 529
+        - People are highly contradictory. The situation or place in which we find ourselves may completely change our perception and judgement.
+        - NOTE: 花姐as a manager of mirror vs 花姐 as a producer of making of stars
+        - LOCATION: 534
+        - Our very perception of the world is affected by context, which is why the rational attempt to contrive universal, context-free laws for human behaviour may be largely doomed.
+        - LOCATION: 540
+        - The fatal issue is that logic always gets you to exactly the same place as your competitors. At Ogilvy, I founded a division that employs psychology graduates to look at behavioural change problems through a new lens. Our mantra is ‘Test counterintuitive things, because no one else ever does.’ Why is this necessary?
+        - LOCATION: 590
+        - There are five main reasons why we have evolved to behave in seemingly illogical ways, and they conveniently all begin with the letter S.* They are: Signalling, Subconscious hacking, Satisficing and Psychophysics.
+        - LOCATION: 614
+        - This is because GPS is both incredibly clever but at the same time dogmatic and presumptuous.* It will confidently instruct you to take a particular route, based on a perfect understanding of a very narrow set of data points and a simplistic model of your motivation.
+        - LOCATION: 630
+        - For instance, whenever I drive to the airport, I often ignore my GPS. This is because what I need when I’m catching a flight is not the fastest average journey, but the one with the lowest variance in journey time – the one with the ‘least-bad worst-case scenario’.
+        - LOCATION: 638
+        - The reason we don’t always behave in a way which corresponds with conventional ideas of rationality is not because we are silly: it is because we know more than we know we know.
+        - LOCATION: 657
+        - This technique will be more reliable if it is genuinely random and not conscious, as it is better for the hare to have no foreknowledge of where it is going to jump next: if it knew where it was going to jump next, its posture might reveal clues to its pursuer.
+        - LOCATION: 677
+        - ‘Human nature hasn’t changed for a million years. It won’t even change in the next million years. Only the superficial things have changed. It is fashionable to talk about the changing man. A communicator must be concerned with the unchanging man – what compulsions drive him, what instincts dominate his every action, even though his language too often camouflages what really motivates him.’
+        - LOCATION: 690
+        - Human self-deception makes our job difficult for another reason: no one wants to believe in its existence, and it is something which people seem only to accept at a shallow, theoretical level.
+        - LOCATION: 696
+        - It isn’t easy to get people to accept the idea of hidden motivations.
+        - LOCATION: 707
+        - For a business to be truly customer-focused, it needs to ignore what people say. Instead it needs to concentrate on what people feel.
+        - LOCATION: 722
+        - It’s interesting that, once we leave childhood, we stop asking these apparently childish questions. Try this exercise, which starts with a childish question, but one that might not have been asked before: Why don’t people like being made to stand on overcrowded trains?* I once asked this question in a meeting with a rail company.
+        - LOCATION: 731
+        - Plans such as this only emerge when people ask a dumb question with an open mind.
+        - LOCATION: 753
+        - The reason we do not ask basic questions is because, once our brain provides a logical answer, we stop looking for better ones; with a little alchemy, better answers can be found.
+        - LOCATION: 755
+    - 1 On the Uses and Abuses of Reason 49
+        - Once we are honest about the existence of unconscious motivations, we can broaden our possible solutions.
+        - LOCATION: 781
+        - The first lens is market research or, to give it a simpler name, asking people.
+        - LOCATION: 789
+        - ‘The trouble with market research is that people don’t think what they feel, they don’t say what they think, and they don’t do what they say.’
+        - LOCATION: 790
+        - How different might the experience feel if the engineer agreed to text you half an hour before showing up at your door?
+        - LOCATION: 822
+        - Is it as good as offering one-hour appointments? Not quite, but it might offer 90 per cent of the emotional and perceptual improvements, at 1 per cent of the cost.
+        - LOCATION: 824
+        - People may be accurate commentators on their emotional state, but the causes of that emotional state (in this case, uncertainty) are often a complete mystery to them.
+        - LOCATION: 827
+        - Experimentation is the only reliable way of testing, so we measure the effect of engineers’ texts on customer satisfaction against a control group who receive no such early warning.
+        - LOCATION: 830
+        - BA 786 – Frankfurt – DELAYED
+        - LOCATION: 832
+        - BA 786 – Frankfurt – DELAYED 70 minutes.
+        - LOCATION: 833
+        - The second message is a bit of a pain – but at least you are in control of the situation.
+        - LOCATION: 834
+        - You know there is bad news, but you do not have sufficient information to respond to it.
+        - LOCATION: 835
+        - In a sensible world, the only thing that would matter would be solving a problem by whatever means work best, but problem-solving is a strangely status-conscious job: there are high-status approaches and low-status approaches.
+        - LOCATION: 868
+        - This discussion perfectly captures the divide between those who believe in rational explanation and those who believe in unconscious motivation; between logic and psycho-logic.*
+        - LOCATION: 996
+        - You will never uncover unconscious motivations unless you create an atmosphere in which people can ask apparently fatuous questions without fear of shame.
+        - LOCATION: 998
+        - If you want to solve the problem of unnecessary doctor’s visits or simply to set up a system to prioritise who gets seen by the doctor first, it is vital that you factor in unconscious motivations alongside post-rationalisations.
+        - LOCATION: 1012
+        - Whether we use logic or psycho-logic depends on whether we want to solve the problem or to simply to be seen to be trying to solve the problem.
+        - LOCATION: 1023
+        - In fact, the times when people are most likely to clean their teeth occur before those moments when we are most frightened of the adverse social consequences of visible stains or bad breath.
+        - LOCATION: 1037
+        - So the dislike of faeces was not originally based on sound reasoning – it was rather a sound instinct the reason for which had not yet been discovered.
+        - LOCATION: 1063
+        - In trying to encourage rational behaviour, don’t confine yourself to rational arguments.
+        - LOCATION: 1098
+        - Reason, and the naïve assumption that people understand the reasons for their own behaviour, would both provide very misleading explanations for the use of toothpaste.
+        - LOCATION: 1099
+        - One of the great contributors to the profits of high-end restaurants is the fact that bottled water comes in two types, enabling waiters to ask ‘still or sparkling?’, making it rather difficult to say ‘just tap’.
+        - LOCATION: 1129
+        - It has also propelled a narrow-minded technocratic caste into power, who achieve the appearance of expert certainty by ignoring large parts of what makes markets so interesting.
+        - LOCATION: 1152
+        - This is not the fault of the markets; it is the fault of the people who have hijacked the definition of what markets should do.
+        - LOCATION: 1156
+        - at other times, we misdeploy it. Reasoning is a priceless tool for evaluating solutions, and essential if you wish to defend them, but it does not always do a very good job of finding those solutions in the first place.
+        - LOCATION: 1161
+        - Notice, though, how just a few wrong assumptions in statistics, when compounded, can lead to an intelligent man being wrong by a factor of about 100,000,000 – tarot cards are rarely this dangerous.
+        - LOCATION: 1198
+        - To put it crudely, when you multiply bullshit with bullshit, you don’t get a bit more bullshit – you get bullshit squared.
+        - LOCATION: 1203
+        - One of our clients at Ogilvy is an airline. I constantly remind them that asking four businessmen to pay £26 each to check in one piece of luggage is not the same as asking a married father of two* to pay £104 to check in his family’s luggage.
+        - LOCATION: 1247
+        - I would rather run a business with no mathematicians than with second-rate mathematicians. Remember that every time you average, add or multiply something, you are losing information. Remember also that a single rogue outlier can lead to an extraordinary distortion of reality – just as Bill Gates can walk into a football stadium and raise the average level of wealth of everyone in it by $1m.
+        - LOCATION: 1256
+        - You can trick ten people once, but it’s much harder to trick one person ten times.
+        - LOCATION: 1271
+        - Many other mathematical models involving humans make the mistake of assuming that 10 x 1 = 1 x 10.
+        - LOCATION: 1285
+        - The reason for this is that with one person we look for conformity, but with ten people we look for complementarity.
+        - LOCATION: 1301
+        - The same applies to hiring – we are much more likely to take risks when hiring ten people than when hiring one.
+        - NOTE: Also very insightful for hiring a VP or a team I am still thinking.
+        - LOCATION: 1305
+        - When hiring, we should understand that unconscious motivation and rational good sense overlap, but they do not completely coincide.
+        - LOCATION: 1309
+        - Remember, anyone can easily build a career on a single eccentric talent, if it is cunningly deployed. As I always advise young people, ‘Find one or two things your boss is rubbish at and be quite good at them.’ Complementary talent is far more valuable than conformist talent.
+        - LOCATION: 1338
+        - Don’t design for average.
+        - LOCATION: 1350
+        - One of the other problems with a logically consistent system for hiring people is that ambitious middle-class people can exploit it by ‘gaming the system’.
+        - LOCATION: 1375
+        - Context is everything: strangely, the attractiveness of what we choose is affected by comparisons with what we reject.
+        - LOCATION: 1429
+        - For good and ill, the job instils a paranoid fear of the obvious and fosters the urge to question every orthodoxy and to rail against every consensus. This becomes tiring – especially when the same wilfully perverse thinking is applied to everyday household decisions.
+        - LOCATION: 1446
+        - In competitive markets, it pays to have (and to cultivate) eccentric tastes.
+        - LOCATION: 1477
+        - But when choosing things in scarce supply* it pays to be eccentric.
+        - LOCATION: 1491
+        - Architectural quality does not have a numerical score, and tends to sink lower in our priorities as a result, but there is no reason to assume that something is more important just because it is numerically expressible.
+        - LOCATION: 1496
+        - We constantly rewrite the past to form a narrative which cuts out the non-critical points – and which replaces luck and random experimentation with conscious intent.
+        - LOCATION: 1560
+        - But in coming up with anything genuinely new, unconscious instinct, luck and simple random experimentation play a far greater part in the problem-solving process than we ever admit.
+        - LOCATION: 1567
+        - One astonishing possible explanation for the function of reason only emerged about ten years ago: the argumentative hypothesis* suggests reason arose in the human brain not to inform our actions and beliefs, but to explain and defend them to others.
+        - LOCATION: 1604
+        - When every function of a business is looked at from the same narrow economic standpoint, the same game is applied endlessly.
+        - LOCATION: 1638
+        - The staff weren’t regarded as a ‘cost’ – they were a significant reason for the company’s success.
+        - LOCATION: 1645
+        - Today, the principal activity of any publicly held company is rarely the creation of products to satisfy a market need. Management attention is instead largely directed towards the invention of plausible-sounding efficiency narratives to satisfy financial analysts, many of whom know nothing about the businesses they claim to analyse, beyond what they can read on a spreadsheet.
+        - LOCATION: 1651
+        - where competing businesses tested divergent theories of how best to satisfy customer needs, with the market passing judgement on their efforts?
+        - LOCATION: 1665
+        - A year ago my own employer, with no consultation at all, moved every worldwide employee – over 70,000 people in total – to a new email platform, in the space of a single weekend.
+        - LOCATION: 1678
+        - but that’s what makes markets so brilliant: they are happy to reward and fund the necessary, regardless of the quality of reasoning.
+        - LOCATION: 1691
+        - The following is a perfect illustration of the tendency of modern business to pretend that economics is true, even when it isn’t.
+        - NOTE: This example is CLS.
+        - LOCATION: 1704
+        - People’s motivations are not always well-aligned with the interests of a business: the best decision to make is to pursue rational self-justification, not profit. No one was ever fired for pretending economics was true.
+        - LOCATION: 1719
+        - Yet magic does still exist – it is found in the fields of psychology, biology and the science of perception, rather than in physics and chemistry. And it can be created.
+        - LOCATION: 1736
+        - We don’t value things; we value their meaning. What they are is determined by the laws of physics, but what they mean is determined by the laws of psychology.
+        - LOCATION: 1743
+        - Almost everything becomes more desirable when people believe it is in scarce supply, and possessions become more enjoyable when they have a famous brand name attached.
+        - NOTE: NFT
+        - LOCATION: 1747
+    - 2 An Alchemist's Tale (Or Why Magic Really Still Exists) 133
+        - the ingrained reluctance even to entertain magical solutions results in a limitation in the number of ideas that people are allowed to consider.
+        - LOCATION: 1753
+        - Their only conception of time-saving applies to time spent in motion – the means by which they aim to improve things are too narrowly defined.*
+        - LOCATION: 1777
+        - You can therefore create (or destroy) value it in two ways – either by changing the thing or by changing minds about what it is.
+        - LOCATION: 1786
+        - The department devised a plan, aimed at luring in female students and making sure they actually enjoyed their computer science initiation, in the hopes of converting them to majors. A course previously entitled ‘Introduction to programming in Java’ was renamed ‘Creative approaches to problem solving in science and engineering using Python’.
+        - LOCATION: 1876
+        - The female professors took the students to the annual Grace Hopper Conference, an annual ‘celebration of women in technology’. It was an important step in demonstrating that there was nothing weird or anti-social about women working in tech. Finally, the college offered a summer of research for female students to apply their new-found talents to something useful and socially beneficial.
+        - LOCATION: 1884
+        - It is simply good marketing applied to a problem.
+        - LOCATION: 1891
+        - Create a name, and you’ve created a norm.
+        - LOCATION: 1904
+        - A knowledge of the human physique is considered essential in designing a chair, but a knowledge of human psychology is rarely considered useful, never mind a requirement, when someone is asked to design a pension scheme, a portable music player or a railway.
+        - LOCATION: 1966
+        - Economic logic suggests that more is better. Psycho-logic often believes that less is more.
+        - LOCATION: 1972
+        - Any ‘rational’ person would have advised Morita to go with the engineers’ advice, but according to multiple accounts, Morita vetoed the recording button.
+        - LOCATION: 1987
+        - By reducing the possible applications of the device to a single use, it clarified what the device was for.
+        - LOCATION: 1992
+        - It is always possible to add functionality to something, but while this makes the new thing more versatile, it also reduces the clarity of its affordance, making it less pleasurable to use and quite possibly more difficult to justify buying.
+        - LOCATION: 1999
+        - Although you may think that people instinctively want to make the best possible decision, there is a stronger force that animates business decision-making: the desire not to get blamed or fired.
+        - NOTE: B2B product need to hack this problem
+        - LOCATION: 2029
+    - 3 Signalling 165
+        - The first of these is signalling, the need to send reliable indications of commitment and intent, which can inspire confidence and trust.
+        - NOTE: For any interview process, I think this is the key.
+        - LOCATION: 2042
+        - A market like the London taxi industry, where you almost never interact with the same person more than once, needs a high level of trust in order to work, and one way to establish this confidence is to demand serious proof of commitment before you are admitted to the trade.
+        - LOCATION: 2056
+        - The reason for that is that the Ultimatum Game is stupid, and so is the Prisoner’s Dilemma: these games exist in a context-free, theoretical universe with no real-life parallels.
+        - LOCATION: 2082
+        - At that point, all you need is a simple mechanism to ensure that cheaters can be expelled from the game.
+        - LOCATION: 2097
+        - I mentioned that before the prospect of repeat custom is something that keeps businesses honest, but there is another conclusion we can draw – that you can signal that you are an honest business by showing that your business model relies on repeat custom.
+        - LOCATION: 2109
+        - How might we distinguish the second type of business from the first? Well, the scoop of extra fries you get at Five Guys is one such gesture – an immediate (if modest) expense with a deferred pay off, and a reliable signifier that the business is investing in a repeat relationship and not milking a single transaction.
+        - LOCATION: 2138
+        - Politeness demands that we perform hundreds of little rituals, from opening doors to standing up when someone enters the room, all of which are more effortful than the alternative. By such oblique means we convey that we care about their opinion – and about our reputation.
+        - LOCATION: 2161
+        - My contention is that our perception is calibrated more widely in this way. We notice and attach significance and meaning to those things that deviate from narrow, economic common sense, precisely because they deviate from it.
+        - LOCATION: 2204
+        - The meaning in these things derives from the consumption of some costly resource – which, if not money, may be talent, or effort, or time or skill or humour or, in the case of risqué humour, bravery.* But it has to contain something costly, otherwise it is just noise.
+        - LOCATION: 2217
+        - Quite simply, all powerful messages must contain an element of absurdity, illogicality, costliness, disproportion, inefficiency, scarcity, difficulty or extravagance – because rational behaviour and talk, for all their strengths, convey no meaning.
+        - LOCATION: 2227
+        - bravery is sexy, but rationality isn’t.
+        - LOCATION: 2237
+        - Having worked in advertising for over 25 years, usually for large companies with big budgets, it still fascinates me how great an effect unconscious signalling can have on the fortunes of a tiny business. And more than that, it frightens me to think how many perfectly worthwhile businesses have failed that might not have done if they’d implemented a few trivial signals.
+        - LOCATION: 2271
+        - ‘I knew the coffee was going to be good because of the chairs,’ sounds like a very silly sentence, but hold on a moment – maybe, using psycho-logic and a bit of social intelligence, we can identify a connection. For a start, someone who invests in new chairs and goes to the trouble of placing them on the pavement every day is not lazy, and has also invested in their business.
+        - LOCATION: 2289
+        - Of course, you might have to be careful not to overdo this kind of signalling.
+        - LOCATION: 2296
+        - The answer is that they use ‘advertising and branding’ – they produce distinctive, hard-to-copy scents and large, brightly coloured petals. These are noticeable, but producing them is risky, as they may attract the attention of herbivores that might eat them.
+        - LOCATION: 2318
+        - In advertising, a large budget does not prove a product is good, but it does establish that the advertiser is confident enough in the future popularity of the product to spend some of his resources promoting it.
+        - LOCATION: 2354
+        - Yet the status markers for which we compete don’t have to be environmentally damaging; people can derive status from philanthropy as well as through selfish consumption.
+        - LOCATION: 2443
+        - The tension between sexual and natural selection – and the interplay between them – may be the really big story here. Many innovations would not have got off the ground without the human instinct for status-signalling,* so might it be the same in nature?
+        - LOCATION: 2472
+        - because we intuitively understand that someone with a reputable brand identity has more to lose from selling a bad product than someone with no reputation at risk.
+        - LOCATION: 2511
+        - Eventually the regime swallowed their ideological pride and made factories stamp their names on their rivets – the feedback mechanism was restored and quality returned to acceptable levels.
+        - LOCATION: 2532
+        - Without the feedback loop made possible by distinctive and distinguishable petals or brands, nothing can improve.
+        - LOCATION: 2539
+    - 4 Subconscious Hacking: Signalling to Ourselves 211
+        - I make a very simple point here: the fact that something does not work through a known and logical mechanism should not make us unwilling to adopt it.
+        - LOCATION: 2572
+        - Again, these need contain no additional ingredients: the only distinguishing feature would be the packaging and the promise.
+        - LOCATION: 2583
+        - This indirect process of influence applies to all complex systems, of which the automatic gearbox and human psychology are merely two examples.
+        - LOCATION: 2638
+        - One problem (of many) with Soviet-style command economies is that they can only work if people know what they want and need, and can define and express their wants adequately.
+        - LOCATION: 2747
+        - The intriguing thing about Uber as an innovation was that no one really asked for it before it existed.* Its success lay in a couple of astute psychological hacks: the fact that no money changes hands during a trip is one of the most powerful – it makes using it feel like a service rather than a transaction.
+        - NOTE: Double confirn ggv is shit in psychology
+        - LOCATION: 2752
+        - This is because the mammalian brain has a deep-set preference for control and certainty.
+        - LOCATION: 2766
+        - the need to inspire confidence in ourselves, and the need to inspire trust in others.
+        - LOCATION: 2785
+        - Men have equivalent placebo vices, of course: of these, a love of cars and gadgetry, as I mentioned above, funds and accelerates the development of useful products.
+        - LOCATION: 2802
+        - Several experts I have talked to in the high-end wine business regard their own field as essentially a placebo market; one of them admitted that he was relatively uninterested in the products he sold and would sneak off and fetch a beer at premium tastings of burgundies costing thousands of pounds a bottle. Another described himself as ‘the eunuch in the whorehouse’ – someone who was valuable because he was immune to the charms of the product he promoted.*
+        - NOTE: I am too cynicl to be in the biz of wine
+        - LOCATION: 2810
+        - One of Nicholas Humphrey’s rules about what makes an effective placebo is that there must be some effort, scarcity or expense involved.
+        - LOCATION: 2815
+        - After all, it shares many of the features of a great placebo: it’s expensive, it tastes weird and it comes in a ‘restricted dose’.
+        - LOCATION: 2839
+        - The results showed a clear trend: although everyone had drunk exactly the same drink, the ‘vodka Red Bull group’ reported feeling much drunker, took more risks than the others and were more confident when it came to approaching women.
+        - LOCATION: 2855
+        - The qualities we notice, and the things which often affect us most, are the things that make no sense – at some level, perhaps it is necessary to deviate from standard rationality and do something apparently illogical to attract the attention of the subconscious and create meaning.
+        - LOCATION: 2881
+        - My contention is that placebos need to be slightly absurd to work.
+        - LOCATION: 2885
+        - If you look at behaviours to hack the unconscious, they all seem to have an element that is wasteful, unpleasant or downright silly.
+        - LOCATION: 2892
+        - Meaning is disproportionately conveyed by things that are unexpected or illogical, while narrowly logical things convey no information at all. And this brings us full circle, to the explanation of costly signalling.
+        - LOCATION: 2899
+    - 5 Satisficing 245
+        - However, as soon as we leave school or university, the vast majority of decisions we all have to take are not of that kind at all. Most of the decisions we face have something missing – a vital fact or statistic that is unavailable, or else unknowable at the time we make the decision.
+        - LOCATION: 2906
+        - The reason is that the first question is tailor-made for computation, being what you might call a ‘narrow context’ problem. It assumes an artificially simplified, regularised world (where buses
+        - LOCATION: 2916
+        - The question of how to get to Gatwick is what you might call a ‘wide context’ problem.
+        - LOCATION: 2919
+        - The problems occur when people try to solve ‘wide’ problems using ‘narrow’ thinking. Keynes once said, ‘It is better to be vaguely right than precisely wrong’, and evolution seems to be on his side.
+        - LOCATION: 2937
+        - Never call a behaviour irrational until you really know what the person is trying to do.
+        - LOCATION: 2956
+        - Like bees with flowers, we are drawn to reliable signals of honest intent, and we choose to do business where those signals are found.
+        - LOCATION: 2967
+        - Big data carries with it the promise of certainty, but in truth it usually provides a huge amount of information about a narrow field of knowledge.
+        - LOCATION: 2994
+        - In any complex system, an overemphasis on the importance of some metrics will lead to weaknesses developing in other overlooked ones.
+        - LOCATION: 3016
+        - The primary reason why we have evolved to satisfice in our particularly human way is because we are making decisions in a world of uncertainty, and the rules for making decisions in such times are completely different from those when you have complete and perfect information.
+        - LOCATION: 3048
+        - In a world of perfect information and infinite calculating power, it might be slightly suboptimal to use these heuristics, or rules of thumb, to make decisions, but in the real world, where we have limited trustworthy data, time and calculating power, the heuristic approach is better than any other alternative.
+        - LOCATION: 3082
+        - It isn’t always clear which heuristic rules are learned and which are innate, but everyday life would be impossible without them.
+        - LOCATION: 3108
+        - Heuristics look second-best to people who think all decisions should be optimal. In a world where satisficing is necessary, they are often not only the easiest option but the best.
+        - LOCATION: 3113
+        - It is a common mistake in darts to assume that you should simply aim for the highest possible score – you should also consider the consequences if you miss.
+        - LOCATION: 3137
+        - A common approach when recruiting staff is to ask your existing employees to recommend people
+        - LOCATION: 3151
+        - Third-party recommendations are not perfect or remotely scientific, but they are rarely catastrophic.
+        - LOCATION: 3155
+        - The great thing about making the ‘default’ choice is that it feels like not making a decision at all, which is what businesspeople and public sector employees tend to really like doing – because every time you don’t visibly make a
+        - LOCATION: 3171
+        - decision, you’ve ducked a bullet.
+        - LOCATION: 3173
+        - making a decision which is unconsciously designed not to maximise welfare overall but to minimise the damage to the decision maker in the event of a negative outcome.
+        - LOCATION: 3189
+    - 6 Psychophysics 271
+        - In institutional settings, we need to be alert to the wide divergence between what is good for the company and what is good for the individual.
+        - LOCATION: 3193
+        - In some businesses, psychophysics is a more valuable discipline than physics, and in many industries you need to master both.
+        - LOCATION: 3213
+        - Engineers and accountants are prone to ignore the human side of their creations, and this is not always wrong
+        - LOCATION: 3226
+        - What really is and what we perceive can be very different.
+        - LOCATION: 3273
+        - There is a whole academic discipline devoted to the idea that human behaviour can be modelled as if it were a physical phenomenon: it’s called economics.
+        - LOCATION: 3277
+        - Emotions are stranger still and, like magenta, are produced in the mind.
+        - LOCATION: 3280
+        - The job of a designer is hence that of a translator. To play with the source material of objective reality in order to create the right perceptual and emotional outcome.
+        - LOCATION: 3288
+        - Depending on the context, mokusatsu can mean many things.
+        - LOCATION: 3303
+        - In translation, it is an enormous mistake to assume that what the translator conveys is what the speaker intended, and it is equally foolish to assume that what you intended to say is what will be understood.
+        - LOCATION: 3308
+        - However, misunderstandings are all too common, because Dutch conversation tends to be astoundingly direct, while British English is oblique and often coded to the point of derangement.
+        - LOCATION: 3327
+        - Again, this distinction – the gap between the message we intend to send and the meaning that is attached to it – matters a great deal.
+        - LOCATION: 3366
+        - The evangelists of big data imply that ‘big’ equals ‘good’, yet it by no means follows that more data will lead to decisions that are better or more ethical and fair.
+        - LOCATION: 3375
+        - The risk of spurious correlations, ephemeral correlations, confounding variables or confirmation bias can lead to more dumb decisions than insightful ones, with the data giving us a confidence in these decisions that is simply not warranted.
+        - LOCATION: 3378
+        - Another problem with data models is that they may suffer from a psychophysics problem. They match reality with behaviour as though the one maps perfectly onto the other.
+        - LOCATION: 3394
+        - Perception may map neatly on to behaviour, but reality does not map neatly onto perception.
+        - LOCATION: 3400
+        - We should also remember that all big data comes from the same place: the past. Yet a single change in context can change human behaviour significantly.
+        - LOCATION: 3401
+        - Nature spends a great deal of resources on what might be called ‘perception hacking’ or, in business terminology, marketing.
+        - LOCATION: 3409
+        - A problem arises when human sciences – politics, economics or medicine, say – believe this universalism to be the hallmark of a science and pursue the same approach; in the human sciences, just as in TV design, what people perceive is sometimes more important than what is objectively true.
+        - LOCATION: 3418
+        - The purpose of this book is to persuade the reader that alchemy exists whether we like it or not, and that it is possible to use it for good; besides, if people are more aware of its existence, they will be better at spotting its misuses.
+        - LOCATION: 3429
+        - Every day, companies or governments wrongly make highly simplistic assumptions about what people care about.
+        - LOCATION: 3435
+        - Economic logic is an attempt to create a psychology-free model of human behaviour based on presumptions of rationality, but it can be a very costly mistake.
+        - LOCATION: 3446
+        - These results reveal that some people do think like economists – but they seem to be a 20 per cent minority.
+        - LOCATION: 3455
+        - ‘It doesn’t matter what something tastes like in blind tastings, if you put “low in fat” or any other health indicators on the packaging, you’ll make the contents taste worse.’
+        - LOCATION: 3465
+        - One day, Korzybski offered to share a packet
+        - LOCATION: 3473
+        - Announcing even the tiniest tweaks to popular products has been a disaster for Vegemite, Milo and the Cadbury Creme Egg – even if they couldn’t otherwise, people notice a change in taste simply because a change in formulation has been announced.
+        - LOCATION: 3483
+        - Attention affects our thoughts and actions far more than we realise.
+        - LOCATION: 3493
+        - We can guard against this illusion by directing our attention to metrics that may seem less salient than they deserve to be.
+        - LOCATION: 3513
+        - Nevertheless, one way you can improve your happiness is by learning that such an illusion exists, and by controlling what you pay attention to.
+        - LOCATION: 3526
+        - I have a soft spot for the religious practice of saying grace before a meal, since paying attention to good things that one might easily take for granted seems a good approach to life – a pause to focus attention on a meal should add to its enjoyment.
+        - LOCATION: 3527
+        - We have to be careful before we start to casually label biases and illusions as inherent mental failings, rather than the product of evolutionary selection.
+        - LOCATION: 3543
+        - Both smoke detectors and car alarms are significantly less paranoid today than they were in the 1980s but they are both calibrated to err on the side of caution, which is the way it should be. There is always a trade-off, and illusions are the price we pay.
+        - LOCATION: 3558
+        - Shiny cars are also simply much more enjoyable to drive. Why? Because of psychophysics.
+        - LOCATION: 3574
+        - Again, such tricks fall under the category of ‘benign bullshit’.
+        - LOCATION: 3578
+        - Radical honesty,* such as announcing that the product is, say, 4 per cent less powerful than previously, but 97 per cent better for the environment. Or alternatively, be explicit about a product’s weakness.
+        - LOCATION: 3587
+        - Deploy the ‘Goldilocks effect’ – the natural human bias that means that, when presented with three options, we are most likely to choose the one in the middle.
+        - LOCATION: 3589
+        - Change the format:
+        - LOCATION: 3594
+        - Add intricacy: simply adding coloured flecks to a plain white powder will make people believe it is more effective, even if they do not know what role these flecks perform.
+        - LOCATION: 3597
+        - Add effort.
+        - LOCATION: 3599
+        - So, do you want the smoke and mirrors that help the environment, or the smoke and mirrors that don’t?
+        - LOCATION: 3605
+        - psychological alchemy – or ‘benign bullshit’. They revised the instructions on the packaging to make baking less convenient: as well as water, the housewife was charged with adding ‘a real egg’ to the ingredients.
+        - LOCATION: 3614
+        - As I mentioned earlier, the human brain to some extent automatically assumes that there are trade-offs in any decision. If a car is more economical, its performance is assumed to be more sluggish; if a washing powder is kinder to the environment, it is assumed to be less effective.
+        - LOCATION: 3634
+        - My own view is more cynical, and also pragmatic: if people adopt behaviours that benefit the environment, we shouldn’t really care what their motives are.
+        - LOCATION: 3638
+        - Demanding people do the right thing and for the right reason is setting the bar rather too high.
+        - LOCATION: 3639
+        - Behaviour comes first; attitude changes to keep up.
+        - LOCATION: 3652
+    - 7 How to Be An Alchemist 317
+        - As we have seen in this section, it is only the behaviour that matters, not the reasons for adopting it. Give people a reason and they may not supply the behaviour; but give people a behaviour and they’ll have no problem supplying the reasons themselves.
+        - LOCATION: 3657
+        - One characteristic of humans is that we naturally direct our attention to the upside of any situation if an alternative narrative is available, minimising the downside.
+        - LOCATION: 3677
+        - The moral of the fable is that many pretend to despise and belittle that which is beyond their reach.
+        - LOCATION: 3717
+        - The opposite phenomenon to sour grapes is often called ‘sweet lemons’, where we ‘decide’ to put a positive spin on a negative experience. Both these mental tricks are types of ‘regret minimisation’ – given the chance, our brain will do its best to lessen any feelings of regret, though it does need a plausible alternative narrative to do this.
+        - LOCATION: 3720
+        - Why don’t we take the insight gained from our experiences of easyJet and parking tickets and apply it to something larger?
+        - LOCATION: 3734
+        - if emotional responses have such an influence on our brain, we have no choice but to at least try to present things in a way that it finds least emotionally painful.
+        - LOCATION: 3756
+        - We are a herd species in many ways: we feel comfortable in company and like to buy things in packs.
+        - LOCATION: 3778
+        - The job of the alchemist is to find out which framing works best.
+        - LOCATION: 3825
+        - People seem to like choice for its own sake.
+        - LOCATION: 3845
+        - It completely mystifies me why most online retailers do not offer you a choice of couriers to deliver your goods. People would vastly prefer this and it would have the additional benefit that they would not wholly blame the retailer if the goods were late or failed to arrive.
+        - LOCATION: 3847
+        - Most of business is run according to conventional logic. Finance, operations and logistics all operate through established best practice – there are rules, and you need to have a good reason to break them.
+        - LOCATION: 3852
+        - Though in many social or complex settings being entirely predictable is hopeless, we tend to fetishise logic.
+        - LOCATION: 3862
+        - As Bill Bernbach observed, conventional logic is hopeless in marketing – as you end up in the same place as your competitors.
+        - LOCATION: 3863
+        - The combination of 28 words and a button in the below picture has been called ‘the $300m button’, and is frequently cited in articles about web design and user experience.
+        - LOCATION: 3866
+        - The number of customers completing purchases increased by 45 per cent almost immediately, which resulted in an extra $15 million in the first month; in the first year, the site saw an additional $300 million attributable simply to this change.
+        - LOCATION: 3882
+        - The same thing in a different context can be pleasant or annoying. It’s that airport bus all over again.
+        - LOCATION: 3891
+    - Conclusion: On Being a Little Less Logical 343
+        - No one would doubt that it is possible to have too much randomness, inefficiency and irrationality in life.
+        - LOCATION: 3903
+        - Remember, if you never do anything differently, you’ll reduce your chances of enjoying lucky accidents.
+        - LOCATION: 3911
+        - the last thing people want when faced with a problem is a range of creative solutions, with no means of choosing between them other than their subjective judgement.
+        - LOCATION: 3917
+        - It seems safer to create an artificial model that allows one logical solution and to claim that the decision was driven by ‘facts’ rather than opinion: remember that what often matters most to those making a decision in business or government is not a successful outcome, but their ability to defend their decision, whatever the outcome may be.
+        - LOCATION: 3918
+        - You will improve your thinking a great deal if you try to abandon artificial certainty and learn to think ambiguously about the peculiarities of human psychology.
+        - LOCATION: 3923
+        - I am not asking you to read this book and then perform any peculiar feat of intelligence – all that is necessary is to abandon the assumptions that you carry around with you like a comfort blanket every day. The difficult part is to abandon them all at the same time, which carries a risk of social embarrassment.
+        - LOCATION: 3940
+        - In recent years, advertising could be seen to follow the same pattern: Define advertising as targeted information transmission. Install technology that optimises this narrow function. Declare success, using metrics based on your original definition of function. Capture cost savings for yourself and walk away.
+        - LOCATION: 3971
+        - This is not irrationality – it is second-order social intelligence applied to an uncertain world. By using a simple economic model with a narrow view of human motivation, the neo-liberal project has become a threat to the human imagination.
+        - LOCATION: 3985
+        - Are we bizarrely cherishing numbers or models over simple observation, because the former look more objective?
+        - LOCATION: 4001
+        - The scent was not to make the soap effective, but to make it attractive to consumers.
+        - LOCATION: 4013
+        - If we are in denial about unconscious motivation, we forget to scent the soap.
+        - LOCATION: 4014
+        - To me, this is the greatest cause for optimism: if we can honestly acknowledge the gulf between our unconscious emotional motivations and our post-rationalisations, many political disagreements may be easier to solve. Again, we simply need to learn to scent the soap.
+        - LOCATION: 4025
+        - I would like just 20 per cent of conversational time to be reserved for the consideration of alternative explanations, acknowledging the possibility that the real ‘why’ differs from the official ‘why’, and that our evolved rationality is very different from the economic idea of rationality.
+        - LOCATION: 4049
+        - If we could resist the urge to be logical just some of the time, and devote that time instead to the pursuit of alchemy, what might we discover?
+        - LOCATION: 4051
+    - Endnotes 359
+    - List of Illustrations 361
+-  [[Literature Notes]]
+    - [[Logic]] has its limit and should not be applied in every situations.
+    - [[Logic]]al reasons are used usually to hide the real reason.
+    - [[Logic]]al reasons are more appealing to outsiders.
+    - Status can make a person stubborn.
+    - It is a vulnerable [[strategy]] to be predictable and rational.
+    - Defy conventional [[Logic]] can be wildly successful in a free market.
+    - People are pleased to consume expensive treats.
+    - People also enjoy finding bargains.
+    - Situation or place of a person changes their [[perception]] and [[judgement]].
+        - Real life example: 花姐 as a manager of MIRROR vs 花姐 as a producer of Kingmaker II. The first one said 啲人對MIRROR都唔公平 vs the second one said 個世界就係唔公平.
+    - A study of human behaviors and [[psychology]] in a context-free, rational and universal way may be futile.
+    - Test counterintuitive things can be a very effective part of my [[[[Gilbert Wat]]'s [[creative]] [[system]]]]
+    - Compulsion drives [[people]]
+    - Instincts dominate [[people]]'s every action.
+    - [[people]] hide their motivateion using language.
+    - [[people]] always fool themselves.
+    - [[customer-focus]] means focusing on their feelings instead of what they are saying.
+    - Use your [[curiosity]] and ask childish and obvious questions with an open mind will bring [[creative]] results.
+    - [[people]] don't think what they feel.
+    - [[people]] don't say what they think.
+    - [[people]] don't do what they say.
+    - [[people]] may know what they feel but don't know why the feeling is there.
+    - [[experimentation]] is the only way to test the effect of alchemy.
+    - [[solving problem]]s can be very context dependent.
+    - A safe environment for asking dumb questions is essential to get [[creative]] results.
+    - Even [[rational]] and desirable behaviors can be motivated by non-rational arguments and triggers.
+    - [[hiring]] can be more risky when we are hiring for 10 instead of 1.
+    - [[Rationality]] is essential when you want to defend the solution.
+    - [[Rationality]] cannot find solutions.

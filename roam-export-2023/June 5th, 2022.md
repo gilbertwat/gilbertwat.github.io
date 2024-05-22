@@ -1,0 +1,79 @@
+- Read https://www.vudumarketing.com/the-80-20-guide-to-seo/
+    - because I want to learn how to increase the SEO score in Google for my [[business]]
+        - UX
+            - Make your site load faster
+            - great visual user experience so they want bounce
+        - Content
+            - Serve what your visitor wants
+        - On-Page HTML
+            - URL
+            - Title
+            - Meta Description
+            - H1 
+            - Image
+            - Body Text
+            - All focus on the visitors you want to attract
+        - Technical
+            - Security
+            - Rendering
+            - Error Prevention
+            - Redirect and Canonical Handling
+            - Page Speed
+            - Crawl Budget Optimization
+        - Links
+            - internal links and inbound links
+            - You want as many links from high-quality, topically relevant sites and pages as possible, and you want those pointing to the pages on your site that are most rank-worthy.
+    - {{[[DONE]]}} Reorganize [[chachaanteng.co]] SEO related stuff to boost it back to front page of Gilbert Wat
+- 11:49
+    - Read https://hbr.org/2020/01/the-elements-of-good-judgment?utm_source=pocket_mylist 
+        - Because I want to [[Making the right enough [[decided]]]] and make good [[judgement]]
+        - [[judgement]] is the core of exemplary [[Leadership]]
+        - Personal quality is the key ingredient of [[judgement]].
+        - Relevant knowledge and experience to form opinions and make [[decided]] is one of the key ingredient of [[judgement]]
+        - [[As a leader]] with good [[judgement]], good listening is a common trait.
+        - [[As a leader]] with good [[judgement]], good reading is a common trait.
+        - [[As a leader]] with good [[judgement]], a breadth of experiences is a common trait.
+        - [[As a leader]] with good [[judgement]], a breadth of relationships is a common trait.
+        - [[As a leader]] with good [[judgement]], recognizing her own emotions and biases is a common trait.
+        - [[As a leader]] with good [[judgement]], attune with reality is a common trait.
+        - [[As a leader]] with good [[judgement]], flexibility of solving a problem is a common trait.
+        - Good [[judgement]] requires that you turn knowledge into understanding.
+        - To cultivate good [[judgement]], a leader needs to hone 5 areas of skills
+            - Learning
+                - To turn knowledge into understanding, [[listen]]ing attentively is a must to pick up this we ignore or miss
+                    - [[Reflection]]: Maybe it is because as we age, we tended to use our experience and forget that context matters, if not the most for solving a problem.
+                - A tactic of active [[listen]]ing is to ask sufficiently open-ended questions
+                - A tactic of active [[listen]]ing is to look for non-verbal cues when listening
+                - Information overload will make people to skim through the material
+                    - [[Reflection]]: I need to get better in reading especially for [[[[[[Preface]] leadership team]] weekly meeting]]
+                - Information overload will make people take written word at face value.
+                    - [[Reflection]]: Why I need to read [[[[books]]: Calling Bullshit: The Art of Scepticism in a Data-Driven World]] thoroughly.
+            - Trust
+                - Cultivate sources of trusted advice from people who can tell you what you need to know rather than what you want to hear
+                - One tactic is to ask people about their career failure and setback.
+            - Experience
+                - Experience can allow the leaders to focus their energy and resources.
+                - Ask "Does she ask you questions or she just making a pitch?"
+                - Ask How did he get where he is and whom does he listen to?
+                - Ask What kind of training has she done?
+                - Ask Does she like to challenge his own assumptions?
+                - One of the pitfall of experience is the experience is not applicable to the current situation.
+            - Detachment
+                - Identify
+                - Challenge
+                - Biases
+            - Options
+                - Good [[judgement]] requires [[Reflection]] before action.
+                - Press for clarification on poorly presented information, and challenge your people if you think important facts are missing. 
+                - Question their weighting of the variables on which their arguments depend. If timing appears to be a key consideration, determine that it's legitimate. 
+                - Factor in the risks associated with novel solutions-stress and overconfidence-and look for opportunities to mitigate them through piloting. 
+                - Use modeling, triangulation, and the opportunities afforded by artificial intelligence. 
+                - Follow King Solomon (a popular nominee in answer to my question “Who do you think has/had good judgment?”) and dig out people's stakes in the final decision. 
+                    - What are the personal consequences to them (and to you) if their solution works or fails? 
+                - Consult those you trust.
+                - Be bold and consider good judgement
+            - Delivery
+                - In assessing a proposal, make sure that the experience of the people recommending the investment closely matches its context. 
+                - If they point to their prior work, ask them to explain why that work is relevant to the current situation. 
+                - Get the advocates to question their assumptions by engaging in “premortem” discussions, in which participants try to surface what might cause a proposal to fail. RWE now does this as part of its project
+evaluation process.

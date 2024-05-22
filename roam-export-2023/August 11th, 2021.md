@@ -1,0 +1,11 @@
+- [[Hell]] for [[Myself]] #[[🧘🏻‍♂️ Self Awareness]]
+    - Fat as fuck
+    - Distracted as fucked
+    - No mission oriented.
+- [[❌]] What is your meme today?
+- What is the [[coding]] you have done for 120 minutes?
+- #[[💦 Workout]] today for 45 minutes in [[Push]]
+- [[Lower back spasm]] stretch x 10 minutes
+- 16:00 [[meetings]] [[[[GOGOX]] Project Flywheel]]
+    - [[Steven Lam]] is too busy to care about what we are doing and 
+- 18:30 [[meetings]] with [[Brian Chan [[Maven.hk]]]]

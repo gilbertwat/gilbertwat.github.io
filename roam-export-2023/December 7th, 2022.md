@@ -1,0 +1,12 @@
+- 10:30
+    - [[Joseph Chan]]
+- 12:00
+    - [[Gemmy Wong]] [[Anna Yu]] [[Ben Cheng]] on [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 4: 1 on 1 scheduling
+- 13:30
+    - Lunch
+- 14:30
+    - [[Vegas Ho]]
+- 16:30
+    - [[1:1]] [[Alexander Li]]
+- 17:45
+    - [[Alfred Tse]] discussion on AI and [[Alexander Li]]

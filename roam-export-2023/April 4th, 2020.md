@@ -1,0 +1,79 @@
+- [[Epidemics II from HKUx]]
+    - Triangle
+        - Host Pathogen Environment
+        - pathogen
+            - infection must be exposed to pathogen
+                - No infection
+                - Asymptomatic
+                - Severity
+            - Dosage *Question what is the dosage of wuhan virus*
+            - Genetics
+                - Serotype
+            - Evolution
+                - Genetic variation
+                - Even within 1 infection
+                - lethal density
+                - Myxomatosis
+                - Lethality lower (Evolution of host and pathogen)
+                - Viral load higher = more lethality = kill the host faster
+                - mean steady state viral load
+                - vaccines is not silver bullet
+                    - kill 1 serotype, other serotype may raise
+                - Antimicrobial resistance
+        - Host
+            - Interactions
+            - Immunity
+                - Compromised immunity
+                - Influenza increase 
+            - Activity
+            - Site of infection
+            - Unknown
+                - Super spreader > 20 in SARS
+            - Severity
+                - Chickenpox -> old age
+                - Rubella -> baby before birth
+            - Contact Rate
+                - likelihood get infected
+                - likeihood transmitted
+                - Core group
+                    - Children
+                    - Priority of Vaccination
+                        - Severity
+                        - Core Group
+                        - Old age -> weak response
+                            - need other strategy
+                    - Sexually active 
+            - R0 = "effective average" Rate of acquiring new partner x Duration x P(passing on infection)
+            - Heterogeneity and assortativeness
+        - Environments
+            - Typhoid fever 
+                - Clean water
+            - Malaria
+                - Mosquito
+            - Diphtheira
+                - Crowded
+            - Materal mortality
+                - Wash hands
+                - Hospital
+                    - increase suseptibility
+                    - catheter
+                    - ventilator
+                    - Dialysis
+                - Schools
+            - Weather & Seasonal
+                - Dry -> influenza flavorable
+                - Vectors
+                    - Rain and warm -> mosquito
+    - ### READING LIST
+    - Week 2.2
+    - Quinn, T.C., et al., Viral Load and Heterosexual Transmission of Human Immunodeficiency Virus Type 1. New England Journal of Medicine, 2000. 342(13): p. 921-929. http://www.nejm.org/doi/full/10.1056/NEJM200003303421303
+    - Brown, N.F., et al., Crossing the Line: Selection and Evolution of Virulence Traits. PLoS Pathog, 2006. 2(5): p. e42. http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.0020042
+    - Week 2.3
+    - Fraser, C., et al., Variation in HIV-1 set-point viral load: Epidemiological analysis and an evolutionary hypothesis. Proceedings of the National Academy of Sciences, 2007. 104(44): p. 17441-17446. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2077275/pdf/zpq17441.pdf
+    - Week 2.4
+    - Pasman, L., The Complication of Coinfection. The Yale Journal of Biology and Medicine, 2012. 85(1): p. 127-132. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313527/
+    - Mossong, J., et al., Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases. PLoS Med, 2008. 5(3): p. e74. http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.0050074
+    - Loeb, M., et al., Effect of influenza vaccination of children on infection rates in hutterite communities: A randomized trial. JAMA, 2010. 303(10): p. 943-950. http://jama.jamanetwork.com/article.aspx?articleid=185509
+    - Aral, S.O., Determinants of STD epidemics: implications for phase appropriate intervention strategies. Sexually Transmitted Infections, 2002. 78(suppl 1): p. i3-i13. http://sti.bmj.com/content/78/suppl_1/i3.long
+    - Week 2.5
+    - Shaman, J., et al., Absolute Humidity and the Seasonal Onset of Influenza in the Continental United States. PLoS Biol, 2010. 8(2): p. e1000316. http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000316

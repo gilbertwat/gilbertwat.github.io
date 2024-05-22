@@ -1,0 +1,96 @@
+- [Tech Strategy from 2022 Q3](https://docs.google.com/document/d/1H1pTMhAFyDz0f1wQqRoEoUBaHqiOkLEfBR19a9jZa_U/edit?usp=sharing)
+- Draft Jul 13, 2022
+- Status: Executing
+- # Summary
+    - Based on our 2022 Q2 OKRs review and Preface 2.0 strategy, our tech team is proposing the following tech strategy to drive Preface to the next level. In the coming quarters, we will digitize our product delivery model with a more aggressive timeline.
+    - By doing so, we can confidently scale our product internationally and our operation can be quickly free from mundane logistics and focus on creating value, such as community building and new experience experimentation and implementation.
+- ## 2022 Q2 OKR Review
+    - In Q2, our tech team has been able to commit and deliver on a weekly basis. As a result, our portal can timely support some of the new company initiatives such as annual passes. Furthermore, we are building a reliable data warehouse to enable our colleagues outside our tech team to perform analyses on our portal data.
+    - On the other side, tech team delivery speed is still slow to solve our operational issues. The data warehouse is still not fully operational and creates substantial value for our colleagues.
+    - We need more ambitious goals for our team to transform and fix our scalability issue in the root cause. We need to switch our approach on problem solving with more top-down directional input. Preface 2.0 can be a good point of intervention.
+- ## Preface 2.0
+    - We design Preface 2.0 to be a company-wide transformation to deliver our top-notch tech education in scale globally.
+    - Currently, we are very good at delivering our tailor-made tech education to kids, working individuals and corporations. Customers are very happy with our courses. Some of our most loyal customers have been with us for 5 years and counting, paying a 6-digit figure on the B2C side. But the experience cannot be easily scalable due to heavy operational load and inconsistent experiences. We need to breakthrough this to take us to the next level.
+    - This is why we are driving a suite of projects to drive breakthroughs in scalability of services under the name of Preface 2.0.
+- # Proposal in Portal
+- ## Scope of work: Portal 2.0 in Phases
+    - Currently our portal is like a swiss knife in the core of our business. It is involved in all parts of our business, from student management to class management to nomad(teacher) management and even finance. But the growth of business is too fast for our portal and engineering team to catch up. Each of the areas our portal now covers need more specific tools to support. Hence the portal has failed to perform its original goals of being the backbone of our business.
+    - In order to fulfill the original goals of our portal, we need to break our portal down into smaller applications so that our engineering team and product team can focus and create maximum impact. If we continue the analogy of a swiss knife, we need to build a pair of proper scissors, a proper knife and a proper bottle opener to support our business.
+    - In the following few sessions, we will briefly describe our proposed separation, and we will describe them in the order of importance. __We can speed up the project by parallelly running different phases as each phase is independent.__
+- ## Phase 1: Seamless buy link
+    - This is an extension of our payment link feature in the portal. Currently we need our colleagues to generate a payment link for our customers to pay. We will update the payment link to require no operation from Preface and no shopping cart. All we need to do is share the link to our potential customers. There is no human intervention in collecting payment from our customers.
+    - Why is it the utmost important feature? We have a lot of lead generation and conversion channels. Unfortunately those channels are very ineffective. They are not effective because it is very hard to attribute correctly. The attribution and conversion happens in the current conversion channels, either from the payment link and shopping carts. They are both too long, error prone and manual.
+    - __Seamless Buy Link __is a robust and effective conversion channel. It will unlock even more sales channels. One example is we can now put the specific bootcamp or annual pass buy link on our marketing affiliate websites. Or we can put a QR Code right next to the exact course timetable on our brochures or leaflets. Customers can sign up and pay within less than 1 minute.
+    - **Success Criteria: **
+        - **-99% payment related support for Preface**
+        - **New customers can pay within less than 1 minute on mobile devices.**
+        - **Existing customers can pay within less than 30 seconds on mobile devices.**
+- ## Phase 2: Customer Portal (Part of subscription MVP)
+    - We will retire the student part of the portal and replace it with a self-serve, mobile first customer portal. The self-serve customer portal will alleviate a lot of operational issues by standardizing basic logistics of our customers’ journey with us, such as booking a class, buying a course, viewing the status of course enrolled and viewing the course materials. We can look into **Netflix** for inspiration and references.
+    - The reason for implementing it right after the __Seamless Buy Link__ is simple. We need to scale our operations with __consistency and reliability__. A customer portal is an app (mobile or mobile web). Customers will expect our app to perform logistics tasks __consistently and reliably__.
+    - When customers expect us to be __consistent and reliable__, less custom requests will come from them and this will alleviate stress on our colleagues in the operational excellence team. Our operational excellence team will be able to switch to value creating tasks.
+    - If we stick to the current whatsapp / instant messaging flow, our customers will expect our service to be customized and it will be hard for us to scale our operations.
+    - **Success Criteria: **
+        - **-90% logistics related support for classes for Preface.**
+        - **Customers can do basic operations by themselves on mobile devices.**
+- ## Phase 3: Credit System (Part of subscription MVP)
+    - After the customer portal, the next important component will be introducing the credit system. It is crucial for us to offer more forms of experience in a unified credit system. Our customer can “buy now, decide later” - Buy credits from us and decide which experience that they want. It is also flexible for our Partnership and Sales team to package our offerings. By building this
+    - Up to here, we can ship this internationally, supporting our global expansion.
+    - **Success Criteria: **
+        - **B2B customers can purchase credits with us and book a course with those credits.**
+- ## Phase 4: Nomad Portal
+    - In the next phase, we will replace nomad related features to a seperate nomad portal. The result is our current portal will become an admin panel for operations and API for customer portal and nomad portal. We can look into **Uber Driver App** for inspiration and references.
+    - The same reason for our Customer Portal to scale our operations with a consistent and reliable experience can be applied to our Nomad Portal too. It is of a lesser priority than the credit system because of 2 reasons. The first reason is the credit system is a business enabling feature and the upside can be great. We expect to unlock our B2B retention strategy. Also our nomad pool is in 3-digit and we don’t expect it to grow exponentially even if we move to a new city.
+    - **Success Criteria: **
+        - **Totally online support for nomad logistics and upskilling**
+- ## Phase 5: AI-powered Content Portal
+    - In this phase, we will replace the existing curriculum portal with an AI-powered content portal. We will ideate with our data & AI team on this front to provide more concrete vision and know-how.
+    - **Success Criteria: **
+        - **Scalable and pinpoint content creation.**
+- ## Overall architecture
+    - ![](https://lh5.googleusercontent.com/3ipg8XBTkl2zIAJhkAvKtGAroXOS35P5JfhC0SEcTJFctBRbvkIr-1tdWR2zmbwNWMTJ3HcNbEyi8XDtbsSw_jteYkGVlX2aIWZ9LMjKukd4O3AQ1iz3GK3tAnufLAkYXG0IUY3jA8Yf_ogVPVtqOdg)
+- ## Rough timeline
+- ### 2022 Q3
+    - Customer portal replaces student portal, ops is migrating our customers to the new portal.
+    - A seamless buy link for our course offering is fully operational.
+    - New credit system is online.![](https://lh6.googleusercontent.com/Z9LImmMi6meCSC2X1nBddDJWhzBU8uie8qB_PSRy2elnr4ig8WaddfXLQq2FBs3BFzSuHuwctOjegxUrHr41o_3EBf5J4N4FylcYnwlazuMlsJIF5amSt9v7VKSAvl78z-p6pAwzQgSXgSrfvY2R2Rc)
+- ### 2022 Q4
+    - Customer portal is fully operational. Student portal is retired.
+- ### ![](https://lh6.googleusercontent.com/mWecimnJU9zZRXozbnL8rj5p0BlN2e_T8FTIIDbQ0GRixH_JnnzdPBYmHsG5J-54vrLXhqjMHlrcV7EASZVlig0JWVBuk9vigrqi9szdf5rU3SEJJ9okldWIyN1jcgZfRoqEr3v2v3uBlyQ5Xp_V7hA)
+- ### 2023 Q1
+    - Nomad portal is fully operational.
+    - ![](https://lh3.googleusercontent.com/gKVxUMjfNkiHfBNmZaJP2WSf9n2nv2JaeX5WdFX4fxSSx8J04D8pfSM35Xx0i3WCX2gJ3odOcAkCAvilvf8hzCFUD-OlSTJKD71FtP9_1WMCiz_2LDJBtvkrD9w5msk7DXFuHs-mGtB69xQMapdsW0Q)
+- ## Implication on other systems
+- ### Preface.ai
+    - We will not update anything on it. If there is any marketing support, we suggest you discuss with [Ben Cheng](mailto:ben.cheng@preface.education), [Anna Yu](mailto:anna.yu@preface.education) or [Gilbert Wat](mailto:gilbert.wat@preface.education) for the urgency and importance.
+- ### Data warehouse
+    - The effort in implementation and optimization of the data warehouse will continue. We will still aim to complete it in 2022 Q3 to set the foundation of our data analytics toolset.
+- ### Lead generation related systems
+    - We will continuously re-evaluate the use of third party systems such as Sleekflow, Hubspot and Infobip. Currently there is no priority on switching them to something else.
+- # Proposal in Data & AI
+- ## Lay a solid foundation of data platform
+    - To continue the effort in 2022Q2, we are building a solid foundation of data infrastructure. A solid foundation is the basis of enabling our teammates to make data informed decisions easily. To make data informed decisions easily, the data platform has to be flexible to aggregate, compatible with common toolsets, reliable with clear expectations of timeliness and accuracy. To create such a data platform, we have chosen to build our data warehouse with **Google BigQuery**. BigQuery is SQL-compatible, reliable even for PB level of data and we are updating it daily. So it meets every criteria for us.
+    - The data warehouse has to consist of 4 different areas: **LineItems(Revenue), Schedules(usage of services/churn), Reviews(customers’ satisfaction) **and** Nomad(Supply)**. In 2022Q2, we have completed **LineItems**__ __with accurate data up to Apr 2021 for B2C portal data.
+    - In the Q3, we will complete the data warehouse and will start enabling our colleagues to use it with the right access control. After we complete the data warehouse, we will have a complete dashboard for the health of our **customer retention feedback loop**. Through the data warehouse, we will monitor the health of our customer retention and act on them accordingly. Some common queries, such as cash-in per week, scheduled classes per week, moving average of customer satisfaction should be available through a few clicks. Other teammates can even go creative and ask some other questions about our trends and status without going through our data team. Ultimately, we can flexibly create queries about data and make more informed decisions through our data warehouse.
+    - In the following we will construct our data warehouse for our **customer acquisition feedback loop**. We can consolidate online and offline data regarding our loop to acquire new customers, this is still in an ideation stage and we welcome any feedback and ideas.
+- ### Rough timeline
+    - Early Q3: accurate data in LineItems for B2C
+    - End of Q3: data in schedules, review and nomads completed with demo dashboard.
+    - Q4: Accurate data in data warehouse with training for our staff to use it. Potentially B2B data too.
+    - 2023 Q1: First version of data platform for customer acquisition.
+- ## Setup a routine for AI innovation
+    - For our history of Preface, we have 1 attempt to put AI into our business. We use AI to optimize our recommendation of contents to students. We recommend the next content for our students through our home-grown AI recommender system. There are multiple learnings in this endeavor, ranging from the data collection, data model serving, and ML Ops. We will consolidate this learning for our next endeavors.
+    - Currently we are setting up a research routine in the aspect of AI. We will spend 30% - 50% of time in documenting and researching the state of the art AI applications in the field of metaverse and education, which is more related to our business and company vision.
+    - Here we don’t have a timeline but we will build a routine of reporting and documenting our findings periodically with other teammates.
+- # Risks
+- ## Talent shortage
+    - Talented engineers who can take over a slice of our systems and iterate it with other departments is hard to come by. Moreover they may not be able to communicate effectively with different stakeholders, resulting in building not user friendly features.
+- ## Substantial change in market(s)
+    - Should the market in Hong Kong have a substantial change, we will revisit this tech strategy and reevaluate the applicability in that moment.
+- ## Foreign exchange rate
+    - Since we may or may not leverage foreign talents in execution of this strategy, the foreign exchange rate can be an accelerating or detrimental factor.
+- # References:
+    - https://www.figma.com/file/L85SeoXTukMCUTYypX8lbG/Current-Portal-and-Evolution?node-id=0%3A1
+    - https://www.netflix.com/hk-en/
+    - https://www.uber.com/hk/en/drive/
+    - [2022 Q3 OKR (Q2 Reflection)](https://docs.google.com/document/d/158oXuF7vW1ELcyW5p960rpbO1r9zjjcYy_BjR4884WI/edit) from ComOps/Nomads/SalesOps

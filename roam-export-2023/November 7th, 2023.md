@@ -1,0 +1,8 @@
+- 
+- #[[11 2023]]
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - {{[[TODO]]}}  Enhance [[[[Preface]] School of Technology]] Primary Data and Secondary Data
+- {{[[DONE]]}}  Everyone have to make something on the new OpenAI platform with the new stuff on [[November 14th, 2023]]
+- New #direction for [[[[Preface]] tech team]] positioning.
+    - Before we are quite bounded with the strategy 
+    - Now we are free to experiment with a small amount of time budget

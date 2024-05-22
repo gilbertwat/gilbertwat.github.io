@@ -1,0 +1,16 @@
+- Q2
+    - NFT project parked
+    - Q2 mid module revamp of internal portal
+    - [[[[Preface]] [[product]]: Coffee App]] branding team: Tin Hau VIP learnings
+    - Public Website Persona Flow based on current structure
+- Q1
+    - Ad-Hoc
+        - Early Summer
+        - NFT
+    - ROI analysis
+        - 
+- Hiring
+    - need to believe our vision
+- Internal team
+    - Mo & Ehsan gives the feeling of arrogance.
+    - self generating drama

@@ -1,0 +1,107 @@
+- #[[Thinking]] [[product]] #[[Long Term]] How [[Preface]] can compete with youtube / udemy / ...etc. 
+    - Not Apple to Apple comparison.
+- Need to deep listen https://open.spotify.com/episode/2jNtpZ7Fkbsd0IsrBgENMq?si=400f3c7e62da476c
+    - Shared with [[Ehsan Ayaz]]
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Event are touch points
+            - For every events, the touch points is for??
+                - Recruiting?
+                - Investor?
+        - Watchmaking 
+            - High network
+        - IWC Exp day
+            - Highly qualified leads / customers
+        - Pitfall
+            - Agency mindset in IWC collaboration
+            - Need more leverage to networks and sales
+        - End of August Demo Day of summer
+        - Experience Day will be suspended
+        - List of bootcamp in next year to sell annual pass
+        - RTTP challenge
+            - The product is not very engaged.
+            - Offline-Product class experience
+            - Not seriousness
+        - RTTP: Content news and learn
+        - RTTP
+            - SMB decision maker
+            - Corporate Training
+            - Payment method
+        - Small revamp on PCW
+        - Budgeting
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 11:30
+    - [[1:1]] with [[Ken Chow]]
+        - Meeting Notes
+            - Sharing the gap in quality of work expected from us and him
+                - __**It is a sharing document, will iterate. Focus on UX**__
+                    - Shared that UX there is also gaps.
+                    - Not expecting the first version to be in such stage.
+                - **__Time is a big constraint.__**
+                    - Shared that time is not a constraint now, quality is.
+                    - Updated the collaboration model to be:
+                        - Ask about what will be needed for him to do his best job.
+                        - Proposed the ideal solution from him
+                        - Trim by teammates with rationales.
+            - Culture problem I picked up
+                - **__No one is hearing my concerns before.__**
+                    - From now on Gilbert, Ben and Anna will be helping you to resolve those blockers.
+                - **__I don't have enough tools to design my best work.__**
+                    - A change of mindset needs to happen, rather than constraining himself, challenge himself to find the right person to talk to.
+                        - Example: 
+                            - If the design system missed some elements, he needs to contribute. (Serif font, monospace font, missing brand color that is warm)
+            - Expectation set
+                - Best his best self for 8 hours per week day, resolving UI/UX design issues with product / engineering team
+                - Bring up challenges in doing his best job (Design System, illustrations, assets, photography, time ...etc.) and proactively resolve those, Gilbert and other leaders are here to help.
+                - Can use very technical design lingo to discuss design issues with design team and tech team.
+                    - Example set:
+                        - In the meeting we discuss about the color of the primary button and CTA button
+                            - In the original design, we use the darkest gray and brand blue for two type of colors.
+                            - Gilbert found the color of the secondary button is too strong.
+                            - In the debate, we explored:
+                                - In the design system, we need to emphasize the button.
+                                - In other luxurious brand, we have no exception to use darkest gray to be the color of the primary button.
+                                - Data tell brand blue is having the highest number of clicks in our public website.
+                                - By hierarchy, they are of the same level.
+                            - We settled with a better colors for the secondary button with the rationale of hierarchy
+- 12:00
+    - Lunch with [[Jimmy Lo]]
+- 15:00
+    - [[Preface]] data meet with [[Tommie Lo]]
+        - Shared the vision of [[Tommie Lo]] about data & AI
+- 15:30
+    - [[1:1]] with [[Ehsan Ayaz]]
+        - Check up with him on the morale
+            - Good
+        - Shared a [[[[books]]: The design of everyday things]] to him
+            - Circle back [[August 23rd, 2022]]
+- 16:30
+    - [[1:1]] with [[Cheryl Lai]]
+        - Don't know what to ask in scrum meeting
+            - Envision if you want to do the task, what is the question necessary for your task
+                - Make a check list
+                - Execute the task
+                - Ask what is missing in the execution
+                - Document those questions
+                - Ask those questions next time before she execute the task
+- 17:00
+    - [[1:1]] with [[Jeffy Fung]]
+        - Asked about the responsibilities of who should come up with ideas and directions for AI and Data?
+        - Feedback about the session with [[Preface]] data meet with [[Tommie Lo]]
+            - Feasibility is the problem
+            - Need to collect more data
+- 17:30
+    - [[1:1]] with [[Anna Yu]]
+        - {{[[DONE]]}}  Make sure the transition of product team to tech team for [[Anna Yu]] is smooth
+        - Check up with her on the morale
+        - Start with a deeper understanding of each other
+            - her story in [[Preface]]
+                - DGS
+                - Growth Marketing
+                - Product Manager
+                - Developer
+            - Chill
+            - Detail minded & meticulous
+            - Self selected to be not creative
+                - Need to break it as Product Manager always need creativity

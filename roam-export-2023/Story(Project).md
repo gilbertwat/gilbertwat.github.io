@@ -1,0 +1,1 @@
+- Story is a [[Scrum]] concept that I borrowed to record some shorter deliverable in my work and personal life. Story is a tiny sized project that requires <2 man weeks to complete.

@@ -1,0 +1,73 @@
+- #[[08 2023]]
+- #learning as a [[leaders]]
+    - The job of a [[leaders]] is also figure out the most effective layer of communication, whether it is discussed among work level or among manager level or among leadership level.
+    - The job of a [[leaders]] is also able to focus and listen to the needs of the surrounding people.
+- 09:30
+    - Heard from [[Jennifer Ling]] that she thanks me for introducing ChatGPT to them
+        - Good is that we are helping out.
+        - Bad is that our product is still not very helpful (yet).
+- 10:46
+    - {{[[DONE]]}}  Set up cadence of meeting with [[Ellen Lau]] and [[Vegas Ho]] on [[[[Preface]] [[project]]: Nomad payment scheme update]]
+- 11:43
+    - Work on {{[[DONE]]}}  [[Lunch and learn on ChatGPT]] on [[January 27th, 2023]]
+        - [[Lunch and learn on ChatGPT]]
+        - [[ideas]]: A prompter to quickly ask questions about the codebase
+            - status: #ideas
+            - For example I want to understand how to add a feature in a certain page.
+                - currently I have to have a basic understanding of the codebase, try and error for a bit of time and, with luck and experience i should be able to add the feature in accordance to the architecture.
+                    - What if there is a way to prompt and highlight the files that I need to change and even better open those files so it saves my time to understand, load my brain, open files and apply the changes
+- 12:15
+    - {{[[DONE]]}}  Follow up with [[Alex Li]] [[Ben Cheng]] and [[Anna Yu]] on the [[Preface]] leadership team offsite
+        - Notes
+            - Ben
+                - Interactive curriculum / classroom experience / recommendation system
+                    - Good for user engagement / user generated content / user behavioral data
+                    - Effort: product management effort
+                    - Dependency: successful online product (techbites)
+                    - MVP:
+                - PCW detachment from Preface Coding
+                    - Good for synergy
+                    - Effort: re-investment on Coffee App
+                    - MVP:
+                - AR/VR experience in PCW
+                    - Good for synergy
+                    - Effort: brand experience
+                    - Dependency: prioritization
+                    - MVP: PCW promotion on preface.ai (QR Code)
+                - worried about about the cross team communication
+                    - The filtering of each person will introduce loss of empathy.
+            - Alex
+                - Sales strategy more focus on ideal customers for each quarter
+                    - Good for team focus, easier
+                    - CRM with insight / intuition / data driven
+                    - Dependency: segmentation of customers based on customers data
+                    - MVP: Start with current data, try to slice and dice customer segments.
+                - Debriefing of parked projects
+                    - Good for less de-motivation
+                    - Effort: 心理關口
+            - Anna
+                - B2B customer acquisition
+                    - Good for outbound
+                    - Good for in-bound / retention
+                    - Effort: content collection / organization system
+                    - Dependency: better organization of content in sales intention
+            - {{[[DONE]]}}  Ask questions for other departments 👏🏼 finished on [[February 14th, 2023]]
+                - {{[[DONE]]}}  What is the content for B2B? 👏🏼 finished on [[February 14th, 2023]]
+                - {{[[DONE]]}}  What is the update frequency for our content? 👏🏼 finished on [[February 14th, 2023]]
+                    - Infrequent and depending on situation
+                - {{[[DONE]]}}  What kind of marketing campaign have we tried? 👏🏼 finished on [[February 14th, 2023]]
+                    - None other than ISP
+        - Action items
+            - {{[[ARCHIVED]]}}  MVP for each initiatives (< 3 days of effort)
+                - {{[[ARCHIVED]]}}  [[Alex Li]]
+                - {{[[ARCHIVED]]}}  [[Ben Cheng]]
+                - {{[[ARCHIVED]]}}  [[Anna Yu]]
+- 17:00
+    - 
+- 18:30
+- 22:30
+    - Consolidate what I have learned about [[cashflow]].
+- {{[[DONE]]}}  Write up [[[[Preface]] [[[[2023]] Q1]] [[OKR]]s]]
+- [[gratitude dairy]]
+    - Grateful the kindness of product
+    - Grateful the universe is telling me to listen actively.

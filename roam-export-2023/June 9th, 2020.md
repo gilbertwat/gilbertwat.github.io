@@ -1,0 +1,16 @@
+- {{embed: ((T0YFimL-T))}}
+- How do you feel when you wake up?
+    - Content, in control.
+- #plan🧩
+- How do you feel when you wake up?
+    - I am able to pace myself and keep the energy level high enough for focus.
+- [[[[meetings]] [[[[GOGOX]] Platform]] weekly sync]]
+    - Share my thought on team bonding
+- [[1:1]] with [[Victor Lam]]
+    - DET challenge is with the black hole in [[Tom Lui]]
+        - The question is about How can we motivate [[Tom Lui]] to share the context of DET
+    - Share my thought about meetings
+    - Ask about [[Keith Chan]]
+        - Shared stories with him how to help [[Ka Kui Tsang]]
+    - How to bring the team to the next level
+        - Hold better meetings

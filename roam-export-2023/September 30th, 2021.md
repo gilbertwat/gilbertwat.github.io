@@ -1,0 +1,12 @@
+- 09:45 [[Ergon]] Sync up
+    - {{[[DONE]]}} Continue Map out current architecture
+    - {{[[DONE]]}} Map out potential scenarios for architecture evolvement + Pros&Cons / SWOP analysis.
+        - {{[[DONE]]}}  Read up Data lake in google
+        - {{[[DONE]]}}  SWOP google / aws 
+    - {{[[DONE]]}}  has to figure out how to connect RCRM with our datastore (lake / warehouse)
+        - choose a data source to [[PoC]] the data pipeline #[[project]]
+    - {{[[DONE]]}} Think about the tech delivery plans suggestions
+- 11:00 #learning [[management]] from [[Emily Poon]] our Director of Growth
+    - Following up personally on the extra works that I have done
+        - I feel warm and appreciated
+- 

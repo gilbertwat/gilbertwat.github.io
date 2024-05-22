@@ -1,0 +1,13 @@
+- https://hbr.org/2020/03/how-to-job-craft-as-a-team
+    - strategy of the company
+    - aspirations and capabilities of the team
+    - works needed and distributed
+- https://medium.com/s/story/the-surprisingly-solid-mathematical-case-of-the-tin-foil-hat-gun-prepper-15fce7d10437
+    - 179 Years of age 
+        - (Plague in 1894) + SARS + Wuhan Virus + Hong Kong Flu
+        - Japanese invasion
+        - 1929 Strikes
+        - 1958 riot
+        - 1967 riot
+        - 2019 riot
+        - 

@@ -1,0 +1,15 @@
+- [[[[2022]] Week 47]] #goals
+- Daily questions: Why do people want to listen to me?
+- 11:00
+    - [[Louie Cheng]] discussion on the potential rollout of the [[[[Preface]] [[product]]: Coffee App]]
+        - The lowest effort from brand experience, PCW and tech to roll out to B2B clients.
+        - Some operational challenge need to be considered.
+            - How to meet the higher expectation of our customers?
+                - How to define "higher expectation"?
+                    - A clearer expectation of waiting time
+                    - Dine-in experience
+                - How to clearly communicate the expectation of our F&B staff to them?
+            - How to handle feedbacks from the customers?
+        - Some brand experience challenge in the set up of pickup area.
+        - {{[[ARCHIVED]]}}  Further enhance and include non-tech team effort in [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]]
+- 

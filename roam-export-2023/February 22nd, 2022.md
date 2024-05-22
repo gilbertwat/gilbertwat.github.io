@@ -1,0 +1,6 @@
+- [[Theodore]] need to stay in the hospital for 1 more day, at least.
+    - Yellow skin
+    - Not eat enough wor
+- [[Wifey]] is always blaming herself. I need to comfort her with all the positivity.
+- #decided +300 USD to [[ethereum]]
+- #decided [[urbit]] planet +1

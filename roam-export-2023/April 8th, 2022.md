@@ -1,0 +1,233 @@
+- {{[[DONE]]}} Read https://newsletter.pragmaticengineer.com/p/hiring-software-engineers?s=w
+    - Text
+        - ### Q: We’re a company growing rapidly. Our hiring process has been based on intuition so far. What do good hiring processes look like and how do we build them?
+        - Hiring is the biggest pain point I hear most engineering managers, VP Engineerings and CTOs talk about. This is especially the case while we are still in [one of the most heated tech hiring markets](https://newsletter.pragmaticengineer.com/p/perfect-storm-causing-a-hot-tech-hiring-market?s=w) ever seen, and hiring managers [expect this market to continue](https://newsletter.pragmaticengineer.com/p/2022-predictions?s=w) this year.
+        - In this issue we cover:
+        - 1.  **The role definition**. Why you should start with this, and why write it down.
+        - 2.  **The job description (JD).** What goes into a good JD?
+        - 3.  **The interview process**. Defining it, and why you should start with signals gathered.
+        - 4.  **Debriefs**. How are hiring decisions made? What are common debrief approaches?
+        - 5.  **Calibration.** How can you increase consistency and reduce bias in interviews?
+        - 6.  **Feedback loops.** What to measure so you can improve the hiring process.
+        - 7.  **Resources** to define a hiring process. An example interview process definition, scorecard template and a debrief summary. 
+        - [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feac5dbbc-4a1f-40db-aeb5-f0e15ba91893_1854x1646.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feac5dbbc-4a1f-40db-aeb5-f0e15ba91893_1854x1646.png)
+        - Related newsletter issues:
+        - [Hiring and retaining a diverse engineering team](https://newsletter.pragmaticengineer.com/p/hiring-a-diverse-team?s=w)
+        - [Hiring junior software engineers](https://newsletter.pragmaticengineer.com/p/hiring-junior-engineers?s=w)
+        - [Hiring an engineering manager](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?s=w)
+        - _Note: This article mentions tools relevant for interview processes. I have not been paid to mention the companies behind these tools. My newsletter is fully independent, does not accept sponsorships and I have no commercial affiliation with the vendors mentioned._
+        - ## 1\. Defining the role
+        - One of the biggest reasons why many companies struggle to hire is they miss the first step: accurately defining what role they want to hire for. If you’re a hiring manager, you might read this surprised, thinking: “What needs to be defined for a software engineering role? We just want to hire someone who can code and get the job done!” But you should explicitly define both “coding” and “getting the job done.”.
+        - *Start with the “what”.** What will this person do? How do you describe their day-to-day work? Is it 100% coding? Surely it’s not. They’ll be deploying to production, monitoring the health of their systems and talking with others to make sure they build the right thing. 
+        - Will they drive the building of new features? Be responsible for uptime targets being met? Will they talk with costumes and are they encouraged or expected to bring new ideas to the table? Will they be expected to take ownership of entire projects as [autonomous engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/), or will they be handed well-defined JIRA tickets and their scope be limited to a low-autonomy “worker following instructions”?
+        - *Define the scope of the role.** This is especially important for more senior roles. Outside of writing quality code, what else is this person expected to own? For example:
+        - Will they work only within their team, or collaborate across several teams?
+        - Will they only follow current engineering practices, or be expected to improve how the team works, bringing in new practices?
+        - Will they plan, build, ship and maintain projects? Will they also own the product planning, or only the engineering? Will they be oncall for code which they ship? Will they follow up with customers to ensure things work as expected?
+        - Are they expected to tackle more open-ended problems or well-defined ones?
+        - Will they contribute to or own the technical roadmap for a project? For their team? For several teams?
+        - Are they expected to mentor other engineers? Will they be getting mentorship themselves?
+        - *1, 3, and 6-month plan**. What does success look like in the first, third and sixth month for a great hire? This is an area few hiring managers verbalize, even though it’s an approach that helps both the new hire and their manager, the most.
+        - Take a senior engineer as an example; what would a great hire be doing in month six, after they have onboarded and know the organization well? Will they be owning a complex and impactful project, end-to-end? Will they have improved how the team iterates and ships to production with confidence? Will a great hire have onboarded and mentored several new joiners?
+        - If you cannot answer the question of what success after six months looks like, dig deeper. When you can answer this, write it down.
+        - *Must-have vs nice-to-have expectations.** What are skills and expertise that are non-negotiable to have on the job? These should be things for which there is no time or opportunity to learn, and skills which you’d reject anyone who does not have them.
+        - For software engineers, the biggest non-negotiable skill is their ability to write code that works. For more senior engineers, it’s the know-how to write production-ready code. On top of this, for senior hires you might look for expertise in working at the scale of those problems which your organisation is currently tackling.
+        - However, should having a degree be a must-have, above the ability to get things done? Should knowing a specific framework be a filter, when most engineers can pick up a framework within a matter of days? Would your codebase being written in Java disqualify candidates who aren’t so proficient with this language, but could pick it up quickly because they already work with similar languages?
+        - The more must-have requirements your job advert has, the fewer people will apply. If you add expectations to must-have which can quickly be learned on the job, you risk doing the recruitment process a disservice.
+        - Challenge yourself to turn must-haves into nice-to-haves. For example, instead of stating, “Must have 3 years of experience working with Java”, consider making it “Must have worked on production codebases before” with a “Nice to have experience with Java, Go or other OO programming languages on the backend.”
+        - *Learning on the job**. Which skills will people learn in this role? Learning includes skills they’ll have to pick up to be successful, but ones you’ll help them acquire. Be clear about these areas; they’re ones you need to invest in and they can also be a selling point for candidates.
+        - *Budget**. What is the salary range for this position, the bonus budget and the equity - assuming it’s included? What is the very top of your budget, and what is your “default” offer? What is the process for going above budget for candidates with competing, higher offers?
+        - The market is very hot, and you’re doing yourself a favor by making it clear what your actual ranges are, instead of making up the budget as you go. If in doubt, leave more space to increase offers. If you frequently have to extend offers above budget, this might indicate you need to move your compensation bands upwards.
+        - *Career levels**. What do the levels “above” and “below” this role look like? For example, when you are hiring for a senior engineer. If you have a career framework, this is an easy question to answer, and it will also help in making offers for people who should be leveled below or above this role. If you don’t yet have a career framework, now might be the time to start putting one together!
+        - *Write all of the above down**. Until the role description is in your head, everyone in the interview loop will interpet expectations differently. Put it in writing and circulate it among the relevant people. Gather feedback and iterate on it until you’re happy with this writeup.
+        - ## 2\. The job description
+        - With the role defined in writing, putting together a job description (JD) which represents the actual role is so much easier. I’ve found many job descriptions that include far too many requirements, or ones that mislead as to the nature of the job, were written before the role itself is clear to the author of the JD.
+        - *Should you copy other job descriptions, even within the company?** Copying past job descriptions is something many hiring managers do, especially at larger companies. There’s an assumption that if it worked for one team, it should work for another.
+        - I’m strongly against copying the contents of any job description, although using its structure can be a good idea. The contents of the JD should come with your role definition; if they are different from all the other JDs at your company, so be it!
+        - Here are sections I suggest to include in job descriptions:
+        - **The opportunity**. Why should anyone reading this job advert care? What problem are you solving? What is the mission for your team and company?
+        - **The work**. What will the successful candidate do, day to day? For this, you can use the “what” and the “scope” parts of the role definition.
+        - **The roadmap.** List what this person will do in their first, third and sixth month. If you have this as part of the role definition, you can use this information directly.
+        - **Experience you’re looking for.** List the “must-have” and “nice to have” skills and experiences.
+        - **The tech stack**. It’s always nice to summarize what technology you’re currently using.
+        - **The team**. Who will this new hire work with? Especially for more senior hires, consider listing the key people like the product manager, their report, team members and other relevant people.
+        - **The interview process**. Consider summarizing the interview process, so people know what to expect.
+        - **The compensation range**. If you can, share this. Especially for smaller companies, people will assume the compensation range is well below that of well-known firms. Listing the range will result in more people applying, as they know what to expect. And if you still don’t get many applications, then you know your range is too low to be attractive!
+        - **Benefits**. List these, ideally at the end of the listing. No one will apply purely for benefits, but a healthy benefits package is a good sign for many candidates.
+        - Find job descriptions that resonate with you, and don’t be shy to copy their structure. For inspiration, here are a few job descriptions, and their structure:
+        - [A short, sweet, and to-the-point JD](https://www.wave.com/en/careers/job/4183834004/?utm_source=newsletter&utm_medium=email&utm_campaign=pragmaticengineer&utm_content=newsletter.pragmaticengineer.com) from Wave Money.
+        - Our mission
+        - How you’ll help us achieve it
+        - Requirements (these are very short!)
+        - About engineering at Wave
+        - Key details (including salary range)
+        - Our team
+        - How to apply
+        - [A JD with lots of details about the team](https://pragmatic-engineer.pallet.com/jobs/5d3399e2-ced5-4b13-b062-29bc295598f9) at Waybridge.
+        - The problem we’re solving
+        - Experience we’re looking for
+        - Technology stack
+        - The day to day
+        - The team
+        - Fitting in
+        - The interview process
+        - [A JD with lots of details](https://www.fonoa.com/jobs/senior-backend-engineer?utm_source=newsletter&utm_medium=email&utm_campaign=pragmaticengineer&utm_content=newsletter.pragmaticengineer.com) shared from Fonoa (I’m an investor)
+        - Engineering at Fonoa
+            - Our products
+            - Our API docs
+            - Our tech stack
+        - What you will be doing
+        - You would be a great fit if…
+        - Why Fonoa?
+            - Compensation (including a salary range)
+            - Our culture
+            - Our perks
+            - Our ways of working
+            - Other reasons
+        - Our take on equal opportunities
+        - Our hiring process
+        - *Use inclusive language in the job description**. Even small things like referring to groups of people as “guys” can rub people the wrong way. I cover more on this in the issue [Hiring a diverse engineering team](https://newsletter.pragmaticengineer.com/p/hiring-a-diverse-team?s=w).
+        - ## 3\. Defining the interview process
+        - With the job role definition and job description done, it’s time to define how you will hire for this position. There’s a good chance that you already have a formal hiring process in place. However, I suggest not to rush to tweak it, but instead to return to first principles.
+        - *Define the signals you want your hiring process to gather.** With the role defined, you have a clear view of the position, including the “must have” and “nice to have” expectations. You want a hiring process that collects enough signals so you can be confident the successful applicant will meet all “must have” expectations.
+        - For most software engineering positions, these are among the signals to gather:
+        - **Coding**. Can this person translate their ideas into code?
+        - **Communication**. Can they express their thoughts clearly? Are they receptive to feedback? For more experienced candidates, are they good at giving feedback?
+        - **Values and motivation.** Do the values of the organization and the team resonate with this person? Is the motivation of this person aligned with opportunities this environment offers?
+        - For senior-and-above engineers, the following signals are often important as well:
+        - **Domain depth**. You might reasonably expect more depth in specific areas like architecture, scalability, expertise with a specific framework, etc.
+        - **Shipping & maintaining software**. For non-entry level roles, you want to gather evidence the person knows how to ship to production and has experience or knowledge of how to maintain and support production.
+        - **Writing**. In senior roles, writing skill becomes equally – if not more – important than verbal communication.
+        - **Systems thinking and systems design**. For senior roles where the role involves designing larger systems from scratch, you want to gather evidence they are capable of this.
+        - **Career goals.** If the candidate has ambitious career goals – like growing into a team lead, or to the next level on the career ladder – is there enough space to support this? If experienced engineers come into an organization expecting career growth that doesn’t exist, this can create a sour experience for both parties.
+        - *Define the interviews, and be clear which signals each interview will gather.** At the end of the interview process, you want to have gathered all the signals to make a decision about whether a candidate will be a great hire for the role you’re filling.
+        - Do you need to have a separate interview to capture each signal? No! For example, it’s common for a hiring manager to gather signals on values and motivation, career goals and communication in a single interview. This could even be the screening interview! You might not even need interviews to gather signals; for example, you _could_ opt to assume senior candidates are proficient in coding, especially if they have contributions they can share, such as open-source ones.
+        - The most common types of interviews which companies put in place for hiring software engineers are these, below. Note that it’s very rare to have all these interviews, as we’ll see with example interview loops:
+        - **Resume screen.** Done either by the hiring manager or the recruiter. At large companies with hundreds of applications per role, a specialized recruiter called the ‘inbound sourcer’ might screen these resumes.
+        - **Recruiter screen. At companies with dedicated tech recruiters.**
+        - **Technical screen.** At smaller companies, it’s common for the hiring manager to combine technical screening with selling the opportunity and covering hiring manager topics.
+        - **Online coding challenge.** Using a tool like HackerRank, Codility, or similar. Candidates complete the challenge and engineers decide later whether to progress the application.
+        - **Takehome challenge.** An exercise in which candidates build a project, spending 2-8 hours on it, proceeding at their own pace.
+        - **Live coding interview.** This might be coding up a solution for a problem on the spot, often using data structures and algorithms. This could be an extension of the takehome exercise, or taking an existing codebase and fixing a bug in it. In all cases, this exercise is done in collaboration with the interviewer, who is usually a software engineer.
+        - **Systems design interview.** Designing the architecture of a system solving a specific problem, then scaling this design to accommodate for more traffic, more data or other challenges.
+        - **Values or culture interview.** Usually conducted by founders at startups or experienced interviewers at other companies. This interview gathers signals on how much of a “culture fit” or “culture add” the candidate would be. Some companies take signals on culture more seriously than others. A good example is Amazon, where every interview covers one or more of their Leadership Principles. 
+        - **Hiring manager interview.** Talking with either your future manager, or another hiring manager. Touching on the “soft” areas of the role, such as communication, getting things done, motivation and values.
+        - **‘Sell call**.’ A call where an executive, founder, or – in the case of startups – a VC partner, promotes the opportunity of joining the company. Done for candidates to whom the company wants to extend an offer, based on interview feedback.
+        - How do companies run engineering interview processes? Below are examples from companies in various funding stages.
+        - *Seed-stage startup mobile.dev** (for whom I’m an advisor) runs a lightweight process:
+        - 1.  **Initial conversation**: 45 minutes. Typically with the founder or the hiring manager.
+        - 2.  **Take home challenge:** suggested to not spend more than 5 hours on this. To be done in a week, with flexibility to extend this timeline.
+        - 3.  **Final round**
+            - 1.  Code walkthrough: 60 minutes. Going through the takehome challenge.
+            - 2.  Architecture. 60 minutes.
+        - Early-stage startups can get away with lightweight processes, but only when founders or hiring managers are involved from the very start, and when they are clear on which signals they need to collect for a hiring decision.
+        - Seed-stage startup incident.io (I’m an investor) has a similar process, which they [documented in detail](https://incident.io/blog/our-engineering-interview-process). incident.io does a coding challenge as the screening, before the final interview:
+        - 1.  **Initial phone call**: 20-30 minutes.
+        - 2.  **Technical discussion:** 60 minutes.
+        - 3.  **Coding challenge:** 60 minutes.
+        - 4.  **Onsite**
+            - 1.  Systems design: 60 minutes
+            - 2.  Culture: 60 minutes
+        - *Series A startup Fonoa** (I’m an investor) runs a [surprisingly lightweight hiring process](https://www.fonoa.com/life-at-fonoa/interviewing-with-fonoa-how-our-hiring-process-looks-like) that has no coding step for senior-or-above hires:
+        - 1.  **Meet the talent team**: 30 minutes.
+        - 2.  **Meet the hiring team**: 60 minutes.
+        - 3.  **Meet the founders**: 60 minutes.
+        - I’ve asked the founders about the success and they shared that this process worked well as they scaled up to close to 60 engineers. They assumed that experienced candidates knew how to code, and during the “Meet the hiring team” interview, they dived deep into technical topics. In return for not assessing coding during the interview, they also paid more attention to it during onboarding.
+        - One interesting outcome for Fonoa is that they avoided the stressful coding interview and this has helped them recruit senior engineers who rejected interviewing at places which have coding as part of interviewing.
+        - As the company is growing, they are tweaking their interview process, and are in the process of adding a “Work sample” interview where they follow the concept of [work sample tests](https://jacobian.org/series/work-sample-tests/). This is similar to a coding exercise, though one that is focused on practical problems as opposed to data structures and algorithms, and done in a friendly way. Friendliness means that candidates use their own environments, are not judged on coding style and this exercise is used as a conversation starter, not an end goal.
+        - *Big Tech companies** like Uber, Google, Meta and similar, tend to have the most involved hiring processes. For a senior engineer position, the process is usually like this:
+        - 1.  **Recruiter call:** 30-45 minutes.
+        - 2.  **Technical phone screen**: 60 minutes.
+        - 3.  **Takehome exercise**: spend up to 5 hours on it. Typical for frontend and mobile positions.
+        - 4.  **Onsite**
+            - 1.  Coding: 60 minutes. 
+            - 2.  Coding, again: 60 minutes.
+            - 3.  Systems design: 60 minutes
+            - 4.  Hiring manager: 60 minutes
+            - 5.  Culture or Bar Raiser: 60 minutes
+        - I further detail Amazon’s engineering hiring process in the issue [Inside Amazon's Engineering Culture](https://newsletter.pragmaticengineer.com/p/amazon?s=w).
+        - ## 4\. Debriefs
+        - Who makes the decision to hire or not hire, who has input and what type of input?
+        - *Hiring managers being the only decision-maker without a debrief** is a common setup at early-stage startups. These are hiring processes in which the hiring manager usually does resume screening, the first call with candidates, and then takes input from other people into account. Taking input into account happens in one of these two ways:
+        - **Input based on discussion with individual interviewers.** This is the simplest process, however it’s also one where details might get lost and feedback can be more biased.
+        - **Input based on reviewing written interview feedback.** Interviewers writing down their notes and hire/no-hire suggestions captures more details and can lead to less biased decision-making.
+        - The hiring manager making the decision works well enough, when this hiring manager has all the context. However, for medium and large-sized teams, this setup might not work well. This is because the hiring manager may not have all the context, and their own biases also run unchecked.
+        - *Committee-based decisions via debriefs** is the most common setup for hiring decisions. The debrief is a meeting of all interviewers, the hiring manager, and the recruiter. Attendees summarize their interview and their hiring decision, a debate follows, and a hire/no-hire decision is made.
+        - Each company tends to settle on a different debrief format. These are the most common ones:
+        - **Consensus-based hiring decisions.** A hire is only decided when everyone agrees. On paper, this is the most democratic setup, as it ensures that everyone is on the same page. However in reality this setup means that any interviewer can veto the hiring decision. A setup like this often results in only “safe bet” hires getting offers. Also, the approach might not be great for building diverse teams.
+        - **Hiring manager-only decision based on the debrief.** In this setup, the hiring manager listens to everyone on the debrief, asks clarifying questions and makes the final decision, explaining their rationale. Others in the room cannot veto, though they can voice their disagreement. This setup is more democratic than when the hiring manager makes a decision without a debrief. However, it doesn’t eliminate biased decisions by the hiring manager themself.
+        - **Hiring manager-only decision with clearly defined roles and veto options.** As a middle-ground between consensus-based and hiring manager-only decisions, several tech companies put a framework in place for vetoes. 
+        - The final common setup is a debrief with clear roles and veto options. This is more common at larger companies. 
+        - *At Uber**, the ‘Bar Raiser’ is an experienced interviewer who both conducts an interview, then facilitates the debrief, and is allowed to veto the decision to hire. The Bar Raiser is someone from outside the hiring organization, to ensure objectivity. Uber also introduced “thumbs down” and “double thumbs down” feedback and it is an unwritten policy that no offer is made unless a “double thumbs down” decision by a panel member is withdrawn during the debrief.
+        - *Google** takes debriefs one step further with Hiring Committee. Here, each interviewer gives a 1-4 score recommendation, 1 meaning “strong no” and 4 being “strong yes”. A hiring committee of around 5 people – all of them vetted for this role – then go through scorecards, referral notes, the candidate’s CV and recruiter notes. The committee then makes a consensus-based decision.
+        - ## 5\. Calibration
+        - How can you increase consistency and reduce bias in interviews? Here are several approaches you can – and should! – use.
+        - **Document each interview.** Write down which signals the interview screens for, and suggested approaches for conducting it.
+        - **Create a calibrated questions pool.** Interviewers asking similar – or even identical – questions helps reduce bias between interviews. Consider creating a “questions bank” for coding interviews, systems design, and even behavioral interviews. 
+        - **Interview training**. Document your interview process; the goals, your approach, educating about common biases and how you aim to counter them. Turn this into a training which all interviewers go through. Make sure to leave plenty of time for questions and comments. I’ve created and led several interview trainings, and the discussions have always been fascinating, often highlighting blind spots the interviewers were aware of, but which were never explicitly talked about, like what a “strong yes” hiring recommendation really means.
+        - **Create scorecard templates.** Instead of having everyone write freeform feedback, create a template to explicitly capture hire and no-hire decisions, how well the candidate demonstrated the sought-for signals, and to capture side notes.
+        - *Consider having a shadowing and reverse-shadowing process.** Reverse shadowing means an experienced interviewer is present in an interview, observing how it is conducted. The shadow then gives feedback after the interview, helping the “reverse shadow” improve their interviewing skills.
+        - At Uber, my team did extensive shadowing and reverse-shadowing. We only allowed people to lead interviews once they had shadowed two interviews, reverse-shadowed another two, and as part of reverse-shadowing, got signed off on this by an experienced interviewer.
+        - While shadowing and reverse-shadowing are helpful for training interviewers, they do have several downsides:
+        - Training speed. They slow down the speed at which you can increase your population of interviewers, as new interviewers need to be paired with shadows, 1 by 1.
+        - Scheduling. This scheduling can be painful to coordinate and track (there’s usually a big spreadsheet, somewhere).
+        - Quality. You can't guarantee the new interviewer will actually shadow a high-quality interview.
+        - Consistency. Everyone shadows a different interview, and so it's unlikely they'll be consistent with each other.
+        - *Virtual shadowing** is similar to shadowing, except done by recording the interview, with other interviewers shadowing it on their own schedule. It’s an approach that brings many of the benefits of shadowing, while addressing some problem areas. The benefits of virtual shadowing are numerous:
+        - Training speed. Interviewers don’t have to wait for a real interview; they can train with previously recorded interviews.
+        - Scheduling. None required.
+        - Quality. Choose a high-quality interview as training material.
+        - Consistency. Train interviewers on the same set of interviews.
+        - *[Metaview](https://www.metaview.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=pragmaticengineer&utm_content=newsletter.pragmaticengineer.com)** is an interview intelligence tool co-founded by [Siadhal Magos](https://twitter.com/smagos), a product manager I used to work directly with at Uber, where we shared the pain of the cumbersome shadowing process in place. I asked Siadhal about his experience of shadowing and virtual shadowing. Here’s what he shared:
+        - > “Not all companies do shadowing, and it’s mainly because introducing it slows down onboarding to the hiring process. Our customers that do shadowing have seen new interviewers’ time-to-graduate drop from 45 days to 15 days. We think this makes it "cheap" enough to expand the market of shadowing. We're now starting to see some of our customers that haven't previously done shadowing, start to roll out virtual-first.
+        - > 
+        - > “The companies I have observed hiring the most efficiently, consistently use reverse-shadowing as a part of their feedback loop, to periodically provide feedback to currently-active interviewers. Reverse-shadowing is much easier when you have recordings and data on interviews. With such a setup, you can identify who to reverse-shadow based on those who might need this feedback. Also, you don't have to sit through the whole interview, and can comment-on-transcript to make the feedback especially contextual and actionable.”
+        - Although I have no affiliation with Metaview, it’s a tool I mention because I have heard several engineering leaders mention how much it has improved the consistency of their hiring process through recordings, transcripts and interview insights. Robinhood moved all software engineering shadowing processes to Metaview, as did Catawiki and Fonoa (I’m an investor in Fonoa).
+        - I would recommend considering solutions that allow for virtual shadowing and reverse-shadowing, so you can calibrate interviews to be more consistent.
+        - ## 6\. Feedback loops
+        - Have feedback loops in place to improve your hiring process. Without feedback, how else would you know if candidates, recruiters, or interviewers see obvious improvement areas in how you hire? Measure what matters in hiring. There’s a lot of hard data you can collect and act on, when it’s trending in the wrong direction:
+        - **The hiring funnel stages, and drops between them**. What percentage of people passed the resume screen? The technical screen? How many candidates did it take to process, in order to make an offer? Where are the biggest drops and why?
+        - **The diversity funnel.** Are you seeing larger than usual drops from underrepresented groups? Where? Why?
+        - **Close percentage.** What % of offers extended are accepted? Why are they rejected? Is your budget a reason? Do you lose people at the stage of signing the offer? 
+        - **Time to offer accepted.** How long does it take from the first recruitment contact, to getting an offer? Siadhal shared how Metaview is seeing below 2 weeks being stellar, and that most Series A to C startups are in the 2-4 weeks range. At the other extreme, I have several data points showing Google taking several months, thanks to team matching in cases where a match is not immediate.
+        - **Candidate NPS and feedback**. Do you collect feedback on your process from candidates? If not: start! What is the NPS (Net Promoter Score) for your interview process? Those having a negative experience, why is this? Do you need to change something?
+        - **Interviewer load.** How many interviews are engineers doing per week? Companies like Uber and Robinhood limit interviews to no more than 3 per week – ideally, no more than 2 – to avoid interviewer burnout. Doing an hour-long interview is easily around 3 hours of commitment in terms of preparation, the interview itself, writing up the scorecard, and attending the debrief. These companies expand the interviewer pool if engineers are doing 3 or more interviews per week.
+        - **Debrief rejections.** What are common grounds for rejection on the debrief? Are they valid reasons for rejection? Are you feeding this back as advice to prepare candidates, or in ways to change the process, and also to hiring managers, recruiters, interviewers?
+        - **Poor quality scorecards.** Can hiring managers mark scorecards with poor quality feedback, and do you act on them?
+        - **Sourcing statistics**. How many people enter the funnel, and how has this changed over time? What do colleagues who reach out to potential candidates see as the main reasons why those people don’t engage? 
+        - **Interview intelligence metrics.** When using interview intelligence solutions like [Metaview](https://www.metaview.ai/?utm_source=newsletter&utm_medium=email&utm_campaign=pragmaticengineer&utm_content=newsletter.pragmaticengineer.com), you can get additional reports and alerts, including:
+            - Candidates being talked over during interviews. Which interviews are ones where the candidate speaks less than 40% of the time?
+            - Interviews in which few questions are asked. Which behavioral interviews are ones where the interviewer asks fewer than five questions? 
+            - Consistency of the interview versus the “common” interviews. Did an interview have more questions than usual? Did the candidate speak significantly less or more than on average? Which interviewers conduct interviews in ways that result in different interview dynamics, and why is this happening? 
+        - *Make changes to your hiring process based on the feedback.** What are the most problematic areas and how will you address them? Below are examples of changes companies have made after measuring some of the above metrics:
+        - Adding the salary range to the JD. A Series C startup paying the top of the market was seeing very low response to their job ads and outreach emails. They started adding the bottom of the salary range, and saw a 5x increase in responses.
+        - Tightening up the interview process. An organization within a Big Tech company realized their time to offer accepted was 5 weeks, mostly due to interviewers not being available. They temporarily pulled in more interviewers, onboarded more people to the hiring process, and set a new target of 3 weeks from recruiter call to offer.
+        - The 5/2 promise. Amazon has an internal 5/2 promise: feedback for phone screen interview within 2 working days and for onsite within 5 working days, for all interviews.
+        - Hiring managers doing the closing instead of delegating to recruiters. An organization within a Big Tech company saw its close rates trending down, and below that of rival organizations. Upon inspection, it turned out recruiters offered to do closing calls to offload hiring managers, and this resulted in fewer offers accepted. The organization changed this to hiring managers always being present at closing, and ideally extending the offers themselves.
+        - ## Takeaways
+        - We’ve covered a lots of ground on how to define a solid interview process:
+        - Start with defining the role, and write down what it entails. Do this even if you think the role is straightforward.
+        - Build the job description based on the role definition. The best way to ensure the job advert is truthful is to have a role definition which you and the team use internally.
+        - Define an interview process based on the signals you want to collect. You can have interviews that cover multiple signals.
+        - Decide on your debrief process. Who makes the call? Do you need consensus? Can anyone veto decisions?
+        - Calibrate interviews via (virtual) shadowing and have feedback loops. Interviewers won’t know what a good interview is without having a form of shadowing and reverse-shadowing in place. 
+        - Gather feedback on interviews and iterate on your process. Measure what matters from the time-to-offer, all the way to how candidates rate your process. Don’t be afraid to change your process for the better; it’s much easier to do this when you have data to base decisions on.
+        - _If you’re hiring for senior engineers or engineering managers, as a subscriber you get 25% off featured jobs, and 50% of standard job postings on [The Pragmatic Engineer Job Board](https://blog.pragmaticengineer.com/job-board-testimonials/). Use the codes FEATURED or STANDARD to claim these._
+        - ## Resources
+        - Take a look at the following examples and templates useful for parts of the hiring process:
+        - 🔒 [Interview process definition document](https://docs.google.com/document/d/16_7zVLrOehtq-p-kZXq16N60B2l9BTO8eeKiJxQ3skY/edit?usp=sharing)
+        - 🔒 [Scorecard template](https://docs.google.com/document/d/1TM3jK4I5uEPkKVz7RaVMVlb9nuc77gIzKvbeMJxQGGg/edit?usp=sharing) for the coding document
+        - 🔒 [Debrief summary](https://docs.google.com/document/d/1i-vSAE3itXPR3eDWXib3DC5G5PmnGSnMuwOywHZIH3w/edit?usp=sharing)
+        - [![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33c9c21e-7378-4c95-b251-ad1471f7cfc7_1074x1410.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33c9c21e-7378-4c95-b251-ad1471f7cfc7_1074x1410.png)
+        - The interview process definition example.
+        - Related newsletter issues:
+        - [Hiring and retaining a diverse engineering team](https://newsletter.pragmaticengineer.com/p/hiring-a-diverse-team?s=w)
+        - [Hiring junior software engineers](https://newsletter.pragmaticengineer.com/p/hiring-junior-engineers?s=w)
+        - [Hiring an engineering manager](https://newsletter.pragmaticengineer.com/p/hiring-engineering-managers?s=w)
+        - How did you like this week’s newsletter? 🤔
+        - [Amazing](https://a.sprig.com/MmpLZmFIT2dlV35zaWQ6ZDIwNDEzZTktMjY5OC00NzdlLWEzZTQtNTFmY2RhZGNkNWEz?r=5) • [Great](https://a.sprig.com/MmpLZmFIT2dlV35zaWQ6ZDIwNDEzZTktMjY5OC00NzdlLWEzZTQtNTFmY2RhZGNkNWEz?r=4) • [Good](https://a.sprig.com/MmpLZmFIT2dlV35zaWQ6ZDIwNDEzZTktMjY5OC00NzdlLWEzZTQtNTFmY2RhZGNkNWEz?r=3) • [OK](https://a.sprig.com/MmpLZmFIT2dlV35zaWQ6ZDIwNDEzZTktMjY5OC00NzdlLWEzZTQtNTFmY2RhZGNkNWEz?r=2) • [So-so](https://a.sprig.com/MmpLZmFIT2dlV35zaWQ6ZDIwNDEzZTktMjY5OC00NzdlLWEzZTQtNTFmY2RhZGNkNWEz?r=1)
+    - The basic of a good [[hiring]] [[job description]] is the definition of role.
+    - A good [[job description]] starts with what.
+    - A good [[job description]] defines the boundary of the role.
+    - A good [[job description]] defines a list of clear expectation.
+    - A good [[job description]] separate expectation into nice-to-have and must-have.

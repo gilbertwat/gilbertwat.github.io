@@ -1,0 +1,35 @@
+- Why
+    - Cost is too big
+        - Annual fee of [[Hubspot]]
+            -  53640 HKD / year
+        - Maintenance cost in the teams to keep the CRM clean
+            - Garbage in, garbage out. Unable to do meaningful analysis
+            - Knowledge gap in automation (Zapier) and the data flow
+            - Unreal expectation of Hubspot
+    - We are not getting the benefit of [[Hubspot]] for what we paid of
+- Solutions
+    - Increase our usage of Hubspot
+    - Stop our investment into Hubspot
+- Preparation
+    - For each departments
+        - Sales
+        - Marketing
+        - Growth
+        - ComExcellence team
+        - Nomad Training team
+        - Tech & Product team
+    - Do
+        - Workflow migration`
+            - List out the workflows
+            - Find the alternatives for those workflows in our existing technology stack
+            - Create walkthroughs and materials with the team
+            - Data migration
+                - List out the alternative data source
+                - Decide where we should put the data into (Data warehouse, data lake)
+                    - Based on ease to query, ease to maintain, durable storage.
+                - See what analytical capabilities the original tools give us
+                    - Leverage tools instead of
+    - Reduce
+        - A list of tools used by all departments in customer relationship
+        - periodically review the CRM of [[Preface]]
+- 

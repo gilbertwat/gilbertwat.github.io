@@ -1,0 +1,6 @@
+- Author:: [[swyx.io]]
+- Full Title:: Breaking Barbarian
+- Category:: #articles
+- URL:: https://www.swyx.io/breaking-barbarian
+- ### Highlights first synced by #Readwise [[September 1st, 2023]]
+    - ![image](https://user-images.githubusercontent.com/6764957/183313203-e6fdab69-99e1-4c89-be5a-05079369a046.png) ([View Highlight](https://read.readwise.io/read/01h97emm4zh6nmhte6sbx9t946))

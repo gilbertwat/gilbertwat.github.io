@@ -1,0 +1,6 @@
+- {{[[ARCHIVED]]}}  [[My leadership style]]
+- {{[[DONE]]}}  [[12 Agile Principle 2023 Edition]]
+-  [[Buy or rent calculators]] [[ideas]]
+- {{[[TODO]]}}  [[[[Gilbert Wat]] [[project]]: Cantonese Resource]]
+- [[My most important 5]]
+- [[[[Stock]] watch list]]

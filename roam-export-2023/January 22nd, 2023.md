@@ -1,0 +1,5 @@
+- #[[29 2023]]
+- [[gratitude dairy]]
+    - Start the year of rabbit in good spirit
+    - Figure out a lot of strategic stuff for [[Preface]] makes my holiday stress-free.
+    - [[Mum]] [[Dad]] [[Lionel]] [[Grandpa]] is in good health and good spirit.

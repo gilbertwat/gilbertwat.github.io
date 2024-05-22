@@ -1,0 +1,29 @@
+- Author:: [[Compounding Quality]]
+- Full Title:: Charlie Munger just passed away
+- Category:: #articles
+- URL:: https://twitter.com/QCompounding/status/1729612326582497558
+- ![](https://pbs.twimg.com/profile_images/1535311789717606403/6eJZ-i2w_normal.jpg)
+- ### Highlights first synced by #Readwise [[November 29th, 2023]]
+    - Investing is where you find a few great companies and then sit on your ass. ([View Highlight](https://read.readwise.io/read/01hgce701y5ps9naphz56c3ad6))
+    - We have a passion for keeping things simple. ([View Highlight](https://read.readwise.io/read/01hgce75gaxx2awvag9mtqs750))
+    - Those who keep learning will keep rising in life. ([View Highlight](https://read.readwise.io/read/01hgce7xd4ysyk2gb786vq7cv4))
+    - A lot of people with high IQs are terrible investors because they've got terrible temperaments. ([View Highlight](https://read.readwise.io/read/01hgcedw64mmfjngvz61ms9mv3))
+    - You need patience, discipline, and agility to take losses and adversity without going crazy. ([View Highlight](https://read.readwise.io/read/01hgceets04n1eycgshta10ykg))
+    - Some people are extraordinarily good at knowing the limits of their knowledge because they have to be. ([View Highlight](https://read.readwise.io/read/01hgceg4ax4w2fcrqhvnc6hznk))
+    - Most people are too fretful, they worry too much. Success means being very patient, but aggressive when it's time. ([View Highlight](https://read.readwise.io/read/01hgcegj36g9swztznxpvwfhpq))
+    - The first rule of compounding: Never interrupt it unnecessarily. ([View Highlight](https://read.readwise.io/read/01hgcegpnrw9d5yjkq7hd549rc))
+    - One person told me,"I have a list of 300 potentially attractive stocks & I constantly track them, waiting for just one of them to get cheap enough to buy." Well, that's a reasonable thing to do. But how many people have that kind of discipline? Not one in 100. ([View Highlight](https://read.readwise.io/read/01hgceh3zsa5ww3q01ryfnfc27))
+- ### New highlights added [[November 29th, 2023]] at 11:36 AM
+    - Another thing, of course, is that life will have terrible blows in it, horrible blows, unfair blows. It doesn't matter. And some people recover and others don't. ([View Highlight](https://read.readwise.io/read/01hgchpfhs6a0da231k4r5r78d))
+    - Our game is to recognize a big idea when it comes along when one doesn't come along very often. ([View Highlight](https://read.readwise.io/read/01hgchpwmymm4pcvs2tjgqycpn))
+    - How to find a good spouse? The best single way is to deserve a good spouse. ([View Highlight](https://read.readwise.io/read/01hgchq855jygx65zc465nknjx))
+    - Envy is a really stupid sin because it’s the only one you could never possibly have fun at. There’s a lot of pain and no fun. Why would you want that? ([View Highlight](https://read.readwise.io/read/01hgchqvkzr41bsxtr1qdf5tv1))
+    - I think that, every time you see the word EBITDA, you should substitute EBITDA with ‘bullshit earnings’. ([View Highlight](https://read.readwise.io/read/01hgchqkmw79z6tyk4ffsc6xhb))
+    - Own your work and compound credibility. ([View Highlight](https://read.readwise.io/read/01hgchr0jw76a9qrc2t2r22pr3))
+    - We have three baskets for investing: yes, no, and too tough to understand. ([View Highlight](https://read.readwise.io/read/01hgchree3etdtxr7tg8acgh26))
+    - When you borrow a man's car, always return it with a tank of gas. ([View Highlight](https://read.readwise.io/read/01hgchrsqxekw94r7zrd9468ms))
+    - I believe in the discipline of mastering the best that other people have ever figured out. I don’t believe in just sitting down and trying to dream it all up yourself. ([View Highlight](https://read.readwise.io/read/01hgchsc762zms9tmstktvde4s))
+    - Self-pity gets fairly close to paranoia, and paranoia is one of the very hardest things to reverse. ([View Highlight](https://read.readwise.io/read/01hgcht0aa797gwjchve6xspjp))
+    - We say that having a certain kind of temperament is more important than brains. You need to keep raw irrational emotion under control. ([View Highlight](https://read.readwise.io/read/01hgchtf33mwxjcg32r6rg0gxe))
+    - It’s the work on your desk. Do well with what you already have and more will come in. ([View Highlight](https://read.readwise.io/read/01hgchtn89qg1fs7391pbsg7ey))
+    - Always take the high road, it’s far less crowded. ([View Highlight](https://read.readwise.io/read/01hgchtyt3hkx0qkgdabq8rsf6))

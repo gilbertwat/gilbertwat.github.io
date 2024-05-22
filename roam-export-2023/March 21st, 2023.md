@@ -1,0 +1,5 @@
+- {{[[ARCHIVED]]}}  Help {{[[DONE]]}}  [[Moses Ngan]] demo prep for [[[[Preface]] [[project]]: Nomad payment scheme update]] 👏🏼 finished on [[April 5th, 2023]] on [[March 23rd, 2023]]
+- [[HKTV mall pitch]]
+- [[[[Preface]] [[project]]: Website Revamp 2023]]
+- [[[[Preface]] [[project]]: Techbites MVP]]
+- [[Anna Yu]] resigned unofficially

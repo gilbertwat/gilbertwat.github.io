@@ -1,0 +1,18 @@
+- [[[[2022]] Week 37]] Goals
+    - [[Preface]]
+        - shipping
+            - {{[[DONE]]}} [[Alexander Li]] will ship v1 first on [[September 9th, 2022]] -> [[September 16th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+        - #hiring
+            - {{[[DONE]]}} Get the #design [[[[UI]]/[[UX]]]] gap close in [[Preface]]
+                - {{[[DONE]]}}  Pickup and form a new process with [[Carmen Yeung]] [[Anna Yu]] and [[Ben Cheng]]
+                - {{[[DONE]]}} Find a talent to contribute
+        - [[ideas]]
+            - {{[[DONE]]}}  Brainstorm [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+    - [[Gilbert Wat]]
+        - [[ideas]]
+            - {{[[DONE]]}}  #investment ideas
+                - [[網上打小人]]
+- #[[[[product]] design]] day to test out Figma
+    - Redesign the design of purchase index page.
+- [[[[product]] design]] for personal project of [[網上打小人]]
+    - Looking for the color tone

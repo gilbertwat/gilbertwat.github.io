@@ -1,0 +1,1 @@
+- 10:38 Writing [[[[GOGOEnergy]] 2022 Tech Plan]]

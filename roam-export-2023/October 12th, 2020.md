@@ -1,0 +1,109 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- [[Retrospective]] of [[Week 41]]
+    - What went well?
+        - [[GOGOX]]
+            - Engineering presentation went well
+                - [[Steven Lam]] is giving us more feedback
+            - [[GOGOEnergy]] handover went very well
+            - Great job saving the demo expectation from teammates 😅
+        - [[Ergon]]
+            - Plan set up
+            - Kingson heart to heart talk.
+    - What went wrong?
+        - [[GOGOX]]
+            - Engineering presentation need to deliver key message more strongly
+                - QA direction
+                - Welcome message
+        - [[Energy]] level is kept low until Sunday #[[🧘🏻‍♂️ Self Awareness]]
+            - Recharging activities
+                - Cycling
+                - Cleaning the house
+                - Walking
+                - Reorganizing
+                - Writing
+            - Non recharging activities
+                - Weight lifting
+                - Phone scrolling
+                - Ranting
+                - Alcohol without food LOL
+        - [[Stress]] factor
+            - Fat tummy??
+            - [[management]]??
+            - 
+    - What can I improve?
+        - Decision making need to be swifter. Decide if I can decide is also a good decision.
+        - Do more recharging activities in down time.
+        - Do more reflection on [[Energy]] level during the day.
+- [[[[2020]] Q4]] Set up something bigger than 1 person can complete.
+- [[🧘🏻‍♂️ Self Awareness]] [[[[Performance]] Review]]
+    - What accomplishments are you most proud of since your last review?
+        - Level up software delivery team to be a professional software development team in this COVID-19 situation from an infighting, egotistical and dysfunctional engineering team. 
+        - Professional means doing legit system design to minimize technical debt incursion during the software development cycle.
+        - Professional also encapsulate provide good enough estimation of lead time for features. 
+        - Professional also entails adopting best practices such as unit tests and feature flags to minimize cost of delay and allow our tech team to be more flexible and agile.
+        - Each quarter we are delivering features with increasing complexity and confidence.
+        - Each quarter we invest into different approaches and tools to ship feature with quality.
+    - To what extent have you achieved your objectives?
+        - Under COVID-19, engineers are more engaged to deliver best possible software to the market.
+        - We are able to make a lot of progress to enable us to ship more complex features with more confidence.
+        - The team is more mature to deal with technical challenges together and ship features without hiccup and incidents.
+        - I am still not very confident our features can bring positive P&L to our company.
+    - How well do you listen to and communicate with others?
+        - I am able to communicate and empathize a lot more with different business functions.
+        - I am able to identify team issues. It may be stemmed from challenges in making progress, coordination or emotional. I can easily suggest and market solutions for the former two but I have challenge to resolve emotional challenges.
+    - What are your strengths and how do you put them to use in your position?
+        - My top 3 strengths are optimistic, flexible and result oriented.
+        - I am able to look things in an optimistic lens. This can create a positive vibes and keep the team motivated. A positive energy can make the team feel safe and hopeful. I am always thinking of the next step
+        - Flexible to solutions allows me to be focusing on the impact of solutions proposed and make sure the team is not dogmatic and stay focus on solution design based on logic and first principle.
+        - Result oriented also make sure I am able to keep the focus on outcome we want to achieve instead of how are we going to achieve those outcome.
+    - List your areas needing improvement.
+        - I need to be able to resolve work conflicts with a less stressful manner. I need to be able to detach, cut loss and settle scores when appropriate. Persistence can be futile without adjustment in expectation.
+        - Also I need to be able to better debug work conflicts by recognizing there is always a human (a.k.a irrational) factor to resolving them.
+        - Best I could prevent or avoid those situation by being more attentive to human factors and try to nudge them to the right direction with the right approaches.
+        - I need to be able to articulate what is in my mind more accurately verbally and conversationally. I need to learn to collect thoughts and reorganize them timely and communicate the right information to my audience.
+        - I also need to be able to call out negative behaviors in a constructive way before the negative influence is affecting us.
+    - Provide an example of one company value you bring to life. Be specific!
+        - #GrowOrDie. Each quarter software delivery team is leveling up our approaches, efficiency and capabilities to provide a better customer experience. Those improvement includes coding practices, infrastructure investment, guiding principles and other actions.
+    - How would you rate your overall performance?
+        - I still need to work on coaching my team leads to bring the team together.
+- https://twitter.com/paulg/status/1315209355223011328?s=21
+- [[Alia Bei]] [[360 Review]]
+    - Stop
+        - Offer solutions too soon. Sometimes I am not having the context Alia have and need to ask more to understand the rationale behind. The rationale behind enable me to blend it in to suit my current situation, such as team dynamics and other more nuance context. The gem is in the rationale behind and intuition of human factor which I terribly need help on.
+    - Start
+        - Organize "Among Us" game lunch in office. 😄 Just joking. I am not sure if she already doing this but she could apply consistent "transformative pressure" in each conversation and interaction. Transforming our company to be a living example of our stated culture doesn't comes from policies and email but from interaction with different colleagues, from CEO to front line operators.
+    - Continue
+        - Continue to put in effort and experiments to improve understanding between departments and countries, transforming our company to be more adaptive and collaborative.
+- [[Young]] [[360 Review]]
+    - Your manager holds all members of their team accountable for high performance.
+        - I am confident my managers to hold all members for high performance. I would like to understand more what is high performance in our current situation and whether I met those. Also I would like to understand what is high performance to my peers and we can hold each other accountable.
+    - Does your manager accept feedback? Does your manager communicate well?
+        - Yes. my manager accepts feedback very well.
+- Although sometime if he can spend a bit more time to understand the situation (how "tall" we stack our technical debt, how our journey of collaboration comes to this current situation...etc), I think he spend enough time to listen and communicate his expectation with me.
+    - Your manager sets clear expectations for your work.
+        - This I am not very sure, I am not sure where I have done well and where I  should improve. Could be given the short duration of our collaboration.
+    - Your manager knows what motivates you.
+        - This I am not very sure. I am self-motivated by the work itself. Give me challenge and related rewards could be very motivating.
+    - Your manager takes responsibility for their own actions.
+        - That I am not very sure for such a short period of time.    
+    - Your manager promotes the work you do and its impact
+        - That I am not very sure for such a short period of time.
+    - What should your manager START doing?
+        - Give more feedback on the performance of team managers.
+    - What should your manager STOP doing?
+        - Nothing I could think of 😄
+    - What should your manager CONTINUE doing?
+        - Be candid and blunt on the expectation of teammates
+        - Improve the collaboration between departments
+        - Give us advice on the situation of company as of currently
+        - Update us on company situation
+        - Stay flexible
+- https://manuel.darcemont.fr/posts/focus-on-jour-job/
+- http://paulgraham.com/taste.html
+- How do you feel when you wind down?
+    - {{slider}}
+- #[[Quick Capture]]

@@ -1,0 +1,33 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]]
+        - #Devops
+        - Chapter 11 (cont)
+            - Manager
+                - creating a safe environment
+                - investing in developing the capabilities of their people
+                - removing obstacles to work
+                - Investment in team
+                    - Give space and budget for learning.
+                    - Trust is built on kept promises, open communication, and behaving predictably even in stressful situations.
+                - Build trust 
+                    - with your counterparts on other teams
+                    - Keeping promises, open communication and behaving predictably even in stressful situations
+                    - Encourage practitioners to move between departments
+    - {{{[[DONE]]}}}} [[[[GOGOX]] Driver Experience Theme]] Understanding
+        - #Management
+        - P1 Bugs 0 for 4-6 sprints
+        - Incidents post mortem
+        - Release plans for each features
+    - {{{[[DONE]]}}}} [[meetings]] Mobile Monthly
+        - #Management
+        - Ticket based view of work vs Documents + Diagram view of work
+        - Android 11 machine
+        - Android 10 machine
+        - Device Farm
+- How do you feel when you wind down?
+    - {{slider}}
+        - Cannot focus for the day, for no reason.

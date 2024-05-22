@@ -1,0 +1,33 @@
+- Guideline - Blog posting
+- # Summary
+    - We need to maintain a high quality blog since it is one of the main engines of our online growth. Our website is one of our key digital marketing assets to drive brand awareness, raise our brand trust and lead generation. Through the website, we can attune to our customers’ taste and trend. And a healthy brand awareness, high brand trust and good rate of lead generation in the market we are operating are key to our business health.
+    - ![](https://lh4.googleusercontent.com/ReLjouTPHQbAV-vEfQKdIPjiY29o2V5739XgOxR7BhEpt7QH2n4CIncr8Vs8thAJjnhLWGVCgXgsjmP2baE9RbaPktt3JMXr7inwMVP3zbNiTe590R0id9myA_RRjOzHIRLP8JeSnlJN2-pWQpXZhPU)
+- # Common Operations
+- ## Planning
+    - Make sure the post has a goal to reach.
+        - Direct lead generation
+        - Case studies to build brand trust.
+        - Target search keywords to rank higher in lead generation.
+    - Set a target for target search keywords to be re-evaluate in the next 8 weeks.
+- ## Before Publishing
+- ### Outline
+    - Make sure the hierarchy of heading is correct from heading1 to heading6.
+    - Make sure there is only 1 heading1.
+    - Make sure the outline is optimized for search engines.
+- ### Image / Video
+    - Make sure there is alt text supporting search engines to crawl.
+- ### Content & Meta-dataThe ideal length is 800-1200 words.
+    - Tag Chinese if the content is chinese.
+    - Specify the same canonical link and slug link.
+    - Make sure the publish date is before today.
+    - Make sure the meta tag is updated.
+    - Make sure to include relevant internal links.
+- ## After Publish Quality Check
+    - According to Bigjump, our SEO partner, the crawler and traffic will pick up gradually in ~8 weeks once the blog post is published.
+- # Routines
+    - Refurbish contents periodically and timely.
+    - Review target keywords and the business impact.
+    - Update target keywords to experiment with to find keywords with better business impact.
+    - Site Performance Audit
+- # References
+    - https://moz.com/beginners-guide-to-seo

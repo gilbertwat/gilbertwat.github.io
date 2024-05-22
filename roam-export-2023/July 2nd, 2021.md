@@ -1,0 +1,10 @@
+- [[meme]] tools
+    - [Saving reddit video](https://redditsave.com)
+    - [Convert mp4 to gif](https://www.onlineconverter.com/)
+- [[Globalized self]]
+    - Create content that create the vibe of
+        - companion
+            - Day 1 - X of transformation, Journaling
+        - curiocity
+- #[[business]] [[ideas]]
+    - Free consultancy for junior developers / developers

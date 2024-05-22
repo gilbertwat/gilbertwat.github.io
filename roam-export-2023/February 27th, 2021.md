@@ -1,0 +1,10 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[[[books]]: Alexander Hamilton]] highlights reorg

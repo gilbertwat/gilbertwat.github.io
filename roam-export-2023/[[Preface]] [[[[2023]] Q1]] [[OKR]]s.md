@@ -1,0 +1,7 @@
+- Digital Product
+    - Objective
+        - Rollout to all [[[[Preface]] [[partner]]: nomad]] [[[[Preface]] [[project]]: Nomad payment scheme update]] before [[April 1st, 2023]]
+        - {{[[DONE]]}}  Rollout to all [[[[Preface]] [[product]]: 1 on 1]] and [[[[Preface]] [[product]]: bootcamp]] customer [[[[Preface]] [[project]]: Customer Portal MVP]] before [[April 1st, 2023]]
+        - Build a passive client app behavioral data collection pipeline to collect digital product feedbacks
+        - Replace Hubspot
+        - Source new password manager

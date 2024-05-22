@@ -1,0 +1,49 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #[[ideas]] screencast.js
+    - customers
+        - Fellow developers who want to make his/her online course easier to follow
+        - Fellow developers who want to make his/her command prompt tools easier to adopt
+        - Before:
+            - back and forth.
+            - Cannot control speed
+            - Disjointed between windows
+                - Video / Audio
+                - command prompt
+                - IDE
+    - Ultimately:
+        - AI determine speed and interval lah diu
+        - A docker image and a terminal emulator for user to explore the tools
+    - users
+        - desired effect is the screencast / command line cast is easy to follow.
+        - stop / play whenever you want
+        - play in a readable and controllable fashion 
+    - competitors 
+        - https://github.com/faressoft/terminalizer
+        - gif itself
+        - webm
+    - GTM
+        - DM on twitter.
+        - Github comments.
+        - Email
+        - github page.
+    - Technology [[?]]
+        - WebM + metadata
+        - Canvas
+        - HTML+CSS+JS
+- [[Week 46]] Managerial Sync up
+    - Cost keeping hiring, onboard only in January
+    - Highest priority: Safe costs
+    - January discussion about priority
+- [[[[🔮 Bets]] 2021]]
+    - 1K USD MRR from product
+    - 3K USD MRR from ex-full time job
+- [[Retrospective]]
+    - Split.io naming convention
+- [[How do you feel when you wind down?]]
+    - {{slider}}

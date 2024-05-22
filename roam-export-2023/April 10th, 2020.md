@@ -1,0 +1,13 @@
+- [[books]] [[[[books]]: Disunited Nations]]
+    - Cheap Credit = Inefficiency
+        - No need to care efficiency
+    - Agriculture in China
+        - Gardening instead of farming
+        - As long as labor are free it is ok
+        - Shifted to City for factory
+        - Shift back??
+    - Inefficiency -> overproduction -> global export
+    - British
+        - Island, not much resource
+        - Navy flexible, expensive
+        - Technology

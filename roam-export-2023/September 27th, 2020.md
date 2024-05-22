@@ -1,0 +1,3 @@
+- 
+- #[[Quick Capture]]
+    - I should not think what world 10-20 years will be. I should think what kind of world we are building in 10-20 years time. #[[product]] 

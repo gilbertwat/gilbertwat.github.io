@@ -1,0 +1,2 @@
+- [My MBTI](https://mbti.ai/r/32303938303137313834) [[my]]
+- [Suki and mum MBTI](https://mbti.ai/r/34323732363238383736) [[Wifey]] [[Wifey mum]]

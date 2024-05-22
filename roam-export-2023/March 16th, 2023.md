@@ -1,0 +1,22 @@
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Techbites MVP]] 👏🏼 finished on [[April 5th, 2023]]
+    - #decision to reprioritize and turn the feature originally from [[[[Preface]] [[product]]: Customer Portal]] to 
+        - {{[[DONE]]}} lead gen feature on [[[[Preface]] [[product]]: website]] using [[ChatGPT]] API 👏🏼 finished on [[April 5th, 2023]]
+            - The tech stack of [[[[Preface]] [[product]]: website]] is bad
+                - [Rebass](https://rebassjs.org/)
+                    - [Styled System](https://styled-system.com/)
+                - [Reach UI is unmaintained](https://reach.tech/)
+                - [[Google Cloud Storage]] <--> [[Cloudflare]] #gotcha
+                    - Just name the bucket with the subdomain name
+                - {{[[DONE]]}}  #dicussion migrate to [[Material UI]] 👏🏼 finished on [[April 5th, 2023]]
+- Lunch with [[Cliff Yu]] [[Vegas Ho]] [[Ambrose]] [[Joseph Chan]]
+    - [[Ambrose]] hates the experience of [[[[Preface]] Coffee & Wine]]
+    - New understanding on the word hospitality
+        - [[Ambrose]] is highly regarded by the staff in 富臨
+- [[1:1]] with [[Tommie Lo]]
+    - Not in the brain space
+- 16:30
+    - [[1:1]] with [[Jeffy Fung]]
+- 17:00
+    - [[1:1]] with [[Yoon Kim]]
+- 17:30
+    - [[1:1]] with [[Cheryl Lai]]

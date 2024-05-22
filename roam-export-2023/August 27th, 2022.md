@@ -1,0 +1,13 @@
+- https://note.com/ #[[good [[product]]s]]
+- #[[Note To Self]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FPZOs6jEvn6.jpeg?alt=media&token=8d79a101-9d86-4823-afea-c7d101f23703)
+- [[[[Gilbert Wat]]'s activities]] formulation
+- {{[[DONE]]}}  CRUD SmartBlock
+- {{[[DONE]]}}  CRUD Literature Notes and write new to Permanent Notes
+- {{[[DONE]]}}  Mark and audit [[[[Gilbert Wat]]'s activities]]
+    - {{embed-path: ((a8B-UFsDY))}}
+- {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes #[[foundation activity]]
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]]
+- {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[December 14th, 2021]]
+- #metric
+    - IG + Facebook + lihkg + Twitter + Linkedin scrolling time

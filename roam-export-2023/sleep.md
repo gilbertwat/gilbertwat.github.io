@@ -1,0 +1,5 @@
+- 2-1-3 breathing technique is useful if I have trouble to sleep. 
+    - 2 seconds of inhalation
+    - 1 seconds of holding breath
+    - 3 seconds of exhalation
+    - gradually to 4-7-8

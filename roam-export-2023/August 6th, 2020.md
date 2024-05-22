@@ -1,0 +1,62 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - 
+    - {{{[[DONE]]}}}} Read https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf
+        - #[[🔢 Software Development]] #[[System Design]]
+        - Time pressure is probably the foremost reason behind the emergence of bulky software. The time pressure that designers endure discourage careful planning. It also discourages improving acceptable solutions. Instead, it encourages quickly conceived software additions and corrections. Time pressure gradually corrupts an engineer's standard of quality and perfection. It has a detrimental effect on people as well as products.
+        - Good engineering is characterized by a gradual, step-wise refinement of products that yields increased performance under given constraints and with given resources.
+        - Analytical verification and correctness-proof techniques fare even worse; In addition, these methods require a higher intellectual calibar than that required by the customary "try and fix it" approach.
+        - 3 principles
+            - Concentrated on the essentials
+            - OOP, type-safe (FP now)
+            - flexibly extendible
+        - A clear conceptual basis and a well-conceived, appropriate system structure is the price.
+        - Learning
+            - A strongly typed language was the most influential factor in designing this complex system in such a short time. (probably not always)
+            - Most difficult design task is to find the most appropriate decomposition of the whole into a module hierarchy, minimizing function and code duplications. (Refactoring + TDD can solve it)
+            - identify primitives that offer the most flexibility for extensions
+            - To gain experience, there is no substitute for one's own programming effort, All should participate in all aspects of developer (mangers, designers, programmers, analysts and users)
+            - Programs should be written and polished until they acquire publication quality. Runs doesn't cuts.
+    - {{{[[DONE]]}}}} Finish Write [[[[books]]: Leadership in Turbulent Times]] 
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Ka Kui Tsang]]]]
+        - What to do when something we miss in grooming and discovered when executing?
+        - Switch to CA
+            - can learn more about TDD
+            - cannot learn proper RIBs
+                - doesn't understand why Redux is introduced
+        - Switch computer
+        - Focus on UI wise
+        - PoC
+            - SwiftUI
+                - DA mock (#CircleBack)
+            - Text Recognition
+                - #CircleBack
+        - How to learn more about UX? #CircleBack
+            - Practical ask designer
+    - {{{[[DONE]]}}}} User Interview [[[[GOGOX]] Internal Efficiency Theme]]
+        - Fraud Detection for GOGODelivery
+            - Waste time
+        - UX problem make duplicate claim
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Rob Dong]]]]
+        - How they see how to reward Engineers.
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Hon Chan]]]]
+        - Baby She
+        - Working
+            - Bulk ordering GGB VN
+            - Chrome Only
+        - [[Rob Kealey]] has not reach out yet.
+    - {{{[[DONE]]}}}} Platform Engineering Sharing
+        - Good discussion
+        - [[Ravic Poon]]
+        - [[Victor Lam]]
+            - Good in triggering emotion from the colleagues
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

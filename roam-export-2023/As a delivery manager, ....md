@@ -1,0 +1,18 @@
+- [[Delivery Manager]]
+- [[software delivery]]
+- [[Improve quality of delivery]]
+- [[Delivery Teammates]]
+- 
+- How I define my role and responsibility initially?
+    - Improve all aspect of [[software delivery]]
+        - Delivery speed
+        - Delivery quality
+        - Delivery impact
+        - Technology capabilities
+    - Metric:
+        - A consistent story points in each theme.
+        - Retention time of engineers are longer than the industry
+- How I define my role and responsibility now?
+    - Ensure project delivery
+    - Ensure software delivery team is functioning
+    - Influence stakeholders to be fully aware of the cost of projects

@@ -1,0 +1,83 @@
+- #[[22 2023]]
+- 09:00
+    - Watched [Leader eat last](https://youtu.be/eP38Cxve5xY) #classic
+        - Leader create an environment that people can perform.
+        - People in an environment of trust and safe can perform their best.
+        - People in an environment lack safety and trust will become cynical & self protecting.
+        - Leadership must have courage.
+        - Leader do the things that he consider is right for the group.
+        - Leader is voluntary.
+        - Leader will sacrifice him/herself for others.
+        - Human are always hierarchical.
+        - Human are proud to work for the leader.
+        - Leader must have trustworthy and honesty.
+        - Leader must allow his team to fail.
+        - Leader is a leader of man.
+        - Challenging authority = taking responsibility
+        - Common of Intent
+        - Openness to ideas
+        - grow x% in a year vs invest to build to survive in 100 years.
+        - feel safe, feel valuable and feel belonged.
+        - To assess the team, ask their value and belief.
+        - When in a toxic environment, step up. Be the leader you want to be.
+        - How to spot toxic leaders? Time.
+        - Leader need to perform leadership act consistently.
+        - Patience: when my reputation is in line, who will I decide to sacrifice?
+- 09:45
+    - [[1:1]] with [[Anna Yu]]
+        - {{[[DONE]]}}  Delivered the news of salary review
+        - Mentioned she will be off in February for SMILE operations and home moving
+            - Congratulate her for that
+        - Mentioned I have recalibrate my expectation on her to a senior product manager
+            - Excel in execution, patience and internal relationship
+        - She expressed she is more keen to focus on Internal 
+        - Mentioned she is up to standard on most of the criteria as a senior Product Manager
+            - But need to pick up product analytics
+            - Also need to pick up customer interview.
+- 10:00
+    - [[1:1]] [[Clara Ho]] on [[cashflow]] of [[Preface]]
+        - {{[[encrypt]] - Month beginning is better.
+- ~50000 increment is hard
+- ~10000 increment is ok
+- Worst case scenario is that late Feb has no influx of capital
+}}
+- 10:20
+    - [[[[Preface]] [[strategy]]: product metrics]]
+- 11:30
+    - [[1:1]] [[Ben Cheng]]
+        - Shared
+- 12:30
+    - Team Lunch
+- 16:06
+    - Metric discussion with [[Ellen Lau]]
+        - Related to [[[[Preface]] [[strategy]]: product metrics]]
+        - ComEx
+            - Sleekflow response time
+            - Retention / Repurchase on 1 on 1
+            - Plus membership
+                - same student have they repurchase bootcamp
+            - Learning review
+                - 1:1
+                - Plus Membership X BC
+        - Nomad
+        - Drive business insight
+            - Find winning formula of content X nomad X class format X schedule 
+                - COnversion Rate of formula
+        - Alignment need to be made on terminology
+            - Customer side more than nomad side
+        - Metrics for Quality ideas
+            - Client satisfaction review
+            - Client Login session
+            - Client self booking rate
+            - Client notes open rate
+            - Client teacher comment
+            - Client content comment
+            - Client report card 
+            - Nomad client comment
+            - nomad content comment
+            - nomad login session
+- 17:00
+    - All hands meeting
+- 22:30
+    - [[gratitude dairy]]
+        - A positive mindset with a clear mind is back.

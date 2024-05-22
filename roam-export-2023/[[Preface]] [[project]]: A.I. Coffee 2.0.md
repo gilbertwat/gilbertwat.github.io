@@ -1,0 +1,44 @@
+- Status: Done
+- {{[[DONE]]}}  Ship to customer on [[April 27th, 2023]] 👏🏼 finished on [[April 28th, 2023]]
+- {{[[DONE]]}}  Discuss deadline 👏🏼 finished on [[April 19th, 2023]]
+    - will be ASAP to demo [[April 20th, 2023]]
+- [[[[Preface]] [[product]]: website]]
+    - {{[[DONE]]}}  Redirect /coffee-cold-brew-label to AI services 👏🏼 finished on [[April 28th, 2023]]
+- [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+    - {{[[ARCHIVED]]}}  Remove /coffee-cold-brew-label
+- [[[[Preface]] [[product]]: AI Services]]
+    - {{[[DONE]]}}  New service to generate stories 👏🏼 finished on [[April 28th, 2023]]
+        - Hard coded API key for authorization
+    - {{[[DONE]]}}  New service to randomly suggest words 👏🏼 finished on [[April 28th, 2023]]
+        - Hard coded API key for authorization
+    - {{[[DONE]]}}  New service to generate images 👏🏼 finished on [[April 28th, 2023]]
+        - Hard coded API key for authorization
+    - {{[[DONE]]}}  new service to email generated image 👏🏼 finished on [[April 28th, 2023]]
+        - Hard coded API key for authorization
+- System
+- #[[decision]]
+    - Make a new nextjs sites in [AI Services](https://github.com/preface-ai/ai-services)
+    - Get rid of the printing app by creating the label in the api level
+    - Get rid of the printing api, do not use the puppeteer as there is font rendering issue
+    - A trade off from the old version is the label PDF was 50KB vs 310KB now.
+        - It is not valid now as we directly printing the PDF from the browser.
+    - Using the firebase realtime database as the DB of the services.
+    - Rebuild the whole label page to use CSS for print.
+@page, mm as unit
+- Bugs
+    - OpenAI DallE has a 2 hours limit on accessing the generated photos
+        - Not fixing it
+            - Updates on [[May 5th, 2023]]: We want to pre-print and pre-generate some coffee label for our clients, hence there will need to fix it
+                - {{[[DONE]]}}  Fix image expiration problem 👏🏼 finished on [[May 10th, 2023]]
+                    - deployed a cloud run instance to download from openai and upload to our GCS every hours
+    - Using the `innerText` of the `Chip` in [[Material UI]] can be problematic as for some reason there will be a line break in it.
+        - word.replace(/+\s/g)
+    - The dimension of the label is all wrong in the first version.
+        - use `mm` in the css to be pixel perfect.
+    - [[Puppeteer]] has trouble rendering non web-font in a timely manner.
+        - Drop the puppeteer to 
+            - Use browserless.io cannot solve the problem
+    - If the chosen words are too long the label will be messed up.
+        - Not fixing it.
+    - If the name of the client has a space the label will be messed up.
+        - Not fixing it.

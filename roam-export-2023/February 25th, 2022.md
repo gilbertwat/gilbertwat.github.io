@@ -1,0 +1,31 @@
+- 14:56
+    - ((agSx-pV4f))
+        - Need to reassess the risk of war in [[Hong Kong]].
+            - The probability of a war between [[China]] and [[Taiwan]] in 2022 has increased. #Prediction
+                - Context is [[Russia]] is attacking [[Ukraine]] on [[February 24th, 2022]]
+                    - So far the response of the Europe is very appeasing.
+                - No one thinks in the right mind thinks the leadership of [[Russia]] will attack.
+                    - It is not [[rational]]
+                - Kinda proved my theory of war is never rational, sadly.
+                - Based on this new development, I am reassessing my plan.
+                - War can be started with a mis-informed dictators.
+            - How to de-risk
+                - War fund
+                    - 18000 USD (140000 HKD) in a cold storage
+                        - 6000 USD in cryptocurrency
+                            - 1500 USD in BTC
+                            - 1500 USD in ETH
+                        - 6000 USD in gold
+                            - 1兩 per nugget x 3
+                            - 275400 HKD
+                        - 6000 USD (47000 HKD) in paper currency
+                            - 
+                - War plan
+                    - Escape plan
+                    - Tug in plan
+- 20:24
+    - https://www.youtube.com/watch?v=v68zYyaEmEA&t=587
+        - [[Information theory]]
+            - 1 bit = reduce 1/2 of the possibility space = unit of information
+            - Entropy = The Expected(information)
+    - 

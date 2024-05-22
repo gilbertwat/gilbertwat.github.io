@@ -1,0 +1,27 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - [[[[Preface]] Coffee & Wine]] and [[[[Preface]] Coding]] are actually 1 team
+    - How to explain to [[[[Preface]] Coffee & Wine]] barista on serving customers?
+    - Q3 OKRs is a proportionally increase from Q2 OKRs
+    - Adrian is working on connecting most of the spreadsheets in ops excellence team
+    - Feeling:
+        - I am not feeling very well about our achievement.
+- {{[[DONE]]}}  Recap for webflow discussion
+- Discussion with [[Kenneth She]] on Possible new partnership with a marketing agency.
+    - What does business want from IT
+        - How much is a 1 pager?
+        - How long can we see effect?
+        - What is the blocker?
+        - What do we need to gatekeep?
+- [[1:1]] with [[Ehsan Ayaz]]
+    - Want to move to a 4.5 day schedule
+    - Talk to [[Vegas Ho]] on that
+    - Feeling:
+        - I am not sure why [[Ehsan Ayaz]] is having this thought
+        - I helped him to dig deeper into his thoughts and it is very emotionally draining
+- Sync up with [[Vegas Ho]]
+    - Shared my concerns within the leadership team
+    - Signals
+        - We are very busy without significant impact yet.
+        - I need to step up 
+- Sync up with [[Ben Cheng]]
+    - Shared

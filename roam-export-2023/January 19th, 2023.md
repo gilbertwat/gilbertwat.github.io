@@ -1,0 +1,7 @@
+- #[[22 2023]]
+- 09:30
+    - Working on [[[[Preface]] [[strategy]]: product metrics]]
+- 17:30
+    - https://twitter.com/ivyxvine/status/1614972902679646208?s=46&t=q11nA6SksG44dh_PVXUMMw
+- [[gratitude dairy]]
+    - I can still work from home and have a focus time

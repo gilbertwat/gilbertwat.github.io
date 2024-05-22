@@ -1,0 +1,17 @@
+- #[[09 2023]]
+- 09:45
+    - Work on {{[[DONE]]}}  Ship the Quotation to [[Andy Lai]] of [[Z27]]
+    - Shipped
+- 11:00
+    - Linkedin engagement
+        - https://www.linkedin.com/posts/pejmanmilani_teachingandlearning-teachersoflinkedin-visualthinking-activity-7135296285342928896-wgSJ?utm_source=share&utm_medium=member_desktop
+        - 
+- 11:15
+    - 
+- 11:30
+    - Skipped [[Tech x Content weekly meeting [[Preface]]]]
+- 11:45
+    - Lunch
+- 13:30
+    - Work on {{[[DONE]]}}  Ship Home page for [[[[Preface]] [[project]]: Website Revamp 2023]] 
+    - 

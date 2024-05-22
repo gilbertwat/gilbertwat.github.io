@@ -1,0 +1,188 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - A bit tied
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Peter Wong]]]]
+        - Mood
+            - BAU
+        - Anything to talk about
+            - Steven Lam Salary add
+        - Make people proud
+            - Truly solve people's problems
+                - Can ge, can be better
+            - better UX
+            - Stability can be improved
+                - Crash
+                    - ANR fixing 
+                - Slowness
+            - Specific?
+                - battery low priority
+                - performance app start
+                    - Firebase can check this
+                    - 7-8s down to 2-3s
+    - 
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Ben Cheng]]]]
+        - Mood
+            - So far so good
+        - Current challenges
+            - [[1:1]]
+                - [[Belda Chan]] Work
+                - [[Kavin Wong]]
+                    - cold start
+                    - check list
+            - Delegate to Ivo Wu for Dynamic Additional Requirement
+                - Expectation Problem
+                    - could deliver better
+                        - ask question
+                        - see if there is solution
+                        - if no then suggest solution
+        - New stuff
+            - [[GOGOX]] what kind of achievement
+            - Tech leads
+                - Strength
+                - Weakness
+        - World class app
+            - What is the definition?
+                - User experience
+                - Style guidelines / design system
+                - **Easy to adopt to other regions** #CircleBack
+    - {{{[[DONE]]}}}} [[1:1]] with [[Victor Lam]]
+        - Mood
+        - Current challenges
+        - World class app.
+            - What is the definition?
+                - Humanist
+                - 有心思
+                - 細心
+                - detail oriented
+                - features are human centric
+                - **If any question can easily access information.** #CircleBack
+                - #[[GOGOX]] Do we have a group of customers loves us very much?
+                    - Not human enough
+                    - Customer segmentations
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Matthew Ng]]]] 
+        - Mood
+            - Stable
+        - Current challenges
+            - Side project next [[[[1:1]] with [[Matthew Ng]]]] #CircleBack
+            - Reusable components [[Rob Dong]]
+        - World class app
+            - Forest
+                - Idea interesting
+                - Clean UX
+                - Not overly complicated
+                - **Simple, but not simpler**
+                    - GGV
+                        - Not a target audience
+                    - GGB
+                        - Bulk ordering idea is very good
+                            - missing some key feature to be seemless.
+                        - Overview is not clear in order management
+                            - Dashboard
+                        - Simpler than needed
+                            - Single form vs multiple part form
+                                - Ad-hoc vs ODP
+                        - Look & feel
+                            - Legacy revamp order management on VAN
+            - Todoist
+                - scheduling
+                - gamification of todoist
+                    - DET
+        - {{{[[DONE]]}}}} #CircleBack if [[Matthew Ng]] participate in grooming or not. 
+- Topic for [[[[1:1]] with [[Rob Dong]]]]
+    - {{{[[DONE]]}}}} Set up [[[[1:1]] with [[Rob Kealey]]]]
+    - {{[[DONE]]}} [[[[1:1]] with [[Karl Tai]]]]
+        - Mood
+            - To DA
+            - MOB task and bug fix.
+            - More refactor task
+                - Can improve coding
+            - ++ [[Keith Chan]] try to help 
+        - Current challenges
+            - Not much
+        - World class app
+            - Youtube
+            - Netflix
+            - IG Facebook
+                - Advertisment
+                - Track all user experience / habits
+            - 簡約
+                - Uber
+                - Grab
+                - Anti
+                    - Taobao
+                    - Superapp
+                    - Cannot use all features.
+            - **Customize user interface to fit individual user behaviors**
+        - Are we world class?
+            - CA
+                - Simple
+                - Simple functionalities
+                - Difficulties
+                    - Too many options
+                    - Cannot save information
+                - Business vs personal account is not differentiate enough
+                - Map usage is limited.
+            - DA
+                - old school design
+                - can be simpler
+                - 搵到錢就得
+        - iOS widget investigation
+            - #CircleBack in the next [[[[1:1]] with [[Karl Tai]]]]
+            - #CircleBack
+            - #CircleBack
+        - Ask Keith about sharing
+        - Reopen because legacy code
+        - Ready for QA always tag QA
+    - https://lawsofux.com/doherty-threshold.html
+        - #Design #UX
+        - Aesthetic Usability Effect
+            - More beautiful = more usable
+        - Doherty Threshold
+            - <400ms = productivity soars
+        - Fitt's Law
+            - time to acquire a target = f(distance, size)
+        - Hick's Law
+            - time to make decision ↗️ when number and complexity of choices ↗️
+        - Jakob's Law
+            - No fancy UX, just follow the other apps user are using
+        - Law of common region
+            - Elements are a group when a clear defined boundary
+        - Law of Prägnanz
+            - If the elements are ambiguous or complex, people will perceive it in the simplest form possible
+        - Law of proximity
+            - Group elements together by proximate to each other
+        - Law of similar elements
+            - Similar functional elements, similar style
+        - Law of uniform connectedness
+            - visually connecting elements = more related
+        - Miller's Law
+            - 7, +/- 2 items in our working memory
+        - Occam's Razor
+            - Hypotheses with fewest assumptions wins
+        - Pareto principle
+            - 80% of effects come from 20% of efforts
+        - Parkinson's Law
+            - Any task will inflate until all of the available time is spent.
+        - Peak-End Rule
+            - People judge an experience based on peaks and ends, rather than totual sum / average
+        - Postel's Law
+            - Garbage in, little out.
+        - Serial position effect
+            - User tends to remember 1st and last items in a series.
+        - Tesler's Law
+            - Any system there is a certain amount of complexity cannot be reduced.
+        - Von Restorff
+            - One differs from the rest is most likely to be remembered
+        - Zeigarnik Effect
+            - Uncompleted / interrupted tasks is better remembered than completed tasks.
+- ((Ua85ewy3A))
+    - use Twitter to do [[daydaycode.io]] growth hack
+    - [[daydaycode.io]] affiliate / competitors
+        - https://codesignal.com
+        - 
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}

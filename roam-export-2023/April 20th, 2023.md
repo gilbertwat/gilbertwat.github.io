@@ -1,0 +1,3 @@
+- {{[[DONE]]}} Pay tax  👏🏼 finished on [[April 28th, 2023]]
+- Find out that [[[[Preface]] [[product]]: Intensive Holiday Bootcamps]] has an element of [[POAP]] on a public [[Blockchain]] and it is inspired by me
+    - #learning 

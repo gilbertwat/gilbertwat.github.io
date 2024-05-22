@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Smiling_curve
+- from [[Stan Shih]] of [[Acer]]

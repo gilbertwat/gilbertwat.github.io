@@ -1,0 +1,19 @@
+- #[[09 2023]]
+- #health
+- Choose one to invest in my #career
+    - {{[[DONE]]}}  Reply online for 30 minutes on Linkedin or Twitter.
+        - Posted a meme with 44 reactions and 2 comments so far #success
+            - https://www.linkedin.com/feed/update/urn:li:activity:7137805260034637824/
+- 08:33
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+- 10:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 10:45
+    - Work on {{[[DONE]]}}  Ship Home page for [[[[Preface]] [[project]]: Website Revamp 2023]] 
+- 12:30
+    - Lunch
+- 14:15
+    - Chat with [[Gemmy Wong]] on [[Z27]] projects
+- 14:30
+    - Chat with [[Andy Lai]] on [[Z27]] projects
+        - Green light #success #achievements

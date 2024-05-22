@@ -1,0 +1,27 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- Pre Post Mortem from incident with [[Victor Lam]]
+    - Symptoms
+    - 1600 connection with Redis
+    - DB Write IOPS very high
+    - [[Ben Cheng]] onboarding on incidents handling
+    - SRE team experience and principle
+        - Don't resolve things with potential worse impact
+        - Restart pod
+- [[Ka Kui Tsang]] performance discussion with [[Keith Chan]]
+    - Set the tone of constructive teamwork
+        - We are in this together, with the economic situation
+    - Set the tone of honest feedback
+        - [[Ka Kui Tsang]] is not up to standard
+            - standard is
+                - ........??? [[Keith Chan]]
+            - Not up to standard
+        - Do [[Ka Kui Tsang]] agree, anything have [[Myself]] and [[Keith Chan]] missed?
+    - Set the plan for performance improvement
+    - 

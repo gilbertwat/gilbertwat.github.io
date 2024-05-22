@@ -1,0 +1,12 @@
+- [[[[2022]] Q3]] [[OKR]]s candidate
+    - Synchronize portal order with stripe invoice
+        - Data pipeline
+    - Roll out MVP for [[[[Preface]] 2.0: credit system]]
+    - Roll out https://github.com/keycloak/keycloak
+- {{[[DONE]]}} A [[proof of concept]] of a login system with magic link and WebAuthn
+    - Rails 7
+        - https://guides.rubyonrails.org/classic_to_zeitwerk_howto.html
+        - Autocomplete
+        - https://github.com/fxn/zeitwerk#motivation
+        - Stimulus + Turbo Take 2
+    - WebAuthn

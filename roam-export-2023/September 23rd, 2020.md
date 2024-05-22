@@ -1,0 +1,81 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- {{[[DONE]]}} [[[[1:1]] with [[Henry Tang]]]]
+    - How do you feel recently?
+        - 都係咁
+    - How is your {personal project / family }?
+    - How is your theme / project?
+        - [[Dharmendra Jadon]] off-boarding should announce
+        - [[Shamiya Patel]] is more OK now
+        - 
+    - How is your function?
+    - #CircleBack topics
+- {{[[DONE]]}} [[[[GOGOX]] Payment Theme]] [[Sync up]]
+    - [[[[2020]] Q3]] [[Retrospective]]
+        - Premium Service
+            - Progressively roll out pre-selected premium service
+            - Impact is great
+        - New partner wallet
+            - Kafka
+            - 6 sprint estimation
+            - 3 sprint now
+        - (Unexpected) Prepaid wallet prod issues
+            - **__Suggestion__**: Onboarding off-boarding need upgrading
+        - Product manager is confident on the delivery
+        - How to guarantee the quality?
+            - Dev driven in [[[[2020]] Q3]]
+            - UI/UX is driven by designers
+            - Scope change only because new learning of reality
+                - Order amendment more than once
+                - 1 in 100000 orders
+                - No SOP support
+        - [[Victor Lam]] chur because of [[IET]] and [[GMT]]
+        - Payment documentation to align expectation
+            - Missing flows
+                - Credit Card for Transport / GGD orders
+            - Make it predictable
+            - https://docs.google.com/spreadsheets/d/1zwdmt9NMwiORctAt_QWPDbkp5F-tbq7hX-S7lZFWu2U/edit#gid=282682503
+        - Operation awareness
+            - Long and manual process to QA
+            - Prone to error
+            - May hamper the relationship of finance and operation
+            - May also hamper the customers' trust
+    - [[[[2020]] Q4]] [[planning]]
+        - [[🤔 Questions]] Do we need to loop in GGD earlier for partner wallet and charging?
+            - [[Discussion]] among engineers
+        - [[🤔 Questions]] How to decouple Payment Theme with other theme?
+            - Flutter?
+            - Web-based?
+            - We can experiment in Partner charging in [[[[GOGOX]] GOGODelivery Theme]]
+            - This is an engineering problem.
+            - Clean Tech debt for old payment methods.
+            - Need to communicate across themes (tech team)
+        - [[[[GOGOX]] Driver Experience Theme]] may do Driver subscription
+- {{[[DONE]]}} Weekly update [[software delivery]]
+- {{[[DONE]]}} [[1:1]] with [[Victor Lam]] 
+    - Enable production testing Q4 OKRs
+    - Force update policy [[Myself]]
+        - No more ad hoc
+        - Infra + PMs + QA
+    - Configuration 
+    - [[[[2020]] Q4]]
+        - Test in production
+            - Configuration per user project
+            - [[Kavin Wong]]
+            - [[Ben Cheng]]
+        - Force update policy
+        - [[[[GOGOX]] GOGODelivery Theme]] refactoring
+            - [[Ravic Poon]]
+            - [[Belda Chan]]
+            - What is the first step to enable?
+            - Probing
+            - Overview
+            - Enable [[[[GOGOX]] Payment Theme]] and [[[[GOGOX]] Integration Theme]]
+        - Concern in [[Myself]]
+            - Architecture
+            - Diversity 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

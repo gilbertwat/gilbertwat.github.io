@@ -1,0 +1,1 @@
+- P.S just want to appreciate his work attitude, he is truly a man of honor and give his 100% even he is the outgoing manager. He is the perfect example of a professional colleagues and peers.

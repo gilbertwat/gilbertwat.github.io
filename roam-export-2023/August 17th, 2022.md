@@ -1,0 +1,84 @@
+- [[August 17th, 2022]] at 00:02
+    - https://www.linkedin.com/posts/adplist_careers-jobs-education-activity-6964962129716142080-Gcsw?utm_source=linkedin_share&utm_medium=ios_app
+- Read [Towards a General Pre-training Framework for
+Adaptive Learning in MOOCs](https://arxiv.org/pdf/2208.04708.pdf)
+    - Why I am reading this?
+        - To gain a very broad knowledge in [[pedagogy]].
+        - To gain knowledge on the [[state of the art]] technique in [[pedagogy]].
+    - [[Literature Notes]]
+        - [[adaptive learning]] contains [[adaptive content]].
+        - [[adaptive content]] AKA [[expert]] module.
+        - [[adaptive content]] contains education [[knowledge modeling]].
+        - [[adaptive content]] contains [[automatic evaluation of materials]].
+        - [[adaptive learning]] contains [[adaptive content]].
+        - [[adaptive assessment]] AKA [[student]] module.
+        - [[adaptive assessment]] contains [[cognitive modeling]].
+        - [[adaptive assessment]] contains [[knowledge tracing]].
+        - [[adaptive assessment]] contains students' [[steady tendency prediction]].
+        - [[adaptive learning]] contains [[adaptive sequence]].
+        - [[adaptive sequence]] AKA [[instruction]] module.
+        - [[adaptive sequence]] contains [[sequence recommendation]].
+        - [[adaptive sequence]] contains [[knowledge structure acquisition]].
+        - [[state of the art]] system is constructing a systematic [[adaptive learning]] framework.
+        - [[adaptive content]] has to take into account of student behaviors to facilitate downstream tasks.
+        - Pre-trained model of [[NLP]] includes [[ELMo]].
+        - Pre-trained model of [[NLP]] includes [[BERT]].
+        - Pre-trained model of [[NLP]] includes [[GPT]].
+        - Pre-trained model of [[NLP]] includes [[T5]].
+        - Watching [[video]] is the core behavior of [[student]]s in [[MOOC]] to gain knowledge.
+        - 99.88% of [[video]] has 0 view.
+        - Out of 0.12% of watched [[video]]s, 39.2% of the video has been watched by 1 [[student]].
+        - 28.5% of [[student]]s has watched the most popular video.
+        - The statistics behavior of [[video]] watching is [[long-tail]].
+        - The statistics behavior of [[video]] watching is largely [[uneven]].
+        - [[Learning style]]s can be global according to [[Felder-Silverman Model]].
+        - [[Learning style]]s can be sequential according to [[Felder-Silverman Model]].
+        - [[Markov]]ian behavior means the current change of state is independent from the previous states.
+        - [[Markov]] chain is a finite [[state machine]] with a probabilistic edges of the change of state.
+        - [[Non-sequentiality]] is arguably proven in individual student behavior
+        - [[Coherence]] in individual student behavior is arguably proven
+        - [[Masked proportion]] is a component of [[Masked Language Model]].
+        - [[Pre-trained model]] model is based on [[transformer]].
+        - [[transformer]] has a component of [[attention head]].
+        - [[transformer]] has a component of [[transformer block]].
+        - [[Masked Language Model]] task is proposed by [[BERT]].
+        - A problem of using [[Pre-trained model]] is data sparsity problem.
+        - [[Concept extraction]] is extracting fine-grained terms or key phrases from the given learning resources.
+        - ------- [[August 25th, 2022]] ---------
+        - [[RoBERTa]] and [[Named Entity Recognition]] helped to perform [[Concept extraction]]
+        - [[RoBERTa]] is an advanced version of [[BERT]]
+        - https://www.geeksforgeeks.org/named-entity-recognition/
+            - [[Literature Notes]]
+                - [[Named Entity Recognition]] is a data preprocesssing task.
+                - [[Named Entity Recognition]] first detect the entities from the text.
+                - [[Named Entity Recognition]] then classify the entities into different categories.
+                - [[multi-class [[classification]]]] can be used to perform [[Named Entity Recognition]] 
+                - [[Conditional random field]] can be used to perform [[Named Entity Recognition]]
+                - [[Conditional random field]] is available in [[NLTK]].
+                - [[NLTK]] is a python library for doing [[NLP]].
+        - [[Concept Linking]] link learning resources and behaviors with the concepts from [[Concept extraction]].
+        - [[encoding]] in [[machine learning]] means translating categorial data into numerical values.
+        - Text is one of the category of data in [[learning behavior]] [[encoding]].
+        - [[knowledge concepts]] is one of the category of data in [[learning behavior]] [[encoding]].
+        - Meta information is one of the category of data in [[learning behavior]] [[encoding]].
+        - Position embedding is one of the category of data in [[learning behavior]] [[encoding]].
+        - [[Normalized Discounted Cumulative Gain]] is one of the [[objective metrics]] for evaluating [[machine learning]] models.
+        - [[gain]] in [[information retrieval]] is about the usefulness of a particular result.
+        - [[cumulative [[gain]]]] is the total usefulness of the result list.
+        - [[discounted cumulative gain]] is defined as $$\sum^{p}_{i=1}\frac{rel_i}{log_2(i+1)}$$
+        - [[Normalized Discounted Cumulative Gain]] is defined as $$nDCG_p = \frac{DCG_p}{IDCG_p}$$
+        - [[Root-mean square deviation]] is an [[objective metrics]] to evaluate a [[machine learning]] model.
+        - [[AUC]] is an [[objective metrics]] to evaluate a [[machine learning]] model.
+- 14:30
+    - [[1:1]] with [[Anna Yu]]
+        - Personal mingle
+            - [[Netball]]
+            - [[Physio]] on Tuesday and Friday
+        - [[product]] management expectation setting
+- 15:00
+    - [[[[Preface]] Seamless Buy Link]] [[[[UI]]/[[UX]]]] design sync up
+        - Way better after introducing [[UI]] elements
+- 17:30
+    - [[1:1]] with [[Alexander Li]]
+        - The conversation is quite convoluted.
+        - A lot of hesitation in [[Alexander Li]] will to write those things.

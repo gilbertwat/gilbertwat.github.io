@@ -1,0 +1,11 @@
+- 09:30 - 10:00 [[Ergon]]
+- 10:30 - 11:30 [[Push [[💦 Workout]]]]
+- 11:30 - 13:00 Lunch + calls
+    - [[beyond.ai]] initial call from Robert Walters
+    - [[Charlotte Chan]] chat for [[Brian Chan [[Maven.hk]]]]
+        - Same stuff
+- 13:00 - 16:00 [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+    - Thinking about the next step?
+- 16:00 - Investigating [[Code test]]
+    - https://codesubmit.io/blog/coding-assessment-tools/
+- [[Lower back spasm]] fix

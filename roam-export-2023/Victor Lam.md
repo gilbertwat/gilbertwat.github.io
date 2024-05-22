@@ -1,0 +1,24 @@
+- 🤝 Family & Friends
+    - #[[software engineer]] #TeamLeads #[[[[GOGOX]] Platform]] #Colleagues
+- **Birthday**
+- **Sentiment**
+    - OK
+- **Characteristics**
+    - Cautious
+    - Detailed
+    - Lack of ambition
+    - Summissive
+    - The default mode of stress is to reduce 
+- **Topic he/she cares**
+- [[Help!!!]]
+    - How can we help [[Victor Lam]] to gain more experience in leadership?
+        - Why do I have this judgement?
+            - In talking with his teammates
+                - None of them learn something from him
+            - Hold meetings skills is not consistent
+                - People understand the meetings' intention but doubt its effectiveness
+        - What is the bright side?
+            - He is humble and rational to me.
+        - What is the course of action?
+            - {{[[DONE]]}} Make him feel safe with his team.
+            - Move him to solution architect role.

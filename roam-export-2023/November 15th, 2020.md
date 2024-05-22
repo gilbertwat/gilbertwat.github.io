@@ -1,0 +1,19 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Cycling in the morning
+- #[[ideas]] screencast.js
+    - What about a canvas with a docker enabled backend?
+        - Best UX and very technical
+            - How to provision fast enough?
+            - How to be low latency?
+            - How to be cost effective?
+- https://github.com/palkan/logidze #[[Ruby on Rails]]
+- https://github.com/influitive/apartment #[[Ruby on Rails]]
+- 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

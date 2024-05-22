@@ -1,0 +1,4 @@
+- [[[[writings]] Too much of a proletariat mindset may ruin your life]]
+- https://www.youtube.com/watch?v=44f3mxcsI50
+    - What is the ultimate [[Sacrifice]]?
+    - What [[Sacrifice]] can make my day better?

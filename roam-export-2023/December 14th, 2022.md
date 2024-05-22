@@ -1,0 +1,16 @@
+- {{[[ARCHIVED]]}}  #to-brainstorm improvement needed for tech team in 2023 and individual
+- Writing [[[[Preface]] 2022 #review]] 
+- 
+- {{[[DONE]]}} #to-publish Rehash https://twitter.com/OnlyCFO/status/1597220435636019200?s=20&t=HfLryRoYpFgwXg_ssO4GTQ in engineering / product organization Finished at [[December 14th, 2022]]
+    - [[Literature Notes]]
+        - Proper span of control of a manager is to build an efficient team.
+        - Proper span of control of a manager is to build an effective team.
+        - An efficient team put company's time and money into good use.
+        - An effective team provide good outcome.
+        - A wide span of control is good for efficiency as there is more ICs.
+        - A narrow span of control is good for complex work.
+        - A narrow span of control is good for new and innovative work.
+        - A narrow span of control is good for high variety of tasks.
+        - A narrow span of control is good for high amount of team coaching required.
+        - A narrow span of control is good for low employee experience or ability.
+        - A narrow span of control is good for inexperienced manager.

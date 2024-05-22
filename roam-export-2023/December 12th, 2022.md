@@ -1,0 +1,28 @@
+- {{[[DONE]]}}  Reorganize tasks 
+    - To re-organize bigger projects to use a very basic project management instead of just todo
+        - #planning
+        - #in-progress
+            - #On-track 
+            - #[[blocked]]
+            - #delayed
+        - #[[shipped]]
+    - timebox each tasks and plan to put it in a day if it is not planned
+    - make time for serendipity
+    - make rest a priority
+    - make action a priority
+    - [[Preface]] ongoing projects involved
+    - Ongoing [[Gilbert Wat]] projects
+    - [[books]]
+- {{[[ARCHIVED]]}}  #to-brainstorm improvement needed for tech team in 2023 and individual
+    - Myself
+        - Use my time as rational as possible
+            - Maximize growth of tech team capability
+                - [[teammates]]
+                - Maximize delegation
+                - Minimize blockers
+            - Maximize happiness in my life
+            - Maximize chance to build a breakthrough product
+                - [[Preface]]
+                    - [[[[Preface]] [[product]]: Customer Portal]]
+                - [[Gilbert Wat]]
+- 

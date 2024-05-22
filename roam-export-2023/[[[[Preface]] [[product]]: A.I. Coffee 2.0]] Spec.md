@@ -1,0 +1,102 @@
+- https://docs.google.com/document/d/1G3byKvlOshprUts4yk3Kd9DbqCydjuf0PHgFGT1De5o/edit
+- # Overview
+    - A.I. Coffee is a web app to help our clients engage their audience with a quick taste of the new generative A.I. capabilities. We can configure and deploy our A.I. Coffee to our partners in events or exhibitions. Our clients can then use it to engage their audience through it.
+- ## Product Features
+    - A.I. Coffee will allow users to input their names and some other identification information.
+        - Currently we can collect **Email **and **Team/Department**.
+    - A.I. Coffee will allow users to select a list of 18 words from 4 categories of words.
+        - Currently we have the following categories of words, we can have unlimited words in each categories but there we will select only X number of them, where we put it in a bracket below:
+            - Emotions/ Moods (5)
+            - Technology buzzwords (4)
+            - General Topics for stories (5)
+            - Other client specific words (4)
+    - Based on the input, A.I. Coffee will generate a 15 word story, based on a user persona and a story style. Our client can configure the user persona and story style to suit their needs.
+    - Based on the generated 15-word story, A.I. Coffee will generate an image with a certain art style.
+    - Based on the story, A.I. Coffee will generate a label. Operator can print it to stick on the coffee cup as a souvenir.
+- ## User manual
+    - There are 4 pages for every deployment:
+    - https://aicoffee-{xxxxx}.preface.ai/coffee-code-brew-label ---> the latest created label
+    - https://aicoffee-{xxxxx}.preface.ai/latest ---> The latest generated story and image
+    - https://aicoffee-{xxxxx}.preface.ai/generate --> The page to generate new story and image
+    - [https://aicoffee-{xxxxx}.preface.ai/label/{yyyyy](about:blank)} → Generated prompt and image, available on the labels
+    - Where {xxxxx} is the same as the campaign name of the deployment. For example for campaign named __chanel__, the URL will be [__https://aicoffee-chanel.preface.ai__](https://aicoffee-chanel.preface.ai)
+    - Where {yyyyy} is the ID of the generation. It is unique per generation
+- ### Demo
+    - //TODO add a video of the whole flow here.
+- ## System Design
+- ## ![](https://lh4.googleusercontent.com/bksMbRzBq5hkxsroQFJBBNjJn8Q9J3PP-_v3Lij2NaIJEn1mbk8h3jovilG-5gLbPZO1wf_HwxO_9P2BxloJSV3roxBhlBLa9HaLu5P_7iqBdv2YTaWBeiE1tweYkuJsiRkJpLGG4Eb8aacI4vCdQAI)
+- # 
+- # Limitations
+    - Unlike other webapp, there can be only 1 user for each deployment at a time. And we **didn’t** block the extra session. So any extra session of this app will result in funny UX. There are 2 reason for this current setup:
+        - Hardware limitations: 1 deployment can only support 1 set of hardware
+        - Software limitations: There can be only 1 input and 1 output simultaneously.
+        - Investment in software development is needed to enable multiple concurrent users and printer set
+    - If you need 1 or more concurrent apps running, you need to deploy the whole setup (hardware and software) for each concurrent running app.
+    - The printing is only limited to 1 specific model of label printer - **Brother QL820NWB.**
+        - The printer should be in the brand design team
+    - The process of printing relies on Google Chrome and a specific Android phone, because we only set that Android phone up with the right printer driver and necessary application.
+        - The Android phone should be in the brand design team.
+    - You have to have an OpenAI account with funds to support image and story generation.
+    - All deployments store user information in 1 single database.
+- # 
+- # Parameters
+    - __NEXT_PUBLIC_NEED_EMAIL__
+    - Type: Boolean
+    - Default: false
+    - Usage: Configure to specify if the app collect email or not
+    - __NEXT_PUBLIC_NEED_DEPARTMENT__
+    - Type: Boolean
+    - Default: false
+    - Usage: Configure to specify if the app collect department or not
+    - __NEXT_PUBLIC_CAMPAIGN__
+    - Type: String
+    - Default: ai-coffee-2
+    - Usage: Configure to specify the campaign where the app is deployed
+    - __NEXT_PUBLIC_EMOTION_WORDS__
+    - Type: String array
+    - Default: ["Grateful", "Happy", "Excited", "Joyful", "Peaceful", "Inspired", "Motivated", "Relaxed", "Calm", "Content", "Enlightened", "Nervous", "Stressed", "Anxious", "Tired", "Sad", "Lonely", "Angry", "Frustrated", "Bored", "Depressed"]
+    - Usage: Specify the list of words about emotions, it will consist of 5 of the 18 words to allow our users to select
+    - __NEXT_PUBLIC_TOPIC_WORDS__
+    - Type: String array
+    - Default: ["Love", "Hate", "Friend", "Family", "Home", "Work", "School", "Study", "Play", "[[sleep]]", "Dream", "Hope", "Fear", "Worry", "Education", "Health", "Money", "Food", "Travel", "Life"]
+    - Usage: Specify the list of words about topics, it will consist of 4 of the 18 words to allow our users to select
+    - __NEXT_PUBLIC_TECHNOLOGY_WORDS__
+    - Type: String array
+    - Default: ["AI", "Machine", "Learning", "ChatBot", "Automation", "Car", "Robot", "Cloud", "Computer", "Smartphone", "Data", "Web3", "Blockchain", "Cryptocurrency", "Bitcoin", "Ethereum", "Dogecoin", "NFT", "DeFi", "DAO", "DApp", "Smart Contract", "Python", "JavaScript", "Java", "C++", "Rust", "Scratch", "SQL" ]
+    - Usage: Specify the list of words about technology, it will consist of 5 of the 18 words to allow our users to select
+    - __NEXT_PUBLIC_CUSTOM_WORDS__
+    - Type: String array
+    - Default: ["Coffee", "Tea", "Milk", "Juice", "Water", "Wine", "Bread", "Noodle", "Pasta", "Cake"]
+    - Usage: Specify the list of words about anything, it will consist of 4 of the 18 words to allow our users to select
+    - __NEXT_PUBLIC_BEAN_HIGH__
+    - Type: String
+    - Default: Indonesia Gayo
+    - Usage: Configure to change to this coffee bean when mood score exceed what is set in __NEXT_PUBLIC_BEAN_THRESHOLD__
+    - __NEXT_PUBLIC_BEAN_LOW__
+    - Type: String
+    - Default: Papua New Guinea
+    - Usage: Configure to change the coffee bean to it when mood score is below what is set in __NEXT_PUBLIC_BEAN_THRESHOLD__
+    - __NEXT_PUBLIC_BEAN_THRESHOLD__
+    - Type: Integer
+    - Default: 80
+    - Usage: Configure to specify the mood score to change beans
+    - __NEXT_PUBLIC_MOOD_SCORE_TEXT__
+    - Type: String
+    - Default: false
+    - Usage: Configure to specify how the mood score is called in the event.
+    - __STORY_STYLE__
+    - Type: String
+    - Default: 'is inspiring for 6 year old kids'
+    - Usage: Configure to specify the audience of the story
+    - __ART_STYLE__
+    - Type: String style
+    - Default: ['vintage', 'surrealism', 'renaissance', '3D illustration', "Geometric"]
+    - Usage: Configure to specify if the style of the image
+- # Other Documents
+    - [Clickup for Product Backlog](https://app.clickup.com/3826457/v/li/900801795773)
+    - [(WIP) Deployment Guide - A.I. Coffee 2](https://docs.google.com/document/u/0/d/1ebPX7E4CoRANoeDbRR8qvzdSD4l_uucEpBNJSo9Y--w/edit)
+    - [A.I. Coffee 2 Parameters List](https://docs.google.com/spreadsheets/u/0/d/1RAKPBzdDIwY7XuRBX8KBO9a-eFhQA3eFi7H6fqKsqZk/edit)
+    - [[INT FOR GILBERT] Chanel_AI Coffee Experience Parameters](https://docs.google.com/document/u/0/d/1CadHy5gZ63SH2WNxEWa_6rDSmBmOiOYUmRB_y9YemNY/edit)
+    - [Drivers for our label printer](https://support.brother.com/g/b/downloadtop.aspx?c=us&lang=en&prod=lpql820nwbeus)
+    - [User Manual of our label printer](https://www.brother.com.hk/en/ql820nwb.html#support-downloads)
+    - [Codebase (with other A.I. related services)](https://github.com/preface-ai/ai-services)

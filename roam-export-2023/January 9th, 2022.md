@@ -1,0 +1,12 @@
+- #[[Quick Capture]]
+    - https://kiddoangel.com/products/kiddo-angel-dancing-cactus-plant
+- #decided
+    - Whether I want to enroll to the high level ML/AI course from Stanford https://continuingstudies.stanford.edu/courses/detail/20212_STAT-05?utm_source=coursera&utm_medium=email&utm_campaign=WI22 ?
+        - Rationales:
+        - Options
+        - Investment:
+            - Jan 13—Mar 17 Every Thursday morning
+            - $530USD
+- **Turkey’s** year-on-year inflation rate jumped to 36%, according to December’s consumer price index released Monday. That's the highest rate since 2002, __Axios' Menekse Tokyay reports from Ankara.__
+    - #learning : Inflation is always going to hit the elderly the most.Related to Keep my family safe from harm, How to convince my parents to prepare for the possibility of inflation? #Family [[Mum]] [[Wifey mum]] [[Grandpa]] [[Dad]]
+- https://www.supportshepherd.com/ is a outsourcing talent platform.

@@ -1,0 +1,8 @@
+- [[Preface]] ongoing projects involved
+    - {{[[DONE]]}}  [[[[Preface]] tech strategy 2022-2023]] due [[December 31st, 2022]]
+    - {{[[ARCHIVED]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] due [[December 31st, 2022]] -> [[March 31st, 2023]]
+    - {{[[ARCHIVED]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] MVP]] due [[December 31st, 2022]]
+    - {{[[ARCHIVED]]}}  [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+    - {{[[DONE]]}}  [[[[Preface]] tag-based courses [[recommender]] system]] 
+    - {{[[ARCHIVED]]}}  [[[[Preface]] project [[recommender]] in 1 on 1 courses]] as [[RTH]] funding
+    - {{[[DONE]]}}  [[[[Preface]] lead database]] 👏🏼 finished on [[April 10th, 2023]]

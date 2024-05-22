@@ -1,0 +1,48 @@
+- [[[[2022]] Week 42]] #goals
+    - {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - {{[[DONE]]}}  Decide filter logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+        - {{[[DONE]]}}  Decide adult courses logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+    - [[[[2022]] Week 41]] carry over
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+- 
+- {{[[DONE]]}}  #read https://twitter.com/nurijanian/status/1581585814748008450?s=20&t=idQ-tU8T6Hj5zZ8E0vEEOg Finished at 11:57 
+    - [[Literature Notes]]
+        - [[B2B]] [[product]] [[prioritization]]
+            - Drop it
+                - if it is not aligned with the company or product vision?
+            - Bottom of the backlog
+                - If it is just a few users
+                - If its impact on the company is unknown
+                - If it is not validated by data and research
+            - Middle of the backlog
+                - If there is dependency
+                - If the effort is great
+                - If we can delay the feature
+            - Top of the backlog
+                - If it is more important than any of our plans for the next period
+                - If the feature is more important than the ones we are working on now?
+            - Focus on this now
+                - Does it worth the sacrifice to drop everything we're working on now, just to pick this up?
+- {{[[DONE]]}}  #shared https://news.ycombinator.com/item?id=33077118 Finished at 19:31 
+    - Ideas for next PaaS for [[Preface]] or other projects on [[hosting]]
+        - [Coolify](https://coolify.io/) is an OSS PaaS
+        - [fly.io](https://fly.io/)
+            - PoC fly.io as there is a HK server
+            - Fly.io need a docker workflow 🤔
+        - [Render](https://render.com/)
+        - [Northflank](https://northflank.com/about) if we go UK based
+        - [Dokku](https://dokku.com/) is also an OSS PaaS
+        - [Sailor](https://github.com/mardix/sailor)
+        - [https://railway.app/pricing](Railway) for Rails app
+- {{[[DONE]]}}  Sync up with [[Gemmy Wong]] Finished at 21:45
+    - https://www.figma.com/file/Qk31aunPWyoTPzWMYsC1kV?node-id=523:11077#284592340
+    - https://www.figma.com/file/Qk31aunPWyoTPzWMYsC1kV?node-id=325:8426#281990502
+    - Next phase https://docs.google.com/document/d/1NmZAjXYjyDNd0-t9G64heka9VWF2FFAz_C1Lqj5xDgU/edit#heading=h.n5db3m453d02

@@ -1,0 +1,74 @@
+- [[[[2022]] Week 39]] [[goals]]
+    - [[[[2022]] Week 38]] [[goals]] Carry over
+        - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+    - {{[[DONE]]}} Ability to receive email for preface.ai #shipped Finished at 08:08 [[September 29th, 2022]]
+    - {{[[DONE]]}}  #decided how to proceed with nomad payment Finished at 09:44 [[September 28th, 2022]]
+        - Related to {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]]
+        - [[Vegas Ho]] and [[Ellen Lau]] agree on the Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]] solution to delay to [[[[2023]] Q1]]
+        - {{[[DONE]]}}  Reply the decision to [[Vegas Ho]] Finished at 09:55 [[September 28th, 2022]]
+    - Share [[[[Preface]] [[product]]: Customer Portal]] MVP scope on [[All Hands [[meetings]]]]
+        - Delayed to [[October 12th, 2022]] [[[[2022]] Week 41]]
+    - 
+    - 
+    - {{[[DONE]]}}  #written 5E Evaluation for https://docs.google.com/presentation/d/1vqwyOYLifx0MkqlmpnhBRZKrU19XZdIZTmX8ShYHF6E/edit#slide=id.g1360d0d603c_0_1 Finished
+        - {{[[DONE]]}} #written [[Alexander Li]] Finished
+        - {{[[DONE]]}}  #written [[Ehsan Ayaz]] Finished
+        - {{[[DONE]]}}  #written [[Anna Yu]] Finished
+        - {{[[DONE]]}}  #written [[Cheryl Lai]] Finished 
+        - {{[[DONE]]}} #written [[Ben Cheng]] Finished
+        - {{[[DONE]]}}  #written [[Moses Ngan]] Finished
+        - {{[[DONE]]}}  #written [[Jeffy Fung]] Finished
+        - {{[[DONE]]}}  #written [[Yoon Kim]] Finished
+        - {{[[DONE]]}}  #written [[Ken Chow]] Finished at 14:00 
+    - {{[[DONE]]}} Complete UX with [[Gemmy Wong]] on [[[[Preface]] [[product]]: Customer Portal]] Phase 1 Finished at 14:42 [[October 3rd, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - Super tired still as [[Theodore]] is waking up at 4am again.
+- 07:00
+    - Research on [[Theodore]]'s [[sleep]]ing pattern should be in the normal range.
+        - Unfortunate.
+- 09:30
+    - Rearrange [[September 27th, 2022]] notes
+    - {{[[DONE]]}} https://www.instagram.com/p/Ci4_K4djdZk/?igshid=MTA0ZTI1NzA= [[shared]] Finished at 10:31 
+    - {{[[DONE]]}}  https://marmelab.com/blog/2022/09/20/react-i-love-you.html #shared  Finished at 10:32 
+- 11:19
+    - {{[[DONE]]}} Ability to receive email for preface.ai #shipped Finished at 08:08 [[September 29th, 2022]]
+        - https://groups.google.com/g/google-apps-manager/c/OhHtWXl0s7E?pli=1
+- 12:30
+    - [[1:1]] [[Ben Cheng]]
+        - Shared learning of [[hiring]] [[firing]] and [[promotion]]
+            - Devotion to the company / culture fit
+            - Soft skills
+            - Technical skills
+        - [[Ehsan Ayaz]] debug
+            - Not lazy actually
+            - But somehow refuse to listen to advice and best practice
+- 14:00
+    - [[1:1]] with [[Anna Yu]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Role and responsibility
+                - handling multiple projects
+- 14:15
+    - Intern program review
+        - A lot of comment on the usefulness of the projects they are working on.
+        - Also the interview process
+- 16:00
+    - [[1:1]] to [[Alexander Li]]
+        - What is your top of your mind since our last 1:1?
+            - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] discussion
+            - [[Hema Shah]] roles and 
+        - What is my top of my mind since our last 1:1?
+            - [[[[Alexander Li]] Growth Plan]] review
+- 17:00
+    - [[Preface]] [[All Hands [[meetings]]]]
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]] Finished at 20:00
+- {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[SmartBlock Finished at 11:47 
+- [[day end evaluation]]
+    - #Energy
+        - A bit restless and exhausted
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - ~3 hours

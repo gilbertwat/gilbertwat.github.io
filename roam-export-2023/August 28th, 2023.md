@@ -1,0 +1,4 @@
+- Research on [[[[Preface]] [[project]]: #sourcing Knowledge management]]
+    - https://spekit.com/product-overview/
+    - https://bettermode.com/
+    - https://www.getguru.com/campaign/reviews

@@ -1,0 +1,4 @@
+- Prep Leadership meeting on [[March 22nd, 2022]]
+    - [Tech Roadmap Reference](https://docs.google.com/presentation/d/1HReut5aIndOczY3sD6JQhowRIrmp44RcvjnT28mzfBM/edit#slide=id.g23c11329a9_0_76)
+    - Decision: Use size and timeline because of the company culture.
+    - 

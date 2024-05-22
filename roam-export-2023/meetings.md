@@ -1,0 +1,33 @@
+- How can you run an effective meeting?
+    - # How can you run an effective meeting?
+    - ## Principles:
+        - Have an objective
+        - **D.O.N.T W.A.S.T.E ⏰**
+        - everyone need to be prepared 🏋🏻‍♀️
+    - ## Before the meetings, you may want to
+        - Which way is more effective to your participant? Sync or Async? Proceed only if synchronous meeting is more effective.
+    - ## Yes, I do need a meeting
+        - Define the nature of the meeting:
+            - [[Sync up]]
+                - What do you want to sync up on?
+            - [[Announcement]]
+                - What do you want to announce?
+                - Who will be impacted by the decision?
+            - [[Brainstorming]]
+                - What problem(s) you need teammates help?
+            - [[Making the right enough [[decision]]]]
+                - What decision has to be made?
+                - Who will be impacted by the decision?
+        - Set a maximum of 3 objectives / agenda
+        - Based on the objectives, invite the right participants
+        - To help your participants to have the right expectation of the meetings, you may want to
+            - Set up questions to participants to prepare
+            - Sent out materials of their references or contexts
+    - ## Right before the meetings
+        - Warm reminder to participants on the prep work needed
+        - Get a timer and set some alarms
+    - ## During the meeting
+        - Be very vigilant on **traveling out of scope**
+        - End anytime when the objectives are reached
+    - ## After the meeting
+        - Allocate time to recap and consolidate in a meeting notes

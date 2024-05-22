@@ -1,0 +1,25 @@
+- 11:30
+    - [[1:1]] with [[Vegas Ho]]
+        - On the soundbite in the exit interview of [[Ronald Kwok]]
+            - Challenge of the company AKA elephant in the room
+                - [[Hema Shah]]
+                    - The disjoint between the assessment of performance of [[Hema Shah]] between leadership team and work level
+                - Unclear product and company strategy
+                - Not enough tech hands-on guidance
+            - {{[[DONE]]}} Come with solution to [[Carmen Yeung]] and [[Tommie Lo]] about how to allocate [[Hema Shah]]
+            - {{[[DONE]]}} New computer for the whole team with more RAM 
+- 16:00
+    - [[Mob programming]] with [[Ehsan Ayaz]] [[Moses Ngan]] [[Ben Cheng]]
+        - [[Ehsan Ayaz]] is not participating enough
+            - Need to find the best way to engage him
+        - [[Moses Ngan]] is very defensive
+            - Symptoms
+                - Always blame others / previous developers
+                - "I don't know how to ..."
+                - "Can I ..."
+                - "Should I ..."
+                - Describe problems without a solution
+        - I am impatient and showing it.
+            - I am not pleased by both of them
+                - [[Ehsan Ayaz]] is too reserved
+                - [[Moses Ngan]] is too defensive

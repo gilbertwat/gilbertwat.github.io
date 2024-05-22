@@ -1,0 +1,1 @@
+- Epic is a [[Scrum]] concept that I borrowed to record some sizable deliverables in my work and personal life. Epic is a small sized project that requires 2-6 man weeks to complete.

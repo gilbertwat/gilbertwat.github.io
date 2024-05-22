@@ -1,0 +1,7 @@
+- #[[05 2023]]
+- 
+- {{[[ARCHIVED]]}}  Follow up with [[Bonny Sun]] on the life insurance
+- {{[[ARCHIVED]]}}  Work on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]
+- New idea on organizing the list of delegation in here
+    - 
+- 13:00

@@ -1,0 +1,4 @@
+- https://www.nasdaq.com/market-activity/stocks/pins/advanced-charting?timeframe=YTD
+- #[[[[Stock]] Predictions]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FJsSbmUhzuz.png?alt=media&token=65e6f440-d246-45db-9b7f-22f1acb00da8)
+    - See 65 USD?

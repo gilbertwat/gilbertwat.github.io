@@ -1,0 +1,143 @@
+- Metadata:
+    - Start Date: [[July 15th, 2022]]
+    - Author: [[Milan Kundera]]
+    - Status: [[read]]
+    - Topics
+        - #novel #philosophy 
+- Notes:
+    - Page 3		But because they deal with something that will not return, the bloody years of the Revolution have turned into mere words, theories, and discussions, have become lighter than feathers, frightening no one.
+    - Page 5		The heaviest of burdens is therefore simultaneously an image of life’s most intense fulfilment. The heavier the burden, the closer our lives come to the earth, the more real and truthful they become.
+    - Page 7		He had a sudden clear feeling that he would not survive her death. He would lie down beside her and want to die with her.
+    - Page 7		We can never know what to want, because, living only one life, we can neither compare it with our previous lives nor perfect it in our lives to come.
+    - Page 8		Einmal ist keinmal,
+    - Page 9		He had acted against his principles.
+    - Page 10		Again it occurred to him that Tereza was a child put in a pitch-daubed bulrush basket and sent downstream.
+    - Page 11		Why should he feel more for that child, to whom he was bound by nothing but a single improvident night, than for any other?
+    - Page 11		What a question to ponder
+    - Page 11		Tomas desired but feared them.
+    - Page 12		He was not always understood.
+    - Page 13		after making love he had an uncontrollable craving to be by himself; waking in the middle of the night at the side of an alien body was distasteful to him, rising in the morning with an intruder repellent; he had no desire to be overheard brushing his teeth in the bathroom, nor was he enticed by the thought of an intimate breakfast.
+    - Page 13		he began to sense an aura of hitherto unknown happiness emanating from them.
+    - Page 14		Tomas came to this conclusion: making love with a woman and [[sleep]]ing with a woman are two separate passions, not merely different but opposite. Love does not make itself felt in the desire for copulation (a desire that extends to an infinite number of women) but in the desire for shared [[sleep]] (a desire limited to one woman).
+    - Page 17		All women were potential mistresses for Tomas, and she feared them all.
+    - Page 18		All languages that derive from Latin form the word ‘compassion’ by combining the prefix meaning ‘with’ (com-) and the root meaning ‘suffering’ (Late Latin, passio).
+    - Page 21		He was caught in a trap: even on his way to see them, he found them distasteful, but one day without them and he was back on the phone, eager to make contact.
+    - Page 24		‘You’ve been out there risking your life for this country. How can you be so nonchalant about leaving it?’
+    - Page 25		But one thing was clear: the country would have to bow to the conqueror. For ever and ever, it will stutter, stammer, gasp for air like Alexander Dubček.
+    - Page 26		A person who longs to leave the place where he lives is an unhappy person.
+    - Page 27		Tereza and Sabina represented the two poles of his life, separate and irreconcilable, yet equally appealing.
+    - Page 29		The future was again a secret. He was on his way back to the bachelor life, the life he had once felt destined for, the life that would let him be what he actually was.
+    - Page 39		Staring at herself for long stretches of time, she was occasionally upset at the sight of her mother’s features in her face.
+    - Page 41		When she realized she had lost everything, she initiated a search for the culprit.
+    - Page 41		The only person who belonged to her and had no means of escape, the hostage who could do penance for all the culprits, was Tereza.
+    - Page 41		If a mother was Sacrifice personified, then a daughter was Guilt, with no possibility of redress.
+    - Page 42		She yearned for something higher, but in the small town there was nothing higher for her.
+    - Page 44		Now we can better understand the meaning of Tereza’s secret vice, her long looks and frequent glances in the mirror.
+    - Page 44		It was a battle with her mother. It was a longing to be a body unlike other bodies, to find that the surface of her face reflected the crew of the soul charging up from below.
+    - Page 50		That night, she had slept in a cheap hotel. In the morning, she carried her heavy suitcase to the station, left it there, and roamed the streets of Prague the whole day with Anna Karenina under her arm.
+    - Page 51		Remember The time when i was young...
+    - Page 53		Back at home, after some prodding from Tereza, he admitted that he had been jealous watching her dance with a colleague of his. ‘You mean you were really jealous?’ she asked him ten times or more, incredulously, as though someone had just informed her she had been awarded a Nobel Prize.
+    - Page 53		Before long, unfortunately, she began to be jealous herself, and Tomas saw her jealousy not as a Nobel Prize, but as a burden, a burden he would be saddled with until not long before his death.
+    - Page 56		Anyone whose goal is ‘something higher’ must expect some day to suffer vertigo. What is vertigo? Fear of falling? Then why do we feel it even when the observation tower comes equipped with a sturdy handrail? No, vertigo is something other than the fear of falling. It is the voice of the emptiness below us which tempts and lures us, it is the desire to fall, against which, terrified, we defend ourselves.
+    - Page 62		Instead of smoking, flattering, pleading, he would issue a command, issue it abruptly, unexpectedly, softly yet firmly and authoritatively, and at a distance: at such moments he never touched the woman he was addressing.
+    - Page 69		She felt attracted by their weakness as by vertigo. She felt attracted by it because she felt weak herself.
+    - Page 69		Weak and being an underdog is comfortable for me. I am afriad of winning
+    - Page 71		Being in a foreign country means walking a tightrope high above the ground without the net afforded a person by the country where he has his family, colleagues, and friends, and where he can easily say what he has to say in a language he has known from childhood.
+    - Page 71		But when the strong were too weak to hurt the weak, the weak had to be strong enough to leave.
+    - Page 73		Her first thought was that he had come back because of her; because of her, he had changed his destiny. Now he would no longer be responsible for her; now she was responsible for him.
+    - Page 78		How could he be so unsure of himself with her?
+    - Page 80		All lovers unconsciously establish their own rules of the game, which from the outset admit no transgression.
+    - Page 84		The bowler hat was a motif in the musical composition that was Sabina’s life.
+    - Page 84		but although they had a clear understanding of the logical meaning of the words they exchanged, they failed to hear the semantic susurrus of the river flowing through them.
+    - Page 85		To rebel against being born a woman seemed as foolish to her as to take pride in it.
+    - Page 85		in his eyes, signify one of the two human sexes; it represented a value. Not every woman was worthy of being called a woman.
+    - Page 86		No. His mother. It would never have occurred to him to say he respected the woman in his mother. He worshipped his mother and not some woman inside her. His mother and the Platonic ideal of womanhood were one and the same.
+    - Page 86		The day his father left, Franz and his mother went into town together, and as they left home Franz noticed that her shoes did not match.
+    - Page 86		Sosad
+    - Page 87		Betrayal. From tender youth we are told by father and teacher that betrayal is the most heinous offence imaginable. But what is betrayal? Betrayal means breaking ranks. Betrayal means breaking ranks and going off into the unknown. Sabina knew of nothing more magnificent than going off into the unknown.
+    - Page 87		Communism was merely another father, a father equally stria and limited, a father who forbade her love
+    - Page 87		Is it that secretly i want to be close to my father leads to my reluctant to leave?
+    - Page 90		Perhaps that was what motivated Sabina’s distaste for all extremism. Extremes mean borders beyond which life ends, and a passion for extremism, in art and in politics, is a veiled longing for death.
+    - Page 91		In the safety of emigration, they all naturally came out in favour of fighting. Sabina said: ‘Then why don’t you go back and fight?’
+    - Page 95		And so as long as he lived in Paris, he took part in every possible demonstration. How nice it was to celebrate something, demand something, protest against something; to be out in the open, to be with others.
+    - Page 96		She liked the slogans, but to her surprise she found herself unable to shout along with them. She lasted no more than a few minutes in the parade.
+    - Page 96		the image of that evil was a parade of people marching by with raised fists and shouting identical syllables in unison.
+    - Page 97		This is why our 71 march is so good there is unity until the pressure is sky high.
+    - Page 97		‘Beauty in the European sense has always had a premeditated quality to it. We’ve always had an aesthetic intention and a long-range plan.
+    - Page 98		‘Unintentional beauty. Yes. Another way of putting it might be “beauty by mistake”. Before beauty disappears entirely from the earth, it will go on existing for a while by mistake. “Beauty by mistake” – the final phase in the history of beauty.’
+    - Page 98		Sabina was very much attracted by the alien quality of New York’s beauty. Franz found it intriguing but frightening; it made him feel homesick for Europe.
+    - Page 98		How can you make love woth a partner that cannot communicate?
+    - Page 99		Sabina protested. She said that conflict, drama, and tragedy didn’t mean a thing; there was nothing inherently valuable in them, nothing deserving of respect or admiration. What was truly enviable was Franz’s work and the fact that he had the peace and quiet to devote himself to it.
+    - Page 99		It depends on your choice of narrative.
+    - Page 99		First he sympathized with Cuba, then with China, and when the cruelty of their regimes began to appal him, he resigned himself with a sigh to a sea of words with no weight and no resemblance to life.
+    - Page 99		Is this Milan Kundera's self depiction
+    - Page 100		The trouble was that Sabina had no love for that drama. The words ‘prison’, ‘persecution’, ‘banned books’, ‘occupation’, ‘tanks’ were ugly, without the slightest trace of romance.
+    - Page 100		I too. There is nothing to be romance by it.
+    - Page 100		peace always reigns in the cemetery.
+    - Page 100		How can we find peace
+    - Page 106		‘The poor had to stand, while the rich had stalls,’ said Sabina, pointing to them. ‘But there was something that bound the bankers to beggars: a hatred of beauty.’
+    - Page 106		The only people in the pews were old men and old women, because they did not fear the regime. They feared only death.
+    - Page 107		From that time on she had known that beauty is a world betrayed. The only way we can encounter it is if its persecutors have overlooked it somewhere. Beauty hides behind the scenes of the May Day parade. If we want to find it, we must demolish the scenery.
+    - Page 108		Franz would never give Sabina orders. He would never command her, as Tomas had, to lay the mirror on the floor and walk back and forth on it naked.
+    - Page 108		Not that he lacks sensuality; he simply lacks the strength to give orders. There are things that can be accomplished only by violence. Physical love is unthinkable without violence.
+    - Page 109		Having a public, keeping a public in mind, means living in lies. Sabina despised literature in which people give away all kinds of intimate secrets about themselves and their friends. A man who loses his privacy loses everything, Sabina thought. And a man who gives it up of his own free will is a monster. That was why Sabina did not suffer in the least from having to keep her love secret. On the contrary, only by doing so could she live in truth.
+    - Page 109		Franz, on the other hand, was certain that the division of life into private and public spheres is the source of all lies: a person is one thing in private and something quite different in public.
+    - Page 111		Everyone would follow the process from a greater or lesser distance, and she would be forced to play-act before them all; instead of being Sabina, she would have to act the role of Sabina, decide how best to act the role.
+    - Page 117		And so within an amazingly short period the backdrop of his life had changed completely.
+    - Page 118		No. Her drama was a drama not of heaviness but of lightness. What fell to her lot was not the burden but the unbearable lightness of being.
+    - Page 119		She could not get over the news. The last link to her past had been broken.
+    - Page 128		They were meant to prove not merely that émigrés had bad things to say about the Soviet Union (which neither surprised nor upset anyone in the country), but that they call one another names and make free use of dirty words.
+    - Page 128		Diu history repeats 
+    - Page 132		that perverse need one has to expose one’s ruins, one’s ugliness, to parade one’s misery, to uncover the stump of one’s amputated arm and force the whole world to look at it.
+    - Page 132		Is that living in truth
+    - Page 132		A concentration camp is the complete obliteration of privacy.
+    - Page 135		A question with no answer is a barrier that cannot be breached. In other words, it is questions with no answers that set the limits of human possibilities, describe the boundaries of human existence.)
+    - Page 135		Tereza stood bewitched before the mirror, staring at her body as if it were alien to her, alien and yet assigned to her and no one else. She felt disgusted by it.
+    - Page 145		One of the assistants went up to Tereza; he was holding a dark-blue ribbon.
+    - Page 145		Wtf?!
+    - Page 149		‘But it wasn’t my choice!’
+    - Page 149		The body that had betrayed her and that she had sent out into the world among other bodies.
+    - Page 150		In the light of the incredible, the soul for the first time saw the body as something other than banal; for the first time it looked on the body with fascination:
+    - Page 154		Did her adventure with the engineer teach her that casual sex has nothing to do with love? That it is light, weightless? Was she calmer now?
+    - Page 154		Tereza knew what happens during the moment love is born: the woman cannot resist the voice calling forth her terrified soul; the man cannot resist the woman whose soul thus responds to his voice. Tomas had no defence against the lure of love, and Tereza feared for him every minute of every hour.
+    - Page 164		She was afraid of Tomas. He was too strong for her; she was too weak. He gave her commands that she could not understand; she tried to carry them out, but did not know how.
+    - Page 169		she lay in his bed and he stood over her, he had the irrepressible feeling that she was a child who had been put in a bulrush basket and sent downstream to him.
+    - Page 169		Same feeling
+    - Page 173		In a society run by terror, no statements whatsoever can be taken seriously. They are all forced, and it is the duty of every honest man to ignore them.
+    - Page 174		That was the first thing that struck him: although he had never given people cause to doubt his integrity, they were ready to bet on his dishonesty rather than on his virtue.
+    - Page 181		It is a tragicomic fact that our proper upbringing has become an ally of the secret police. We do not know how to lie. The ‘Tell the truth!’ imperative drummed into us by our mamas and papas functions so automatically that we feel ashamed of lying even to a secret policeman during an interrogation. It is simpler for us to argue with him or insult him (which makes no sense whatever) than to lie to his face (which is the only thing to do).
+    - Page 186		Leaving Zürich for Prague a few years earlier, Tomas had quietly said to himself, ‘Es muss sein!’ He was thinking of his love for Tereza. No sooner had he crossed the border, however, than he began to doubt whether it actually did have to be.
+    - Page 187		Insofar as it is possible to divide people into categories, the surest criterion is the deep-seated desires that orient them to one or another lifelong activity.
+    - Page 187		What is my desire?
+    - Page 188		desired to avoid further contact with the police and the concomitant feeling of helplessness.
+    - Page 189		It is my feeling that Tomas had long been secretly irritated by the stern, aggressive, solemn ‘Es muss sein!’ and that he harboured a deep desire to follow the spirit of Parmenides and make heavy go to light.
+    - Page 190		So much the worse for him. Internal imperatives are all the more powerful and therefore all the more of an inducement to revolt.
+    - Page 190		This was the first time he had felt that blissful indifference.
+    - Page 194		Men who pursue a multitude of women fit neatly into two categories. Some seek their own subjective and unchanging dream of a woman in all women. Others are prompted by a desire to possess the endless variety of the objective female world.
+    - Page 194		Jordan PetersoN reference herr
+    - Page 202		Tereza occupied his poetic memory like a despot and exterminated all trace of other women.
+    - Page 228		‘No.’ She shook her head. ‘There’s nothing wrong.’
+    - Page 228		Mo yeah
+    - Page 233		Let us suppose that such is the case, that somewhere in the world each of us has a partner who once formed part of our body. Tomas’s other part is the young woman he dreamed about. The trouble is, man does not find the other part of himself. Instead, he is sent a Tereza in a bulrush basket. But what happens if he nevertheless later meets the one who was meant for him, the other part of himself? Whom is he to prefer? The woman from the bulrush basket or the woman from Plato’s myth?
+    - Page 233		Ideal or real?
+    - Page 238		Stalin’s son laid down his life for shit. But a death for shit is not a senseless death. The Germans who sacrificed their lives to expand their country’s territory to the east, the Russians who died to extend their country’s power to the west – yes, they died for something idiotic, and their deaths have no meaning or general validity. Amid the general idiocy of the war, the death of Stalin’s son stands out as the sole metaphysical death.
+    - Page 238		What to die for?
+    - Page 242		Sabina’s initial inner revolt against Communism was aesthetic rather than ethical in character. What repelled her was not nearly so much the ugliness of the Communist world (ruined castles transformed into cow sheds) as the mask of beauty it tried to wear – in other words, Communist kitsch. The model of Communist kitsch is the ceremony called May Day.
+    - Page 244		The feeling induced by kitsch must be a kind the multitudes can share. Kitsch may not, therefore, depend on an unusual situation; it must derive from the basic images people have engraved in their memories: the ungrateful daughter, the neglected father, children running on the grass, the motherland betrayed, first love.
+    - Page 280		So they sought people who wished to get back at life for something, people with revenge on the brain. Then they had to focus, cultivate, and maintain those people’s aggressiveness, give them a temporary substitute to practise on. The substitute they lit upon was animals.
+    - Page 280		Same here
+    - Page 286		An old thought came back to her: Her home was Karenin, not Tomas. Who would wind the clock of their days when he was gone? Transported mentally into the future, a future without Karenin, Tereza felt abandoned.
+    - Page 287		She knew she was being unfair (the dog was not a[[sleep]]); she knew she was acting like the most vulgar of women, the kind that is out to cause pain and knows how.
+    - Page 287		Probably need to understand why she is doing that to me.
+    - Page 289		It is a completely selfless love: Tereza did not want anything of Karenin; she did not ever ask him to love her back. Nor had she ever asked herself the questions that plague human couples: Does he love me? Does he love anyone more than me? Does he love me more than I love him?
+    - Page 289		Perhaps all the questions we ask of love, to measure, test, probe, and save it, have the additional effect of cutting it short.
+    - Page 292		His look of awful trust did not last long; he soon laid his head back down on his paws. Tereza knew that no one ever again would look at her like that.
+    - Page 292		How doess Theodore looks at me?
+    - Page 305		‘Missions are stupid, Tereza. I have no mission. No one has. And it’s a terrific relief to realize you’re free, free of all missions.’
+- Questions:
+    - What is the context when I am in when reading this book?
+    - What is my notes in this book?
+    - What is my overall impression in this book?
+    - What blows my mind in this book?
+    - What is my strongest feelings in this book?
+    - What is my strongest disagreement in this book?

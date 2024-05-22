@@ -1,0 +1,19 @@
+- 10:30
+    - Discussion on recommended courses design
+        - Observation on [[Moses Ngan]]
+            - need to think if the problems worth solve or not
+                - principle
+- 11:00
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - Not challenged enough
+                - {{[[DONE]]}}  Will circle back on [[November 8th, 2022]] Finished at 18:49 [[November 16th, 2022]]
+        - What is my top of my mind since our last 1:1?
+            - Not much
+- 13:00
+    - [[Vegas Ho]] on the team dynamics
+        - https://docs.google.com/document/d/1h2sBxmBPq9NDzrjFjSK30eS9Iow0zduFZjKr1lQoLI0/edit
+- Working on {{[[DONE]]}}  Make sure the project has no security and privacy concerns Finished at 09:59 [[November 7th, 2022]]
+- 

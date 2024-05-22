@@ -1,0 +1,22 @@
+- [[books]] [[[[books]]: Disunited Nations]]
+    - How did we build empire
+        - Continuity
+        - Economic of Scale
+        - Border of the Empire: Cannon fodders
+    - Empire -> Order
+        - USA
+            - Reconstruction reintegration of South into North
+            - End of WW2, strongest navy in the world
+                - Champion of stability
+                - Protect trade and "democracy"
+    - Order -> Order without border
+        - Free protection from US for its "market"
+        - No grand strategy from USA
+        - Free trade = bride
+        - US is very economically isolated from its "allies"
+        - WTO aim to continue this "Bretton Woods system" but failed
+        - Donald Trump is just the figure head
+        - Pros:
+            - The orders provide essentially everything in this world
+    - Order without border -> global Disorder with US overwatch
+        - How to build an empire: US version

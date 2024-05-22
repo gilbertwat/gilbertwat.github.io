@@ -1,0 +1,104 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- 🌅 Morning Mood
+    - {{slider}}
+        - Fucking CCP is being sanctioned. Hurray!
+- ((22yK4qEt6))
+    - {{[[DONE]]}} [[daydaycode.io]] Today
+        - Learn #Clojure and fingerless whistling to pick up the learning brain
+            - Experienced with non-experience is very different
+                - Complete newbie
+                    - Harder to grasp new concepts
+                - newbie with experience in adjacent fields
+                    - Easier
+            - What kind of experience is differ too
+                - Say clojure parameter
+                    - `[name1, name2]`
+                    - If I don't understand vector i am stuck
+                - Say clojure `->` and `->>` threading macro
+                    - If don't understand do notation I am stuck
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]] Chapter 4
+        - Continuous Delivery
+            - Build quality in
+                - Work in small batches
+            - #Quotes computers perform repetitive tasks; people solve problems.
+            - Transparency to the whole company
+            - Comprehensive configuration management
+            - Possible to provision env and build, test deploy in a fully automated fashion purely from information stored in version control
+            - Manual approvals
+            - Automatically apply to production
+            - < 1 days of work in feature branches
+            - Testing through Automated unit and acceptance tests for every commit.
+            - Test perform exploratory testing continuously against the latest builds to come out of CI
+            - Capabilities
+                - Version Control
+                    - App Code
+                    - System configuration
+                    - application configuration
+                    - build and configuration script
+                - Comprehensive testautomation
+                    - reliable, easy to fix, runs regularly
+                - Deployment automation
+                    - CI
+                - Shift left on security
+                - Trunk based development
+                - Effective test data management
+                - Loosely Coupled Architecture
+                - Empowered Team
+                - Monitoring 
+                - Proactive Notification
+            - {{mermaid}}
+                - graph LR
+                    - cd[Continuous Delivery]
+                    - lm[Lean Management]
+                    - lr[Less Rework]
+                    - cp[Westrum Organization Culture]
+                    - sdp[Software Delivery Performance]
+                    - op[Organizational Performance]
+                    - i[Identity]
+                    - ldp[Less Deployment Pain]
+                    - lb[Less Burnout]
+                    - cp --> sdp
+                    - cp --> op
+                    - cd --> cp
+                    - cd --> ldp
+                    - cd --> lb
+                    - lm --> cp
+                    - cd --> i
+                    - cd --> lr
+                    - i --> op
+                    - sdp --> op
+            - Make developer proud of their work 
+            - Quality is value to some person
+                - perceived quality and performance of application
+                - percentage of time spent on rework / unplanned work 🌟
+                - percentage of time spent working on defects identified by end users
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Fwld5gGZ9gZ.png?alt=media&token=7e63df65-96e3-4442-a9a7-fff6496f8200)
+            - What works and what doesn't
+                - Version Control
+                    - need to version control everything
+                        - application code
+                        - application configurations
+                        - system configurations
+                    - Keeping configurations in version control is more correlated to delivery performance than application code
+                - Test Automation
+                    - Reliable automated tests
+                    - Developers create and maintain acceptance tests
+                        - If maintain by QA / outsource. No use at all.
+                - Test data
+                    - adequate test data to run all automated tests on demand
+                - Trunk based development
+                - Information security
+                    - Security measure is integrated
+                - Adopting CD
+                    - Legacy code
+    - {{{[[DONE]]}}}} [[[[Retrospective]] of [[2020 Week 33]]]] 
+    - 
+        - 
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

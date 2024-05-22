@@ -1,0 +1,7 @@
+- [[[[Preface]] [[NFT]]]]
+    - Bus factor is 1 now 
+- [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+- [[[[Preface]] [[product]]: website]]
+- [[[[Preface]] [[product]]: Coffee App]]
+    - Parked project
+- [[Preface]] 

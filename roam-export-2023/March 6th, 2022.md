@@ -1,0 +1,39 @@
+- [[Wifey]] is still in mild fever.
+- 02:00 - 03:17
+    - [[Theodore]] 
+        - diaper poop and pee, drink 120ml
+- 05:17 - 06:20
+    - [[Theodore]] 
+        - drink 70ml 
+        - no diaper change
+- 07:15 - 10:00 
+    - [[Theodore]]
+        - drink 90ml
+        - drink 30ml
+        - drink 30ml
+        - drink 20ml
+        - wet diaper x 2
+        - Feeding spree
+        - Quite exhausting
+- 11:30
+    - [[Theodore]]
+        - drink 90ml
+        - wet diaper
+- 13:45
+    - [[Theodore]]
+        - drink ~90ml
+        - stool diaper
+- 15:20
+    - [[Theodore]]
+        - drink ~30ml
+        - wet diaper
+- 16:45
+    - [[Theodore]]
+        - drink 90ml
+        - stool diaper
+- 19:38
+    - [[2022]] [[goals]]
+    - [[[[Preface]] [[[[2022]] Q1]] [[OKR]]s]]
+    - What is the plan for next week?
+        - In [[[[Week 11]] of [[2022]]]], I plan to ...
+        - 

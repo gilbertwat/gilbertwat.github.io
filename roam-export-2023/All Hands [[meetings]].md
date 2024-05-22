@@ -1,0 +1,2 @@
+- This is a meeting to celebrate good news about everyone, creating good vibe and rally the troop and deliver the bad news with the least surprise.
+- A way to [[managing down]].

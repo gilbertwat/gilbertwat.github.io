@@ -1,0 +1,33 @@
+- 09:30
+    - Work on the [[[[Preface]] [[product]]: Customer Portal]] 
+        - {{[[DONE]]}} Design and direct [[UX]] research for [[Ken Chow]]
+        - {{[[DONE]]}} Design and direct [[[[product]] requirement document]] for [[Anna Yu]]
+- 11:00
+    - [[1:1]] [[Cheryl Lai]] #[[foundation activity]]
+        - Walk through a session for task design and breakdown
+- 11:30
+    - [[1:1]] [[Jeffy Fung]] #[[foundation activity]]
+        - Walk through the requirements of the next presentation
+- 12:30
+    - [[1:1]] with [[Ben Cheng]] #[[foundation activity]]
+        - Walk through [[Ehsan Ayaz]] issue
+            - A bit unresponsive to coaching
+            - Focus on the "do" and "execute" instead of philosophical or theoretical debates
+- 14:00
+    - [[1:1]] with [[Anna Yu]] #[[foundation activity]]
+- 14:30
+    - [[1:1]] with [[Moses Ngan]] #[[foundation activity]]
+- 15:30
+    - [[1:1]] with [[Alexander Li]] #[[foundation activity]] #[[draining activity]]
+        - Has a session of understanding his frustration on promotion
+            - there is no guarantee
+- 16:30
+    - design sync up with [[Ken Chow]] on [[[[Preface]] Seamless Buy Link]] [[[[UI]]/[[UX]]]] #[[draining activity]]
+        - {{embed-path: ((j3nJN6VVP))}}
+- 17:00
+    - kick off meeting for [[[[Preface]] Seamless Buy Link]] #[[foundation activity]]
+        - {{[[DONE]]}}  Confirm MVP scope
+            - [[[[Preface]] Annual Pass]] only
+        - {{[[DONE]]}}  Confirm can we ship on [[September 10th, 2022]]
+- 22:39
+    - Idea of a DAO focused wallet #[[transformative activity]]

@@ -1,0 +1,8 @@
+- [[Metrics]] can be a very good way to build [[Trust]] in oneself, among teammates and outside the team.
+- If you have more than one team, the measuring and tracking of performance can build [[Trust]] among different teams.
+- [[goals]] must be crystal clear.
+- Crystal clear is a [[subjective]] matter. 
+- [[Metrics]] can be [[subjective]] too.
+- Defining [[Metrics]] can be too micromanage sometime.
+- Defining [[Metrics]] can be ambiguous too.  
+- Ambiguous [[Metrics]] usually comes from people who come from different background and define the [[Metrics]] differently.

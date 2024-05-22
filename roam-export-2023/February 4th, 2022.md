@@ -1,0 +1,93 @@
+- 09:00 
+    - [[1:1]] [[Tommie Lo]]
+        - CTO top of his mind
+            - morale hit for coffee app not delivering to customers
+            - Solana
+                - theft
+                - Solana BonFida incident
+            - bunch.ai research
+            - coursera find course 49 USD business model
+        - CEO top of his mind
+            - membership ideation
+                - tweet personalization
+                - health personalized coffee
+            - Agree to hide scripting in coffee app #decided
+                - api already integrated for if else
+            - train barrister to be tech savvy
+            - {{[[DONE]]}} To fix the system issues, start from both the public facing component AND also the data layer
+            - {{[[DONE]]}} Strategic positioning of investment in other department
+- [[->]] [[Moses Ngan]] to strike a common format for tickets in Clickup to do data business sensitive operations with [[Ellen Lau]]
+    - Cancelling schedule is now through ticketing system.
+- [[[[Preface]] membership scheme]] challenges
+    - [https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FP5xQ69RjwF.Feb4_Preface2.0.pdf.icloud?alt=media&token=fc38ab9f-2791-49b7-bf10-9a708343c5d3](Presentation from [[Tommie Lo]])
+    - Application of knowledge you've learned from [[Preface]]
+    - NFT-related problem
+        - What if the NFT holder transferred ownership?
+            - current membership status is transfer
+                - implication related to Promotion set points to zero
+        - Do you want to update the PFP when the grading is changed?
+    - Rules challenges
+        - Who is a member?
+            - We are decoupling `student` and `member`, there is a way a `student` is NOT a `member` but a report of a `member`
+            - parents can enjoy kids' perks?
+            - {{[[DONE]]}} [[Preface]] Expiration Date handling of transfer of ownership [[->]] [[Tommie Lo]]
+                - Connect to What is the cadence of calculating the tier of a member?
+            - If we treat 1 `student` as 1 `member`
+                - Implication
+                    - [[Preface]] The transfer of membership status?
+            - If we treat 1 `paying customer` as 1 `member`
+                - Implication
+                    - 
+        - What is the algorithm of calculating a `learning hour`?
+            - 1:1
+            - Bootcamp
+            - Regular class
+            - Workshop
+        - What is the process if the rules need to be changed?
+            - Manually now
+        - What is the cadence of calculating the tier of a member?
+            - Online?
+            - per day / week / month / quarter / year?
+        - Tiers
+            - Proof of work (in learning hours)
+            - Promotion set points to zero
+            - Blue
+                - Generic tech news
+                - execute
+            - Silver
+                - Industry news
+                - execute
+            - Gold
+                - X & Learn (community learning experience)
+                - Personalized news
+                - Lead and invest
+            - Diamond
+                - Name a topic and we source expert for you
+                - Lead and invest
+- [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] current positioning
+    - We are using it as
+        - public website
+            - Hosting
+            - CMS
+        - student portal
+            - scheduling classes (Not very automated)
+                - Cancelling classes
+                - Rescheduling classes
+                - confirm we 
+            - View notes from Curriculum Management System
+        - Nomad "portal"
+            - Read schedule
+            - View notes from Curriculum Management System
+        - Curriculum Management System
+            - CRUD knowledge point
+            - combine Knowledge point into a Content
+            - Content : Course is 1:1
+    - We suppose to have in our ecosystem is
+        - paying customer relationship (Need our effort to consolidate)
+            - Paid?
+            - Credit remaining
+            - Event of credit burning 
+                - {{[[DONE]]}} [[Preface]] How to make sure the credit is burned in the right time without human intervention?
+    - Where we want to go?
+- ETH challenges
+- https://graphite.space/ #tools [[[[product]] design]]

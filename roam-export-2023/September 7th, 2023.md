@@ -1,0 +1,15 @@
+- [[September 7th, 2023]] at 09:33
+    - [[ideas]] VSCode theme like Winamp
+- [[ideas]] Why we are doing the personal assistant on course outline in [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - Lead-Gen
+    - Scale to global
+    - connect with Preface nomad ecosystem.
+- [[ideas]] website auditing
+    - Given your website content and stuff
+    - Given your FAQ
+    - Does it match
+    - Does it do SEO properly
+    - Suggestion on how to improve and what is the content to be replace.
+- {{[[TODO]]}} [[writings]] What is some latest web development trend?
+    - the semantic html tag is getting even more important on new consumption model.
+- {{[[DONE]]}}  [[writings]] [[SOP for blog upload [[Preface]]]]

@@ -1,0 +1,6 @@
+- Author:: [[Sasha Chapin]]
+- Full Title:: I Asked Cate How She Does So Much (Former Top...
+- Category:: #articles
+- URL:: https://x.com/sashachapin/status/1702218793966293117?s=12&t=uxArM9ACRONWpV4tjI3W8g
+- ### Highlights first synced by #Readwise [[September 14th, 2023]]
+    - I ask, what is likely to make the thing I want happen ([View Highlight](https://read.readwise.io/read/01ha9rqwcdcfp7qs6n1zabs2ez))

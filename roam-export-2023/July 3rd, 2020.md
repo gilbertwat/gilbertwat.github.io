@@ -1,0 +1,13 @@
+- How do you feel when you wake up?
+    - Overwhelmed and exhausted
+- [[[[1:1]] with [[Chetan Pewar]]]]
+    - COVID-19 situation sync
+    - Sharing roadmap briefly
+        - Rails Driver Apps
+            - APIs is not optmized
+        - Customer feedback system (KPI)
+        - Messagebird
+        - KakaoTalk
+        - Test Coverage 65%
+    - Challenges
+    - Propose a more spares sync up schedule (maybe 4 weeks)?

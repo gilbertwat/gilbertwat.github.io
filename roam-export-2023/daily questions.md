@@ -1,0 +1,7 @@
+- Do I find out what's trigger the [[high-grade [[emotions]]]] of oneself?
+- When I am building [[product]] and doing [[manager]], do I widen the [[moat]]?
+- What is the best [[ROI]] work that I can work on?
+- How to build a product management community in Hong Kong?
+- Why are people checking our [[[[Preface]] [[product]]: Customer Portal]] daily / weekly / periodically ?
+- Why do people want to listen to me?
+- How will AI-assisted generative tools affected our workflow?

@@ -1,0 +1,30 @@
+- **Post Mortem 4**
+- We accumulate artifacts in Github Actions and it costs us 5x in subscribing to Github.
+- # Summary of the incident
+    - In our revamp of our preface.ai website, a Github Action is introduced to combine old Ruby on Rails internal portal with the new next.js static site, so that we can deploy them in the same Heroku project. The Github Action has a bug that accumulates unused artifacts when it is failed. We use up more and more storage and we need to subscribe to the enterprise plan of Github. But the storage bloat doesn’t stop. Tech team found it out and have resolved the issue. We can downgrade our plan in Github.
+- # Timeline of key events
+    - 09:30 Tech team discovered we are using Github Enterprise plan.
+    - 11:30 A further investigation found out we are using 60GBs of Github Actions Storage on Artifact
+    - 15:30 A further investigation found out we are also exceeding the limit of Github Actions Storage on Artifact in Github Enterprise plan (50GB).
+    - — Next Day —
+    - 09:30 A further investigation found that there is a bug in the Github Action that compiles our preface.ai website to a set of ruby erb files. The bug doesn’t remove unused artifacts when the Github Action has failed.
+    - 13:30 A script is written to remove all unused artifacts from Github.
+- # Key metrics
+- ## Time to Recovery
+    - 4-5 months
+- # Business Impact
+    - We are paying more than we need for Github subscriptions: 210USD/user/year vs 40USD/user/year.
+- # Why is it happening?
+    - The Github Action has had a bug that didn’t remove the unused artifacts.
+    - The accumulation of artifacts was not noticed by our tech team until one of our teammates started to investigate it.
+    - It is not noticed because we didn’t set up alerts when one of our crucial subscription is reaching the limits.
+- # Prevention & Mitigation
+- ## Short term (< 3months)
+    - Quick fixed our Github Action script
+    - Retire Github Action through [[[[[[Preface]] [[product]]: website]] migration]]
+- ## Long term (> 3 months)
+    - None
+- # References
+    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FCjxq1YxtUN.mp4?alt=media&token=a8a60432-07d1-4477-9feb-40728631b8ba}}
+    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FMY-Z2IKypW.mp4?alt=media&token=e5762583-4b9f-4bf6-86df-2da9e5c69cbc}}
+    - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FouZh5ITbl-.mp4?alt=media&token=d3009619-7226-4402-940a-6cd70161fefe}}

@@ -1,0 +1,20 @@
+- Lead Web Team from [[[[2020]] Q2]]
+    - Achievement
+        - [[[[2020]] Q2]]
+            - Ship numerous features in [[[[GOGOX]] GOGODelivery Theme]] [[[[GOGOX]] Business Experience Theme]]
+            - Help resolve QA issues
+        - [[[[2020]] Q3]]
+            - Ship numerous features
+            - Ship Public API with [[[[GOGOX]] Business Experience Theme]] support
+            - Help resolve QA issues
+    - Suggestion on leveling up
+        - Continue the good work on keeping a good relationship with product managers
+        - Continue the good work on setting up an example for empathy and care to the team
+        - Continue the good work on reminding the team on fundamentals about team building and team dynamics
+        - Continue the good work on holding extra groups to enhance communication and bonding between teammates
+        - Continue creating the good vibe of discussion within web dev
+        - Continue the good work on sharing concerns about new assignments
+        - Stop being stressful about new assignment 
+        - Start adding technology dimensions on how we can improve our products.
+        - Start to keep a journal to build even more self-awareness
+    - Although there is a lot of constraints, you have done your job diligently and meets all expectation when he was promoted to Team Lead. You also have taken a step forward in initiating book club for 2 rounds to improve our vibe in the team. Moving forward I hope you can take up some technical initiatives to level up on technical aspect to level up your career. 😄

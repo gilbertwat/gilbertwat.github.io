@@ -1,0 +1,11 @@
+- To [[Gilbert Wat]] myself
+    - I will be on time and graceful to myself.
+    - I will be exercising 
+- To [[Wifey]] and [[Theodore]]
+    - I will keep them safe.
+    - I will keep them well fed, well sheltered, healthy and well informed.
+- To [[Mum]] and [[Dad]] and [[Grandpa]]
+    - I will keep them happy and have a good relationship with [[Theodore]]
+- To [[Preface]]
+    - I will keep innovating and delivering new solutions
+    - I will help keep our commitment with our customers.

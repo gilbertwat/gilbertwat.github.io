@@ -1,0 +1,11 @@
+- 12:00 - 14:00 {{[[DONE]]}} [[Eason Yim]] lunch on [[September 17th, 2021]]
+    - He is very proud of his achievement
+        - #Feeling #Happy for him!
+- 14:00 [[Interview]]
+    - Revamp
+        - PHP -> Ruby on Rails
+            - Reason: Development time is too long (2 week)
+        - Data migration is the hardest
+            - Foreign keys are too much
+- 14:30 [[Interview]]
+    - MS is easier

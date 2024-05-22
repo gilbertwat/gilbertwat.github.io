@@ -1,0 +1,12 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+- [[[[Preface]] [[product]]: A.I. Coffee 2.0]] on [[Mercendez Benz]] show
+    - {{[[DONE]]}}  Test printer
+    - {{[[DONE]]}}  Test the vertical orientation of LG TV we are using.
+- {{[[DONE]]}} [[[[Preface]] Career Ladder in Tech Team]] discussion with [[Ben Cheng]]
+    - #decision to publicize the career ladder
+        - Need to based on the HR department guidance on [[Five-E Leadership Model]]
+        - Everyone is up to the standard we are 
+- {{[[DONE]]}}  A simple model to help [[Ellen Lau]] to think about [[[[Preface]] School of Technology]] problem
+    - Also a good way to think about [[business]]
+    - Funnel model and channel model to think about [[sales]] and [[marketing]] effort†
+    - Churn model to think about [[quality]] and [[retention]] effort

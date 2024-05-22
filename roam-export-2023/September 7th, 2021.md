@@ -1,0 +1,13 @@
+- 10:00 - 10:30 [[1:1]] with [[Young]]
+    - Not really productive
+- 10:30 - 12:30 Update Backend engineers JD
+- 12:30 - 14:00 Lunch and nap
+- 14:00 - 15:00 [[1:1]] with [[Keith Chan]] on Mobile UI/UX standard
+    - Manpower issues is a mental blockers
+    - How to motivate people to upgrade their output quality?
+        - without good timing
+- 15:00 - 16:30 [[NFT]] craze
+- 16:30 - 17:15 [[1:1]] with [[Leslie Lai]]
+    - Stock
+- 17:15 - 18:30 [[NFT]] craze
+- 22:15 - 22:30 {{[[DONE]]}}  Tweet 1

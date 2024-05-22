@@ -1,0 +1,96 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[othelist]] discussion [[🎯 Major [[decision]]]]
+    - rejected as the team is too green to grow my career.
+    - rejected as the product is too boring and little growth.
+    - rejected as the background of the office is... lifeless.
+- [[Warhammer]] trip
+    - Get scolded by touching a dice.
+    - Seriously WTF?
+    - Get out ASAP
+    - Feel very bad when outside, should trust my feeling.
+    - Bad community
+    - So drained by the experience
+- [[SLA]] discussion
+    - Stakeholder sentiments
+    - Interrupt delivery process
+- #Notes https://hbr.org/2020/07/how-to-actually-change-someones-mind
+    - Topics
+        - #[[☝🏻 Leadership]]
+    - Excerpt
+        - The Cognitive Detractor
+            - The detractor may be opposed to your argument because of an objective 
+- reason. If they’ve clearly articulated a logical set of objections, and 
+- they don’t appear to be hiding ulterior motives, approach them with a 
+- cognitive conversation
+    - sound arguments and good presentation.
+    - The goal is to show the person that, on an objective and factual basis, their initial stance on the situation isn’t as reasonable as your 
+- argument.
+    - The Champion Conversion
+        - When the detractor isn’t easily persuaded through cognitive arguments, 
+- or when they harbor a grievance in your relationship with them, engaging
+    - in debates may be futile.
+        - Don’t jump in and try to convince the other person. Instead, invest time in personally learning about and building rapport with them.
+        - No matter how much of a champion the other person becomes, don’t expect 
+- them to agree with a decision that’s fundamentally illogical.
+    - The Credible Colleague Approach
+        - There are times when the detractor’s deeply-held personal beliefs make them fundamentally opposed to your proposal.
+        - Rather than trying to argue with someone who seems resistant, bring in a
+    - credible colleague. A champion of your position from another part of the organization, whether they are a peer or superior, may be better-suited to convince this detractor.
+        - It’s critical to find the right colleague who can tactfully advocate for your position while maintaining a cordial relationship.
+        - Takeaways 
+            - In any debate, we should first diagnose if the difference contains elements of logical disagreement, personal feud or not close enough relationship.
+            - Logical discussion should be the first response.
+            - Keeping good personal relationship with all parties are essential to get things done.
+            - If all else failed, try to bring a companion who is familiar with the matter and both of the party. 
+- It is the first day in 3-4 weeks I read an article meaningfully
+- #Notes https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e 
+    - Topics
+        - #[[🔢 Software Development]]
+    - Excerpt
+        - The core of Shape Up is about budgets. Not how long is something going to take but what is something worth. Because something could take a week or four months. What is it worth?
+        - If you have a big problem definition and a fixed boundary and you give 
+- creative, intelligent people the freedom to come up with a solution 
+- within those terms, they will do wonderful work they are very proud of.
+    - I’d go even further and say that estimation is bullshit. It’s so 
+- imprecise as to be useless, even when you’re dealing with fixed inputs.
+    - The interest for us in Shape Up is to go far. It’s to end up with 
+- projects that deliver meaningful, large batches of work that customers 
+- and implementers are proud of and happy with.
+    - But the hard work in software is figuring out what it should do, not how to make it work.
+    - To be constantly reevaluating everything you’re doing every two weeks 
+- because that’s when the new sprint cycle starts — it’s going really 
+- fast, nowhere.
+    - Sometimes, the teams that go the fastest are the teams that look very calm. They are not constantly on some methodology treadmill or on some procedural clock that goes ding! ding! ding! every five seconds.
+    - If you work in native app development, which has a balls-up reputation, 
+- maybe six weeks is not enough time. Maybe you need a little more. Or 
+- maybe not. It depends on whether you can ship the things you want to 
+- ship.
+    - Let’s start with the premise. Monolithic software __becoming __so complicated… what is this ‘becoming’? Is this just happening to us? Are we completely innocent bystanders?
+    - How about we center the discussion around why we have the complexity in the first place?
+    - If you are unable to contain the complexity of a monolithic application,
+    - what on earth makes you think you are competent to distribute that 
+- complexity across a fleet of services that now have to interact and deal
+    - with network unreliability, retries, two-phase commits, and all these 
+- other complexities that simply do not exist when you deal with method 
+- calls, parameters, and the basics of running a singular process.
+    - Software in many ways is far closer to the creative process of writing, 
+- game making, movies. Experiences where you design the unknown and you 
+- don’t know whether it’s good or not until you see it.
+    - Engineers are so fucking conflict-shy that they can’t take two people 
+- disagreeing without backing off and going ‘Trade offs! Trade offs! It 
+- depends!’. It’s like crying uncle, which I think is a completely 
+- counterproductive way to learning, to inspiration, to anything.
+    - {{[[DONE]]}}  Takeaways
+        - [[budget]] is essential to any bet.
+        - A fixed budget and a big enough problem is crucial to bring ownership to our developers. 
+        - [[Technical debt]] is created by yourself. Even if you inherit the codebase. Because you choose to inherit the codebase.
+        - The hard work of software is to figure out what should we build, not how we build it.
+        - Complexity comes with a reason.
+- Competitors' roadmap is our changelog. I am putting this up as a #motto.
+- 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

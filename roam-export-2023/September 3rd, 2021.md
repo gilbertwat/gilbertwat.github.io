@@ -1,0 +1,10 @@
+- [[Sleekflow.io]] interview expereience
+- [[Grantits.io]] invoice
+- Gossip: [[Ceci]] doesn't like me as I ask her the metric of the new campaign
+    - She doesn't understand Engineering team need metric to function properly
+        - Context matters.
+- [[[[books]]: The Laws of Human Nature]] Ch.7
+- Got into a fight with [[Dad]]
+- Chat with [[Feiko Lai]] [[Dominic Wong]]
+    - [[decision]] reject their invitation to join their projects
+    - 

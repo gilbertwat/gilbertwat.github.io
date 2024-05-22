@@ -1,0 +1,45 @@
+- [[[[2022]] Week 37]] Goals
+    - [[Preface]]
+        - shipping
+            - {{[[DONE]]}} [[Alexander Li]] will ship v1 first on [[September 9th, 2022]] -> [[September 16th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+        - #hiring
+            - {{[[DONE]]}} Get the #design [[[[UI]]/[[UX]]]] gap close in [[Preface]]
+                - {{[[DONE]]}}  Pickup and form a new process with [[Carmen Yeung]] [[Anna Yu]] and [[Ben Cheng]]
+                - {{[[DONE]]}} Find a talent to contribute
+        - [[ideas]]
+            - {{[[DONE]]}}  Brainstorm [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+    - [[Gilbert Wat]]
+        - [[ideas]]
+            - {{[[DONE]]}}  #investment ideas
+                - [[網上打小人]]
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]] #[[foundation activity]]
+        - [[Preface]] in [[Data]]: Can we ask a more senior data manager
+        - Target: from 1/2 of [[revenue]] from [[RTTP]] to 1/3 
+        - Summer support takes more focus from the company than expected
+        - Feedback loop for content team
+- 10:00
+    - [[Kenneth She]] on credit system #[[foundation activity]]
+        - Chit chat about [[Baby Led Weaning]], [[playgroup]]
+        - {{[[DONE]]}} Delivery plan on Q4 Finished at 10:56 [[November 17th, 2022]]
+        - {{[[DONE]]}}  Think about resource planning with contractor?? Finished at 10:56 [[November 17th, 2022]]
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 12:00
+    - [[Vincent Lau]] bullshiting #[[restive activity]] #[[transformative activity]]
+- 15:00
+    - Designer [[Joseph Chan]] meetup with [[Carmen Yeung]] #[[transformative activity]]
+        - CPO of Automate until last year
+- 16:00
+    - Designer meetup with [[Carmen Yeung]] and [[Vegas Ho]] #[[foundation activity]]
+        - Related to {{[[DONE]]}} Get the #design [[[[UI]]/[[UX]]]] gap close in [[Preface]]
+            - {{[[DONE]]}}  Devise a scope for [[Gemmy Wong]] or [[Joseph Chan]] on [[September 16th, 2022]] -> [[September 30th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+        - [[Larry]] found out [[Carmen Yeung]] is "interviewing" designers, creating misunderstanding
+- 16:30
+    - [[Cheryl Lai]] [[1:1]] #[[foundation activity]]
+        - Why we end collaboration with Ken?
+        - What is contribution?
+        - {{[[DONE]]}}  Delegated her to draw a CSS mindmap and get back to me on [[September 13th, 2022]] Completed 
+- 17:30
+    - [[1:1]] [[Jeffy Fung]] #[[foundation activity]]
+        - Why we end collaboration with Ken?

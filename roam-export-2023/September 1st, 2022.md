@@ -1,0 +1,4 @@
+- Explored different [[Metaverse]] #[[mindless activity]]
+    - Roblox
+    - Axie Infinity
+    - Conclusion: They are all games

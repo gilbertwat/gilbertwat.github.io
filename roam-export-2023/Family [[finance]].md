@@ -1,0 +1,41 @@
+- # 2023 habit to form
+    - everyday we polish our finance for at least 15 minutes
+- # 2023 goal
+    - 8% p.a. for the whole assets we have. [[December 31st, 2023]]
+    - Get a healthy coverage of insurance on or before [[April 25th, 2023]]
+- [Family Finance 2023](https://docs.google.com/spreadsheets/d/1fhgMf_Av--dauuoNc70tIuHhDjodWs8bdsTs3PTOsow/edit#gid=1272628454)
+- [Stock picking](https://docs.google.com/spreadsheets/d/1INyKDXK7q--m-3WM5dqj_didC7hxSxgpKojX99dBd5U/edit#gid=0)
+- 
+- Cashflow
+    - Positive
+    - Negative
+    - Total
+- Asset class
+    - Rare metal
+    - Real estate
+    - Currency
+    - Fixed Income (Bond)
+    - Stock or Cryptocurrency
+- [Cash flow](https://docs.google.com/spreadsheets/d/1HJLpEUd1eNYlLP3KiVkAp3HBCHZfOXAQITgafUe6nPY/edit?usp=sharing)
+- [Assets](https://docs.google.com/spreadsheets/d/1DPxDtSqbh4R70dFJ3wPj7cVyBosAKokSw_uRBfsw72Y/edit?usp=sharing)
+- Recurring Payment 💸
+    - /month
+        - [[Zurich]] 7500 HKD
+        - [[Wifey]] 40000 HKD
+        - [[Mum]] 10000 HKD
+        - Spotify 58 HKD
+        - iCloud 53 HKD
+        - G Suite 53 HKD
+        - Factwire 250 HKD
+        - 1Password 24 HKD
+        - Property management fee 780 HKD
+    - /year
+        - Meditation Headspace: 788 HKD
+        - Jetbrain: 788 HKD
+        - Strava: 788 HKD
+        - Taxes 90000 HKD
+        - chachaanteng.co
+        - chachaanteng.eth
+        - definmeme.eth
+    - /5year
+        - getthingsdone.hk domain: 2304 HKD

@@ -1,0 +1,9 @@
+- Work on [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+        - #health #discomfort Red eyes and swollen tear duck
+    - Mind
+        - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+- 

@@ -1,0 +1,8 @@
+- Question for [[Tommie Lo]]
+    - What growth are we expected to deliver based on this round?
+        - What growth are we looking for?
+    - What needs to be true for us to raise again?
+    - Which major constraints do you currently see?
+    - What are you most pessimistic and most optimistic about?
+    - What is our current business strategy to achieve our goals?
+    - This last question is particularly important, because your engineering strategy will hang on it.

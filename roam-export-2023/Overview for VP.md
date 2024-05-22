@@ -1,0 +1,137 @@
+- Overview:
+    - After 3 years, we are becoming more mature. Individually, we are able to contribute effectively and start to collaborate well in a small team. We can deliver features with more certainty. We are making a continuous refactoring efforts to make our product code more easy to understand and change each iteration. That said, we still have challenges in expanding our team during this COVID-19 situation to meet our business need and we can always work more effectively together.
+- Metrics
+    - Top 3 KPIs we are sharing with business
+        - Number of Reopen tickets + staging bugs (-)
+        - Velocity in story points (+)
+            - To be updated to number of stories shipped
+                - DET
+                - CET
+                - BET
+                - DT
+                - IT
+                - PT
+        - Number of hotfixes (-)
+    - Platform specific
+        - {{table}}
+            - KPI
+                - Delivery Platform
+                    - Van Platform
+            - Error rate
+                - < 0.2%
+                    - TBD
+            - (Upcoming) Error MTTR
+                - TBD
+                    - TBD
+            - Response time
+                - TBD
+                    - TBD
+            - Code Coverage
+                - 75%
+                    - 80%
+    - Mobile specific
+        - {{table}}
+            - KPI
+                - iOS DA
+                    - iOS CA
+                        - Android DA
+                            - Android CA
+            - Code Coverage
+                - 20%
+                    - 60%
+                        - 60%
+                            - 60%
+            - Bugsnag Error MTTR
+                - TBD
+                    - TBD
+                        - TBD
+                            - TBD
+            - Bugsnag Error
+                - TBD
+                    - TBD
+                        - TBD
+                            - TBD
+    - Web specific
+        - {{table}}
+            - KPI
+                - B2B
+                    - B2C
+            - Code Coverage
+                - 90%
+                    - 0%
+            - Bugsnag Error
+                - TBF
+                    - TBD
+            - Bugsnag Error MTTR
+                - TBF
+                    - TBD
+    - Outcoming new KPIs / OKRs
+        - Number of new capabilities added for product
+- Top 3 #challenges and priority
+    - Tight engineering resource
+        - We are always in tight resource. There are our engineering backlog is always a blocker on iteration speed as we are lack of brain power for initiating some transformation.
+        - Take platform as an example, to better decouple our system so that teammates can focus and get a deeper understanding in particular business domains, we originally plan to adopt to evolve into an event driven system. Unfortunately it has been dragged for over 1 1/2 years. It is still a proof of concept.
+        - The tight engineering resource doesn't only affect platform, but mobile as well. QA E2E test automation on our mobile app is on QA departments and it has also been dragged for over 1 1/2 years.
+    - Research capabilities is still lack thereof
+        - We are lack of resource, all research efforts on increasing our capabilities are limited to be **sprint filler tasks**, we cannot dedicate enough focus on the engineering topics we would like to advance for helping the products to offer more possibilities on our product.
+        - Due to that, we have a relatively immature PoC process and PoC skills are not even distributed among the team.
+        - If we have more dedicated time and talent investment into increasing engineering capabilities, we can have more possibilities in our product and it will be beneficial to our whole tech team and our customers. Our tech team can advance their knowledge on deploying new technology to production and our customers can enjoy the benefit of new technology.
+    - Teamwork
+        - Also our team has to cater different characters of PMs and different workflows of our PMs. It makes our teammates allocation very hard. On-boarding our teammates to a new theme team takes 2 weeks. I am working on to align every PMs at least on the project management side so that we are delivering software in the same output framework. It would be ideal if we are able to agree a common outcome framework but I can only influence that.
+        - We are expecting to on-board new engineers easier, collaborate easier and ship faster.
+        - As all overwork team, we are putting less efforts on collaborating and understanding the contexts of each others.
+- Other #challenges
+    - Act on the feedback of the market
+        - Also due to the restraint of engineering talents, we are overwhelmed by the feedback of the market and unable to act meaningfully to the feedback of the market. Hence our app rating is constantly receiving legit 1 star review.
+    - Cross company collaboration
+        - The job nature of operation and tech team is very different and the collaboration is very hectic
+    - 1:1 effective feedback
+        - We are not very used to give feedback in an 1:1 settings
+        - The ratio of praise / criticism is not handled correctly, as our upbringing is very Chinese and praise is not a norm. We need more practices on praise.
+    - focus / priority is not actionable enough
+        - The translation of business strategy to technology strategy can be very loose now. We are not able to connect business strategy and create a closely aligned technology roadmap.
+- Cross Functional Relationship:
+    - Infrastructure
+        - We collaborate with infrastructure on a day to day basis.
+        - We can get basic task done
+        - We need closer collaboration 
+    - QA
+        - We collaborate with QA on a day to day basis.
+        - QA capabilities cannot align with an agile organization
+    - Product Managers
+        - We collaborate with PM on a day to day basis.
+        - We work with PMs quite well.
+    - Designs
+        - We collaborate with PM on a day to day basis.
+        - We work with designers quite well.
+    - Data
+        - We collaborate with data in a project basis.
+        - We work with data team quite well.
+- Teams:
+    - Myself
+    - Platform
+        - Challenges
+        - Individual
+            - [[Victor Lam]]
+            - [[Ben Cheng]]
+            - [[Ravic Poon]]
+            - [[Henry Tang]]
+            - [[Belda Chan]]
+            - [[Kavin Wong]]
+    - Mobile
+        - [[Keith Chan]]
+        - iOS
+            - [[Ka Kui Tsang]]
+            - [[Anthony Chan]]
+            - [[Jackson Chung]]
+            - [[Karl Tai]]
+        - Android
+            - [[Peter Wong]]
+            - [[Jim Wong]]
+            - [[Ivo Wu]]
+            - [[Jay Chang]]
+    - Web
+        - [[Rob Dong]]
+        - [[Matthew Ng]]
+        - [[Hon Chan]]
+- 

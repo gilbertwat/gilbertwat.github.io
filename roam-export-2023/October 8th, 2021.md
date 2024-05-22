@@ -1,0 +1,5 @@
+- 11:00 [[Interview]] [[Product Manager]]
+    - {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Ff943PC2XLJ.pdf?alt=media&token=46964921-851d-49cc-b817-7438d5e3a960}}
+    - Given **the time frame**, what if the engineering team says, "This feature will take more than **the time frame**." How will you react?
+    - How do you advocate the new feature to the users?
+    - What is the synergy between your new feature and the current product offering? What can we reuse from the current product offering?

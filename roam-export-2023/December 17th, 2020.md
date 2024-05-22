@@ -1,0 +1,34 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[[[🔮 Bets]] 2021]]
+    - Are we still staying in [[🏴Hong Kong]]?
+        - This is a question of when instead of question of whether.
+            - Let's get prepared for [[Globalized self]]
+        - As we are embedded into the China proper our prosperity has diminished.
+    - Questions to ask
+        - What is changing? 
+            - Society
+                - The western society is inapt in responsing to the threat of China expansive censorship and attack on freedom and democracy.
+                - Police brutality backed by an authoritarian regime is stemmed from an armless public.
+                - Vaccination and non-vaccination will be a differentiating factors for societies around the world
+                - Government in the world will need a serious redo or the power will be transferred to the digitalized crowd.
+            - Technological
+                - Drones are changing security and stability
+            - Consumer behaviors
+                - streaming will be a e-commerce marketplace
+                - So called new channels
+                    - TV ads -> Youtube
+                    - Billboard -> ??
+                    - Magazine / Newspaper Ad -> Website Ads
+                    - 
+        - What can be a capitalizing factors?
+            - Help streamers earn?
+            - Where is Gen X is spending on now?
+    - Action Plans
+- [[How do you feel when you wind down?]]
+    - {{slider}}

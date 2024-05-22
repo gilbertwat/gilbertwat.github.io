@@ -1,0 +1,17 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- [[1:1]] with [[Young]]
+    - Get feedback for [[Delivery [[All Hands [[meetings]]]] #6]]
+    - {{[[DONE]]}} [[GOGOX]] [[Victor Lam]] contracts  discussion
+    - Freelance contracts discussion
+- [[1:1]] with [[Belda Chan]]
+    - vibe: seems too official, I can sense there is difference 🤔
+    - need to dig out why
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

@@ -1,0 +1,10 @@
+- #[[sleep]]
+    - Quality: mamaday because the fan is blowing my head
+    - Hrs : 6
+- 08:30 - 09:30 #[[sleep]] again
+- 09:30 #Housework
+- 9:45 - 10:30 #Workout
+- 10:30 - 11:15 #Commute
+- 11:15 [[Writing [[Mohammad Ahmad]] reference letter]]
+- 17:00 Received a shock news that Ken Chan of finance team has died.
+- 

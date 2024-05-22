@@ -1,0 +1,97 @@
+- [[[[2022]] Week 43]] #goals
+    - # ^^Be bold to win.^^
+    - [[[[2022]] Week 42]] carry over
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+    - [[Family [[finance]]]] Planning
+        - {{[[DONE]]}}  #evaluated BoC 年金 Finished at 09:23 [[October 31st, 2022]]
+        - {{[[DONE]]}}  #evaluated FTLife 壽險 Finished at 11:23 [[November 7th, 2022]]
+        - {{[[DONE]]}}  #evaluated Zurich Fund placement Finished at 13:37 [[November 7th, 2022]]
+        - {{[[DONE]]}}  #to-audit for insurance (Ask Mom) Finished at 15:21 [[November 27th, 2022]]
+        - {{[[ARCHIVED]]}} #to-audit current liquid assets #finance
+    - [[[[Gilbert Wat]] [[brand]]]]
+        - 
+        - {{[[DONE]]}}  #published collage of [[Theodore]] teaching me how to code Finished at 18:25 [[October 26th, 2022]]
+    - [[Preface]]
+        - [[[[Preface]] [[product]]: Customer Portal]]
+            - {{[[DONE]]}}  #shipped Phase 1  to production Finished at 11:22 [[November 7th, 2022]]
+            - {{[[DONE]]}}  #finalized Phase 2 design Finished at 15:21 [[November 7th, 2022]]
+            - {{[[DONE]]}}  #written Phase 3 [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] with [[Anna Yu]] Finished at 10:41 [[November 17th, 2022]]
+        - Onboarding [[Tylor Ng]]
+            - {{[[DONE]]}}  [[Tylor Ng]] onboarding: [[Communication plan for Content team attachment of Tylor]] Finished at 16:35 [[October 25th, 2022]]
+            - {{[[DONE]]}}  Follow up with [[Kevin Lee]] on actual execution Finished at 09:22 [[October 31st, 2022]]
+        - [[[[Preface]] [[product]]: Coffee App]]
+            - {{[[DONE]]}}  Kick start [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] Finished at [[December 12th, 2022]]
+                - {{[[DONE]]}} Onboard the whole project to be able to run and test locally Finished at 11:24 [[November 7th, 2022]]
+                    - {{[[DONE]]}}  Make sure the project has no security and privacy concerns Finished at 09:59 [[November 7th, 2022]]
+                    - {{[[DONE]]}}  Make sure onboarding document is ready Finished at 11:19 [[November 17th, 2022]]
+                        - {{[[DONE]]}} Compile a minimal version of [[[[[[Preface]] [[product]]: Coffee App]] onboarding document]] Finished at 10:40 [[November 17th, 2022]]
+                            - {{[[DONE]]}}  Clean up unused code to remove cognitive clutter for new joiner. Finished at 14:44 [[October 31st, 2022]]
+                    - {{[[DONE]]}}  Make sure product requirement is done Finished at 09:59 [[November 7th, 2022]]
+                    - {{[[DONE]]}}  Make sure test case is ready Finished at 18:30
+                        - {{[[DONE]]}}  Create necessary postman collections Finished at 15:22 [[November 27th, 2022]]
+                - {{[[DONE]]}} Craft out criteria and choose 1 vendor to work with Finished at 11:19 [[November 17th, 2022]]
+                    - [[criteria of selecting software vendor for [[Preface]]]]
+        - Data
+            - Next step for [[Hubspot]] under the [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+                - {{[[DONE]]}}  [[Alexander Li]] and [[Yoon Kim]] will host the next meeting with Growth team in [[[[2022]] Week 43]] Finished at 18:00 [[October 27th, 2022]]
+                    - Ask them the current usage of [[Hubspot]]
+                    - Propose current tools
+                - {{[[DONE]]}} #to-calculate the [[[[Hubspot]] migration plan]] Finished at 15:22 [[November 27th, 2022]]
+                - {{[[DONE]]}}  [[Hema Shah]] will discover the usage of eventbrite on attendance and basic analysis of our event attendees Finished at 15:22 [[November 27th, 2022]]
+                - {{[[DONE]]}}  [[Hema Shah]] will suggest how to replace [[Hubspot]] will the current other tools Finished at 15:22 [[November 27th, 2022]]
+                - {{[[DONE]]}}  [[Yoon Kim]] will explore how to extract data from Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  [[Calendly]] Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  [[Postmark]] Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  [[Eventbrite]] Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  [[Sleekflow]] Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  Mailchimp Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  Facebook Finished at 10:53 [[November 17th, 2022]]
+                    - {{[[DONE]]}}  Google Analytics Finished at 10:53 [[November 17th, 2022]]
+                - {{[[DONE]]}}  After {{[[DONE]]}}  [[Alexander Li]] and [[Yoon Kim]] will host the next meeting with Growth team in [[[[2022]] Week 43]] Finished at 18:00 [[October 27th, 2022]] and {{[[DONE]]}} #to-calculate the [[[[Hubspot]] migration plan]] Finished at 15:22 [[November 27th, 2022]] [[Hema Shah]] and [[Gilbert Wat]] will confirm direction to sunset [[Hubspot]] with [[Kenneth She]] and plan for migration execution before [[June 1st, 2023]] Finished at 15:22 [[November 27th, 2022]]
+                - 
+        - [[[[Preface]] tag-based courses [[recommender]] system]]
+            - {{[[DONE]]}}  #finalized #designed system design Finished at 13:38 [[November 7th, 2022]]
+        - [[[[Preface]] [[product]]: website]] migration
+            - {{[[DONE]]}}  Health Check with [[Anna Yu]] Finished at 09:23 [[October 31st, 2022]]
+        - [[hiring]]
+            - {{[[DONE]]}}  Get ready for the hiring of a new full stack engineer. Finished at 11:49 [[November 7th, 2022]]
+        - Tech infrastructure
+            - {{[[DONE]]}}  Evaluate the possibility to [[remove]] retool from our stack. [[[[Preface]] [[product]]: Coffee App]] Finished at 15:23 [[November 27th, 2022]]
+        - Team morale
+            - {{[[DONE]]}} Pimp the documents we have to increase the fun in our documents
+            - {{[[ARCHIVED]]}}  #to-write [[[[Ehsan Ayaz]] [[post mortem]]]]
+        - {{[[ARCHIVED]]}}  [[Anna Yu]] up to a senior manager standard
+            - {{[[DONE]]}}  Review the next step from the SG trip Finished at 15:00 [[November 4th, 2022]]
+- 08:00
+    - {{[[DONE]]}}  [[exercise]] for 30 minutes Finished at 08:36 
+        - [[Pull [[exercise]]]] + [[core [[exercise]]]]
+- 09:00
+    - Planning for this week
+        - [[[[2022]] Week 43]] #goals
+- 12:00
+    - Lunch
+- 13:00
+    - {{[[DONE]]}}  #researched https://gamma.app/ Finished at 13:54 
+        - Pros is it is very beautifully designed
+        - Very fun to use
+        - Not worth it to explore more as it is very designer oriented
+        - The feature is not as well polished as it should
+        - Learning is it is very hard to compete with MS / Notion / Slack / GDoc on productivity software
+        - But it is very fun to use GIF / emoji / ...etc.
+        - Generate new task of {{[[DONE]]}} Pimp the documents we have to increase the fun in our documents attempted to boost morale of the team
+- 14:06
+    - {{[[DONE]]}}  #read https://twitter.com/hillelogram/status/1534301374166474752?s=20&t=GHrZa7ofnnKmTSxYUBr83g Finished at 14:21 
+        - [[Literature Notes]]
+            - [[Tag]] is hard to use right.
+            - If we implement sub-tag we will come across transitive queries.
+            - transitive queries are queries on a [[transitive relation]].
+            - [[transitive relation]] is defined as $$if (a,b)\in R, and (b,c) \in R, then (a,c) \in R$$
+            - transitive queries are expensive.
+            - transitive queries are hard to detect cycle.
+            - Multiple parents are even harder.
+- 14:30
+    - Working on {{[[DONE]]}} #to-calculate the [[[[Hubspot]] migration plan]] Finished at 15:22 [[November 27th, 2022]]
+- {{[[DONE]]}}  Read 1 verse in the [[Bible]] Finished at 19:59

@@ -1,0 +1,58 @@
+- [[[[2023]] Q2]] Review
+    - April
+        - [[[[Preface]] [[project]]: Nomad payment scheme update]] Shipped
+    - May
+        - [[[[Preface]] [[project]]: A.I. Coffee 2.0]] Shipped
+        - [[[[Preface]] [[project]]: Credit System MVP]] Shipped
+        - [[Moses Ngan]] Resigned
+        - [[Anna Yu]] Resigned
+    - June
+        - [[[[Preface]] [[project]]: Techbites MVP]] Shipped
+- [[[[2023]] Q3]] Planning
+    - [[[[Preface]] tech team]]
+        - Full Time
+            - [[Joseph Chan]]
+                - UI/UX
+            - [[Ben Cheng]]
+                - Engineering Manager
+            - [[Jeffy Fung]]
+                - Software Engineer ||
+            - [[Cheryl Lai]]
+                - Software Engineer |
+            - [[Yoon Kim]]
+                - Software Engineer I (Data)
+        - Part Time
+            - [[Charlie Mak]]
+            - [[Akash]]
+        - Shadowing
+            - [[Ansen Yan]]
+            - [[Boris]]
+        - Interns
+            - [[Tanush Changani]]
+            - [[JJ]]
+            - [[Alisha]]
+    - [[[[Preface]] [[product]]: website]]
+        - Blog
+        - PCW
+        - Partnership / RTTP
+        - School
+        - TechBites
+    - [[[[Preface]] [[product]]: Customer Portal]]
+        - Stakeholders
+            - School Business Owners
+            - TechBites Business Owners
+        - Focus
+            - Supplement Service Delivery in School
+    - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+        - Stakeholders
+            - School Business Owners
+    - [[[[Preface]] [[product]]: Coffee App]]
+        - Stakeholders
+            - [[[[Preface]] Coffee & Wine]]
+    - [[[[Preface]] [[product]]: data ecosystem]]
+        - Business related metrics monitoring for each product
+        - Customer Journey key metrics monitoring
+        - Educational metrics monitoring
+    - [[[[Preface]] [[project]]: A.I. Coffee 2.0]] --> [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+        - Reliability
+            - Swap OpenAI with Azure OpenAI

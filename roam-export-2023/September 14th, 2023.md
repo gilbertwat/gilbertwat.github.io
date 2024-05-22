@@ -1,0 +1,15 @@
+- [[Ben Cheng]]
+    - Tentative level of seniority
+        - Scope as in length of projects
+            - Not as in domain complexity and area of business since our team need the fluidity
+- [[Cheryl Lai]]
+    - Take up [[]]
+- [[Jeffy Fung]]
+    - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+- [[Kit Tang]]
+    - Take up [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]]
+- [[Akash]] said he would quit contributing
+    - #decision to take the chance
+        - If he is staying. Offer him a 2-3 months target of converting to SWE associate. He need to meet criteria set by us.
+            - If the #bet paid off
+                - Someone to own the update of website.

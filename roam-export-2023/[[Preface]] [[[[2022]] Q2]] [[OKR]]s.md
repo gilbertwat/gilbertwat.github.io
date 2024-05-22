@@ -1,0 +1,17 @@
+- Data & AI
+    - O1 Provide basic data visibility on critical metrics except financial data Gilbert
+        - KR1 Build the first data warehouse [[Alexander Li]]+[[Yoon Kim]]
+        - KR2 Build the first company dashboard that include 5 critical metrics [[Alexander Li]]+[[Yoon Kim]]
+        - KR3 Setup data validation and standard for our critical data tools  [[Alexander Li]]+[[Yoon Kim]]
+    - O2 Improve feedback loop of our ML system [[Gilbert Wat]]
+        - KR1 Reduce manual maintanence of content recommender system to 0 [[Ehsan Ayaz]]
+- Software Engineering
+    - O1 Improve our Internal Portal & preface.ai to support a 10x and a global operation [[Ben Cheng]]
+        - KR1 Comply to audit and legal requirement [[Moses Ngan]]
+        - KR2 Define and improve 3 key metrics of our internal portal and preface.ai users [[Ben Cheng]]
+        - KR3 Support new payment methods in our payment link	[[Ben Cheng]]
+    - O2	Improve our infrastructure to support a 10x and a global operation	[[Ben Cheng]]
+        - KR1	Separate preface.ai with internal portal [[Moses Ngan]] [[Ehsan Ayaz]]
+        - KR2	Migrate blog to new infrastructure	[[Gilbert Wat]]
+        - KR3	Introduce SLOs for each systems	[[Ben Cheng]]
+- 

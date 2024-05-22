@@ -1,0 +1,45 @@
+- [[[[2022]] Week 46]] #goals
+    - All carry over from [[[[2022]] Week 45]] as I am drained
+        - #Energy level totally depleted on [[November 12th, 2022]]
+- https://oimo.io/ #Inspiration 
+- 09:30
+    - {{[[DONE]]}}  Help delegate unique student number in [[[[Preface]] [[product]]: Customer Portal]] to [[Jeffrey Chan]] for financial projection to [[Alexander Li]] Finished at 10:32
+- 10:00
+    - [[[[Preface]] [[product]]: Customer Portal]] status check
+        - Figma
+        - Production
+- 11:30
+    - Help looking after [[Theodore]]
+- 12:48
+- 14:07
+    - Prepare for RTH prep meeting for [[[[Preface]] project [[recommender]] in 1 on 1 courses]]
+        - collaborative filter recommender system
+            - It means using all the students review on a project to
+        - AIOps approach
+            - The model and the related data pipeline is fully automated
+        - DevOps approach
+        - **__- Education Research methodology__**
+            - Hypothesis
+            - Research methodology
+            - Analysis
+            - Conclusion
+        - **__- Business use case and domain expert skills including our __****__product__****__ and service__**
+            - Business impact in improving NPS for our 1:1 session
+        - **__- Research project scopes which the research talent should focus on__**
+            - 1:1 Adult for data science students
+        - [[Hema Shah]] is responsible for this area
+            - Why the research project was initiated?
+            - What is the research project purpose?
+            - How did you decide the roles and tasks of the research talents?
+            - How have you been guiding the research talent and managing the project?
+        - {{[[DONE]]}}  A very high level data architecture diagram Finished at 10:26 [[November 15th, 2022]]
+            - {{[[mermaid]]}}
+                - flowchart LR
+                    - cportal["Customer Portal (NextJS, ReactJS, NodeJS, Javascript)"] <-- RESTful API --> api["API Services (Ruby on Rails)"]
+                    - api <--"connection string"--> db[(PostgreSQL)]
+                    - db --"data cleaning (Python)"-->cleanDB[("BigQuery")]
+                    - cleanDB --"model training" --> ml[ML Model]
+                    - ml --"model serving" -->  db
+- 17:30
+    - {{[[DONE]]}}  Check with [[Tylor Ng]] for the decision Finished at 21:22 
+        - [[Tylor Ng]] resigned

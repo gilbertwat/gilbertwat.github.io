@@ -1,0 +1,3 @@
+- Collect [[Address]] here
+    - {{query: {and: [[Address]] [[[[people]] I care]]}}}
+    - 

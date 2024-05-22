@@ -1,0 +1,15 @@
+- [[[[2022]] Week 44]] review
+    - # Projects
+        - **Customer Portal**: Integration with content recommendation engine started this week. Everyone can try the new customer portal in our staging environment with basic customer flows.
+        - **Coffee App**: Last week we discovered that our codebase allows our contributor to put any type of files in unlimited size into our google cloud storage and send any type of notification to our Coffee App clients. It has been dealt with, we will proceed to pass on to quote a rate from our vendors and build our trusted vendor list.
+        - **preface.ai migration**: Continue listing the issue we need to dealt with. Execution will be on early December will be my intuition.
+        - **Leads database(AKA Hubspot)**: Yoon is crafting an essential list and will suggest a company wide way to update that list. We hope the database is easily accessible to all staffs in the company.
+        - **content recommender engine**: Alex is focusing on the implementation and integration with portal with the help of Ben.
+        - **(NEW) BUD funding: Expansion Plan** Heard from Vegas that we can secure 600K HKD from government with a proposal of using it in the enhancement of customer portal for expansion in London and SG. will work with Vegas on the draft.
+    - # Team matters
+        - (Need more time to observe) A bit overwhelmed on the decision making level as team heads and senior managers are on the execution level.
+        - (Ideation) The frontend team is not challenged enough now (suddenly). Will add more responsibility to them.
+        - (On track) Four people on the onboarding and training list (Anna, Tylor, Akash and Anne), all are progressing well.
+    - # Bottleneck and challenges that needs other to help
+        - (Resolving) Quantity of contents is a challenge to the AI team.
+        - (Resolving) Although we minimize the seasonal support for B2C and B2B events needed from tech team, we probably still need to come up with a more self-serve and coordinated approach.

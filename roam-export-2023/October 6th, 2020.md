@@ -1,0 +1,44 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- [[[[2020]] [[[[Performance]] Review]] [[Rob Dong]]]]
+- [[1:1]] with [[Young]]
+    - GGE update
+    - OKRs update
+    - Performance accessment
+    - Priority
+        - PMs work
+    - On-duty rotataion
+- [[[[1:1]] with [[Tom Lui]]]]
+    - Bug report process problem
+        - Not intuitive, too clumsy to use (Not user friendly)
+        - Not transparent enough
+        - Not clear P0/P1 definition
+    - Action item
+        - design an MVP of PISD 2.0
+- [[[[1:1]] with [[Lili Chan]]]]
+    - [[[[2020]] Q3]]
+        - Backend delay expected
+    - [[[[2020]] Q4]]
+        - Chat bot
+        - Long term product discovery
+        - Chase
+            - Share orders to other customers.
+            - Convert CS ORder to apps
+            - Advertising on iOS 14 [[Keith Chan]]
+            - Referral programs (ex-HK)
+            - Retention + LTV
+            - B2C quoting page delayed expected
+        - Assist on ops firefighting process brainstorming notification
+- AR 2.0 Demo Session
+    - Limitation ➡️ Possible iteration
+    - Some praise ourselves phrase
+    - Project management for cross theme projects from [[Ivo Wu]] and [[Ben Cheng]]
+        - Plan thoroughly before start coding
+    - 1 sprint extra for uncertainty
+    - plan ahead
+    - 
+- How do you feel when you wind down?
+    - {{slider}}

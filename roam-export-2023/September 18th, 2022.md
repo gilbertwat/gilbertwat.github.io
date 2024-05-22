@@ -1,0 +1,15 @@
+- [[[[2022]] Week 37]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[September 11th, 2022]][[September 17th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - {{query: {and: [[decided]] {between: [[September 11th, 2022]][[September 17th, 2022]]}}}}
+        - Fixed
+            - The UI/UX standard in Buy link
+        - Shipped
+            - Some iterations in UI/UX standard in buy link
+        - Moved X to <next step>
+            - {{query: {and: [[progress]] {between: [[September 11th, 2022]][[September 17th, 2022]]}}}}
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[September 11th, 2022]][[September 17th, 2022]]}}}}
+        - I felt exhausted but excited as I am again in product building instead of leading and coaching.

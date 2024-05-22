@@ -1,0 +1,4 @@
+- #exercise every day for 25minutes
+- Read 12 books
+- Sell 1 product for $10000USD
+- Convert to Catholicism

@@ -1,0 +1,134 @@
+- Author: [[Peter Zeihan]]
+- Categories: #Geopolitics 
+- Overview:
+    - This book is describing what will happen when US is no longer the sole __order__ in the world. In the first 4 chapters, it stages the background of today world order - The __Pax America__. It also briefly touches its predecessor - __Pax Britannia__  . It compares [[Pax America]] and [[Pax Britainnia]] with [[China]] nowadays. And then it goes through some of the large-mid sized countries in the world and try to project the possible scenarios for those countries and their concerns. Lastly it states the challenges US foreign policy is facing.
+- Learnings:
+    - To protect the core of the empire, the border of the empire will always be the cannon fodders. #HongKonger s will be the cannon fodders of Chinese Empire / US Orders, until their influences fade
+    - Cheap [[credit]] always lead to capital inefficiency as the credit is so cheap that we don't need to care about the [[efficiency]].
+    - [[China]] is a slave nation until [[May 27th, 2020]]
+    - [[Population composition]] is another very important #Geopolitics factor. When looking for [[Globalized self]], we need to take that into consideration.
+    - The thinking framework of [[grand strategy]] is amazing:
+        - Report Card
+            - Border #Geography
+            - Resources
+            - Demography
+            - Military might
+            - Economy
+            - Outlook
+    - Climate change is an overhaul on all the current state #Geopolitics
+    - What if US Navy is no longer able to provide protection on maritime safety?
+        - Not even the route from HK to Macao can be safeguard.
+            - https://www.youtube.com/watch?v=49MxJlOscFY&list=PLop4nF1aftPgX71mSxHcS51X3VQBQC-f7&index=7
+                - A story from [[Stanley Ho]] there was a lot of piracy en route in 1940s when [[WW2]] happened.
+- How did we build a successful [[empire]]?
+    - We need to be able to build continuity. Continuity allows people to compound their efforts through economic of scale. Continuity needs
+        - Security of food production
+        - Security of physical protection
+    - [[economic of scale]] is another very important concept to scale your competitive advantage and dominate the surrounding competitors
+        - Specialization is will be the effect of [[economic of scale]]
+- Is [[USA]] an [[empire]]? [[Pax America]] 
+    - No. It is an order.
+    - [[USA]] has the strongest navy in the world after [[WW2]]. Through her protection, [[world trade]] through ocean becomes very affordable.
+    - In [[Soviet Union]] time, [[USA]] protects its allies and provide a free market to consume their products in exchange for stability and act as cannon fodders between [[Soviet Union]] and [[USA]].
+    - Afterwards, the protection is not needed.
+    - Surprisingly, the economy of [[USA]] **doesn't** depends on her allies.
+        - Only 25% of goods are acquired through trade.
+    - [[USD]] as a [[market]] and a bribe to its allies.
+        - Volume is huge.
+        - Liquidity is very strong. There is no restriction of flowing in / out of USA.
+        - Little manipulation to maintain confidence of foreign holder.
+        - Her external trade must be very small compare with her home economy so that the fluctuation of the currency value will not upset domestic economy.
+- [[Pax Britainnia]]
+    - Island is very hard to invade.
+    - A very powerful and flexible navy.
+    - British always understand politics and economics deeply, they can offer military and diplomatic support everywhere in the world.
+    - A massive technological advantage around the world
+- [[China]] has nothing that can create
+    - continuity
+        - China is very hard to build as the margin of error is very little.
+    - economic of scale
+        - Cheap labor makes the 
+    - A sustainable population structure
+    - A mixed and stable energy inputs
+        - Solar energy competes with arable lands
+    - China is multi-ethnic, there are too many different cultures and their interests are totally not aligned
+    - China is rely on gardening instead of farming to supply its food. It will be ok As long as labor is free.
+        - Arable land in China is very little.
+    - After opening of market, the free labor shifted to the cities as factory workers
+    - 4/5 of oil is from international trade.
+    - 1/5 of food is imported.
+    - Report Card
+        - Border:
+        - Resources
+        - Demography
+        - Military might
+        - Economy
+        - Outlook
+- 
+- Author: [[Peter Zeihan]]
+- Categories: #Geopolitics 
+- Overview:
+    - This book is describing what will happen when US is no longer the sole __order__ in the world. In the first 4 chapters, it stages the background of today world order - The __Pax America__. It also briefly touches its predecessor - __Pax Britannia__  . It compares [[Pax America]] and [[Pax Britainnia]] with [[China]] nowadays. And then it goes through some of the large-mid sized countries in the world and try to project the possible scenarios for those countries and their concerns. Lastly it states the challenges US foreign policy is facing.
+- Learnings:
+    - To protect the core of the empire, the border of the empire will always be the cannon fodders. #HongKonger s will be the cannon fodders of Chinese Empire / US Orders, until their influences fade
+    - Cheap [[credit]] always lead to capital inefficiency as the credit is so cheap that we don't need to care about the [[efficiency]].
+    - [[China]] is a slave nation until [[May 27th, 2020]]
+    - [[Population composition]] is another very important #Geopolitics factor. When looking for [[Globalized self]], we need to take that into consideration.
+    - The thinking framework of [[grand strategy]] is amazing:
+        - Report Card
+            - Border #Geography
+            - Resources
+            - Demography
+            - Military might
+            - Economy
+            - Outlook
+    - Climate change is an overhaul on all the current state #Geopolitics
+    - What if US Navy is no longer able to provide protection on maritime safety?
+        - Not even the route from HK to Macao can be safeguard.
+            - https://www.youtube.com/watch?v=49MxJlOscFY&list=PLop4nF1aftPgX71mSxHcS51X3VQBQC-f7&index=7
+                - A story from [[Stanley Ho]] there was a lot of piracy en route in 1940s when [[WW2]] happened.
+- How did we build a successful [[empire]]?
+    - We need to be able to build continuity. Continuity allows people to compound their efforts through economic of scale. Continuity needs
+        - Security of food production
+        - Security of physical protection
+    - [[economic of scale]] is another very important concept to scale your competitive advantage and dominate the surrounding competitors
+        - Specialization is will be the effect of [[economic of scale]]
+- Is [[USA]] an [[empire]]? [[Pax America]] 
+    - No. It is an order.
+    - [[USA]] has the strongest navy in the world after [[WW2]]. Through her protection, [[world trade]] through ocean becomes very affordable.
+    - In [[Soviet Union]] time, [[USA]] protects its allies and provide a free market to consume their products in exchange for stability and act as cannon fodders between [[Soviet Union]] and [[USA]].
+    - Afterwards, the protection is not needed.
+    - Surprisingly, the economy of [[USA]] **doesn't** depends on her allies.
+        - Only 25% of goods are acquired through trade.
+    - [[USD]] as a [[market]] and a bribe to its allies.
+        - Volume is huge.
+        - Liquidity is very strong. There is no restriction of flowing in / out of USA.
+        - Little manipulation to maintain confidence of foreign holder.
+        - Her external trade must be very small compare with her home economy so that the fluctuation of the currency value will not upset domestic economy.
+- [[Pax Britainnia]]
+    - Island is very hard to invade.
+    - A very powerful and flexible navy.
+    - British always understand politics and economics deeply, they can offer military and diplomatic support everywhere in the world.
+    - A massive technological advantage around the world
+- [[China]] has nothing that can create
+    - continuity
+        - China is very hard to build as the margin of error is very little.
+    - economic of scale
+        - Cheap labor makes the 
+    - A sustainable population structure
+    - A mixed and stable energy inputs
+        - Solar energy competes with arable lands
+    - China is multi-ethnic, there are too many different cultures and their interests are totally not aligned
+    - China is rely on gardening instead of farming to supply its food. It will be ok As long as labor is free.
+        - Arable land in China is very little.
+    - After opening of market, the free labor shifted to the cities as factory workers
+    - 4/5 of oil is from international trade.
+    - 1/5 of food is imported.
+    - Report Card
+        - Border:
+        - Resources
+        - Demography
+        - Military might
+        - Economy
+        - Outlook
+- 

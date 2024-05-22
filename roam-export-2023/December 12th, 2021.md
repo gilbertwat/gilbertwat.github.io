@@ -1,0 +1,3 @@
+- {{[[DONE]]}} Write about the whole saga in Diary
+- #[[Quick Capture]]
+    - Marduk

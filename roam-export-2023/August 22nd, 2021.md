@@ -1,0 +1,78 @@
+- 11:45 - 12:45 [[🏡 House Cleaning]]
+- 12:45 - 14:30 Retrospective of [[2021]] Week 33
+    - What went well?
+        - #[[health]]
+            - [[💦 Workout]]d 4x this week 🎉
+            - [[Lower back spasm]] fix 50%
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[read]] [[books]] before [[sleep]] almost every night
+        - #[[Family]] & #[[Friends]]
+            - [[Wifey]] Cough less intensified
+            - Delivered [[姑姐]]'s need to [[Dad]]
+        - #[[Family [[finance]]]]
+        - #[[🛠️ Work]]
+            - Get a theory of [[growing audience]] in [[Twitter]]
+                - #Theory
+                    - Tweet replies to some big names to grow [[impressions]]
+                    - Tweet original contents to get [[Engagement]] from core audience
+                        - Blog posts
+                        - Memes
+                    - Be genuine and grateful
+            - [[coding]] in 2 projects
+                - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+                - [[[[MVP]] Should I join this startup?]]
+            - New [[Consultant]] gigs
+                - [[Grantits.io]]
+            - New [[Interview]]
+                - [[Sleekflow.io]]
+            - New good connection for [[Hubert Chan]]
+                - Good connection
+            - New [[initiative]] from [[Ergon]]
+                - [[Code Assessment as a Service]]
+    - What went wrong?
+        - #[[health]]
+            - #[[sleep]] is not as good as Week 32
+                - #alcohol after 2 glasses of beer
+                - Discovered [[Instagram]] Reel and it is a time sink
+                - [[coding]] before [[sleep]]
+                - Stomach problems
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Failed on limit [[Facebook]] [[Twitter]] [[Lihkg]] [[RED App]] scrolling in 45 min.
+                - Discovered [[Instagram]] Reel and it is a time sink
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+            - [[Wifey]] Nifty check return not enough [[Baby]] blood in the blood sample. Makes me a bit nervous
+            - [[Chris Tang]] baby visits cannot be done.
+        - #[[🛠️ Work]]
+            - No clear direction from [[Kingson Kwan]] [[Ergon]]
+    - What can be done next week?
+        - #[[health]]
+            - More structured [[💦 Workout]]s per day
+            - Sort out a plan to gradually increase muscle %
+            - [[Lower back spasm]] fixes continue
+            - Body check x 2
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Write back diary
+        - #[[Family [[finance]]]]
+            - {{[[DONE]]}}  Rearrange asset management and cashflow
+        - #[[Family]] & #[[Friends]]
+            - 
+        - #[[🛠️ Work]]
+            - Continue 2 tactics
+                - Find big audience and chimp in insights to grow [[impressions]] (3.1K this week)
+                - Create original content [[meme]] per days
+            - Continue [[MVP]] coding with more efficiency
+                - Pomodoro technique + Do errand to clear distraction first
+            - Prepare [[Grantits.io]] interview and sync up with [[Vlad]]
+    - [[Distraction]] 
+        - Buy games for [[Wifey]]'s cousin [[梓橋]] #[[Family]]
+        - [[Lihkg]] [[Facebook]] [[Twitter]] [[Reddit]]
+- #[[Quick Capture]]
+    - [[No Code]] investigation https://www.makerpad.co/catalog
+    - https://twitter.com/shreyas/status/1409726218438549514?s=21
+    - https://www.ithome.com.tw/news/146183?fbclid=IwAR3HoNFoVr_CBFwCrjLMhik-qTUK6aGfLg6N4lIz_aJVCpnajIfe-NcU8zo
+    - ai.google
+    - hackplainin
+    - shiftsearch
+    - https://www.sonofatailor.com/ retail tech
+    - https://daedtech.com/how-to-keep-your-best-programmers/

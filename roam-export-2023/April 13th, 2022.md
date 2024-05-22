@@ -1,0 +1,17 @@
+- 11:00
+    - [[1:1]] [[Basil]]
+        - [[[[Preface]] data [[architecture]]]] new project [[[[Preface]] Growth Dashboard]]
+            - BGM team will provide a list of metrics they are tracking and tech team will help determine the current accuracy and next steps if we need to improve it, our growth dashboard will be depending on this conversation.
+        - - Tech team will focus our effort to 源頭減廢 to make our data collection less chaotic, following our AI O1 KR3.
+        - [[[[Preface]] source new wordpress blog hosting provider]]
+        - - Tech team will provide the comparison of different providers at the end of this week and we will regroup next week to align and decide which provider we are going to subscribe to.
+- 11:30
+    - Curriculum presentation
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - Not much questions
+- 16:30
+    - [[1:1]] [[Ben Cheng]]
+        - Not much questions
+- 17:00
+    - [[All Hands [[meetings]]]]

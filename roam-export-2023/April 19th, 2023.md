@@ -1,0 +1,5 @@
+- [[[[Preface]] [[project]]: Techbite Pro]] shipped MVP
+- Work on [[[[Preface]] [[project]]: A.I. Coffee 2.0]]
+- {{[[DONE]]}} Read https://news.ycombinator.com/item?id=35611923
+- [[[[Preface]] [[project]]: Nomad Efficiency Improvement in [[[[2023]] Q2]]]] Takeaways
+    - On [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]

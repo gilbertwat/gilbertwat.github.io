@@ -1,0 +1,69 @@
+- Q1
+    - Progress
+        - Understand the codebase, culture and the team.
+        - Suspended Coffee App rollout
+            - Saved ourselves a new front for operating cost without clear monetization path
+        - Developed but Suspended NFT rollout
+            - Saved ourselves from NFT meltdown 
+    - Onboarding
+        - Ehsan
+            - Moved from Com Ops team as he wants to pursue a software engineer career
+    - Offboarding
+        - Ronald
+            - Not meeting his expectation of pure engineering work
+        - Aaron
+            - Not meeting his expectation of pure engineering work
+- Q2
+    - Progress
+        - Communicated Priority Framework, with a focus on stability first.
+            - Clarified tech priority with everyone
+                - Reduced communication costs
+        - Introduced metabase for a more organized and real time data reports and dashboards
+            - Build the foundation of a better data viz platform for operation and business analysis
+        - Shipped the first version of data warehouse with a cleaned dataset for Order related data
+            - Build knowledge in the team of data engineering
+                - Platform building
+    - Onboarding
+        - Ben
+            - From [[GOGOX]], increase seniority in the team, increase communication efficiency
+- Q3
+    - Progress
+        - Shipped Buy Link to remove all manual process in selling Annual Pass and Bootcamp
+            - Ops and Sales can focus understanding and saling our offering
+        - Shipped data warehouse for all current customer data
+            - Build knowledge in the team of data engineering
+                - Platform building
+    - Onboarding
+        - Anna
+            - Transferred from product
+        - Ken
+            - Transferred from product
+        - All interns
+            - Gained coding experience
+    - Offboarding
+        - Ken
+            - Underperformance
+        - All interns
+            - Not sure if the code is useful in production, which is unfortunate as it is the nature of project
+- Q4
+    - Progress
+        - Almost Shipped Customer Portal MVP with bootcamp support
+        - Shipped a lead database
+            - Reduced expectation of Hubspot from a CRM to a mass email list sender
+                - Because we don't have the capacity to keep Hubspot data clean and useful to B2C.
+        - Resume coffee app development
+            - Discovered security problems in codebase
+    - Onboarding
+        - Tylor
+            - Looking for an impact to the business through technology
+    - Offboarding
+        - Tylor
+            - The current phase of tech development doesn't fit his career goal.
+        - Ehsan
+            - Underperformance
+- Challenges ahead
+    - The team is not as hunger to learn new technology
+        - Example: generative AI and its application.
+        - Example: asking them to register for courses
+    - The [[idea state machine]] is not very sophisticated.
+        - Sometimes we will skip some validation step to de-risk ourselves.

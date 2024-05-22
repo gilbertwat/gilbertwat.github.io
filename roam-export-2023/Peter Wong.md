@@ -1,0 +1,12 @@
+- ((f1B7I83xi))
+- ((k1r73csoO))
+- ((yj59zvJoz))
+    - Good
+- ((6PmkX_ctN))
+    - Execution speed in Android and Rails
+- ((JoUqbdEq_))
+    - Austism
+    - Rage
+- [[💪🏻 Commitments]]
+- 
+    - To be aware of he need to think solution with the consideration of other parties in the theme team.

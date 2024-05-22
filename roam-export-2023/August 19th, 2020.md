@@ -1,0 +1,106 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} 09:02 #[[GOGOX]] POSTman [[budget]] 
+        - Why we need an API development collaboration tool?
+            - Business
+                - Faster iteration with the same stability guarantee
+                    - Deployment of new code can be verified with an increasing guarantee
+                        - Automatically verified
+                        - The existing API can be tested every time of deployment without manual interference
+                        - New API is tested with existing API
+                        - Can set up monitoring to ensure business continuity
+            - Product
+                - Easier collaboration between QA and backend dev, potentially FE team too
+            - Technology
+                - Easier to monitor APIs
+                - Ensure API Versioning
+        - Candidate
+            - POSTman
+                - https://www.postman.com/
+                - Verdict: **Recommended**
+                - Pros
+                    - Team collaboration capability is strong
+                    - Monitoring of API is available
+                    - Scenario based testing is available easily
+                    - Familiar
+                    - More secure if we are to scale our team
+                        - Role Based Access Control
+                - Cons
+                    - Cost model scaled by number of user
+                    - Plugins are limited
+                - Cost
+                    - 12 USD/month/user, paid annually
+                    - Proposed to be used by QA team and Backend Team and Infrastructure team
+                        - Management x 2
+                        - QA team x 6
+                        - Delivery team(Backend) x 7
+                        - Infrastructure team x 6
+                    - We can be reduced to use only 2 accounts(product, engineering) and share it 😄
+                    - Total max: **24 - 252 USD/month billed annually**
+                    - https://www.postman.com/pricing/
+            - Insomnia
+                - https://insomnia.rest/download/#mac
+                - Verdict: **Recommended**
+                - Pros
+                    - Lightweight
+                    - Open Source
+                    - Has a plugin ecosystem
+                    - `Designer` fits current Swagger based workflow
+                - Cons
+                    - More setup for team collaboration feature
+                    - The plugin ecosystem is just starting
+                    - Hard to integrate with CI
+                    - Less security related features
+                    - Cost model scaled by number of user
+                - Cost
+                    - 8 USD/month/user, paid annually
+                    - Proposed to be used by QA team and Backend Team and Infrastructure team
+                        - Management x 2
+                        - QA team x 6
+                        - Delivery team(Backend) x 7
+                        - Infrastructure team x 6
+                    - We can be reduced to use only 2 accounts(product, engineering) and share it 😄
+                    - Total max: **16 - 144 USD/month billed annually**
+                    - https://www.postman.com/pricing/
+            - Postwoman
+                - https://hoppscotch.io/doc
+                - Verdict: Not recommended
+                - Pros
+                    - Open source
+                    - Free
+                    - Web-based
+                        - We can access anywhere
+                - Cons
+                    - We need to set it up ourselves.
+                    - Web-based
+                        - Security is harder to maintain
+                - Cost
+                    - Maintenance costs from Infrastructure team
+                    - Possible downtime
+    - {{[[DONE]]}} Read [[[[books]]: Accelerate the science of lean software and devops]] Chapter
+    - {{{[[DONE]]}}}} [[1:1]] with [[Victor Lam]]
+        - How do you feel recently?
+        - How is your {personal project / family }?
+        - How is your theme / project?
+        - How is your function?
+            - Too many back and forth #CircleBack
+            - Full solution design and collaboration #CircleBack
+            - Infra project to support product delivery tools #CircleBack
+                - Who work on it?
+                - What exactly it is (Elasticsearch ?? Grafana?? Promethus?)
+        - #CircleBack topics
+            - {{query: {and: [[CircleBack]] [[Victor Lam]]}}}
+    - {{{[[DONE]]}}}} [[[[Interview]] [[Equlibrium.World]]]]
+    - {{{[[DONE]]}}}} Prepare [[Delivery [[All Hands [[meetings]]]] #4]]
+        - {{query: {and: [[Delivery [[All Hands [[meetings]]]] #4]] [[August 17th, 2020]]}}} 
+    - {{{[[DONE]]}}}} I simply cannot stop thinking about [[OSX ShortcutCast]]
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+    - Winding down...
+        - 25 minutes of retrospective + planning of the next day
+        - 25 minutes of diary writing

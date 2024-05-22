@@ -1,0 +1,26 @@
+- {{[[DONE]]}} NFT FAQ {{[[moved]]}}[*](((SuHoBqpLV)))
+- 09:30
+    - #decided to fix the project management side of NFT projects
+    - {{[[DONE]]}} PoC learnworld. 
+- 12:30
+    - [[Ellen Lau]] and [[Jeffrey Chan]] and [[Vegas Ho]]
+        - Fix the business critical stuff on internal portal
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - Membership data structure discussion
+            - [[->]] find columns that we need to collect from our 
+        - Work from home
+            - Not much hi-bye interactions
+            - water coolers closeness
+        - More guidance on
+            - Devops
+                - {{[[DONE]]}}  Pairing session when commiting codes
+- 16:30
+    - [[1:1]] [[Moses Ngan]]
+        - Customers database
+        - {{[[DONE]]}} [[<-]] Blockchain course is not one of the course type supported by admin portal.
+            - #decided [[Carmen Yeung]] to hack the bootcamp and ask Comops team to help.
+- 17:00
+    - All hands
+- 18:00
+    - [[Ehsan Ayaz]] on [[[[Preface]] [[NFT]]]]

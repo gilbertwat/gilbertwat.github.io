@@ -1,0 +1,42 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Selling]] Mac mini for 8000HKD
+    - 2 people offers 7000HKD
+        - Being greedy wanna go for 7500HKD
+            - Both declined #Failures
+    - MBA is 6999HKD for students, or 7799HKD for normal
+    - Trade in price 4884
+- Remember to update your daily habits! https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734
+- #[[Quick Capture]]
+    - 喺街度隧道上面有標語個細路女乜都唔知就望過去諗住讀出嚟，個阿媽即刻拉住佢
+    - https://apps.apple.com/hk/story/id1538120590?l=en
+    - as a manager how can you recognize the hard work of your colleagues and directly reports
+    - Zettelkasten is transforming writing from staring at a blank page to staring at a 1000 pieces of totally white puzzle. #troll
+    - Build in public is good at what?
+    - Technical people sell stuff too technically.
+        - went to a PMQ shop selling Ceramic, the pottery expert is selling in a very technical way.
+        - #[[🤔 Questions]] How should I [[Selling]] better? Hypothesis + Practices
+            - May I introduce this product for you?
+                - Try to understand the customers before selling.
+    - What is the parallel in my projects?
+        - [[Ergon]]
+        - [[GOGOX]]
+            - [[[[GOGOX]] Project Flywheel]]
+            - 
+        - [[Family]]
+            - [[Grandpa]]'s Health
+            - [[Mama]]'s Health
+            - [[Dad]]'s Health
+            - [[Wifey]]'s health
+            - [[Wifey mum]]'s health
+            - [[Lionel]]'s happiness
+        - [[Friends]]
+- Important #[[🤔 Questions]] for [[[[GOGOX]] Project Flywheel]]
+    - Do we try to retrospective on all the features we have shipped and learn from them?
+    - Do we try have a different approach to push through this?

@@ -1,0 +1,33 @@
+- 22:35
+    - {{[[DONE]]}} [Attend writing course](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/learn/lecture/4395688#content) #writings Finish on [[January 1st, 2023]]
+        - Words
+            - Create extra Special Effect
+                - Word orders
+                - Rhythm
+                - Level
+            - Power of reminder words
+                - Save readers mental power to recall
+            - Word that sound good together
+                -  
+            - Number into words, titles into descriptions
+                - Stick title to the full name
+                    - 
+            - Don't overemphasize
+                - Use bold italic underline sparsely
+            - How to slice syllables
+                - Be economical as possible
+                - Last resort to replace longer words with word with less syllables
+            -  How to expand vocabulary
+                - Look up any words
+                - Understand the differences between the two words
+                - thesaurus
+            - Hyphen is obsolete
+        - Focus on the clear intent
+- [[gratitude dairy]]
+    - Went to the park and shoot the hoop for the first time in 1X years.
+        - Feeling the difference of body but not the mind.
+    - [[Theodore]] is showing affection to share what he is eating with us.
+    - Reconnect with most of our friends
+    - Able finish the {{[[DONE]]}} [Attend writing course](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/learn/lecture/4395688#content) #writings Finish on [[January 1st, 2023]]
+- #[[understand myself]] Should I go offensive in my career? 
+    - [[咸[[卦]]]]

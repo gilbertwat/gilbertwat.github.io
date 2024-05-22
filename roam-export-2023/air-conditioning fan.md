@@ -1,0 +1,2 @@
+- http://shop.theclub.com.hk/customer/account/
+- Delivery on or after [[November 16th, 2021]]

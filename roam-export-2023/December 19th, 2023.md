@@ -1,0 +1,22 @@
+- #[[23 2023]]
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - B2G
+        - Slow
+    - B2C
+        - Kids Bootcamp 
+        - Crash Course Python
+        - Lightroom Photoshop
+        - Teenager Motivation
+        - Future Design is not selling
+            - Offering
+    - B2B
+        - Tech Competition
+            - Double down on our edge in event organizing
+    - [[Tommie Lo]] is an educator
+    - B2C shared from blog post
+- [[[[[[Preface]] tech team]] weekly meeting]]
+- #product #ideas instant crushed by the internet: alt text generator.
+    - #learnings a possible way is a deeper integration with the current content creation tools creators are using.
+- #product #ideas the input to idea to execution funnel for creatives
+    - #hypothesis is that the most 2C successful people will be the most creative and bring new perspective to their audience. If we build the tools to deeply integrate with them it will be a huge market.
+    - 

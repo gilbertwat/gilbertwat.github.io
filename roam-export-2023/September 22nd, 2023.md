@@ -1,0 +1,37 @@
+- Go with [[Yoon Kim]] on the [[Sankey]] [[data visualization]]
+    - The strength of [[Sankey]] is the representation of funnel is very clear
+    - The limitation of [[Sankey]] is that it can only represent a [[DAG]] and cannot be too many data variance
+- {{[[DONE]]}}  Update T&C with integration of [[MDX]] in [[[[Preface]] [[product]]: website]]
+- PST retention meeting with [[Jennifer Ling]] [[Darren Yeung]] [[Ellen Lau]]
+    - Notes
+        - Kids Kids Kids <--- Something for 
+        - Continuously lead-gen and referral
+            - Follow the marketing calendar
+            - Referral is about timing
+                - When the customers are excited
+                - When it is about the kids
+        -  10% of the revenue
+            - seo for niche keywords
+            - lookalike audience
+            - free trip KOLs
+        - Once a month
+        - When closing
+            - Always closing
+        - Data is just for general
+        - Competition Why not?
+            - going or not going
+            - Not convinced
+            - NEVER talk bad with competitors
+        - Course offering
+        - 1 parent : 3 sales
+        - Nothing beats a private consultation
+        - Individual conversion rate
+    - Action items:
+        - Marketing calendar for lead generation purpose
+        - Construct the sales funnels and share the definition
+            - Fill in which customers are in what part of the sales funnel
+        - Review & edit sales kit / slides for hackathon and Info Day
+        - CRM sourcing, Reboot hubspot
+    - Related
+        - {{[[DONE]]}}  How to make sure the measurement can be done in digital marketing side?
+        - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing CRM]]

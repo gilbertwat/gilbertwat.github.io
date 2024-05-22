@@ -1,0 +1,53 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[Ergon]] [[Phase 3]] [[Kick-off]]
+    - [[Chris Tsang]] [[Tony Fung]] [[Kingson Kwan]]
+    - [[Phase 2]] Fixes
+        - Loading Time
+            - Login
+                - /permission APIs [[Tony Fung]] [[Chris Tsang]]
+            - Delete Roles [[Tony Fung]]
+            - Marketing News 
+                - missing picture
+                - Ops problems with [[Parkson]] [[Chris Tsang]]
+            - All photos
+                - job owner
+                - image downsize
+                - 
+            - generate CV
+                - change to email
+            - edit CV
+                - locking 
+                    - ideally by admin portal
+    - [[Phase 3]]
+        - New Job board
+        - New Job detail
+            - Career analytics high risk
+        - New apply flow
+            - Accidentally replacement of him/herself
+        - Career Analytics
+        - Application Tracking
+            - Edit Trascking
+            - Role expansiam
+            - 
+    - Directional
+        - Admin Portal as Ergon admin panel
+    - [[Chris Tsang]]
+        - Want to hire technically sound teammates
+- #Quotes __Labor omnia vincit__
+    - Labor conquer all
+- #Notes Read https://podcasts.apple.com/hk/podcast/the-changelog-software-dev-open-source/id341623264?l=en&i=1000494205737
+    - Topics
+        - #[[🔢 Software Development]] #Devops
+    - Excerpt
+        - A proxy metrics for on boarding is how long does it take for an engineer to commit 10th PR
+        - 2000 release to production/ day
+        - 1 engineers /release /day
+        - backbone for agile
+    - Takeaways
+        - Onboarding time metrics: a proxy metric can be how long does it take for an engineer to commit 10th PR
+- [[How do you feel when you wind down?]]
+    - {{slider}}

@@ -1,0 +1,16 @@
+- 08:30
+    - [[Preface]] leadership meeting
+        - 
+- 10:00
+- 14:00
+    - [[1:1]] [[Alex Li]]
+- 14:30
+    - [[Yoon Kim]] [[Alex Li]] on [[[[Preface]] customer data platform]]
+- 15:00
+    - [[1:1]] [[Anna Yu]]
+- 16:00
+    - Interview
+- 17:30
+    - [[1:1]] Moses
+- [[gratitude dairy]]
+    - [[Wifey]] is furious about the lack of gift in Valentine's day but still put up with me.

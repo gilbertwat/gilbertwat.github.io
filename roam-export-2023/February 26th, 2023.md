@@ -1,0 +1,4 @@
+- [[gratitude dairy]]
+    - Company situation is better now, I can be more chill.
+    - [[Theodore]] starts to understand and use a lot of non-verbal communication.
+    - Changed the linden and fixed my allergy problem

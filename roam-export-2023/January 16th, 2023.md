@@ -1,0 +1,5 @@
+- #[[22 2023]]
+- 09:57
+    - Work on the [[One pager of [[Preface]] digital products]]
+- 12:17
+    - {{[[DONE]]}}  Help out on accessing Google Ads for [[Stephanie Yau]]

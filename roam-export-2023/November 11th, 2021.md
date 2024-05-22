@@ -1,0 +1,11 @@
+- [[Replan my life [[2022]] onward]]
+- {{[[DONE]]}} #Notes Read https://www.youtube.com/watch?v=CaAsswS7Sx4 
+    - Why are you reading this?
+        - I am down and need some [[Collections of motivation snippets]]
+    - Excerpts from the article and some scribble
+        - 餓我體膚勞我精。
+- 艱險我奮進，困乏我多情。
+- 千斤擔子兩肩挑，
+- 趁青春，結隊向前行。
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about

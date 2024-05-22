@@ -1,0 +1,18 @@
+- 15:15
+    - Walkthrough [[Gemmy Wong]] for the first scope of MVP
+        - {{[[DONE]]}} Update [[Preface]] the current status Finished at 00:10 [[September 27th, 2022]]
+- [[[[2022]] Week 38]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[September 19th, 2022]][[September 25th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - {{query: {and: [[decided]] {between: [[[[September 19th, 2022]]]] [[[[September 25th, 2022]]]]}}}}
+        - Fixed...
+        - Shipped...
+        - Moved X to <next step>
+            - {{query: {and: [[progress]] {between: [[September 19th, 2022]] [[September 25th, 2022]]}}}}
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[September 19th, 2022]] [[September 25th, 2022]]}}}}
+        - I felt #doubt in [[Preface]] and [[Tommie Lo]] again because Tommie is distracted.
+        - I felt I am a bit overwhelmed by [[Preface]] work with too many threads of work.
+        - I felt #escalated when I 

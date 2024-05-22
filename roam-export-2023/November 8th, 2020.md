@@ -1,0 +1,29 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Recharged
+- [[Retrospective]] of [[Week 45]]
+    - What went well? 😄
+        - Got the chance to bridge between [[[[GOGOX]] Driver Experience Theme]] and Driver Ops team
+    - What went wrong? 😞
+        - Incidents
+            - Lack of governance in hotfix process
+            - Lack of motivation to support in midnight
+            - The will of governance is easy to dwindle.
+        - [[Roger Ho]] departure
+            - What the fuck?
+        - USA election is affecting my daily attention
+        - Spending too much time on watching gaming stream
+    - What can I improve? 💪🏻
+        - Support [[Young]] and facilitate the communication between [[Young]] and the team.
+        - Be a PM in [[Ergon]] Phase 2
+        - Focus on something I can control and gain more power and capability.
+        - Spend more time on understanding and empathizing other people
+- [[Ergon]] with [[Kwong Kin Ming (KM)]]
+    - Basic walkthrough of tech
+- [[How do you feel when you wind down?]]
+    - {{slider}}

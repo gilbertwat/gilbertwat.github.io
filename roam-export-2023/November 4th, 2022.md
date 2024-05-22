@@ -1,0 +1,37 @@
+- 09:30
+    - Working on {{[[DONE]]}}  Make sure the project has no security and privacy concerns Finished at 09:59 [[November 7th, 2022]]
+- 12:00
+    - [[Family [[finance]]]]
+        - {{[[DONE]]}}  #decided If I need {{[[DONE]]}}  #evaluated BoC 年金 Finished at 09:23 [[October 31st, 2022]] Finished at 11:24 [[November 4th, 2022]]
+        - {{[[DONE]]}}  #decided If I need {{[[DONE]]}}  #evaluated FTLife 壽險 Finished at 11:23 [[November 7th, 2022]] Finished at 12:00 [[November 4th, 2022]]
+        - {{[[ARCHIVED]]}}  #to-evaluate #finance Pacific Life Insurance and get back to [[Bonny Sun]] on [[November 16th, 2022]] -> [[November 29th, 2022]]
+        - {{[[ARCHIVED]]}}  #to-evaluate #finance FWD medical insurance for [[Theodore]] and get back to [[Bonny Sun]] on [[November 16th, 2022]] -> [[November 29th, 2022]]
+- 13:45
+    - [[1:1]] with [[Tommie Lo]]
+- 14:00
+    - [[data team with [[Tommie Lo]]]]
+- 14:30
+    - {{[[DONE]]}}  Review the next step from the SG trip Finished at 15:00 [[November 4th, 2022]] with [[Anna Yu]]
+        - {{[[DONE]]}}  [[Anna Yu]] to Come up with the problem statement of product development from [SG trip notes](https://docs.google.com/document/d/1zqnlHoqtg2gYy2qeFJK969CPeF-UqKP87xcSqyda3ms/edit#) [[November 28th, 2022]] Finished at [[December 12th, 2022]]
+            - Found out a problem worth discuss in leadership team [[November 8th, 2022]] is that what is the decision can the managers make without the leaders?
+- 15:00
+    - {{[[DONE]]}}  #written Phase 3 [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] with [[Anna Yu]] Finished at 10:41 [[November 17th, 2022]] discussion with [[Moses Ngan]] [[Ben Cheng]] and [[Anna Yu]]
+- 16:00
+    - [[1:1]] with [[Tylor Ng]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - [[Ben Cheng]] style of managing seems a form of micromanaging
+                - Coding standard seems a bit too strict
+                    - Suggest him to communicate with [[Ben Cheng]] directly on that
+                - {{[[DONE]]}}  will circle back on [[November 8th, 2022]] session Finished at 18:48 [[November 16th, 2022]]
+        - What is my top of my mind since our last 1:1?
+            - Mood checking
+- 16:30
+    - [[1:1]] [[Jeffy Fung]]
+- 17:00
+    - [[Anne Rommero]] chat & sync
+        - Found Leetcode not too suitable for her learning style.
+            - Learning if she want to build stuff we should let her build.
+        - {{[[DONE]]}} Circle back on TODO MVC on [[November 25th, 2022]] Finished at 15:19 [[November 27th, 2022]]
+        - {{[[DONE]]}}  Circle back on take home test on [[November 25th, 2022]]  Finished at 09:57 [[November 28th, 2022]]

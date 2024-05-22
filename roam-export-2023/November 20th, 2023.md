@@ -1,0 +1,16 @@
+- #[[25 2023]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  #sleep 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+- {{[[TODO]]}}  #writings recitation is a mental capacity that is developed in 1-3 years old. Don't stop there.
+- 09:30
+    - #[[18 2023]] review
+    - #[[25 2023]] plan
+- 11:30
+    - OpenAI Saga following
+- 12:00
+    - [[1:1]] with [[Jeffy Fung]]
+        - A bit of bad handling for the salary part for him

@@ -1,0 +1,11 @@
+- $$C = S_tN(d_1) - Ke^{-rt}N(d_2)$$
+- **where:**
+    - $$d_1 = \frac{ln\frac{S_t}{K} + (r + \frac{(σ_v)^2}{2})t}{σ_s\sqrt{t}}$$
+    - ​and
+    - $$d_2 = d_1 - σ_s\sqrt{t}$$
+- **where:**
+    - __C__=Call option price
+    - __S__=Current stock (or other underlying) price
+    - __K__=Strike price
+    - __r__=Risk-free interest rate
+    - __t__=Time to maturity__N__=A normal distribution​

@@ -1,0 +1,37 @@
+- #[[02 2023]]
+- 09:45
+    - {{[[DONE]]}}  Review on last week #[[25 2023]]
+- 10:03
+    - {{[[DONE]]}}  Plan for this week #[[02 2023]]
+- 11:29
+    - [[Tech x Content weekly meeting [[Preface]]]]
+        - [[[[Preface]] [[project]]: Techbites Free]] will be shipped this week.
+        - [[[[Preface]] [[product]]: website]] update on [[[[Preface]] [[project]]: Website Revamp 2023]]
+- 14:00
+    Discussion with [[Ben Cheng]] [[Joseph Chan]]
+        - Discussion on the reliability of [[[[Preface]] [[product]]: Customer Portal]]
+            - [[Gilbert Wat]] will add a routine to check on my boss on investor meetings.
+            - [[Joseph Chan]] will make sure the word "ready" is "production ready", even with a potential of a hard conversation with [[Tommie Lo]]
+        - Discussion on the optics of [[[[Preface]] [[project]]: #sourcing CRM]] and the lack of importance on the stakeholders
+            - We might need to be a team to constantly promoting our work.
+        - Discussion on the perceived delay of [[[[Preface]] [[project]]: Techbites Free]] 
+            - [[Joseph Chan]] takes the initiative to speed up the process as he will feel the urge of [[Tommie Lo]]
+                - Good but not ideal as it may make the process flow and conversation more complicated.
+                    - [[Joseph Chan]] may want to discuss with [[Ben Cheng]] and possibly [[Gilbert Wat]] to see how to make no drama
+            - The priority is not clear
+                - Even leadership team has such problems
+        - Review:
+            - Is this meeting about revenue generating?
+                - Yes. We are discussing how to support [[Tommie Lo]] fund raising activities and how to make sure CRM is a success to generate more revenue in a more sustainable way.
+            - Is this related to the system of value creation?
+                - Yes. How to run projects and skip track in a productive and no drama way is essential to get the job done with no drama.
+            - Is this related to our customers
+                - No.
+- 16:00
+- 17:00
+    - Bring [[Theodore]] out
+- 17:54
+    -  Try to restart work but the mind is stuck
+- 20:04
+    - {{[[DONE]]}}  [[writings]] [[McKinsey is wrong but business demands a measurement on developer productivity, what should be it?]]
+- {{[[TODO]]}}  [[Content plan for [[writings]] in December]]

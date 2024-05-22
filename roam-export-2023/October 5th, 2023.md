@@ -1,0 +1,17 @@
+- Sharing by [[Yoon Kim]] and [[Jeffy Fung]]
+    - LoL ML
+        - End of Game file
+            - Maybe a good way to do end of class file.
+                - Capturing data problem
+                - Consent with parents
+    - Insightful
+- Work on [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]]
+    - {{[[DONE]]}}  Update the [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+        - UI
+        - Email after generation
+- Aligned with [[Tommie Lo]] [[Ben Cheng]] [[Joseph Chan]] on [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]] and onward direction
+    - sidelined web3 because of the market sentiments
+    - Expand the scope on [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] in [[[[Preface]] [[partner]]: nomad]] support to a francisee
+    - Do content contribution model in non-web3 means first.
+    - Outsource customer relationship related feature to [[[[Preface]] [[project]]: #sourcing CRM]]
+- #health #discomfort stuffy nose

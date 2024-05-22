@@ -1,0 +1,3 @@
+- Work on [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]
+- Work on [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]]
+- {{[[DONE]]}}  Read Coursera Udemy and Pearson [[Financial Report]] for [[Preface]] from [[Tommie Lo]]

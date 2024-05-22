@@ -1,0 +1,7 @@
+- What kind of friends I want to be?
+    - Funny
+    - Candid
+    - Supportive
+    - Direct
+    - Kind
+    - Insightful

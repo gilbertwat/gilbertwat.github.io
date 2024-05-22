@@ -1,0 +1,15 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- Allow mongoDB and mysql to interns [[Ergon]]
+- [[Ergon]] try bullhorn API WYSIWYG editor API response
+- [[Ergon]] career analytics threshold discussion with [[Kingson Kwan]]
+- [[Explore DAO with [[Dominic Wong]] [[James Cheuk]] and [[Joseph Cheng]]]]
+- [[Delivery [[All Hands [[meetings]]]] #6]]
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

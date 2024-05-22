@@ -1,0 +1,4 @@
+- 9:00 - 9:15 [[Twitter]]
+- 9:15 - 10:00 Buy body check for pre-vaccination
+- 10:00 - 10:30 [[Grantits.io]] [[Interview]] [[[[QA]] [[Engineer]]]]
+- 10:30 - 12:30 {{[[DONE]]}} Read [[Summary of  [[GOGOX]] Application Proof]]

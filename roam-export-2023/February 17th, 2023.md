@@ -1,0 +1,11 @@
+- 09:30
+    - DD for [[Preface]]
+- 14:00
+    - Be the judge in St. Paul Convent School on the topic "This house believes that Dependence on Artificial Intelligence Makes People Less Human"
+- [[gratitude dairy]]
+    - Able to finish due diligence
+    - Able to meet with St. Paul Convent School.
+    - Discovered [[Stephanie Yau]] is a great PR actually.
+    - [[God]]'s prayer works! Discovered the lack of calls after work lead to a feeling of abandonment and disappointment. The problem is not the action of me and I am a bad person, rather is my action will trigger a deep feeling of my [[Wifey]]
+        - I will not solve it, rather I will abide it as I care my [[Wifey]] a lot and I don't want her to experience trauma again through me.
+- {{embed-path: ((WXkLQrfqu))}}

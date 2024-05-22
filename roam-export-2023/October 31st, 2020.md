@@ -1,0 +1,63 @@
+- Always radiate your gratitude and good vibe;
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[Retrospective]] of [[Week 44]] [[Week 42]] [[Week 43]]
+    - What went well? 😄
+        - Get my brain back from burnout
+        - Understand more about Gen Z movement
+    - What went wrong? 😞
+        - Still migraine because of lack of water last night
+    - What can I improve? 💪🏻
+        - Focus on advance some parts of the projects
+        - Focus on 1 - 2 topics a time
+        - Other time focus on recharging and recovering
+        - 見字飲水
+- https://github.com/libvips/libvips #Tools #ImageProcessing
+- #Notes URL https://divinations.substack.com/p/inside-the-clubhouse 
+    - Topics
+        - #Startup
+    - [[Excerpts]]
+        - Clubhouse is now a audio / podcast startup exclusively in SV 
+        - Exclusivity
+        - Interacting with great people, in real time.
+        - Core mechanics
+        - Core community
+        - Liquidity of the currency in a particular community is utmost important
+    - {{[[DONE]]}}  Takeaways
+        - Core community is the most important part of a company.
+        - Core mechanics of growth is one of the most important part of a company.
+        - Core mechanics of revenue is one of the most important part of a company.
+- No Code / Low Code #[[ideas]]
+- Next gen e-commerce experience #[[ideas]]
+- Clarify.io #[[ideas]]
+    - Help you make your article / slides as unambiguous as possible.
+        - Whatever there is adjective.
+    - WFH Number 1 challenge
+        - communication
+            - non-verbal communication
+            - tone
+            - urgency
+    - competitor
+        - grammar.ly
+        - gramama
+- #Tools #Research #Cryptocurrency
+    - [[Sia]]
+    - [[ethereum]]
+    - [[bitcoin]]
+    - [[Tezos]]
+    - [[Cardano]]
+    - [[ipfs]]
+    - [[DeFi]]
+    - https://www.ampleforth.org/
+    - https://ethereum.org/en/
+    - https://bitcoin.org/en/
+    - Filecoin
+- [[How do you feel when you wind down?]]
+    - {{slider}}
+- #[[Quick Capture]]
+    - convenient as a feature.

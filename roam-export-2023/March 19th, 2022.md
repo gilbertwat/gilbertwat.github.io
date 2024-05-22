@@ -1,0 +1,3 @@
+- 18:29
+    - [[Latex]] in Roam is using [Katex](https://katex.org/docs/supported.html)
+    - [[Intro to [[Deep Learning]] MIT 6.S191]]

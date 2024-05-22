@@ -1,0 +1,25 @@
+- #[[21 2023]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+    - Mind
+        - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+- {{[[DONE]]}}  [[Ilja]] arrangement
+- 12:00
+    - Meeting with [[Kelvin Chan]] and [[Andy Lai]] on [Z27 Quotation](https://docs.google.com/document/d/1rKIuH929uXGjoXW1bwIPrIq-5wcLRUW88rZnt0OLVns/edit)
+        - {{[[DONE]]}}  Renew the [quotation](https://docs.google.com/document/d/1rKIuH929uXGjoXW1bwIPrIq-5wcLRUW88rZnt0OLVns/edit)
+            - Add GenAI related features 1-2
+            - Remove Registration
+            - Complementary state of the AI 2023 Nov 
+- 14:00
+    - [[health]] chinese doctor visit Number 3
+        - #health #discomfort stuffy nose
+        - #health #discomfort red eyes and swollen tear duct
+        - 2 Herbal tea to fix my [[nose allergy]]
+        - Acupunture 
+        - doctor notes:
+            - Seems a bit too slow for recovery
+        - #decision

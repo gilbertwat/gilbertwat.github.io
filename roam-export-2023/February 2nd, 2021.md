@@ -1,0 +1,62 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - late [[sleep]] but energtic
+- Start the day **strong**!
+- {{embed: TODOs}}
+- {{[[DONE]]}}  ITGC request [[GOGOX]]
+- [[Interview]]
+    - Self introduction
+    - Technical questions (4/10)
+        - Payment System Design 
+            - can follow up with my questions
+            - Willing to say "I don't know"
+            - Flexible, adaptive
+            - The solutions are showing the knowledge is not solid
+            - No deep thoughts on system design.
+        - JS specific fundamental
+            - Single process architecture
+            - `==` vs `===`
+            - Promise
+            - `async` and `await`
+    - Soft problems (8/10)
+        - How do you see yourself in 1-3 year
+            - engineers
+                - master framework
+                - handle backend projects
+                - more hands on experience
+            - full stack engineers
+                - more
+        - What excites you in your career?
+            - More busy 
+            - Learn more new stuff
+        - What frustrated you in your career?
+            - Task based, supporting role
+        - Managers expectation
+            - Trust the colleagues for fail fast
+            - mangerial skills (workflow, workload)
+        - How do you see yourself in 10 years
+            - still have learn new things
+            - growth or die
+            - solid skills
+            - managerial / lead
+            - responsibilties
+            - competitive
+    - Q&A problem (10/10)
+        - Are there any new projects?
+        - Do we have to maintain legacy projects?
+- [[cryptocurrency]]
+    - https://aragon.org/product
+    - http://app.uniswap.org.ipns.localhost:8080/#/swap
+    - https://polkadot.network/
+    - https://shuttleone.network/2020/
+    - http://tornado.cash.ipns.localhost:8080/
+    - https://coinjoin.io/
+    - https://docs.snapshot.page/
+    - pickle.finance
+    - https://utrust.com/
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

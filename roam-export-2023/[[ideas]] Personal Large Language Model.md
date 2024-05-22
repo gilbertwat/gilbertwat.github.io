@@ -1,0 +1,3 @@
+- {{[[ARCHIVED]]}}  Frontend design driven by GPT-4 design
+- {{[[ARCHIVED]]}}  Fine-tuning with personal journals and blogs
+- 

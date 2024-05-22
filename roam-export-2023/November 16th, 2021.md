@@ -1,0 +1,19 @@
+- {{[[DONE]]}} #Notes Read https://ncase.me/trust/ 
+    - Why are you reading this?
+        - I want to revise my understanding of [[Game theory]].
+    - Excerpts from the article and some scribble
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Fi91V9FbsWh.png?alt=media&token=a318fac4-7e96-4008-a9a2-3e241d0507e2)
+    - Takeaways to be insert into [[Permanent Notes]]
+        - Repeat interactions will create more [[Trust]] as the time goes by.
+        - Playing a non-zero-sum game will create more [[Trust]].
+        - High miscommunication will break down [[Trust]].
+        - A little bit of forgiving will maintain the [[Trust]] in the group.
+- {{[[ARCHIVED]]}} #Notes Read https://danluu.com/people-matter/ 
+    - Why are you reading this?
+        - I want to [[building a [[company]]]], in a good way.
+    - Excerpts from the article and some scribble
+        - Another place the non-fungability of people causes predictable problems is with how managers operate teams. Managers who want to create effective teams[1](https://danluu.com/people-matter/#fn:P) end up fighting the system in order to do so.
+        - People, as a whole, cannot be treated as an abstraction where the actions company leadership takes impacts everyone in the same way. The people who are most effective will be disproportionately likely to leave if you turn a knob that leads to increased attrition.
+        - A friend of mine recently told me a story about a trendy tech company where they tried to move six people to another project, one that the people didn't want to work on that they thoguht didn't really make sense. The result was that two senior devs quit, the EM retired, one PM was fired (long story), and three people left the team. The team for both the old project and the new project had to be re-created from scratch.
+    - Takeaways to be insert into [[Permanent Notes]]
+        - [[people]] is not fungible and most of the corporate system is doing so differently.

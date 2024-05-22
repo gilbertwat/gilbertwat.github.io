@@ -1,0 +1,23 @@
+- What is no code
+    - Vague definition
+        - RPA?
+        - Website builder?
+        - CRM? CMS?
+        - BPM?
+        - AI?
+    - Let's define
+        - A GUI with construct that can automate process
+- The core problem of no code: 
+    - leaky abstraction
+        - No one is of the incentive to define a clear boundary for their services
+        - The effort to make it useful is huge
+        - The expertise to make it work is almost like hiring a developer.
+            - Design thinking
+            - System design
+        - Poor Documentation
+        - Where is the data?
+- Yeah, but I really want no code
+    - Product mindset engineer
+    - Robust integration pattern and platform with current infrastructure
+    - Documentation based culture
+    - Scratch first?

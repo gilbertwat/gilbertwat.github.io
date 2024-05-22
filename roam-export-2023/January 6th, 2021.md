@@ -1,0 +1,152 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - 50+ pan-democractic supporters are detained by CCP
+- Start the day **strong**!
+- #[[decision]] Include [[Ben Cheng]] in to tech lead meetings
+    - Originally I am very skeptical on this. I am still not sure to put [[Ben Cheng]] on the spot, because I think his skills of [[managing down]], [[motivating people]] and [[Giving and receiving candid and actionable feedback]] is lacking.
+    - #Reasons DTV
+- #[[decision]] Do every [[QPSM]] meetings in 1 day
+    - #Reasons
+        - 麻煩嘅事一次過搞掂 
+- [[[[GOGOX]] Driver Experience Theme]] [[QPSM]] [[[[2021]] Q1]] [[meetings]] 
+    - [[Victor Lam]] [[Ben Cheng]] [[Keith Chan]] [[Tom Lui]]
+    - Vibe
+        - complaining about HK Driver Ops team
+    - [[[[2020]] Q4]] Review
+        - Time based surcharge is not completed in last quarter
+            - Because of App Quality issues
+            - Because of People are deadline fighter for taking AL in the last minute
+        - [[Peter Wong]] leads with project that he is interested in: Traffic / Weather Alert
+        - People are deadline fighter for taking AL in the last minute
+        - App Quality issues
+            - iOS crashes
+            - Android hang
+        - A lot of feature is not released after deployment
+            - #[[🤔 Questions]] which feature is not release right after deployment?
+            - Because of Ops team veto.
+                - Why?
+                - Impact?
+            - Because of translation issues.
+        - HK and ex-HK
+    - [[[[2021]] Q1]] Preview by priorities
+        - 1. Rollout unified list in [[Feb 2021]]
+        - 2. Impact analysis of some feature
+            - Driving mode
+            - Traffic alert
+        - 3. App Stability
+            - Occasion lag
+            - Icon missing
+            - wrong copywriting
+            - occasion blank screen
+        - 4. HK revenue generation [[[[GOGOX]] cross theme [[project]]]] [[[[GOGOX]] Payment Theme]] [[[[GOGOX]] Business Experience Theme]]
+            - Subscription program
+                - {{[[DONE]]}} #[[🤔 Questions]] Could be develop together with [[[[GOGOX]] Business Experience Theme]] subscription program?
+                - MVP: subscription by gogocoin
+                - partner wallet integration with Stripe???
+        - 5. Positive feedback loop on driver [[[[GOGOX]] cross theme [[project]]]] [[[[GOGOX]] Growth Marketing Theme]]
+            - Punctual
+            - attitude
+        - 6. Dispatch Window iteration v2
+    - Some other challenges
+        - scrum team
+            - why?
+        - Backend engineers has too much to work on.
+- [[[[GOGOX]] Business Experience Theme]] [[QPSM]] [[[[2021]] Q1]] [[meetings]]
+    - with [[Victor Lam]] [[Rob Dong]] [[Keith Chan]] [[Rob Kealey]] [[Ben Cheng]]
+    - Vibe
+        - need to build closer relationship with [[Rob Kealey]]
+    - [[[[2020]] Q4]] Review
+        - Injected self sign up feature intended to improve coversion
+        - Kavin Wong and Ben Cheng disruption
+        - Ben Cheng is on 2 theme
+        - ++ Capacity heads up from Rob(Web)
+            - B2C Quoting page (CET)
+        - To be more aware of cross theme projects/ tasks
+            - Door to door services
+        - Most challenging for resource planning
+            - GGE + CET
+    - [[[[2021]] Q1]] Preview
+        - Paid subscription for GGB [[[[GOGOX]] cross theme [[project]]]] [[[[GOGOX]] Payment Theme]] [[[[GOGOX]] Driver Experience Theme]]
+            - Even Rob(PM) is skeptical
+            - Project flywheel-related
+        - Fix moving fees (End of Q1)
+            - [[[[GOGOX]] cross theme [[project]]]]
+        - Other frontend heavy work (Nice to have)
+            - Update order management page (GGB+GGD)
+            - Home screen unification
+            - notification sections
+    - Challenges
+        - Time allocation for teammates
+            - Project flywheel research
+            - Shortage of backend engineers
+- [[[[GOGOX]] Client Experience Theme]] [[QPSM]] [[meetings]] for [[[[2021]] Q1]]
+    - with [[Leslie Lai]] [[Victor Lam]] [[Rob Dong]] [[Keith Chan]] [[Ben Cheng]]
+    - Vibe
+        - [[Leslie Lai]] lead the way
+    - [[[[2020]] Q4]]Review
+        - AR 2.0 TW / SG not launch (DA troublesome)
+        - In-app chat
+            - Push notification troublesome
+        - Select Service (not launch because $1 profitability
+        - Premium Service +
+        - Data tracking integration
+        - Design system
+        - App Quality
+    - Coming Quarter
+        - TO BE PRIORITIZED
+            - 1. Premium Service in TW/VN/SG
+            - 2. Force update in DA Launch AR 2.0 TW/SG launch
+            - 3. Force update reminder
+            - 4. map input UI improvement
+            - 5. Favorite Driver in CA
+            - 6. In-app chat
+            - 7. 3DS (need work around to handle prepaid fraud)
+            - 8. Brainstorming
+            - 9. GOGOMoving built-in flow
+            - 10. Whatsapp place order
+            - 11. Allow user cancellation investigation
+            - 12. Driver validation through AR 2.0
+            - 13. SMS verfication fallback
+            - 14. Blacklist driver
+    - Challenges
+        - Quality issues 
+            - In-app chat notification
+            - DA
+- [[[[GOGOX]] Payment Theme]] and [[[[GOGOX]] Internal Efficiency Theme]] [[QPSM]] for [[[[2021]] Q1]]
+    - [[[[2020]] Q4]] Review
+        - Roger's leaving create a vaccum in delivery
+        - Payme Integration (Engineering resource) Kavin estimation is not as accurate,
+            - [[Phoenix Lau]] is not confident in shipping on time Jan 20
+        - Henry can finish on early next week
+        - Ravic need to integrate
+        - Engineering need to work closer with PMs (overloaded)
+    - [[[[2021]] Q1]] Preview
+        - Refactoring + bug fixing
+        - Fraud case handling
+        - 3DS is a possible [[[[GOGOX]] cross theme [[project]]]] with [[[[GOGOX]] Client Experience Theme]]
+        - Payment operation efficiency (refund handling)
+        - Preview of Q2 Promotion code
+        - subscription module [[[[GOGOX]] cross theme [[project]]]]
+- [[[[GOGOX]] GOGODelivery Theme]] [[QPSM]] for [[[[2021]] Q1]] [[meetings]]
+    - [[[[2020]] Q4]] Review
+        - Backend Engineers shortage
+        - Incidents and bugs
+        - iOS refactoring
+        - All time high! ++
+    - [[[[2021]] Q1]] Preview
+        - Originally Hub things
+        - Partner Wallet [[[[GOGOX]] cross theme [[project]]]]
+        - Payme [[[[GOGOX]] cross theme [[project]]]]
+        - Charging decreases the completion rate
+            - Small experiments to mitgate the risk
+    - Challenges
+        - Because flywheel, More people involving GGD 
+- [[Ergon]] weekly meetings
+    - [[Kwong Kin Ming (KM)]] is very careful now, wondering if this is his natural tendency or environment shape him.
+    - {{[[DONE]]}}  Setup POSTman collection
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

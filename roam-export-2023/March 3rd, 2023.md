@@ -1,0 +1,4 @@
+- 10:00
+    - [[1:1]] with [[Jeffy Fung]]
+- 10:30
+    - [[1:1]] with [[Yoon Kim]]

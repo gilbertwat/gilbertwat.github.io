@@ -1,0 +1,12 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - Debate on the sales incentive
+        - Agree there should be an incentive for Sales to close
+        - Shared the difficulties from the owner's need
+            - The owner need the number's up (revenue)
+            - The owner think people can work more and contribute to Preface more.
+        - Shared the difficulties from the work level side.
+            - The contribution is not attributed correctly.
+            - The hour of working is long and unpredictable.
+        - Need to make both side of the need got fulfilled.
+- Research on [[[[Preface]] [[project]]: #sourcing Knowledge management]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2F_olbdHEBpj.png?alt=media&token=8b3892cb-4b16-4ffb-900e-01b6daed8f50)

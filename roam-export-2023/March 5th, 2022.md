@@ -1,0 +1,15 @@
+- 01:00 - 05:00
+    - Determined to figure out why [[Theodore]] is fussy in the nights
+        - closely monitoring
+        - find out 2 signals
+            - go super fussy once after some funny burp sound.
+            - need to drink a few drop of milk and calm down
+            - #hypothesis burping not enough and causing acid reflux
+                - #fix
+                    - sit on the high chair and let him burp himself before laying him back.
+                    - burp longer
+- [[Wifey]] Birthday
+    - But with a mild fever =(
+- [[Theodore]] new routine
+    - Eat -> [[sleep]] Cycle
+    - Eat -> play -> Eat -> [[sleep]] Cycle

@@ -1,0 +1,11 @@
+- Split the team into 2 aspects
+    - Efficiency + Platform
+        - Grow Current Business locally
+            - B2G
+            - B2B
+            - B2C
+        - Enhance current platform
+        - International expansion (Focus)
+    - Research
+        - Prototyping + Testing the market
+        - Testing new technology

@@ -1,0 +1,36 @@
+- Lead Mobile Team
+    - Achievement
+        - [[2019 Q4]]
+            - Ensure new CA shipped
+        - [[[[2020]] Q1]]
+            - Lead new CA clean up in Mobile
+        - [[[[2020]] Q2]]
+            - Smooth out CI/CD
+            - Put effort on smoothen out QA/Dev relationship
+                - Automate release note
+            - Code coverage increase by new code review standard
+            - Kickstart [[mobile design system]] discussion
+        - [[[[2020]] Q3]]
+            - Efforts on [[mobile design system]]
+            - Put effort on smoothen out QA/Dev relationship
+                - Automate release note
+            - Improved agile process in [[[[GOGOX]] Driver Experience Theme]] and [[[[GOGOX]] Client Experience Theme]]
+            - New Infrastructure PoC
+                - Instabug
+                - Sonarqube
+    - Testimonial
+        - Technical leadership on refactoring iOS CA and DA
+        - Talk about career growth
+        - Lead mobile design system
+        - Lead agile process discussion with agile teams
+    - Suggestion on leveling up
+        - Continue the good work on keeping a good relationship with product managers
+        - Continue the good work on setting up an example for engineers in technical excellence and attitude
+        - Continue the good work on giving a lot of ideas in improving our delivery quality and speed
+        - Continue the good work on suggesting new tools and infrastructure to improving our product and software quality and shorten our product feedback loop
+        - Stop taking the problems head on with technical solution, sometimes the solution is in somewhere else
+        - Start creating the good vibe of discussion within mobile dev
+        - Start understanding the strength of teammates and suggest projects / growth plan to them
+        - Start to keep a journal to reflect and build self-awareness
+    - As a team lead, the improvement of iOS and Android team is greatly exceeding my expectation thanks to you. Team members went from engineers with fixed mindset, siloed to now a more collaborative and capable software engineers. Moving forward we are going to transform even more by nudging them to be even more collaborative and achieve projects together.
+    - Keep it up!

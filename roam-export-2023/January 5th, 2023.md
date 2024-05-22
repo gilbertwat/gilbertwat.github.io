@@ -1,0 +1,139 @@
+- #[[08 2023]]
+- 09:33
+    - {{[[DONE]]}}  Proposed tech team plans
+        - Goal in 2023
+            - Product feedback loop
+            - Full customer learning journey
+            - customer generated contents
+        - Ideal Team Size to Series B (even Series C)
+            - Product / Engineering / Data Leadership
+                - 1 Head of Engineering
+                    - Hiring
+                    - Coordinating (Architecture)
+                - 1 Head of PM
+                    - Hiring
+                    - Coordinating (Cross theme features)
+                - 1 Head of Design
+                    - Hiring
+                    - Coordinating (Design System)
+            - Nomad Portal (Nomad experience)
+                - Key Metrics
+                    - Number of nomad
+                    - Nomad matching speed
+                    - Nomad matching rate
+                - Work in mind
+                    - Nomad profile
+                    - Nomad upskilling path
+                    - Nomad notifications
+                        - upskilling opportunity
+                - Ideal team size
+                    - 1 PM
+                    - 1 Tech Lead
+                    - 1 Designer
+                    - 3-6 Full stack engineer
+            - Customer Portal (Learning experience)
+                - Key metrics
+                    - DAU / MAU
+                    - LTV
+                - Work in mind
+                    - customer learning journey
+                    - recommendation engine
+                - Ideal team size
+                    - 1 PM
+                    - 1 Tech Lead
+                    - 1 Designer
+                    - 3-6 full stack engineer
+            - Platform X Internal Efficiency
+                - Key metrics
+                    - Feature Lead time
+                    - Uptime
+                    - Internal efficiency
+                    - Manual process in customer success
+                - Work in mind
+                    - Improve Developer Productivity
+                    - Improve internal efficiency
+                    - Overall 
+                - 1 Staff Engineer
+                - 1 Data Manager
+                - 2-3 engineer
+                - 1-2 Data engineer
+            - Content Pipeline (If techbites is very successful)
+                - Common stakeholders
+                    - content team
+                    - Customer portal
+                - Key metrics
+                    - production lead time
+                    - number of contributors
+                - Work in mind
+                    - Application of tools
+                    - Content creator experience
+                - Ideal team size
+                    - 1 PM
+                    - 1 TPM
+                    - a pool of contributors
+            - Classroom Experience
+                - Common Stakeholders
+                    - CEO
+                - Key metrics
+                    - Find PMF in EdTech in XR 
+                - Work in mind
+                    - Explore XR(extended reality)
+                - Ideal team size
+                    - 1 PM
+                    - 1 TPM
+                    - a pool of contributors
+        - Suggested hiring approach
+            - Leadership and Platform
+                - In-house as it is critical and need to be reliable and flexible enough
+            - Classroom experience
+                - PM has to be in-house
+                - Research based, partnership with external party to reduce cost of experimentation
+            - Customer Portal
+                - current in-house team
+                - need to be high quality and represent our brand
+            - Nomad Portal
+                - freelance delivery team with in-house PM 
+            - Content Pipeline
+                - PM / TPM has to be in-house
+                - A flexible source of developers or no-code / low-code 
+- 13:00
+    - People team monthly with [[Vegas Ho]]
+        - #learning I need to keep reminding everyone the goal and purpose of the ongoing projects
+        - Current rating of team members
+            - A player: Ben, Yoon
+            - B+ player: Alex, Jeffy
+            - B player: Cheryl, Moses, Anna
+            - C player
+        - {{[[DONE]]}}  [[Yoon Kim]] promotion plan to be completed on [[January 13th, 2023]]
+        - {{[[DONE]]}}  proactively repeat the goal of the project and sync up with stakeholder so that the tech team is not working in silo / only serve investor need in perception.
+            - With the help of [[[[Preface]] [[strategy]]: product metrics]] we are going to make it very easy to understand.
+- 14:00
+    - Kickstart [[[[Preface]] [[project]]: Nomad payment scheme update]] with [[Vegas Ho]] and [[Ellen Lau]]
+        - #learning Listen first, even you find it challenging to listen
+            - Why it is challenging?
+                - I don't want to repeat to go through the requirement again.
+                    - I forgot repeating is crucial to communication and keeping everyone aligned.
+        - Aligned high level requirement from operation on [[[[Preface]] [[product]]: Customer Portal]] and [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+            - #learning shared lingo is crucial to communication
+            - [[[[Preface]] [[product]]: Customer Portal]]
+                - Onboard -> Book / Enroll -> Attend -> Feedback
+            - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+                - Dashboard -> Payment Summary -> Availability
+        - Aligned the scope of project:
+            - All nomad contribution with us will be documented in the portal
+                - Technically speaking we will store all nomad participation and the rate in each "Happening"
+            - Automatically generate earning summary in nomad profile
+            - Change our payout scheme from monthly to every nomad to only nomad that reach a threshold payout.
+        - Aligned health check meeting after leadership weekly meeting
+        - Aligned we will explore the possibility to sort out to remove operation involvement in learning report / gathering feedback / consultation of next courses.
+        - Aligned we will gather the next milestone to be week 5 / week 6 
+            - align roll out plan
+        - Action items:
+            - {{[[DONE]]}} layout actual UI/UX and layout (Tech Team) before the next milestone [[February 8th, 2023]] pushed to [[February 15th, 2023]] 👏🏼 finished on [[March 14th, 2023]]
+            - {{[[DONE]]}} Formulate common understanding of module between tech and ops by calling a meeting among tech, com ex and training team 👏🏼 finished on [[February 14th, 2023]]
+            - {{[[ARCHIVED]]}} Explore the possibilities to speed up development of learning journey in [[[[Preface]] [[product]]: Customer Portal]]
+                - {{[[ARCHIVED]]}}  Mockup the current operation in high level that provide learning report / course recommendation in [[[[Preface]] [[product]]: Customer Portal]] 
+- 23:30
+    - [[gratitude dairy]]
+        - Grateful for the pause and ability to start listening on the spot when having meeting of Kickstart [[[[Preface]] [[project]]: Nomad payment scheme update]] with [[Vegas Ho]] and [[Ellen Lau]]
+        - Grateful for the opportunity to WFH

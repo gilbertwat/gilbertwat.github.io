@@ -1,0 +1,48 @@
+- FTP for normal amateur race rider = 250W - 300W
+- FTP for GC 360W - 400W
+- FTP for trialethist 340W - 360W
+- How to test FTP
+    - Warm up
+        - 20min Zone 2
+            - 55%-75% FTP / 65%-79% HRM
+        - 3 x 1 min with 1 min rest
+            - 100-120rpm
+        - 5min Zone 2
+            - 55%-75% FTP / 65%-79% HRM
+    - Real deal
+        - 5 min Zone 5 (Optional)
+            - 105% - 120% FTP / 90% - 100%
+        - 10 min Zone 2 (Optional)
+            - 55%-75% FTP / 65%-79% HRM
+        - 20 min Zone4 **
+            - 91%-1-5% FTP / 82%-92% HRM
+    - Cool down
+        - 10-15 min Zone 1
+    - Calculation
+        - 20 min Zone4 ** result * 0.95
+    - Tempo
+        - Every 2-3 months / once per quarter
+- FTP for normal amateur race rider = 250W - 300W
+- FTP for GC 360W - 400W
+- FTP for trialethist 340W - 360W
+- How to test FTP
+    - Warm up
+        - 20min Zone 2
+            - 55%-75% FTP / 65%-79% HRM
+        - 3 x 1 min with 1 min rest
+            - 100-120rpm
+        - 5min Zone 2
+            - 55%-75% FTP / 65%-79% HRM
+    - Real deal
+        - 5 min Zone 5 (Optional)
+            - 105% - 120% FTP / 90% - 100%
+        - 10 min Zone 2 (Optional)
+            - 55%-75% FTP / 65%-79% HRM
+        - 20 min Zone4 **
+            - 91%-1-5% FTP / 82%-92% HRM
+    - Cool down
+        - 10-15 min Zone 1
+    - Calculation
+        - 20 min Zone4 ** result * 0.95
+    - Tempo
+        - Every 2-3 months / once per quarter

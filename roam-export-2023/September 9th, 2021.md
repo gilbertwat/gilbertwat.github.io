@@ -1,0 +1,26 @@
+- [[Web Design]] #Resources
+    - https://hexcolor.co/gradient-colors
+- [[Grantits.io]] consultancy period with [[Lina Sio]] and [[Megan Wong]]
+    - Understand the problem facing by
+    - Pricing structure
+    - mini tools
+    - PoC
+- #[[🧘🏻‍♂️ Self Awareness]] #Anger quite pissed off when I saw the Job Ad of an [[Engineering Manager]] of [[GOGOX]] in [[🏴Hong Kong]]
+    - My first impression is that is I am doing something bad before so I am being reassigned to another post
+        - I know it is irrational and illogical and wrong
+        - But I need to figure out why I am feeling that way
+    - Should I ask [[Alia Bei]] if it is true?
+        - What if I tell?
+            - Can [[Alia Bei]] tell me the truth?
+                - No
+                    - Conflict of interests / Lost in translation ...etc.
+            - Assume I know the answer, even the right one?
+                - Yes. You sucks.
+                    - I feel
+                - No. You are awesome, so reassign you to the new and critical projects.
+        - What if I not?
+            - My feeling will brew
+                - The problem is feeling brewing when untold and unresolved.
+        - [[decision]]
+            - I do not tell and rant.
+        - #Feeling #Accomplished as I am able to control my emotions and don't let it took over my actions.

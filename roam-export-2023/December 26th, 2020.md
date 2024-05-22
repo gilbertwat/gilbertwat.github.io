@@ -1,0 +1,15 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #[[blogs]] #[[ideas]] Blogging ideas: So you are now promoted to a manager, what's next?
+- #[[Quick Capture]]
+    - 廣東話藍絲五毛小粉紅都明嘅民主自由概念
+    - How to overcome my ADHD? 5 deep breaths before executing
+    - learning how to do finance and earn more money?
+    - To make a remote working effective we should First consider the medium we are communicating let’s say if you wanna discuss about something clarify something your better zoom or call, If you need to brainstorm something you might want to open up documents and diagram. If you want to discuss some things seriously you might want to open up email.
+    - 先做人後做manager.

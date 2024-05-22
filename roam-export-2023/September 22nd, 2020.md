@@ -1,0 +1,48 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Not much [[sleep]]
+        - Very pumped by adrenaline
+- {{[[DONE]]}} [[GOGOX]] GOGODelivery]] [[[[2020]] Q3]] retro and [[[[2020]] Q4]] [[planning]]
+    - A little retro on [[[[2020]] Q3]]
+        - Improve Ops efficiency (6/10)
+            - Fountain integration
+                - Merging ops flow
+        - Enable CC payment (Theme Payment) (6/10)
+            - Ongoing
+                - Mid [[[[2020]] Q4]]
+        - Enable Business team capabilities (7/10)
+            - Launch promo code on CA 
+                - Early [[[[2020]] Q4]]
+        - Prepare to support VN (6/10)
+            - No full criteria at the start of [[[[2020]] Q3]]
+            - Early [[[[2021]] Q1]]
+        - Validate the hub and spoke model (1/10)
+            - Meetings with business team
+            - Corp team is running it but we don't
+        - Web team collaboration
+            - [[Hon Chan]] and [[Matthew Ng]] to [[[[GOGOX]] Business Experience Theme]] is not optimized
+                - Sprint meetings are not optmized
+                - Cannot join all
+        - Major pivot on team goals during the Q2 - Q3
+            - It is normal as long as all agreed and < 3 team goals concurrently
+        - Only theme that is E2E
+            - DA,CA,Web,Platform
+        - **Suggestion**: Iterate more on the Frontend side.
+    - A preview on [[[[2020]] Q4]]
+        - GGD API support
+            - Draft status
+            - GGB Draft UI flow (Need to check with [[Vincent Chan]] [[[[GOGOX]] Integration Theme]])
+        - Partner charging
+            - Dependent on [[[[GOGOX]] Payment Theme]]
+        - **Possibly **PayMe as Payment Method
+            - Priority is needed to discussed with Business tteam
+            - Dependent on [[[[GOGOX]] Payment Theme]]
+        - GGD Technical Debt
+            - See how we can consolidate it into GGD
+    - Action Plan
+        - Discuss and plan in the next 2 weeks a more concrete and achieveable roadmap for 2020 Q4 in Delivery Theme
+- [[How do you feel when you wind down?]]
+    - {{slider}}

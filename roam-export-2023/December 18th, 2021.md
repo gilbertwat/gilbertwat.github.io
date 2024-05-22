@@ -1,0 +1,68 @@
+- {{[[DONE]]}} Read https://aws.amazon.com/message/12721/ 
+    - Why are you reading this?
+        - I want to write better [[post mortem]]
+    - [[Literature Notes]]
+        - The incident affects the availability of the monitoring tools.
+        - Moving services from the congested network to another unaffected network is a way to remedy situation.
+        - Act of remediation is very important not to further increase the impacted services
+        - Unobserved behavior is an important source of disruption
+- {{[[DONE]]}} Read https://zimtik.com/en/posts/how-to-handle-difficult-clients 
+    - Why are you reading this?
+        - I want to be able to [[handle difficult conversations]] with external clients.
+    - [[Literature Notes]]
+        - How to detect a difficult client to work with?
+        - A polite client is a [[perfect client]].
+        - A professional client is a [[perfect client]].
+        - A client who honors deadlines and agreements is a [[perfect client]].
+        - A client who gives back is a [[perfect client]].
+        - A client who has a friendly vibe is a [[perfect client]].
+        - [[De-escalation]] could start with a calm voice.
+        - [[De-escalation]] need me to [[listen]] with detachment.
+        - Sharp, direct and critical with a calm voice is possible to perform [[De-escalation]].
+        - A clear and realistic communication of [[context change]] such as scope change, late of materials...etc. can help [[De-escalation]] and resolve delay without taking unnecessary responsibilities.
+        - [[mental health]] is not worth it for keeping a bad client.
+        - A [[bad client]] is abusive.
+        - A [[bad client]] is giving limited positive feedback but much criticism.
+        - A [[bad client]] is sucking the joy out of working
+    - #questions
+        -  What is a profile of a [[perfect client]]?
+        - How to quit a [[bad client]] gracefully?
+- 14:00 - 15:30 Read [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+- 15:30 - 16:30 Tea with [[Wifey]]
+- 16:30 - 17:30 Read [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+- 17:30 - 18:30 Nap
+- 18:30 - 19:00 Finished [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+- Import
+    - [[[[books]]: Disunited Nations]]
+        - From: [[books]]: Disunited Nations.md
+    - [[[[books]]: Common Sense]]
+        - From: [[books]]: Common Sense.md
+    - [[[[books]]: Arsène Wenger]]
+        - From: [[books]]: Arsène Wenger.md
+    - [[[[books]]: Algorithms for Decision Making]]
+        - From: [[books]]: Algorithms for Decision Making.md
+    - [[[[books]]: Alexander Hamilton]]
+        - From: [[books]]: Alexander Hamilton.md
+    - [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+        - From: [[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life.md
+    - [[[[books]]: Accelerate the science of lean software and devops]]
+        - From: [[books]]: Accelerate the science of lean software and devops.md
+    - [[[[books]]: A Practical Theory of Programming]]
+        - From: [[books]]: A Practical Theory of Programming.md
+    - [[[[books]]/The Invention of China]]
+        - From: [[books]]: The Invention of China.md
+    - [[[[books]]: The Art of Leadership]]
+        - From: [[books]]: The Art of Leadership.md
+    - [[[[books]]: Shape up]]
+        - From: [[books]]: Shape up.md
+    - [[[[books]]: Macau Society and History]]
+        - From: [[books]]: Macau Society and History.md
+    - [[[[books]]: Leadership in Turbulent Times]]
+        - From: [[books]]: Leadership in Turbulent Times.md
+    - [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]]
+        - From: [[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers.md
+    - [[[[books]]: The Laws of Human Nature]]
+        - From: [[books]]: The Laws of Human Nature.md
+    - [[[[books]]: 徹底看懂自行車功率訓練數據]]
+        - From: [[books]]: 徹底看懂自行車功率訓練數據.md
+- 23:30 Snapshot my [[finance]]

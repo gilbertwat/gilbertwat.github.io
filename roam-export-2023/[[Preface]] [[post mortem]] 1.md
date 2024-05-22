@@ -1,0 +1,27 @@
+- Summary of the incident
+    - In the evening of 2022/01/25, a data change in our admin portal caused our website to break. Our code in the admin portal is hard coded and hence the admin portal has failed to cater the data changes. ~100 clicks to the page and the attendee of the events are affected. The breakage has lasted for 2.5 hours until it is recovered.
+- Timeline of key events
+    - 20:36 https://prefaceeducation.slack.com/archives/GV7AY81RT/p1643114181003100 Colleagues reports 500 errors
+    - 22:35 https://prefaceeducation.slack.com/archives/GV7AY81RT/p1643121318007600 Engineers work on it.
+    - 22:50 Fixed and the page is back online.
+- Key metrics
+    - [[Time to Recovery]]
+        - From discovery to recovery
+        - ~2.5 hours
+    - Business Impact
+        - ~100 clicks on the website accessing to that page in that 2 hours
+        - Customers in the course saw the errors.
+- Why is it happening?
+    - We have hard coded `title` as the query for `Courses`
+        - Data change in our admin portal will render the website throwing errors.
+- Prevention & Mitigation
+    - Short term
+        - Ask teammates to let us know when an event is happening and dry-run all webpages  with developers. (10 minutes max per events)
+        - Refactoring all query with hard coded `title` to a unique ID.
+    - Long term
+        - Everyone in the company should have the mindset of foundation, starting from tech teammates.
+            - Backend code is the most important foundation and we cannot sacrifice the code quality
+        - We have to build a coding standard
+        - We have to build a set of service level objectives for our system and communicate those to the company.
+        - We have to use a set of monitoring and alert tools.
+- References

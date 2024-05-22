@@ -1,0 +1,35 @@
+- #[[28 2023]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+        - #discomfort #health Stuffy nose healed 50%
+    - Mind
+        - {{[[DONE]]}}  #meditate 15 minutes
+        - 
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - B2B2C strategy on bringing more Leads
+            - Leveraging the super strength of [[Preface]] on connections to brands and events
+        - Updates on OKRs
+- 09:30
+    - Chat with [[Vegas Ho]] and [[Viktor Chan]] on [[Ilja]] case
+        - #decision
+            - [[Ilja]] will work on tech team project for 1 day per week still.
+            - [[Ilja]] will report to [[Mark Leung]]
+- 10:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- MVP principle
+    - The wrong is for the learning 
+- [[Theodore]] 
+    - ### Tsinghua University
+        - __One of China ‘s most prominent institutions of higher learning, Tsinghua University was founded in 1907 with funds directed by President Theodore Roosevelt. After the 1900 Boxer Rebellion, Western powers imposed crushing indemnities on the Qing dynasty for supporting the attacks on Westerners in China. President Roosevelt called on Congress to redirect part of the indemnities to fund a Western-style academy and to establish a scholarship fund for Chinese students to study abroad. Tsinghua was designed to be a place where China ‘s best and brightest could study the most advanced curricula, on par with major Western universities. The Qing surrendered an imperial garden north of the Forbidden City for the school’s campus. By the late 1930s the campus had developed into a full-fledged university with faculty boasting more Ivy League Ph.D.’s than many US universities.__
+- [[[[Preface]] [[project]] Nomad system expansion]]
+    - https://www.mcdonalds.com/us/en-us/us-franchising/success-stories.html
+    - https://www.franchising.com/kfc/
+    - https://www.franchisehelp.com/franchises/kfc-kentucky-fried-chicken/
+    - https://www.jrg.com/who-we-are/
+    - https://franchise.pizzahut.com/
+    - https://sylvanfranchise.com/
+    - https://www.kumonfranchise.com/
+    - https://dalecarnegiefranchise.com/corporate-training-franchise-financials/

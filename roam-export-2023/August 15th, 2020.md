@@ -1,0 +1,47 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[[[Retrospective]] of [[Week 34]]]]
+    - {{{[[DONE]]}}}} [[Equlibrium.World]] research
+        - https://www.mckinsey.com/business-functions/sustainability/our-insights/the-business-of-sustainability-mckinsey-global-survey-results#
+            - #[[business]]
+            - Value added
+                - Growth
+                    - R&D new product
+                    - New customers / markets
+                    - capture trends in sustainability
+                - ROC
+                    - + price and market share
+                    - Improve employee retention
+                    - Managing impact of procuts
+                    - - emmission from ops
+                    - - use of energy in ops
+                    - - waste from ops
+                    - - water use from ops
+                - Risk Management
+                    - managing corporate reputation
+                    - ops risk related to climate
+                    - regulatory constraint and opportunities
+            - Industry
+                - High tech
+                - Energy
+                - Extractive services
+                - retail
+        - https://www.europeanbusinessreview.com/sustainability-a-12-trillion-a-year-market-by-2030/
+            - 4.5trillion USD
+            - 13.5 trillion after Paris agreement 2030
+            - 8,.7 billion 2019
+            - transport as a service
+            - data is the new oils
+            - Covestro
+            - www.carbonproductivity.com
+        - 
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

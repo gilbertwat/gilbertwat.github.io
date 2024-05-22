@@ -1,0 +1,30 @@
+- Thank God is a form of [[gratitude]]
+- 09:00 [[🎯 Major [[decision]]]] to respond to the change upcoming
+    - Why now?
+        - I think I am done understanding and processing my emotions
+            - Although they are still affecting me but I am
+        - There are things that I can do to turn the situation around
+    - Stop loss: Stop contributing to [[GOGOX]] emotionally and replace with professionalism
+        - Follow orders
+    - Start new revenue [[[[🔮 Bets]] 2021]]:
+        - Tech consulting as a services
+            - New #[[project]]: To unify and sell new capabilities to more customers.
+            - [[Ergon]]
+            - [[Maven.hk]]
+            - [[Grantits.io]]
+        - Build project delivery capabilities
+            - New #[[project]]: To find trusting partners for project delivery 
+            - New #[[project]]: To find people who can paid for projects.
+        - Test new product ideas
+        - Write books / articles
+            - [[[[ideas]] Journey in [[GOGOX]]]]
+            - [[Twitter for reach]]
+        - [[investment]]
+- 11:00 {{[[DONE]]}} #Notes Read https://twitter.com/elonmusk/status/1454808104256737289?s=20 
+    - Why are you reading this?
+        - I am in a low time and need some goals to achieve.
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+        - To [[inspire actions 🔨]], provide a clear objectives with a clear constraints.
+        - To [[detect bullshit 💩]], ask for a clear plan with a set of clear constraints.
+        - To [[detect bullshit 💩]] and [[inspire actions 🔨]], publicly post [[💪🏻 Commitments]] and let as much people know as possible and keep repeating that.

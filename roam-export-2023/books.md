@@ -1,0 +1,81 @@
+- https://doc.lagout.org/Alfred%20V.%20Aho%20-%20Data%20Structures%20and%20Algorithms.pdf
+- #to-read
+    - {{query: {and: #to-read #books}}}
+- #read
+    - {{query: {and: #read #books}}}
+- {{[[kanban]]}}
+    - To-Read
+        - [[[[books]]: A Practical Theory of Programming]]
+        - [[[[books]]: Algorithms for Decision Making]]
+    - Reading
+        - [[[[books]]: Turn the ship around]]
+        - [[[[books]]: The Silk Road]]
+        - [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+    - Note taking
+        - [[[[books]]: Turning the Flywheel]]
+        - [[[[books]]: Macau Society and History]]
+        - [[[[books]]: The Laws of Human Nature]]
+        - [[[[books]]: The Invention of China]]
+        - [[[[books]]: Arsène Wenger]]
+    - Finished
+        - [[[[books]]: Accelerate the science of lean software and devops]]
+        - [[[[books]]: 徹底看懂自行車功率訓練數據]]
+        - [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]]
+- https://capitalandgrowth.org/answers/Article/3516328/5-Books-That-Changed-My-Business #booklist
+- becoming technical leader
+- traction
+- mating intelligence unleashed
+- from dictatorship to democracy
+- the ultimate hitchhiker's guide to the galaxy
+- influence: the psyhchology of persuation
+- lady chatterley's lover
+- heart of darkness
+- the killer angels
+- difficult conversation
+- 7 powers
+- helping
+- the five dyfunctions of a team
+- it's your ship
+- make it stick
+- managing oneself
+- thinking in bets
+- rich habits poor habits
+- the art of leadership
+- the ride of a lifetime
+- the great ceo within
+- when cultures collide
+- good strategy bad strategy
+- the phoenix project
+- an elegant puzzle
+- choices in vichy france
+- weapons of the weak
+- the laws of human nature
+- reboot 
+- trillion dollar coach
+- the silk roads
+- capitalism without capital
+- the rules of people
+- the signal and the noise 
+- the psychopath code
+- berlin
+- powerful
+- the reader
+- built for growth
+- double cup love
+- fresh of the boat
+- the myth of the strong leader
+- committed teams
+- the perfect dictationship
+- dictator's handbook
+- plain words
+- highest duty
+- fire & blood
+- open vein of latin america
+- talking to humans
+- high output management
+- crossing the chasm
+- the four steps to the epiphany
+- dracula
+- software design x-rays
+- measure what matters
+- 

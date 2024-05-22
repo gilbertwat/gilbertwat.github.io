@@ -1,0 +1,40 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[1:1]] with [[Rob Dong]]
+    - Chat about https://twitter.com/joulee/status/1362463534240555008?s=20
+    - One of the insight is that most of the time management advices are very good a starting point to solving some human problems. For example in this thread, Julie suggested us to:
+        - Ensure that you know how your manager + their managers define success. Ask in 1:1s if this is not clear.
+        - Make sure your manager understands how *you* define success.
+        - Communicate your case clearly. Write an e-mail, prepare a deck—do what works best for you. Always tie your case to what you understand success to be for your manager / their managers.
+        - Continually hone your communication skills. It is a key advantage.
+        - Ask for explanations to decision-making processes when they don't go the way you expect
+        - Ask yourself: did the decision-maker intend to do what they thought was best for the org? 
+        - If 6 is yes, ask yourself: do I trust the decision-maker's abilities and their values?
+    - So those points are all good advice, but if you want to create the outcome you want, you need something more. You need to think how to apply it in your circumstance. 
+    - Your circumstance depends on quite a few things. For example, it may be about the culture you are in, how you coin your words to position yourself, and when to take your action...etc.
+    - For example the first advice: Ensure that you know how your manager + their managers define success. Ask in 1:1s if this is not clear.
+        - How are you going to bring that up the topic? How will your manager react? Is there any preparation you need to do? Are you and your manager close? Do your manager have the trust in you to explain the broader context? Do your company culture treasure transparency?
+    - So you can see there are a lot of variations and tactics you need to apply on **your** situation to make the most out of it. You need to be aware of your situation, and every situation is different from the last one.
+- [[OKR]] Review with [[Hubert Chan]] [[Paul Leung]] [[Robert Dong]] [[Ben Lin]] [[Ben Cheng]] [[Keith Chan]]
+    - FYI [[Hubert Chan]]
+        - Alignment of terms inside the company
+        - new solution document and need to ask about business impact.
+    - Summarization
+    - Supplement on [[Ben Cheng]]
+        - New projects from Steven Chiu and Kurt
+        - need to setup discussion with stakeholders (Vincent)
+    - New TW team arrangement.
+- https://arrow.apache.org/overview/ #[[data pipeline]] [[Software to investigate]] #PoC
+- [[stacks.co]] smart contracts concepts
+    - There are some interface to call your contracts for actions
+    - Your contracts can have 0+ Principal
+        - Principal is an entity of the participants of the smart contract
+        - We can store data in a smart contract
+        - We can transact from different principal in the smart contract

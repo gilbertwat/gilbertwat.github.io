@@ -1,0 +1,58 @@
+- {{[[DONE]]}} #Notes Read https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html 
+    - Why are you reading this?
+        - I am being hooked to the [[Story Telling]] of the author and I am in the loop [[product discovery]]
+    - Excerpts from the article and some scribble
+        - Keep your users in the loop, always. Do not go build in isolation.
+        - Don't underestimate engineering challenges that you only have an external view of.
+        - Voice your concerns to your team regularly and often. They might be to solve them far more quickly than you or they might be able to identify what will turn into a major roadblock.
+        - Be ready to pivot.
+        - Users say things for a reason, but there may be more to it than face value.
+        - If you make assumptions about your users, they will find a way to surprise you.
+        - Features will go unused if they aren't easy to use, no matter how great they are.
+        - A user's workflow is everything. (I keep relearning this lesson...)
+        - Users are far more clever than you think.
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+        - [[Outreach]] is important for [[product discovery]]
+        - Cold [[Outreach]] has more success if it is in the same [[organization]]
+        - If you want to [[understanding users]], make no assumption about them.
+        - If you want to [[understanding users]], observe the users' workflows.
+        - If you want to [[understanding users]], they are far more clever than we think.
+        - If you want to [[understanding users]], don't take their face value and understand their why.
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} #Notes Read https://stratechery.com/2021/cloudflares-disruption/ 
+    - Why are you reading this?
+        - I want to be inspired by successful [[business]] model in [[🏗️Technology]].
+    - Excerpts from the article and some scribble
+        - When it comes to compute, however, reality is very different than theory.
+            - First, usage may be uneven, whether that be because a business is seasonal, hit-driven, or anything in-between. That means that compute capacity has to be built out for the worst case scenario, even though that means most resources are sitting idle most of the time.
+            - Second, compute capacity is likely growing — hopefully rapidly, in the case of a new business. Building out infrastructure, though, is not a linear process: new capacity comes online all at once, which means a business has to overbuild for their current needs so that they can accommodate future growth, which again means that most resources are sitting idle most of the time.
+            - Third, compute capacity is complex and expensive. That means there are both huge fixed costs that have to be invested before the compute can be used, and also significant ongoing marginal costs to manage the compute already online.
+        - This is why AWS was so transformative: Amazon would spend all of the up-front money to build out compute capacity for all of its customers, and then rent it on-demand, solving all of the problems I just listed:
+            - Customers could scale their compute up-or-down instantly in response to their needs.
+            - Customers could rent exactly how much compute they needed at any moment in time, even as they were able to seamlessly handle growth.
+            - AWS would be responsible for all of the up-front investment and ongoing maintenance, and because they would operate at such scale, they would get much better prices from suppliers than any individual company could on its own.
+        - The third dimension [is] new value networks. These constitute either new customers who previously lacked the money or skills to buy and use the product, or different situations in which a product can be used — enabled by improvements in simplicity, portability, and product cost…We say that new-market disruptions compete with “nonconsumption” because new-market disruptive products are so much more affordable to own and simpler to use that they enable a whole new population of people to begin owning and using the product, and to do so in a more convenient setting.
+        - Amazon already has significantly more scale, which means their costs on a per-customer basis are lower than Microsoft or Google. And perhaps more importantly is the corporate culture that results from a “your-margins-are-my-opportunity” mindset:
+        - The only rationale we can reasonably come up with for AWS’s egress pricing: locking customers into their cloud, and making it prohibitively expensive to get customer data back out. So much for being customer-first.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FWzZ8J-fuU6.png?alt=media&token=cd1c2671-20ba-4442-8cb3-62238b9df9b9)
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- [[Keep yourself update with [[🏗️Technology]] stacks]]
+- {{[[DONE]]}} #Notes Read https://trekhleb.dev/self-parking-car-evolution/?lifetime=12&group=100&boost=true#/
+    - Why are you reading this?
+        - Very good [[machine learning]] and [[data visualization]] inspiration
+    - Excerpts from the article and some scribble
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} #Notes Read https://diff.substack.com/p/your-life-is-almost-a-call-option?token=eyJ1c2VyX2lkIjozMTQ4OTU2NiwicG9zdF9pZCI6NDIwMjM4NjUsIl8iOiJ6Tko4ViIsImlhdCI6MTYzMzEzOTM4OCwiZXhwIjoxNjMzMTQyOTg4LCJpc3MiOiJwdWItMTk0MzAiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.qeYzoKGPZ1eNoM7wJMPVGL8jF4Ln7PLjpoLO5bmjWTA
+    - Why are you reading this?
+        - I find [[[[Family [[finance]]]] instruments]] could be useful in my life.
+    - Excerpts from the article and some scribble
+        - Take an example of a call option with an expiration one year from now and a strike price of $10. If the stock the option references is at $5, and its annualized volatility is 50%, the option is worth about 13 cents. In other words, the option buyer is making a bet on a fairly remote outcome. If the price goes up, the option is, naturally, worth more. It’s also worth more in response to volatility. And, the further away from the exercise price it is, the more volatility dominates: imagine the stock trades at $2.50, or half the previously assumed price, but the annualized volatility doubles to 100%. The value of the option rises in that scenario, to 17 cents. 
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+        - [[Call [[options]]]] is a kind of [[[[Family [[finance]]]] instruments]].
+        - [[Call [[options]]]] has a component of expiration
+        - [[Call [[options]]]] has a component of strike price.
+        - [[Call [[options]]]] pricing is based on a [[Black-Scholes Formula]].
+        - [[Annuality]] means the percentage of a time series difference is being divided into annually.
+    - Further [[🤔 Questions]] to think about

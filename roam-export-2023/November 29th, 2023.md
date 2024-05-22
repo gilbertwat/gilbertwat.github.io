@@ -1,0 +1,30 @@
+- #[[02 2023]]
+- #health
+    - Body
+        - {{[[DONE]]}}  #exercise 20 minutes
+    - #sleep is bad because of anxiety
+- Choose one to invest in my #career
+    - {{[[DONE]]}}  Reply online for 30 minutes on Linkedin or Twitter.
+- 10:19
+    - [[[[Preface]] [[product]]: website]] on [[[[Preface]] [[project]]: Website Revamp 2023]]
+        - Works on {{[[DONE]]}}  Make the triangle transition in the [[[[Preface]] [[product]]: website]] production ready
+- 10:22
+    - [[Charlie Munger]] has passed away.
+        - https://x.com/QCompounding/status/1729612326582497558?s=20
+    - Linkedin engagement
+        - https://www.linkedin.com/advice/0/what-best-practices-collaborating-stakeholders-ezibf?trk=cah2#elicit-the-requirements
+        - 
+- 11:15
+    - Rest
+- 14:00
+    - Nap
+- 15:00
+    - Down with [[Theodore]]
+- 16:30
+    - Chat with [[Tommie Lo]] on [[[[Preface]] [[project]] Nomad system expansion]]
+- 16:45
+    - Rest
+- 17:55
+    - Work on [[[[Preface]] [[project]]: Website Revamp 2023]]
+- 
+- 22:00

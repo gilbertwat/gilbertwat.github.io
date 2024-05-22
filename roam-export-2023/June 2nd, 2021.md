@@ -1,0 +1,12 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} #Notes Read [Lean software development](https://www.101ways.com/2010/08/16/7-key-principles-of-lean-software-development-2/)
+    - Why are you reading this?
+        - To refresh my understanding and mindset on [[agile]]
+    - Topics
+        - [[agile]]
+    - Excerpts from the article and some scribble
+        - 
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about

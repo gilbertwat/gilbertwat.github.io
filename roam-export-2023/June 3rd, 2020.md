@@ -1,0 +1,17 @@
+- English Tenses
+- [[Overview for VP]]
+- [[[[1:1]] with [[Ravic Poon]]]]
+    - He understands the intent of the design and sharing session but cannot prioritize the preparation work.
+        - 5 minutes each person.
+    - He is very disappointed in the promotion process. It feels like we always give him the cold shoulder.
+        - [[Rob Dong]] may feel the same too
+    - He feels the reason of rejection is vague and unactionable.
+    - Actionable for helping his improvement:
+        - Design storytelling. Compose a story to illustrate the pros and cons of his design logically 
+        - Write subroutine in 1 go and be confident
+        - Practice summarizing his design and technical details in design meeting and communication to PMs.
+- [[Voting]]
+    - IEEE Hong Kong Society
+        - Computer Chapter
+        - Computer System Chapter
+        - 

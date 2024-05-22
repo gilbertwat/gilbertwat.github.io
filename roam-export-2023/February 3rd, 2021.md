@@ -1,0 +1,76 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- #meditation log
+    - Practiced do not judge and bash myself when distracted.
+- [[Interview]]
+    - Backend engineers
+        - Personal introduction
+            - SOA
+                - Definition focus
+            - MVC
+                - Definition focus
+            - 
+        - Standard technical questions
+            - Please design a system that can record the payment transactions between our Partners and our Clients
+                - Expected discussion about
+                    - Requirement clarification.
+                    - RDBMS data structure
+                    - Transactions
+                - Actual discussion
+                    - channel!
+            - Describe the failure models of your design
+                - Expected 
+                    - race conditions
+                    - deadlock
+            - Integrate this with a third party payment gateway
+                - Expected discussion about
+                    - deployment
+                    - handle APIs failure
+                    - performance
+            - Verdict
+                - Not able to understand the questions
+        - Projects involvement
+            - Describe your greatest projects and your role in it.
+            - Describe your worst projects and what will you differently.
+        - Team
+            - Good teammates and stories if possible
+            - Good managers and stories if possible
+            - conflict resolutions
+            - Preferred working style: say you have a feature to develop.
+        - Q&A
+            - See if 
+- [[Interview]]
+    - Good communication
+    - Business 
+    - security oriented
+    - Want to input to the team
+    - Want to do a good job
+    - Head of XXX
+    - prove to be an asset of company
+    - Dont like big company
+    - Starting own startup
+        - good team, leadership
+    - Worst manager
+        - Not accessible manager
+        - Looks superior
+        - Not accepting feedback
+    - Good manager
+        - Give good feedback
+    - non-developer collaboration
+        - presenter
+        - drivers
+        - chefs
+    - Why want to apply
+        - positive [[Mohammad Ahmad]]
+        - 2 offers
+        - part-time from Department
+- [[software delivery]] [[All Hands [[meetings]]]] #6
+    - 
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

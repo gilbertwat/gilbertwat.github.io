@@ -1,0 +1,15 @@
+- [[Replan my life [[2022]] onward]]
+- {{[[DONE]]}} #Notes Read https://www.reddit.com/r/Meditation/comments/qoxlvo/how_can_i_be_mindful_when_the_present_just_sucks/ 
+    - Why are you reading this?
+        - The present sucks.
+    - Excerpts from the article and some scribble
+        - At least for a few minutes, you need to ‘tighten your focus’: put 100% of your attention into how frustrated, how stuck & resistant, you feel, not in the past, not in the future, but right this instant.
+        - I’ve had this happen by accident quite a few times, it’s the best feeling ever, it’s almost like a feeling of “why the hell AM I mad it makes no sense” then my body just goes into a peaceful state kind of, similar to when you forget why you came into the kitchen but remembered what it was before you decide to cut your loses. Or am I totally off?
+        - Feelings can only be solved by being felt. When we distract ourselves and avoiding the uncomfortable feeling of not liking the present than we are just postponing getting past it.
+        - I remember reading on some other meditation thread a while ago about a person who said they're naturally not inclined to think in words, so they mostly have the "silence" in their head, and they still get an anxiety feeling in absence of "words" and "thoughts".
+        - And sometimes I repeat a mantra of some kind, even if it's something as simple as "I am strong and courageous." The meditation on positive and encouraging words like that often helps me take care of myself. Ultimately that's what meditation is about - loving ourselves!
+    - Takeaways to be insert into [[Permanent Notes]]
+        - Even if the present sucks, [[Meditation]] need to [[focus]] on the present.
+        - [[Feeling]] and [[emotions]] can only pass when being felt.
+        - [[Feeling]] and [[emotions]] can exists without thoughts.
+        - [[Meditation]] on things you tell yourself.

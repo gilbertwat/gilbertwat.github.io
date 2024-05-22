@@ -1,0 +1,84 @@
+- [[Epidemics II from HKUx]]
+    - Case definition
+        - Subclinical + Asymptotic
+    - What is Epidemic
+        - > Expected cases in community
+            - Example: Smallpox: Expected = 0
+        - Arupt and significant increase of cases compare with normal
+    - Epicurve
+        - Day again Number of new cases
+        - Stratification of it can find out a lot of insight
+        - Size
+        - Distribution
+    - Incubation
+        - point source (Food poisioning)
+            - 1 peak
+        - Propagated 
+            - multiple peaks
+            - larger and larger
+    - Incubation
+        - Dosage
+        - Genetic, Age, complication in immune
+        - pharamalogical
+        - Right skewed
+        - Log scale of incubation = normal distribution
+        - clinical management
+        - public health control
+            - Quarantine
+                - Isolation from community
+                - 90% percentile
+                - surveillance
+        - Backcalculation
+            - How many are their infection
+            - COVID-19? #Homework
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2F7GPeAnvo7x?alt=media&token=f78bbe2a-96b8-409a-866a-76b0219c1103)
+    - Transmissibility
+        - Attack rate = number of infection / exposed population
+        - Secondary attack rate
+            - Semi-closed setting 
+        - Reproductive number
+            - R0 = Basic Reproductive number
+            - Expected 1 cases to transmiss to number of person
+                - exponential
+        - Example:
+            - Recover = immune
+            - 
+        - Final Attack rate
+            - close to end of epidemic
+        - Triangle
+            - Pathogen X Host X Environment
+    - Timescale
+        - Generation time
+            - Impossible to precisely
+            - Serial interval = Symptons onset of successive cases
+        - Shorter => quicker to isolation
+        - Latent period = non transmissible
+        - Infectious period = transmissible
+        - Epidemic growth rate
+        - Epidemic Double time
+    - Severity
+        - Case fatality risk
+            - Case = Hospitalized + Lab tested + Medically attended
+        - Host factors: Age, Genetic, Socioeconomic, comorbidities
+        - pathogen
+        - Environmental factor
+        - Difficulties of robust estimation
+            - Real-time estimation
+            - Method of estimation 
+                - Censoring effect
+                    - Still hospitalized
+                    - Disregard hospitalized
+                - Duration of hospitalized
+                - More sophisticated method to make use of current data
+    - Readings:
+        - Week 1.3
+            - Fauci AS, Morens DM (2012) The Perpetual Challenge of Infectious Diseases. New England Journal of Medicine 366: 454-461. http://www.nejm.org/doi/full/10.1056/NEJMra1108296
+        - Week 1.4
+            - Wheeler C, Vogt TM, Armstrong GL, Vaughan G, Weltman A, et al. (2005) An Outbreak of Hepatitis A Associated with Green Onions. New England Journal of Medicine 353: 890-897. http://www.nejm.org/doi/full/10.1056/NEJMoa050855
+        - Week 1.5 and Week 1.7
+            - Fine PEM (2003) The Interval between Successive Cases of an Infectious Disease. American Journal of Epidemiology 158: 1039-1047. http://aje.oxfordjournals.org/content/158/11/1039.long
+        - Week 1.6
+            - Fine P, Eames K, Heymann DL (2011) “Herd Immunity”: A Rough Guide. Clinical Infectious Diseases 52: 911-916. http://cid.oxfordjournals.org/content/52/7/911.long
+        - Week 1.8
+            - Ghani AC, Donnelly CA, Cox DR, Griffin JT, Fraser C, et al. (2005) Methods for Estimating the Case Fatality Ratio for a Novel, Emerging Infectious Disease. American Journal of Epidemiology 162: 479-486. http://aje.oxfordjournals.org/content/162/5/479.long
+    - 

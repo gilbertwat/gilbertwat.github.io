@@ -1,0 +1,34 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]]
+        - #Devops
+        - Chapter 11
+            - Leaders and managers
+                - Transformational leadership
+                    - Establishing and supporting generative and high-trust cultural norms
+                    - Creating technologies that enable developer productivity, reducing code deployment lead times and support more reliable infrastructures
+                    - Supporting team experimentation and innovation, and creating and implementing better products faster
+                    - Working across organizational silos to achieve strategic alignment
+                - 5 dimensions
+                    - Vision. Has a clear understanding of where the organization is going and where it should be in five years
+                    - Inspirational communication. Communicates in a way that inspires and motivates, even in an uncertain or changing environment
+                    - Intellectual stimulation. Challenges followers to think about problems in new ways.
+                    - Supportive leadership. Demonstrates care and consideration of followers' personal needs and feelings.
+                    - Personal recognition. Praises and acknowledges achievement of goals and improvements in work quality; personally compliments others when they do outstanding work
+    - {{{[[DONE]]}}}} [[[[GOGOX]] POSTman [[meetings]] with [[Paul Leung]]]]
+        - #[[[[QA]] [[Engineer]]]]
+        - Agree to use POSTman as the collaboration tools
+        - 2 sets of test cases
+            - Scenarios
+                - A series of API calls to simulate user flows
+            - Individual APIs
+                - As atomic as possible
+        - Test Data Management
+            - Can use JSON / CSV in POSTman
+                - Need research
+        - [[Paul Leung]] can complete 47 test cases in Late September
+- How do you feel when you wind down?
+    - {{slider}}

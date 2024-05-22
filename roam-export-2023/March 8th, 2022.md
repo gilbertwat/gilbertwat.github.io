@@ -1,0 +1,10 @@
+- 11:00
+    - Leadership meeting update
+        - Praise for support for Early summer camp in weekly update to tech team
+        - update for compliance and legal update for [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] in weekly update to tech team
+        - update for membership system timeline
+        - update for coffee app launch date (Do I need to say it now?)
+- 14:15
+- 14:30
+    - [[Ehsan Ayaz]] [[1:1]]
+- [[Wifey]] and [[Wifey mum]] positive with [[COVID-19]]

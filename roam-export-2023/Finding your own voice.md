@@ -1,0 +1,2 @@
+- A leader must radiate [[Energy]].
+- A leader must radiate  [[positivity]].

@@ -1,0 +1,107 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #Notes URL https://engineering.grab.com/about-being-a-principal-engineer-at-grab 
+    - [[Topics]]
+        - [[Engineering]] [[Team structure]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - As a principal engineer, your job is to solve larger problems and **translate somewhat vague problems** into a set of actionable items.
+        - Solving such a problem all by yourself is pretty much impossible. You 
+- have to work with other managers and other engineers together **as a team**
+    - to make it happen. Help your lead/senior engineers to design the right 
+- system by giving them a clear objective but let them take care of the 
+- system-level architecture.
+    - You will also need to work with managers, advise them to get things done, and get the right things prioritised by the team.
+    - **improve the quality** of systems across the board. 
+- Typically, no-one tells you what needs to be done. You need to identify 
+- gaps, raise them and keep improving the systems.
+    - More often than not, you will have to **drive migrations**,
+    - this is akin to code refactoring but on a system-level and will involve
+    - a lot of collaboration with the people. Understand what a technical 
+- debt is and how it can be mitigated - a good architecture minimises 
+- technical debt and in turn accelerates time-to-market and helps business
+    - flourish.
+        - Communication is a key skill that you need to keep improving and it is 
+- often the Achilles’ heel of many engineers who would rather be doing 
+- work in their corner without talking to anyone else. This is perfectly 
+- fine for a junior (or even some senior engineers) but it is critical for
+    - a principal engineer to communicate. Let’s break this down to a set of 
+- specific skills that you’d need to sharpen.
+    - A principal engineer is a technical leader and as a leader you have the responsibility to **mentor**,
+    - coach fellow engineers, regardless of their level. In addition to 
+- code-reviews, you can organise office hours in your team and knowledge 
+- sharing sessions where everyone could present something. You could also 
+- help with bootcamps and help new hires in getting up-to-speed.
+    - Most importantly, **you will also need to keep learning**
+    - 
+    - {{[[DONE]]}} Takeaways
+        - [[Seniority]] in [[Engineering]] is based on the ability to translate a vague problem to actionable items.
+        - [[Seniority]] in [[Engineering]] is based on the ability to improve the whole systems.
+        - [[Seniority]] in [[Engineering]] is based on the ability to drive migration.
+        - [[Seniority]] in [[Engineering]] is based on the ability to communicate.
+        - [[Seniority]] in [[Engineering]] is based on the ability to mentor junior member.
+    - [[🤔 Questions]]
+        - What is the seniority of a [[manager]] means
+- #Notes URL https://www.protocol.com/kelsey-hightower-google-cloud 
+    - [[Topics]]
+        - [[Story Telling]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - "In the entertainment business, you get paid based on perception," he 
+- said. "And I think that's what I learned; it's not about the job, it's 
+- about what I bring to the job."
+    - "His optimism is just crazy," Rodriguez said. "He's lucky, because some 
+- people are optimistic and don't have the energy to see it through and 
+- process those lessons. He talks some crazy stuff, and tries some crazy 
+- stuff, and doesn't get too upset when it doesn't work out, he just draws
+    - a lesson from it and moves on."
+        - he hesitated about joining Google because of "the fear of being put in a
+    - box. I had never met any company that could afford to let someone be 
+- who they were outside of a HR, well-defined job definition," he said.
+    - we are leading by influence, and that is a difficult skill to develop."
+    - "That's how I want to be remembered," Hightower said. "I want to be 
+- remembered as this person who helped other people find out how to be 
+- better than they currently are."
+    - {{[[DONE]]}} Takeaways
+        - I don't have any takeaways, but enjoy a good story telling
+- #Notes URL https://www.speedshop.co/2017/12/04/malloc-doubles-ruby-memory.html 
+    - [[Topics]]
+        - [[ruby]] [[memory leak]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - A memory leak in a Ruby program is usually caused by a C-extension 
+- bug. For example, if your Markdown parser leaks 10kb every time you call
+    - it, your memory growth will continue forever __at a linear rate__, since you tend to call the markdown parser at a regular frequency.
+        - Memory fragmentation causes logarithmic growth in memory. It looks 
+- like a long curve, approaching some unseen limit. All Ruby processes 
+- experience __some__ memory fragmentation. It’s an inevitable consequence of how Ruby manages memory.
+    - {{[[DONE]]}} Takeaways
+        - [[Memory fragmentation]] causes logarithmic growth in memory. It looks like a long curve, approaching some unseen limit. All Ruby processes experience __some__ memory fragmentation. It’s an inevitable consequence of how Ruby manages memory.
+- #Notes URL https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html 
+    - [[Topics]]
+        - #[[Ruby on Rails]] [[Coding Standard]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - Look for uses of present?, none?, any?, blank? and empty?
+    - on objects which may be ActiveRecord::Relations. Are you just going to 
+- load the entire array later if the relation is present? If so, add load to the call (e.g. @my_relation.load.any?)
+    - Be careful with your use of exists? - it ALWAYS executes a SQL query. Only use it in cases where that is appropriate - otherwise use present? or any other the other methods which use empty?
+    - Be extremely careful using where in instance methods on ActiveRecord objects - they break preloading and often cause N+1s when used in rendering collections.
+    - count always executes a SQL query - audit its use in your codebase, and determine if a size check would be more appropriate.
+    - {{[[DONE]]}} Takeaways
+        - [[ActiveRecord]] `exists?` is executing a SQL query.
+        - [[ActiveRecord]] `present?` is NOT executing a SQL query.
+- #Notes URL https://twitter.com/ShaneAParrish/status/1328737109855834115?s=20 
+    - Topics
+        - [[Globalized self]] [[strategic thinking]]
+    - [[Excerpts]]
+        - Think forward. Play out key decisions in your mind before you make them and avoid costly mistakes.
+        - Shift your perspective. Look at the world from the point of view of others. In your next meeting, pretend you are one of the other participants. Try to understand the conversation from their lens. Do this for everyone and you’ll gain powerful insights.
+        - Make it believable. Your assumptions should be supported by evidence, a believable context, and be falsifiable. Just like science.
+    - {{[[DONE]]}} Takeaways
+        - [[strategic thinking]] need to play out key decisions before making it.
+        - [[strategic thinking]] need to shift the perspective to someone else.
+        - [[strategic thinking]] need to lay out the the assumptions, supported by evidence, context and falsifiable.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

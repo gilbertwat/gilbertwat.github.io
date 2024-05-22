@@ -1,0 +1,97 @@
+- [[[[2022]] Week 43]] #goals
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - {{[[DONE]]}}  Get a vibe of whether we should keep Hubspot or not Finished at 11:01
+        - Minutes
+            - Helloween has 50%-70% of referral leads.
+            - Zero digital marketing spent. (Saved 400K/month in high season)
+            - November camp (Special trial on membership rates $320) offered, 4 accepted
+            - We need a lot of resource to support our Monthly events
+                - Reallocate digital marketing budget to do
+                - Room utilization
+                    - The Desk
+                    - 5/f or 2/f
+                - Manpower
+                    - Brain
+                        - Full time
+                    - Hands
+                        - High school kids??
+                            - Renee(??) think tank (Vegas has more information)
+                        - Some other means??
+            - Preface 2.0 has a different strategy?
+                - Membership is an additional on Preface 2.0(uptrend, bitesites contents)
+            - Comparison between Helloween vs Charlie Puth
+                - Charlie Puth is parent focus, less referral
+                    - Members only
+                - Helloween is kid focus, more referral
+                    - Mass focus
+                    - Are we engaging parents enough?
+            - Update on Tower 535 revamp
+                - Route for campus tour
+                - Parents will be in some comfy room with our sales support.
+            - Hubspot decision
+                - One concern is losing the capability of having a holistic view of our customers.
+                - Leadership team are inclined to migrate out from Hubspot
+                - Long term wise, how to not leverage google spreadsheet?
+                    - Clickup & Metabase
+            - The implication of linkedin changing the product charging
+                - More emphasis on employer branding on Linkedin
+                - People to launch employer branding
+                - Work with Linkedin Partnership on barter??
+            - Update for expansion
+                - Expansion is more like an extension, will deploy
+            - RTTP update
+                - HK-Cannary update
+                - HKD500 Voucher from an eComm partner
+                - Wine
+                - Foodpanda voucher in Promo Code
+                    - (🤫) How to build a good narrative to utilize?
+                        - Partnership scheme?
+                - Expiring insurance??
+            - Change our website for Holiday? Lead to the discussion on Festival SOP
+                - Christmas + CNY for the immediate (Edwin & Yoyo but they left)
+                    - Ellen course material
+                    - Marketing
+                    - Tech Team to execute (or enable)
+                    - QR Code for the next event and the buy link.
+                - Brand Experience will PIC and do project management.
+                    - Agency for brand experience?
+                - Buy Link or Lead gen QR code for Helloween
+            - PCW
+                - Cookbook Menu for November
+                - Cookbook Menu for December (ASAP to sale)
+        - # ACTION ITEMS
+            - Sales team will follow up on the 4 November bootcamp lead generated from Helloween events.
+            - Data team will take charge of Hubspot decision comms plan and migration plan
+            - Leadership team will resolve the manpower problem for supporting our monthly events in the coming months.
+            - People team will devise a plan to leverage Linkedin product pricing scheme changes.
+            - Hema will drive Festival SOP (trial run on Christmas 2022 + CNY 2023)
+            - PCW(TBC) will drive Sales/Marketing package for Cookbook Menu in November
+            - PCW(TBC) will drive Sales/Marketing package for Cookbook Menu in December
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+        - Recap [[[[[[Preface]] leadership team]] weekly meeting]]
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+        - Presenting the first course based vector similarity machine learning algorithm.
+        - [[data pipeline]] is vastly different if we are going to experiment different kinds of [[AI model]]s.
+- 14:30
+    - [[1:1]] [[Tylor Ng]]
+        - What is our recurring topics?
+            - To try out in the newest technology
+                - Deliver the content team arrangement
+                    - {{[[DONE]]}}  Follow up with [[Kevin Lee]] on actual execution Finished at 09:22 [[October 31st, 2022]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - What do you feel?
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+        - What do you feel?
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?

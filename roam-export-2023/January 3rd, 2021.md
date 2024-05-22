@@ -1,0 +1,54 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #Notes URL - https://mp.weixin.qq.com/s/MPUrTzBirOcWNg7Vao7c7A?fbclid=IwAR2y3sHhN8oCsZ9M-Ep9fXpfb78UHVoLrVGVU4ul65sPZHJHFAgmkpXeitYs
+    - Topics
+        - [[China]] [[Economics]] [[business]]
+    - [[Excerpts]]
+    - {{[[DONE]]}} Takeaways
+        - There is rationality in China government.
+            - External challenges
+                - [[Wuhan Virus]]
+                - Hostility
+            - Internally challenges
+                - Internal efficiency by people intensive industries
+                - New industries: chips, digital economy...etc
+            - Solution
+                - focus on internal challenges
+                    - Possible industries that beneficial
+                        - Car
+                        - Education
+                        - Medical
+                        - Elderly
+                        - Baby
+                        - Logistics
+                            - [[Lalamove]] is capturing the opportunities from economic planning of the government #Logistics
+                                - https://techcrunch.com/2020/12/22/on-demand-logistics-company-lalamove-gets-515-million-series-e/
+                        - Renovation
+                        - Manufacturing
+                        - New infrastructure
+                        - Digital economy
+                    - 改革開放
+                    - strengthen strategic technology
+                        - "anti-monopoly" against mega corp
+                        - real estate is not for speculation
+                    - AgTech to secure seeds for farming
+                    - ClimateTech for sustainability
+                - trade off
+                    - not upgrading old manufacturing as it can still provide jobs
+                    - Do not have radical policy shift, but have policy shift
+                    - No money wasted on local govt
+                    - No money to help struggling company
+    - [[🤔 Questions]]
+        - WTF is 下沉市場?
+        - "anti-monopoly" against mega corp is wrong by my gut feeling... how can I articulate
+        - Sounds like a plan, What is the execution power of China government?
+        - The problem I am reading this is those terms can be interpret in a very different way
+        - How can the market deal with such power?
+- [[Venture-backed]] https://www.collaborativefund.com/blog/ideas-that-changed-my-life/
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

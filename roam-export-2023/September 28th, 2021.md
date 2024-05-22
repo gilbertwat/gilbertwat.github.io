@@ -1,0 +1,37 @@
+- [[COVID-19]] [[vaccination]] day 5
+    - minimal arm discomfort
+- 09:00 Processing the fact that I have made an acquaintance David Luo rage quit #[[🧘🏻‍♂️ Self Awareness]] [[post mortem]] [[Relationship Building]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FuqWr4oJpa9.png?alt=media&token=e67d8a18-aca6-4881-ba21-e5377d9607eb)
+    - I think the problem is of course the fact I [[screw up]] my schedule
+        - The handling can be better when I am [[under pressure]], I tend to be in denial and avoid the hard conversation when I discover the [[screw up]]
+        - Surely people feel [[disrespect]]
+    - I also think he is overracting
+        - I don't feel we are communicating in the beginning as I always think he is up to something to benefit himself personal.
+    - Do I want to patch it?
+        - No. I don't want to waste time on this person.
+            - I don't feel a good vibe with him in the beginning, I feel pushy.
+    - #learning How can I do it better next time?
+        - To prevent such from happening, when I feel pushy and not getting anything out of the conversation, say what you feel and mean.
+            - Go against the urge to be nice and agreeable. #[[🧘🏻‍♂️ Self Awareness]]
+        - I should learn to transform the urge to personal gain to a motivator for getting what I want, and reject firmly from what is not working for myself. [[motivating people]]
+- 10:00 - 10:30 [[1:1]] with [[Young]]
+- 10:30 - 12:30 [[QPSM]] Prep for [[2021]] Q1
+- 12:30 - 13:30 Lunch
+- 13:30 - 14:45 [[QPSM]] Prep for [[[[2021]] Q4]]
+- 14:45 - 15:00 Nap
+- 15:00 - 15:30 [[Interview]] [[[[Backend]] [[software engineer]]]] Norio Umata
+    - [[decision]]: Rejected because of the very lack of English communication skills
+- 15:30 - 16:00 [[QPSM]] Prep for [[[[2021]] Q4]]
+    - [[Distraction]] 
+        - [[🤔 Questions]]: What is a shitty job?
+            - [[Alia Bei]]: A job without autonomy
+- 16:00 - 16:30 [[Interview]] [[[[Backend]] [[software engineer]]]] Chen Han Teng
+    - [[decision]]: Rejected because of the very lack of English communication skills
+- {{[[ARCHIVED]]}} #Notes Read https://news.ycombinator.com/item?id=28355658 
+    - Why are you reading this?
+        - I want to understand the current scene of [[Interview]] around the industry
+    - Topics
+        - [[Interview]]
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about

@@ -1,0 +1,27 @@
+- 09:00 - 10:30 
+- 10:30 - 11:30 [[1:1]] with [[Satish]]
+- 12:00- 13:30 [[Amethyst Lau]] sharing with a list of project P/L
+    - Revenue
+    - Cost
+- 14:00 - 15:00 Rest
+- 15:00 - 16:00
+    - [[[[GOGOX]] Project Flywheel]] history digging
+        - https://docs.google.com/presentation/d/19Lr6rl6mx6u62WyCD9acojAmF-8UnYskuDSihivLlnI/edit#slide=id.gb6427449b3_0_2349
+        - Assumption and hypothesis
+            - COVID will further accelerate the growth of e-commerce in SE Asia
+                - E-commerce platforms will be more fragmented in the next 10 year
+                - The demand and expectation of e-commerce logistics will keep increasing
+            - 3PL is a downward spiral in prices
+                - Need to shift our positioning from a cost center to a revenue driver
+            - Keep doing what we are doing won’t take us far (e.g. resources, stages)
+                - e.g. LLM, NinjaVan, e-commerce’s logistics team...etc
+            - [Move toward an omnichannel experience](https://www.xsellco.com/resources/ecommerce-customer-experience/)
+                - eCommerce sellers who provide buying options across websites, social media, third-party marketplaces and physical retail stores offer the best customer experience
+            - E-commerce merchants will use a portfolio approach to reduce costs and increase reach
+            - We won’t have enough capital to build a customer facing brand
+                - We are not an everyday utility app like Grab
+                - We have very few traffic outside of HK
+            - Cross-border e-commerce is the future
+                - “We saw significant growth with our merchants looking to expand internationally and in Q1 2019, international growth was our fastest-growing customer segment, with total merchant sales (GMV) from international nearly doubling”  - Shopify
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2F5G058V7fT4.png?alt=media&token=a8e72025-5a9e-41e8-8111-1b3c5e45b4ea)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FSk_VGC3AcF.png?alt=media&token=9a38bb44-9ca9-413f-85f6-cb65a002a8ba)

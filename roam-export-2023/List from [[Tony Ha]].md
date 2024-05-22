@@ -1,0 +1,112 @@
+- For Baby:
+- Bibs
+- Feeding towel 20-25
+- Diapers (10-12 per day during first few weeks)
+- Milk bottle 6
+- Changing pad
+- Bottle steriliser and dryer
+- Baby bath towels
+- Baby basin-basket for washing
+- Bouncer
+- Nursing nipple 4-6-Eugene baby
+- Bottle tong 2
+- Baby Bottle cleanser
+- Cotton ball 1 pack
+- Cotton buds
+- Wet wipes 2-3 packs
+- Shampoo/skin wash 2 in 1
+- Lotion. Body and Face
+- Mits 2-3
+- Socks 4
+- Hat
+- Swaddle 2
+- Sweat towels
+- Baby comb
+- Nail clippers
+- Baby laundry detergent
+- Inner wear/robe
+- For Mom:
+- A nursing pillow
+- Maternity pads(hospital will provide some)
+- Ginger soap
+- 網褲-Baptist hospital
+- Nipple cream
+- Nursing bras and top
+- Nursing pads
+- Milk warmer
+- Breast pump
+- Diaper bag-Mabel
+- Sliding chair
+- IQ Air purfier
+- Others:
+- Baby carrier
+- Baby Crib
+- Crib mattress
+- Crib mattress protector
+- Sheets(white), warm blankets, thin receiving blankets
+- Baby stroller 
+- Car seat
+- Baby monitor/cameras
+- Baby high chair
+- Crib charm
+- Nail filer
+- Digital thermometer- no contact
+- Bath tub
+- Formula dispenser- travel
+- extra Madela bottles
+- For Baby:
+- [x] Bibs
+- [x] Feeding towel 20-25
+- [x] Diapers (10-12 per day during first few weeks)
+- [x] Milk bottle 6
+- [x] Changing pad
+- [x] Bottle steriliser and dryer
+- [x] Baby bath towels
+- [x] Baby basin-basket for washing
+- [x] Bouncer
+- [x] Nursing nipple 4-6-Eugene baby
+- [x] Bottle tong 2
+- [x] Baby Bottle cleanser
+- [x] Cotton ball 1 pack
+- [x] Cotton buds
+- [x] Wet wipes 2-3 packs
+- [x] Shampoo/skin wash 2 in 1
+- [x] Lotion. Body and Face
+- [x] Mits 2-3
+- [x] Socks 4
+- [x] Hat
+- [x] Swaddle 2
+- [x] Sweat towels
+- [x] Baby comb
+- [x] Nail clippers
+- [x] Baby laundry detergent
+- [x] Inner wear/robe
+- For Mom:
+- [x] A nursing pillow
+- [x] Maternity pads(hospital will provide some)
+- [x] Ginger soap
+- [x] 網褲-Baptist hospital
+- [x] Nipple cream
+- [x] Nursing bras and top
+- [x] Nursing pads
+- [x] Milk warmer
+- [x] Breast pump
+- [x] Diaper bag-Mabel
+- [x] Sliding chair
+- [x] IQ Air purfier
+- Others:
+- [x] Baby carrier
+- [x] Baby Crib
+- [x] Crib mattress
+- [ ] Crib mattress protector
+- [x] Sheets(white), warm blankets, thin receiving blankets
+- [x] Baby stroller 
+- [x] Car seat
+- [x] Baby monitor/cameras
+- [x] Baby high chair
+- [x] Crib charm
+- [x] Nail filer
+- [x] Digital thermometer- no contact
+- [x] Bath tub
+- [x] Formula dispenser- travel
+- [x] extra Madela bottles

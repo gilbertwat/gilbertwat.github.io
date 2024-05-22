@@ -1,0 +1,25 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} IT Audit
+    - Answer 
+    - Month by month queries for 4-5
+    - Screen cap source code
+- {{[[DONE]]}}  [[1:1]] [[Peter Wong]]
+    - a direct [[Giving candid and actionable feedback]] [[feedback]] technique just now for 1 on 1:
+        - So Peter is too rush in the 3DS project, resulting the current “delay” of the project. Gave a direct feedback and seems receptive.
+            - 1. Ask him what does he think about the projects, he seems to be stressful about it and feel there is something wrong.
+            - 2. Agree and let him rant a bit.
+            - 3. State my observation.
+            - 4. Get his agreement.
+            - 5. And ask if he already think of any improvement can be done next time.
+            - 6. Agree again.
+            - 7. And add some parts what do I think where is wrong and how to improve.
+            - 8. Seems receptive.
+    - Also this is based on the high trust I already have with Peter. It just make the matter better.
+- {{[[DONE]]}} [[1:1]] [[Ravic Poon]]
+    - Migration plan is done
+    - Swelling of heart surgery to cut benign tumors are almost ok
+- {{[[DONE]]}}  [[1:1]] [[Belda Chan]]
+    - Share good wishes and gain the impression of ops driven 
+- {{[[DONE]]}} [[Ka Kui Tsang]] farewell lunch

@@ -1,0 +1,31 @@
+- 09:00 - 15:00 [[Baby]] body check
+    - [[nuchal translucency]] shows a bit thick
+        - 2.59mm, > 95th percentile
+            - Some worst case scenario in the first place #Feeling
+                - [[Down's syndrome]]?
+        - Find out it is just a bit over-sized
+            - Normal is 1.3 - 2.5mm
+            - And [[Baby]] is over-sized too
+        - 90% of the babies within the range has no [[Down's syndrome]]
+            - [Ref](https://www.babycentre.co.uk/a544491/nuchal-translucency-nt-scan#section5)
+            - [Ref 2: 70% of babies are normal in 3.5mm - 4mm, even with abnormal semen](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4457970/)
+            - [Ref 3](https://teslascans.com/nuchal-translucency-scan/)
+    - 2 other tests comes out normal
+    - [[actions]]: Wait for the next [[Nifty pro]] test, more invasive test if necessary afterwards
+    - #Communication [[how to deliver a news?]]
+        - Try to empathize
+            - "No need to worry" vs "Yes there is a higher risk"
+- 15:00 - 16:00 Rest and Nap
+- 17:00 - 18:00 [[coding]] [[[[MVP]] Should I join this startup?]]
+    - https://angel.co/blog/9-terms-youll-see-in-your-equity-offer-and-what-they-actually-mean
+- 18:00 - 22:00 Dinner and Rest
+- 22:00 Understand more about [[Startup]] [[equity]]
+    - https://fi.co/insight/a-guide-to-startup-employee-equity
+    - https://review.firstround.com/The-Right-Way-to-Grant-Equity-to-Your-Employees
+    - https://www.slideshare.net/wealthfront/wealthfront-equity-plan
+- 23:00
+    - #Design
+        - http://combo.nyc/projects/h-m
+        - https://www.doris.dev/
+    - #Next.js #React
+        - https://www.codementor.io/@myogeshchavan97/how-to-write-better-react-components-1krjmkjlyv?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-1krjmkjlyv&utm_campaign=newsletter20210825

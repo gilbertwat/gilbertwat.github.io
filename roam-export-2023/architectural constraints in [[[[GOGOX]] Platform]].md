@@ -1,0 +1,3 @@
+- Never call [[POSTGIS]] for real time usage
+    - [[POSTGIS]] is not designed to be 
+- Don't cross the microservice boundary by using ROM to call other DB.

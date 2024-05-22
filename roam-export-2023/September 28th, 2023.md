@@ -1,0 +1,14 @@
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+        - #health #discomfort stuffy nose
+- 09:30
+    - [[[[Preface]] [[project]]: #sourcing CRM]]
+        - The CRM is to support understanding our customers / leads and gain insights from it, rather than supporting the SOPs of operation team
+- 10:00
+    - {{[[DONE]]}}  #writings [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]
+- 14:00
+    - {{[[DONE]]}}  Write a recommendation on LinkedIn for [[Vegas Ho]]
+        - Request
+            - > im trying to enhance my LinkedIn profile, any chance you can help me write a recommendation, ideally targeting my experience as a talent leader with business acumen and tech sense, or whatever you think would be appropriate to write about really XDD
+        - Result
+- 

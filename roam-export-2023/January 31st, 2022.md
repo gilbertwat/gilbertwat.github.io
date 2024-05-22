@@ -1,0 +1,27 @@
+- #[[sleep]]
+    - Ok lah was having a #dream of flying combat + company folding + combat.
+- {{[[DONE]]}} Why does [[Mum]] very hesitate to come to 12A and participate in the incoming of [[Theodore]]? #Family
+    - {{[[DONE]]}} Why do [[Gilbert Wat]] want to include [[Mum]] in [[Theodore]] coming?
+- 09:48
+    - reorganizing [[1:1]] with team heads to formulate [[2022 Tech Plan [[Preface]]: High level]]
+- 10:36
+    - Take a break to checkout https://bunch.ai [[Preface]] [[[[Preface]] references of innovation]]
+- 10:50
+    - Completed ((J-T5oxuT3))
+- 12:00
+    - Take a break to checkout www.edapp.com [[[[Preface]] references of innovation]]
+- [[February 4th, 2022]] [[->]] [[Moses Ngan]] to grant me access to Heroku again.
+- {{[[DONE]]}} [[information diets]] How can I organize my reading more?
+- Two extra tasks for [[[[Preface]] [[NFT]]]]
+    - {{[[DONE]]}} Create a NFT guidelines for laymen
+    - {{[[DONE]]}} How to verify NFT holder through our backend
+    -  writing topic?? What is ERC-721 and ERC-20 and ERC-1155
+-  15:13
+    - https://www.kaggle.com/benhamner/wordle-1-6
+        - Problem: find a 5-character word with a few data sets:
+            - Thousands of Tweets about today Wordle will tell if there is a hit
+            - A finite set of valid words
+            - 3^5 finite set of results.
+- examples for [[good technical writing]]
+    - https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md for debate and decide which stake to move to. [[good technical writing]] [[solution documents]]
+    - https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/ for [[post mortem]]

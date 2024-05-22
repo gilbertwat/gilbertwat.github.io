@@ -1,0 +1,3 @@
+- #[[Quick Capture]]
+    - https://indieworldwide.co/founders-club/
+    - https://twitter.com/gergelyorosz/status/1467129645011472386?s=21 I am so confident now

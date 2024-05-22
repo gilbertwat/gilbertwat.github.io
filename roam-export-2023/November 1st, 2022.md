@@ -1,0 +1,41 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Teammates maybe pessiemistic
+        - PCW world cup potential
+        - GP 60% from RTTP
+        - 90% of our Top line
+        - Joseph Chan to join as design / content
+        - Government focus will be maybe our strategy
+            - Compliance and quality as a competitive advantage
+            - "Real deal(TM)" as a competitive advantage
+        - https://www.idtech.com/ as a reference
+        - {{[[DONE]]}} Voice out the implication of a member plus rate bootcamp if needed Finished at 10:36 [[November 17th, 2022]]
+- 10:00
+    - [[Ongio Tsui]] on Dalton events
+        - {{embed-path: ((QSMIdcPdA))}}
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+        - Evaluation metric of [[[[Preface]] tag-based courses [[recommender]] system]]
+            - Internal
+                - Accuracy
+            - Business facing
+                - Number of customers who buy through the customer portal AND the recommendation section.
+                - Percentage of customers who buy through the customer portal AND the recommendation section.
+        - Hubspot problem
+            - [[[[Hubspot]] migration plan]] faced a problem of scope
+                - We are expanding the scope of the project to a point that out of our scope
+                - We can still collect the data for data teams needed
+                - But it is very inefficient
+                - We cannot support our customer journey and do analysis
+                - #decided to understand the current need from all other teams about data of leads
+                - [[[[Hubspot]] migration plan]] will renamed back to Set up a clean dataset for our leads / customers [[Yoon Kim]]
+                    - Expectation is that we are only using the current workflow and tools to do it.
+                        - Hubspot remove or not will depends on our consultation result
+- 13:00
+    - Lunch and onboard [[Akash]]
+- 14:30
+    - PolyU talks
+- 
+- 

@@ -1,0 +1,25 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - [[Procastination]] leads to stress
+- Start the day **strong**!
+- #Notes URL https://www.infoq.com/articles/implementing-evolutionary-architecture/?utm_source=sumome&utm_medium=twitter&utm_campaign=sumome_share 
+    - Topics
+        - [[🔢 Software Development]] [[software architecture]]
+    - [[Excerpts]]
+        - Architects acting less as upfront structure designers and more as overseers of a stream of informed, significant decisions made just in time
+        - Architects deals with more probability than certainty
+        - Large Systems Policy-Driven Automation
+        - Architecture is still very much art of possible—financial constraints like cloud pricing in consideration
+            - Radical intelligence, Dynamic Components, Cloud Platform Deployment, Connection to things in the mainstream”
+        - Evolvability, the new ability, has an impact on many other architecture quality attributes.
+        - The new guidance principle, [reactive manifesto](https://www.reactivemanifesto.org/) focuses on responsive, resilient, elastic, and message driven as key directions.
+        - Risk and Cost are the factors that help us identify the significance of each user story or feature. The approach also facilitates a common language with managers. The user stories need to maintain a balance between architecture user stories in addition to requirement driven ones.
+        - Probability based analysis
+        - Decision Trees
+        - Bayesian based approach
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

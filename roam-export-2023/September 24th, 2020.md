@@ -1,0 +1,67 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Chaotic
+- {{[[DONE]]}} Read https://about.gitlab.com/blog/2020/09/16/year-of-kubernetes/
+    - Topics
+        - #[[🔢 Software Development]] #Kubernetes
+    - Excerpt
+        - Yet even with this improved observability, we can't always see problems right away with our metric reporting and alerting.
+- For example, focusing on latency and error rates may not adequately cover all uses of the service that is being migrated.
+    - For internal network traffic, egress is only free-of-charge if it remains in a single AZ.
+- At the time of writing this blog post, we deliver approximately 100TB on a typical work day for just Git repositories.
+    - Though this was a critical and high traffic service, it was a good 
+- choice for the first migration because it is a stateless application 
+- with only a few external dependencies.
+- The first challenge we experienced was the large number of evicted pods,
+    - due to memory constraints on our nodes.
+- This required multiple changes to requests and limits. We found that 
+- with an application that increases its memory utilization over time, low
+    - requests (which reserves memory for each pod) and a generous hard limit
+    - on utilization was a recipe for node saturation and a high rate of 
+- evictions.
+    - The first service we migrated started with taking limited traffic 
+- internally and we are continuing to use this method to ensure we are 
+- meeting our SLOs before committing all traffic to the cluster.
+    - The lesson here was while the Horizontal Pod Autoscaler (HPA) works well 
+- in Kubernetes for adapting to increased traffic, it is also important to
+    - evaluate workload characteristics and set reserved pod capacity, 
+- especially for uneven demand.
+    - Takeaways
+        - Stateless application is good for migration.
+        - Fewer dependencies is good for migration.
+- {{[[DONE]]}} Return [[Rist Eva]] Email 
+    - #Communication
+- {{[[DONE]]}} [[GOGOEnergy]]
+- {{[[DONE]]}}  [[[[GOGOX]] Client Experience Theme]] [[Sync up]]
+    - [[[[2020]] Q3]] 
+        - roadmap in notion.so
+        - Country concern
+            - scope preference of different countries
+            - driver education
+        - Feature flag management
+            - Rob share knowledge
+        - Operation heavy
+            - need more alignment before head
+        - Production support
+        - Taiwan lack of knowledge in local
+    - [[[[2020]] Q4]]
+        - Customize Additional Requirement for TW / SG
+            - CS order panel
+            - Pricing Revamp
+            - GGB dependency
+        - Improve App UI / UX
+            - Select Service
+            - Floor and Unit
+        - App Language
+        - Credit card Payment
+            - 
+        - CBD charging
+        - Prepaid
+        - Driver quality
+            - Incentive alignment
+        - [[Ivo Wu]] [[Peter Wong]] allocation
+- [[How do you feel when you wind down?]]
+    - {{slider}}

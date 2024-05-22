@@ -1,0 +1,17 @@
+- [[[[2022]] Week 41]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[October 9th, 2022]] [[October 15th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - 
+        - Fixed
+            - 
+        - Shipped
+            - [[Preface data strategy from 2022 Q4 onwards]]
+        - Moved X to <next step>
+            - [[[[Preface]] [[product]]: Customer Portal]] to the next step
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[October 9th, 2022]][[October 15th, 2022]]}}}}
+        - I felt happily exhausted when I add social life back to my schedule.
+            - Need to think how to add sport back to my life.
+            - Need to trim down the  as it is a bit high maintenance.

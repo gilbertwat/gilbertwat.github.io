@@ -1,0 +1,14 @@
+- 09:30
+    - Work on {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 12:00 [[October 7th, 2022]]
+- 11:30
+    - [[1:1]] [[Tommie Lo]]
+- 14:00
+    - Scheduling discussion with [[Ben Cheng]] [[Anna Yu]] [[Hema Shah]]
+        - Reference
+            - #delegated [[Hema Shah]] to help sort out the scheduling problem in [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] so it would be a blocker for [[[[Preface]] [[product]]: Customer Portal]]
+- 15:00
+    - [[1:1]] [[Anna Yu]]
+        - Overwhelmed
+- 15:30
+- 16:00
+    - {{[[DONE]]}} https://github.com/cpressey/Facts-about-State-Machines #shared with [[[[Preface]] tech team]] Finished at 10:39 [[October 10th, 2022]]

@@ -1,0 +1,31 @@
+- 10:00
+    - alsdfkjl
+- 10:30
+    - {{[[DONE]]}}  Review the next step from the SG trip Finished at 15:00 [[November 4th, 2022]] with [[Anna Yu]]
+        - A bit lost in discussion, even worse when Tommie is not there
+        - Information sharing when Tommie is not there
+        - Decision is made when Tommie is there
+        - No end to end ownership for B2B, B2C and nomad
+            - Content is not enough for B2B
+        - Sylvia easier
+        - Jennifer/Kary is not very familiar with the matters
+        - IWC
+            - technical issue is there
+            - Logistics is top-notch
+                - Event setup, floor plan
+    - [[1:1]] [[Anna Yu]]
+- 14:30
+    - [[1:1]] [[Moses Ngan]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - {{[[DONE]]}}  Model retraining cadence decision for [[[[Preface]] tag-based courses [[recommender]] system]] -> [[January 14th, 2023]] Finished at [[December 12th, 2022]]
+        - What is my top of my mind since our last 1:1?
+- 17:00
+    - Weekly all hands

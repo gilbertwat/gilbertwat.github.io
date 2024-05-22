@@ -1,0 +1,123 @@
+- 10:00 Retrospective of Week 40
+    - 11:30 Retrospective of Week 39
+    - What went well?
+        - #[[health]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - I beat [[Dead Cells]] finally after 77 hours of playiing
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FFm7F3uk17f.png?alt=media&token=5a955fc3-11fe-47f4-b763-ab9898d0c444)
+        - #[[Family [[finance]]]]
+            - [[🎯 Major [[decision]]]] put in 10000[[USD]] for [[Cloudflare]]
+                - I am convinced about the recent strategy of [[Cloudflare]]
+                - I am also convinced that [[Cloudflare]] is a tech infrastructure company and will be safe in Big tech vs Govt fiscaco.
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - [[[[Quarterly Hong Kong manager meetings]] [[[[2021]] Q4]]]] done and very good mingling with managers.
+            - [[Grantits.io]]
+            - [[Maven.hk]]
+            - [[Ergon]]
+            - [[Distribution channel]]
+    - What went wrong?
+        - #[[health]]
+            - Unable to [[💦 Workout]] as planned
+            - Unable to [[Walk 8000 steps per day]] 
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - I spent 35 [[hour]]s on [[Dead Cells]]
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+            - [[Grantits.io]]
+                - No follow up
+            - [[Maven.hk]]
+                - No follow up
+            - [[Ergon]]
+                - Too much work to be done in current energy level
+            - [[Distribution channel]]
+                - No motivation on [[Twitter]]
+    - What can be done next week?
+        - #[[health]]
+            - 1x [[Push [[💦 Workout]]]] [[October 13th, 2021]]
+            - 1x [[Pull [[💦 Workout]]]] [[October 14th, 2021]]
+            - 1x [[Core [[💦 Workout]]]] [[October 14th, 2021]]
+            - {{[[DONE]]}}  [[COVID-19]] [[vaccination]] 2nd shot on [[October 15th, 2021]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+        - #[[Family [[finance]]]]
+        - #[[Family]]  & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Finish [[5-min-call]] 
+            - [[Grantits.io]]
+            - [[Maven.hk]]
+                - Follow up with [[Brian Chan [[Maven.hk]]]] 
+            - [[Ergon]]
+                - 09:45 [[Ergon]] Sync up
+                    - {{[[DONE]]}} Continue Map out current architecture
+                    - {{[[DONE]]}} Map out potential scenarios for architecture evolvement + Pros&Cons / SWOP analysis.
+                        - {{[[DONE]]}}  Read up Data lake in google
+                        - {{[[DONE]]}}  SWOP google / aws 
+                    - {{[[DONE]]}}  has to figure out how to connect RCRM with our datastore (lake / warehouse)
+                        - choose a data source to [[PoC]] the data pipeline #[[project]]
+                    - {{[[DONE]]}} Think about the tech delivery plans suggestions
+            - [[Distribution channel]]
+                - [[Twitter]] engagement 📈
+                - {{[[DONE]]}} Prepare for Facebook meeting on [[October 22nd, 2021]]
+                    - {{[[DONE]]}}  Outbound marketing
+                    - {{[[DONE]]}}  Slides prep
+                    - {{[[DONE]]}}  Call for speakers in [[GOGOX]]
+- {{[[DONE]]}} #Notes Read https://twitter.com/paulbz/status/1447900130921832456/photo/1 
+    - Why are you reading this?
+        - I want to be reminded what is a [[business]] or [[Startup]] should be?
+    - Excerpts from the article and some scribble
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+        - [[Startup]] need to solve a clear problem.
+        - [[Startup]] need to target a large enough market.
+        - [[Startup]] need to have a strong team.
+        - [[Startup]] need to have a sound business model.
+        - [[Startup]] need to have a go-to-market strategy.
+        - [[Startup]] need to have worthy competitors.
+        - [[Startup]] need to have a moat.
+        - [[Startup]] need to be clear about risk they are taking.
+        - [[Startup]] need to have a healthy financing.
+    - Further [[🤔 Questions]] to think about
+- 14:00 - 15:00 [[Interview]]
+- 17:00 - 18:00 [[Interview]]
+- {{[[ARCHIVED]]}} #Notes Read https://www.sec.gov/news/speech/peirce-2021-10-08 
+    - Why are you reading this?
+        - I want to understand the frontier of regulation on [[DeFi]]
+    - Excerpts from the article and some scribble
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- Read 
+- Dear Gilbert,
+- Did you grow up believing that anger is wrong? Maybe your parents told you, "we don’t do anger in this house,” or perhaps these scary feelings prompted punishment or orders to calm down and cheer up.
+- ​Whether it’s explicitly stated or merely implied, anger’s bad reputation can prevent children and adults from having a healthy relationship with their emotions.
+- Even if we grew up in an environment where certain emotions were not welcome, it's essential to cultivate an understanding that any feeling is okay. There’s nothing wrong with worry, jealousy, or anger.
+- This doesn’t mean we give ourselves or our children license to act on all emotions—jealousy over a classmate’s new doll wouldn’t justify snatching it for one’s own. But all of us, no matter our age, should have license to feel what we feel.
+- Like all emotions, anger provides us with valuable data about our inner lives. Maybe it’s signaling that there’s a part of you that's feeling unseen or unsupported. Perhaps you’re letting yourself be drawn into frustrating situations. Or the anger might be a sign that your values are being challenged.​
+- ​Investigate your anger with curiosity, perhaps by journaling about it.
+- ​Ask yourself questions such as:
+- Where does this anger stem from.
+- What is it trying to tell me?
+- What can I learn from it?
+- What values does it point to?
+- What small step can I take that will serve those values for the longer term?
+- Anger can be a particularly difficult emotion for those in caregiving roles.
+- No matter how much love is in our hearts, the constant needs of children or elderly parents can leave our nerves frayed. My advice? Have compassion for yourself.
+- What you're doing is tough. Recognize when you need to ask for help, and consider what type of support you need. Maybe you need a friend to give you a hug or a neighbor to check in on Mom and Dad while you take that much-needed vacation.
+- You are at your caregiving best when you look after yourself as well. When you take measures to meet your own needs, everyone stands to benefit,
+- With warmth,
+- Susan 
+    - Why are you reading this?
+        - 
+    - Excerpts from the article and some scribble
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- [[Anger]] management
+    - ​**Investigate your anger with curiosity, perhaps by journaling about it.​​**
+    - Ask yourself questions such as:
+        - Where does this anger stem from?
+        - What is it trying to tell me?
+        - What can I learn from it?
+        - What values does it point to?
+        - What small step can I take that will serve those values for the longer term?

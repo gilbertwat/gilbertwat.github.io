@@ -1,0 +1,9 @@
+- Author:: [[PhysOrg.com]]
+- Full Title:: China's Ancient Water Pipe Networks Show They Were a Communal Effort With No Evidence of a Centralized State Authority
+- Category:: #articles
+- URL:: https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/chinas-oldest-water-pi.jpg)
+- ### Highlights first synced by #Readwise [[September 9th, 2023]]
+    - What's surprising to researchers is that the settlement of Pingliangtai shows little evidence of social hierarchy. Its houses were uniformly small and show no signs of social stratification or significant inequality among the population. ([View Highlight](https://read.readwise.io/read/01h9tw29n72dmh80e3mpafndhx))
+    - The level of complexity associated with these pipes refutes an earlier understanding in archaeological fields that holds that only a centralized state power with governing elites would be able to muster the organization and resources to build a complex water management system. ([View Highlight](https://read.readwise.io/read/01h9tw2ttrydbsqmw7p8j2hab9))
+    - Co-author Dr. Hai Zhang of Peking University said, "Pingliangtai is an extraordinary site. The network of water pipes shows an advanced understanding of engineering and hydrology that was previously only thought possible in more hierarchical societies." ([View Highlight](https://read.readwise.io/read/01h9tw1a01nt2gsq42cakegbpd))

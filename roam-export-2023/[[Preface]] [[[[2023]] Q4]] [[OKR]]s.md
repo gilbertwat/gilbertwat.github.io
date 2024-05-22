@@ -1,0 +1,76 @@
+- {{[[streak]]: [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]}}
+- Goal of [[[[Preface]] tech team]]
+- Potential Projects
+    - [[[[Preface]] [[project]]: Learning progress]]
+        - PIC [[Kit Tang]]
+        - Project size: Medium
+        - Goal in One-liner: Visualize 
+        - +Retention -CAC
+    - [[[[Preface]] [[project]]: Course detail page template]] 
+        - PIC: [[Kit Tang]] 
+        - Project size: Medium
+        - Goal in One-liner: Better course detail page design and 
+        - Expected Result: -CAC +eNPS +Efficiency
+    - [[[[Preface]] [[project]]: Decommission old bootcamp / 1:1 admin page]] 
+        - PIC: [[Jeffy Fung]] 
+        - Project size: Large
+        - Goal in One-liner: Fully migrate to new scheduling system
+        - Expected Result: +Efficiency +eNPS
+    - [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+        - PIC: [[Kit Tang]] [[Cheryl Lai]] [[Charlie Mak]]
+        - Project size: Large
+        - Goal in One-liner: To experiment a new form of education content delivery with LLM
+        - Expected Result: +User +Brand
+    - [[[[Preface]] [[project]] Nomad system expansion]]
+        - PIC: [[Gilbert Wat]] [[Adrian Chan]]
+        - Project size: Uncertain
+        - Goal in One-liner: To enable new nomad collaboration
+        - Expected Result: +User +Revenue
+    - [[[[Preface]] [[product]]: A.I. Coffee 2.0]] iteration
+        - PIC: [[Kit Tang]]
+        - Project size: Medium
+        - Goal in One-liner: To wow new leads in our events
+        - Expected Result: -CAC +Brand 
+    - [[[[Preface]] [[project]]: Infrastructure upgrade]]
+        - PIC: Jeffy Fung
+        - Project size: Large
+        - Goal in One-liner: To upgrade our tech stack for better security and speed
+        - Expected Result: +eNPS +security +Efficiency
+    - Support KPIs setup for [[[[Preface]] School of Technology]] 
+        - PIC: [[Yoon Kim]] [[Joseph Chan]]
+        - Project size: L
+        - Goal in One-liner: Systematic Business Operations for PST
+        - Expected Result: -CAC +LTV +eNPS +Efficiency
+    - Improve [[[[Preface]] [[product]]: website]] performance
+        - PIC: [[Adrian Chan]] 
+        - Project size: M
+        - Goal in One-liner: Improve performance of our website
+        - Expected Result: -CAC +Brand +eNPS
+    - BAU support
+        - [[[[Preface]] [[product]]: Coffee App]]
+        - [[[[Preface]] [[product]]: Customer Portal]]
+        - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+        - [[[[Preface]] [[product]]: website]]
+        - [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+- PST
+    - Event
+    - Ops metrics
+- Finalized here https://docs.google.com/spreadsheets/d/1TMTqwy8szQVWsS8l7q-ogcqo5ojuF01Ae3RzXoAywiU/edit#gid=223587119
+    - **Improve Scalability in Revenue Generation**
+        - Measure & Improve website performance
+        - Implement the features that cover the learning journey for PST students on the Customer Portal
+        - Improve TechBites onboarding experience and engagement
+            - [[#project [[[[Preface]] [[product]]: TechBites]] onboarding]] 
+        - Adopt CRM to support PST and RTTP pipelines
+            - [[[[Preface]] [[project]]: #sourcing CRM]]
+        - Support KPIs setup and measurement for PST BAU (marketing, sales, ops)
+        - Support A.I. coffee 2
+    - **Improve Scalability & Quality for Learning Experience (Step 8)**
+        - Make our platform ready for franchise operations
+        - Measure and improve the key product metrics on Customer Portal
+        - Experiment with new learning experience
+    - **Support Scalability & Efficiency in Content Creation**
+        - Experiment new Technology Step 4 (Create initial version)
+        - Experiment new Technology in Step 5 (Content endorsement)
+    - **Improve System Reliability & Scalability**
+        - Tech Infrastructure upgrade

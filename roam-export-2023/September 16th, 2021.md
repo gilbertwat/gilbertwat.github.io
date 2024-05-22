@@ -1,0 +1,35 @@
+- {{[[DONE]]}}  [[decision]] whether to join this or not? https://maven.com/demandcurve/audience-building
+- 09:45 - 11:00 [[Ergon]] Kickoff meeting
+    - Goals is to reduce development dependencies with business needs
+        - Talent Partners are migrating their SOP to Recruit CRM
+        - Data analysts need to see what they want to analyze
+        - Tech team need to revamp the app
+- 12:30 - 14:00 Lunch and Nap
+- 14:00 - 14:30 [[Grantits.io]] talk with [[Vlad]]
+    - Problems so far
+        - There is only 50% capacity to code in a sprint, led to mis-estimation
+        - New senior teammates from Marketing and Credit risk analysis, led to a lot of meetings, no more now
+        - New features to be developed
+            - Buy Now Pay Later
+            - Calculator
+            - Service Request
+    - Suggestions 
+        - 1. Redistribute commitment 75%
+        - 2. Deadline notify to Engineering team
+        - 3. Remote config
+    - SLA never an issue
+        - Not an alignment over there
+- 15:00 - [[Interview]]
+- 16:00 - [[Interview]]
+    - Looking for Product Engineer
+    - Code Quality
+    - Work from Home
+    - Module 
+        - Report module
+            - No one to support / guide
+            - Cannot explain the contraint
+        - Tests
+            - RSpec
+    - Do you have some work that you can share
+    - No experience in production
+    - Humble

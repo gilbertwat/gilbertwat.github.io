@@ -1,0 +1,34 @@
+- **Data / AI**
+    - Build a reliable and stable data system to provide insights for our customer journey and business health [[Yoon Kim]]
+        - Ship a One-stop dashboard for School of Technology (PST), including all tools we are using (Sleekflow, Website, Portal, Admin Portal) [[Yoon Kim]]
+        - Ship a One-stop dashboard for TechBites (PTB), including all the tools we are using (Website, Portal, Admin Portal) [[Yoon Kim]]
+        - Design and implement A unified customer identifier across our comms channels [[Yoon Kim]]
+        - Design and implement A feedback mechanism for content on data [[Yoon Kim]]
+- **Engineering**
+    - Ship improvement timely to support Growth with Quality & Speed
+        - Align the price on all sales channels on all courses [[Jeffy Fung]]
+        - Enable a third party integration to our credit system [[Ben Cheng]]
+        - Upgrade websites to support all business units [[Kit Tang]]
+        - Complete user feedback loop of PTB and PST on Customer Portal [[Kit Tang]]
+        - Enable monitization for TechBites [[Kit Tang]]
+        - Reduce Schedule related hiccups to 1/month [[Jeffy Fung]]
+        - Support UK and JP localization for our Digital Products [[Cheryl Lai]]
+    - Build Prototypes to explore new opportunity space
+        - Ship 1-3 prototypes [[Gilbert Wat]]
+    - Provide Reliable Apps and Tech Infrastructure
+        - Consolidate routines and monitoring on basic tech infrastructure (Wifi, GWS, Domain Name ...etc.) [[Cheryl Lai]]
+        - Devise a set of Product Discovery Process & Tools [[Joseph Chan]]
+        - Upgrade all essential tech stacks (NodeJS, NextJS, Ruby on Rails, Ruby) [[Ben Cheng]]
+- **Routines**
+    - Weekly Tech sharing [[Ben Cheng]]
+    - Bi-weekly Product Analytics [[Gilbert Wat]]
+    - Bi-weekly Retrospective [[Ben Cheng]]
+    - Code Quality [[Ben Cheng]]
+    - Library update [[Ben Cheng]]
+    - Monthly 1:1 [[Gilbert Wat]]
+    - Weekly Team Meeting [[Gilbert Wat]]
+    - Service Level Objective Review [[Gilbert Wat]]
+- Review time
+    - {{[[DONE]]}}  [[July 31st, 2023]]
+    - {{[[DONE]]}}  [[August 31st, 2023]]
+    - {{[[DONE]]}}  [[September 30th, 2023]]

@@ -1,0 +1,36 @@
+- Always radiate your gratitude and good vibe;
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[1:1]] with [[Anthony Chan]]
+    - PMs and QA out sync with Dev
+        - P0 bugs
+    - Scrum team to watch
+    - [[🤔 Questions]] [[1:1]] #Techniques
+        - How to disagree with the individual without curling the enthusiasm or motivation of your teammates?
+- [[1:1]] with [[Ivo Wu]]
+    - Nothing special
+- [[1:1]] with [[Victor Lam]]
+    - Offboarding [[Roger Ho]]
+        - Documentation of interface of prepaid-wallet & partner wallet
+            - Event design document
+                - Rationale
+                - Pitfall
+                - Usage
+            - RESTful API (if any)
+        - Project plan of driver wallet (Stories left, progress, solution design doc)
+        - Configurations documents
+            - Rationale and usage
+- [[1:1]] with [[Hon Chan]]
+    - A bit repetitive for feature delivery
+    - Draft order there are some interesting but a lot of it is reusing components
+- [[Roger Ho]] #resigns
+    - Failed negotiation with [[Young]]
+    - [[Young]] feel [[Roger Ho]] cannot be trusted.
+- #Feeling I am really don't want to think in this way but there is too many incidents telling me that this [[GOGOX]] is not the place for me to stay longer than 9-12 months. [[Roger Ho]] resignation and the whole story doesn't add up. And the secrecy that [[Young]] is putting up on me on the whole event is very uncomfortable for me. Why? Why is he putting this up on me? Why is he taking the matter on his own when I should be the one to negotiate and retain? I cannot get it.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

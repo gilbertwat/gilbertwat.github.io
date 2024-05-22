@@ -1,0 +1,23 @@
+- {{[[DONE]]}} https://getthingsdone.hk/2020/08/02/memento-after-bicycle-crash.html
+- On last Saturday morning, I was T-boned by a Toyota minivan when I was riding my bike. Before the crash, I had been in a pretty good shape. I was averaging 180W. The temperature is comfortable. The sun is warm. Suddenly a minivan coming out from the village crashed into me when I was crossing the entrance. I landed on my butt after a half-meter flight. Both of my legs were badly bruised.
+- If any parameters in the crash differed just a bit, the crash could have killed me. But it didn't. It is the second time I was this close to death. I decided to treat this experience as a memento. Here it is.
+- ---
+- My time is limited. And I don't know when it will end. Because of this fact, I decide to assume full control of my most precious resource: time and attention. How to allocate them is my responsibility and I am accountable for the ultimate outcome.
+- My most important aspect is my health. Physical and mental. Without it, I am unable to do any good. And I decided to be peaceful, free and optimistic. And never settle.
+- Second is my relationship with family & friends. They are my sanctuaries, my saviors and my dearest advisors. I share my life with them and will do everything to help them to live happier and have a fruitful life.
+- Third is my work.
+- In my current work, I am responsible and accountable for the success of my team. What is success? With the current team, we need to find out how to best serve our customers through our platform and services. We need to deliver solutions to satisfy our customers as soon as possible. In other words, make things people want. Make ourselves enjoy the work and the result. We have 40 hours of work per week. Make them count.
+- So this is my definition of success in all products that I have been involving. 
+- I practice these principles daily. And in the long run, I believe I can always deliver results, gain trust and traction, improve access, build momentum. I always choose the best technology available to make it happens.
+- Also as the sole responsible person of my time and attention, I need to be effective. I will speak as candid as possible, as succinct as possible, as objective as possible. I also decide to give up changing people's mind. I won't ask them to follow a path that they don't want to follow. Fight a battle that they don't want to be any part of. I just help my teammates to discover and walk their own paths.
+- So from now on I will just focus on people and work that will advance my priorities. and in this priority:
+- Mind. Body. Relationship. Work. In this order.
+- My attention must always focus on those direction too. If some of the information cannot bring me peace or pointer to actions. I will give it up. Same goes for people, if they cannot bring me joy or synergy to build something awesome, I will leave.
+- If I procrastinate and I failed a project, it will be my choice.
+- If I scrolling through junk information source and grew grumpy, it will be my choice.
+- If I waste so much time ranting without fixing the problems, it will be my choice.
+- If I burn the bridge and screw up a relationship, it will be my choice.
+- So I am fully accountable for my actions. I am a sovereign.
+- So do you.
+- ---
+- Hope the memento will help you take control of your life and be a happier person.

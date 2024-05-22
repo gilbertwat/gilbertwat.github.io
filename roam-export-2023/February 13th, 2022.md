@@ -1,0 +1,17 @@
+- 00:25
+    - https://www.infoq.com/articles/Microservices-Case-Study/
+        - [[Literature Notes]]
+            - A system consists of
+                - Configuration
+                - Logging
+                - Dependency injection
+                - Low-level database access
+                - Health monitoring
+                - Security components
+                - Common libraries
+- 11:39
+    - Read https://en.m.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does 
+        - Why are you reading this?
+            - To communicate systems my team are maintaining clearly with other management.
+        - [[Literature Notes]]
+            - The purpose of a [[system]] is what it does is a descriptive way to explain what does the system does.

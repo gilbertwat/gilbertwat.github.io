@@ -1,0 +1,81 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} #Notes Read https://twitter.com/sumitgrrg/status/1356943556833775620 
+    - Topics
+        - [[culture]]
+    - Excerpt
+        - Focus relentlessly on your customers and long-term growth.
+        - How to hire or become a good manager?
+            - Will you admire this person? 
+            - Will they raise the average level of effectiveness of the group?
+            - Along what dimension might this person be a superstar?
+        - How to think long-term? Think: it's good enough today, but it will get so much better.
+        - "In the short run, the market is a voting machine but in the long run, it is a weighing machine.” - Benjamin Graham
+            - We aren’t 10% smarter when the share goes 10% up, nor 10% dumber when it goes down. We want to be weighed, & we're always working to build a heavier company.
+        - Find the real root cause or causes of a problem—and do real root fixes. 
+            - So then, when you fix it, you’re not just fixing it for one customer. You’re fixing it for every customer.
+        - What’s good for customers is good for shareholders.
+        - Long-term thinking is both a requirement and an outcome of true ownership. 
+            - Owners are different from tenants: many investors are effectively short-term tenants, turning their portfolios so quickly that they are really just renting the stocks that they temporarily “own.”
+        - Cash flows do the best job of explaining a company’s stock price over the long term.
+            - Amazon has a cash generative operating cycle because it turns its inventory quickly, collecting payments from customers way before payments are due to suppliers.
+        - Two type of business decisions:
+            - Made with data, where it's easy to tell right from wrong. 
+            - Based on judgement, risky.
+            - If you want to play it safe, limit yourself to number 1, but remember it would also limit innovation and long-term value creation.
+        - 2006: A checklist before investing  money in a new business:
+            - it generates expected ROI
+            - can grow to a scale 
+            - the opportunity is currently underserved
+            - you've the capabilities that are needed to bring strong customer-facing differentiation to the marketplace
+        - Seek instant gratification and you'll find a crowd there ahead of you.
+            - On the other hand, long-term thinking
+                - levers existing abilities
+                - supports the failure and iteration required for invention, 
+                - and frees us to pioneer in unexplored spaces.
+        - Listen to customers, but don’t just listen to customers—also invent on their behalf.
+        - Invention is the fundamental tool to evolve and improve every aspect of the customer experience. The latest and the grestest technologies aren't always sufficient to solve all problems, so it's important to advance research and invent new approaches.
+        - Even well-meaning gatekeepers slow innovation. Whereas, with self-service platforms, even the improbable ideas can get tried. So the most radical & transformative of inventions are often those that empower others to unleash their creativity—to pursue their dreams.
+        - The customer-centric way, rather than a competition-focused way, is a defining element of Amazon's culture. Rather than waiting for external pressures, the brand is internally-driven to improve services before it has to, and to invent, before it has to.
+        - Once a year, Amazon literally offers to pay its associates to quit.  While the headline says “Please Don’t Take This Offer.” It's meant to make them rethink their priorities. An employee staying somewhere they don’t want to be isn’t healthy for the employee or the company.
+        - When you find a dream business opportunity, don’t just swipe right, get married. Check for these 4 attributes:
+            - customers love it,
+            - can grow to very large size,
+            - has strong returns on capital, 
+            - is durable in time—with the potential to endure for decades.
+        - Big winners pay for so many experiments. Outsized returns come from betting against conventional wisdom, which is usually right. Given a 10% chance of a 100X payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten.
+        - It's always Day 1. Day 2 is stasis. Followed by irrelevance, and decline, and, eventually, death. Here's how to fend off Day 2:
+            - customer obsession
+            - a skeptical view of (overusing) proxies
+            - adoption of powerful trends
+            - high-velocity decision making
+        - How to achieve high standards?
+            - You have to be able to recognize what good looks like in a particular domain.
+            - You must have realistic expectations for how hard it should be (how much work it will take) to achieve that result – the scope.
+        - The path to success isn't straight. 
+            - At times you know where you’re going & you can be efficient. But the outsized “nonlinear” discoveries are likely to require wandering (intuition, curiousity), and it’s worth being a little messy & tangential to find your way there.
+        - Reflecting on the COVID-19 crisis, Bezos leaves us with a quote from Theodor Seuss Geisel: “When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it strengthen you.”
+            - In the end, it remains Day 1.
+    - Takeaways 
+        - Day 1 [[mindset]] is treating everyday as a launch day of your job or project.
+        - Focus on the customer's needs, want and desire is the basis of a great company.
+        - The company can only grow heavier and more sophisticated over time.
+        - 
+    - [[🤔 Questions]]
+- [[promotion]] for [[[[2021]] Q2]]
+    - Platform
+        - [[Ben Cheng]]
+        - [[Henry Tang]]
+    - Mobile
+        - [[Keith Chan]]
+        - [[Ivo Wu]]
+        - [[Peter Wong]] (? need discussion ?)
+        - [[Jackson Chung]] (? due to the new team formation ?)
+    - Web
+        - [[Rob Dong]]
+        - [[Matthew Ng]]
+        - [[Mohammad Ahmad]]
+- [[Mar [[2021]]]] [[blogs]]: How to instill ownership in your team?
+- [[🧘🏻‍♂️ Self Awareness]] of [[the dark side]]
+    - I find out I switch into [[office politics]] mode when I heard [[Paul Leung]] is trying to play victim and spread fake news. Rationally I don't think he is intentional. but my reaction is to switch to office politics and try to defend

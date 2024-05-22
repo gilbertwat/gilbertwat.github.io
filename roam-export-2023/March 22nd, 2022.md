@@ -1,0 +1,6 @@
+- 08:30
+    - Leadership meeting
+- [[Github]] Action debugging
+- [[Ehsan Ayaz]]
+    - take away from ehsan for content rec system
+        - deal with nomad system

@@ -1,0 +1,10 @@
+- Author:: [[openai.com]]
+- Full Title:: Teaching With AI
+- Category:: #articles
+- URL:: https://openai.com/blog/teaching-with-ai
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/teaching-with-ai.png)
+- ### Highlights first synced by #Readwise [[October 20th, 2023]]
+    - Come up with lesson plans ([View Highlight](https://read.readwise.io/read/01hd646c0wyedarzjyfhkewz04))
+    - Create effective explanations, examples, analogies ([View Highlight](https://read.readwise.io/read/01hd646f1qjb9gj390kzc5rj7j))
+    - Help students learn by teaching ([View Highlight](https://read.readwise.io/read/01hd646krhjghswh6zxe84wxyn))
+    - Create an AI tutor ([View Highlight](https://read.readwise.io/read/01hd646r6s894a8skyr5prts3n))

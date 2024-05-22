@@ -1,0 +1,6 @@
+- [[1:1]] [[Anna Yu]]
+    - prioritization [[Carmen Yeung]] unclear outcome
+    - problem investigation
+        - parallel with [[Hema Shah]], double effort
+        - ask user to interview
+        - water coolers' talk

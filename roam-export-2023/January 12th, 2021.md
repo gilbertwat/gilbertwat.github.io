@@ -1,0 +1,15 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- https://economysea.withgoogle.com/
+- [[GOGOX]] GMV to "our cashflow"
+- https://boards.greenhouse.io/notion/jobs/4159461003
+- [[1:1]] with [[Ben Cheng]]
+    - Very concerned
+- https://twitter.com/orantoria/status/1348978963339624450?s=21 human never fails to disappoint me
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

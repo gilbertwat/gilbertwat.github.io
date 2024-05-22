@@ -1,0 +1,58 @@
+- What is the intention of the article?
+    - To explore the definition of [[business]] and [[[[product]] management]] and find alignment between them to connect the two groups of people.
+    - Do a translation between the seemingly two world
+- What is [[business]]?
+    - https://www.merriam-webster.com/dictionary/business
+        - a usually commercial or [mercantile](https://www.merriam-webster.com/dictionary/mercantile) activity engaged in as a means of livelihood **: **[TRADE](https://www.merriam-webster.com/dictionary/trade), [LINE](https://www.merriam-webster.com/dictionary/line)
+        - a commercial or sometimes an industrial enterprise
+        - [dealings](https://www.merriam-webster.com/dictionary/dealing) or transactions especially of an economic nature **: **[PATRONAGE](https://www.merriam-webster.com/dictionary/patronage)
+    - https://www.wolframalpha.com/input/?i=business
+        - 1 | noun | a commercial or industrial enterprise and the people who constitute it
+        - 2 | noun | the activity of providing goods and services involving financial and commercial and industrial aspects
+        - 3 | noun | the principal activity in your life that you do to earn money
+        - 4 | noun | a rightful concern or responsibility
+        - 5 | noun | an immediate objective
+        - 6 | noun | the volume of commercial activity
+        - 7 | noun | business concerns collectively
+        - 8 | noun | customers collectively
+        - 9 | noun | incidental activity performed by an actor for dramatic effect
+        - (9 meanings)
+    - Let's write in our language.
+        - There must be more than 2 people, let's call them Ar Keung and Ar Sit.
+        - Ar Keung and Ar Sit both have something that the other party want.
+            - Let's say Ar Keung, the hunter, need to craft a bow to hunt and he needs lumber.
+            - And Ar Sit, the lumberjack, need to mend her clothes and she needs fur to do so.
+        - and they exchanged.
+        - In that exchange, both of the parties are able to do something more, had they not do the exchange.
+        - But how about money?
+            - Money is just a way for receiver to be able to defer or transact the value to another party(ies).
+                - Read [[The nature of money]]
+        - So in this definition, a lot of our activities can be a business.
+            - A religious service can be a business.
+            - A charity can be categorized as a business.
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FPlFQc-vEZB.png?alt=media&token=e801996d-64c9-4f87-bb17-75b5666281dd)
+        - So all in all we established:
+            - Business is about exchange X that you have for Y so that all parties in the exchange has advanced towards achieving their goals.
+        - So what is [[[[product]] development]]?
+            - As YCombinator:
+                - make things people want.
+                    - It takes me a whole decade for me to truly understand the meaning.
+                    - Two parts:
+                        - Make things
+                        - Figure out what people want.
+                        - And those two can be intertwined.
+                        - Make an MVP to figure out what people want.
+            - Again the stories of Ar Keung and Ar Sit.
+                - Ar Keung is hurt and no longer able to hunt.
+                    - But he found out his bow and arrow is more effective than the bow of other hunter's, when he is talking to other hunters in the bar.
+                    - He then tried to sell the bows he made to the hunter's in other villages.
+                    - After a few roadshows and demo, 10 hunters bought them and really enjoy the bows and arrows, they are able to hunt more effectively, has less maintenance work.
+                    - He experimented with other lumbers but he only able to keep the quality using Ar Ming's lumber.
+                    - He strike a deal with Ar Ming to be the exclusive lumber provider for him.
+                    - Ar Ming is working **for** Ar Keung to provide him the lumber now.
+                    - 
+            - So we had a conclusion
+                - Product development is about building something that a lot of people want it and make a cut in the process.
+        - What is common between [[[[product]] development]] and [[business]]?
+        - All in all [[[[product]] development]] is a more complex [[business]].
+        - Or in other words there are multiple ways to [[business]], [[[[product]] development]] is just one of the way to do it.

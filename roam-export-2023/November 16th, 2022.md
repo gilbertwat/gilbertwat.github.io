@@ -1,0 +1,34 @@
+- 00:00
+    - [[Wifey]] sick
+- 02:00
+    - [[Theodore]] wake up and feed 
+- 06:30
+    - [[Theodore]] wake up and [[sleep]] more
+- 07:00
+    - [[Theodore]] feed 180ml formula
+- 14:50
+    - [[1:1]] [[Anna Yu]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 15:12
+    - [[1:1]] [[Moses Ngan]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - 
+        - What is my top of my mind since our last 1:1?
+            - [[Tylor Ng]] impact
+- 15:42
+    - [[1:1]] [[Alexander Li]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 16:00
+    - Meet with [[Vincent So]] for [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+- 17:00
+    - All hands
+- 18:00
+    - 

@@ -1,0 +1,19 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- Tech manager meetup with [[Ben Lin]] [[Young]] [[Hubert Chan]]
+- [[Platform [[Team]]]] x [[Infrastructure team]] meeting
+    - Communication issues in [[firefighting]]
+    - Migration to [[Kubernetes]] is the root cause of [[September 25th, 2020]] incidents
+    - Incidents is Error rate > 5%
+    - Scaling
+    - [[Suggestion]]
+        - Investigation on how to raise alert when there is spiking traffics
+        - Use platform-x-infra channel for firefighting tech related communication
+        - [[[[2020]] Q4]] use a tools for unified dashboard
+- [[Ergon]]
+    - 18:45 - 20:15 
+- How do you feel when you wind down?
+    - {{slider}}

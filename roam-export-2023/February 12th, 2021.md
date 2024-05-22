@@ -1,0 +1,22 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- {{[[DONE]]}}  [[Jasper Fung]] Homework
+    - Not so sure about 1d and 1e
+    - how a property buyer, seller, or developer may benefit from this insight
+        - growth rate of price / GBA
+        - number of unqualified units
+        - mean difference AYB / EYB
+        - growth of frequency of sale date / year
+        - difference in ranking per neighbourhood
+        - growth rate of installation of heating/ cooling
+    - Good benchmark
+        - simple regression from moving average
+- 
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

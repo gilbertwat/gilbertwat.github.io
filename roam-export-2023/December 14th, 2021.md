@@ -1,0 +1,58 @@
+- #[[sleep]]
+    - Quality: Very good as I used 4-7-8 breathing before I [[sleep]]
+    - 6 Hrs
+- #dream I got 2 dreams last night
+    - Dream 1:
+        - I am in a forest with a lot of trees and caves. I swing and glide around but I feel I am trapped in a cage and cannot find what I am looking for.
+    - Dream 2:
+        - I am watching a redneck-ish movie when the protagonist is a pro airplane pilot and he can make some crazy stunts. But he has a very bossy manager. After the last stunt, he said to the manager he is quitting and selling the plane. The manager becomes crazy and find out the buyer and the pilot is friends all along. I empathize the pilot.
+    - My interpretation:
+        - I need to leave [[GOGOX]]
+- {{[[DONE]]}} Return to [[Retyle]] on the strategy involved
+- 09:00 - 10:00 [[Writing [[Mohammad Ahmad]] reference letter]]
+- 10:00 IQ test 143 [[Gilbert Wat]]
+- 11:30 [[Sai]] onboarding is very very messy
+    - Who is going to welcome him? [[Henry Lee]] or [[Keith Chan]]?
+    - Keith is the team lead but the managerial responsibility lies in Henry.
+    - This responsibility thinking is a [[symptoms of [[toxic [[culture]]]]]] too, no one wants to take the "responsibility" as we are not a group, instead of a bunch of individuals now.
+        - One of the [[symptoms of [[toxic [[culture]]]]]] is asking who is responsible for what.
+- 12:00 Backfilled Egress and migrated [[books]] from old graph to here.
+- 12:15 Revisit the difference between [[Literature Notes]] and [[Permanent Notes]] ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FGv1TP23SoQ.png?alt=media&token=fc88cd07-796d-431f-99d0-7f345efa69de)
+- 12:30 - 14:30 Lunch with [[James Cheuk]] about Bitcoin technology
+    - New technology comes into my attention
+        - [[RSK]]
+        - [[Marlowe]] 
+        - [[FrogDAO]]
+    - New questions I really want to sort it out
+        - [[How does Proof of Transfer of [[Stacks]] work exactly]] 
+        - [[How does [[UXTO]] work exactly]]
+        - [[How does Proof of Stake of [[Solana]] work exactly]]
+        - [[How does Proof of Stake of [[Cardano]] work exactly]]
+    - New idea about Individual [[Sovereignty]]
+        - Everyone needs to have a way to mutually destroy aggressors to deter aggression and achieve world peace.
+- 14:30 - 16:30 [[Tom Lui]] about [[GOGOEnergy]] and its integration with Driver App
+    - Related to [[[[GOGOEnergy]] 2022 Tech Plan]]
+    - Contentful is very hard to use and [[Tom Lui]] is ready to ditch it
+    - The page for Driver extra feedback is not very frequently used
+        - Is that true for the 九宮格 is used sparsely for the drivers
+            - Soln: To track the metric to align understanding of reality and next step
+                - Braze / Mixpanel
+    - An extra tab on the sidebar is possible to navigate to a web view
+        - If GOGOClub need to get into the bottom navigation we need a strong rationale to squeeze away the other tab
+        - If GOGOClub fancy a more native approach they can do React Native / Flutter and current DA team has no such talent to build that (need to find a better excuse)
+    - The objective of the 九宮格 is to engage the drivers with different new services
+        - There is another 2 ways to achieve that in current infrastructure
+            - Braze
+            - Intercom
+            - [[Growth]] [[Operation]] [[product]] team is able to help in [[GOGOX]]
+                - [[Ming Tse]] [[Kate Lai]] [[Tom Lui]]
+        - The new way are very obscured and not communicated well with [[Nick Tang]]
+    - An SOP to roll out new services is desired and hope the communication is better between [[GOGOEnergy]] and [[GOGOX]] on product integration
+- 16:30 - 17:00 Nap
+- 17:00 - 18:00 [[Writing [[Mohammad Ahmad]] reference letter]]
+- 22:30 {{[[DONE]]}} Wrap up the day
+    - diary
+    - Plan [[December 15th, 2021]]
+- #[[Quick Capture]]
+    - https://twitter.com/thedankoe/status/1464263989270089730?s=21
+- 

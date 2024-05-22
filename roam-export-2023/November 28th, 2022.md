@@ -1,0 +1,84 @@
+- Daily questions: Do I find out what's trigger the [[high-grade [[emotions]]]] of oneself?
+- 08:40
+    - {{[[DONE]]}} #planned for [[[[2022]] Week 48]] Finished at 10:02 
+        - Mind
+            - {{[[ARCHIVED]]}}  [[[[books]]: The unbearable lightness of being]] #to-write 
+            - {{[[DONE]]}}  #fixed iPhone back glasses Finished at 14:38 [[November 30th, 2022]] on [[November 29th, 2022]]
+        - Body
+            - Resume exercise
+            - [[sleep]] 7 hours per day
+        - Friends & Family
+            - {{[[DONE]]}}  Organize catch-up with [[Rob Dong]] [[Keith Chan]] [[Ben Cheng]]
+                - Will be on [[December 9th, 2022]]
+            - {{[[DONE]]}} Plan for [[Mum]]'s operation visiting from [[December 6th, 2022]] 
+        - Financial
+            - {{[[ARCHIVED]]}} #to-audit current liquid assets #finance
+            - {{[[DONE]]}} Call on 22842073 to fix W8-REN forms [[Family [[finance]]]] Finished at 18:59 
+            - {{[[ARCHIVED]]}}  #to-evaluate #finance Pacific Life Insurance and get back to [[Bonny Sun]] on [[November 16th, 2022]] -> [[November 29th, 2022]]
+            - {{[[ARCHIVED]]}}  #to-evaluate #finance FWD medical insurance for [[Theodore]] and get back to [[Bonny Sun]] on [[November 16th, 2022]] -> [[November 29th, 2022]]
+        - Career
+            - {{[[ARCHIVED]]}}  Found my contribution in OSS may be happening in https://github.com/mermaid-js/mermaid-live-editor/pulls unable to output double direction in flow chart
+            - {{[[DONE]]}}  #read [[[[books]]: The AI-First Company]] Finished at [[December 12th, 2022]]
+            - {{[[ARCHIVED]]}}  #to-read https://twitter.com/DrJimFan/status/1596911064251187201?s=20&t=gTuSeNj6AtOBU3gbzcDQig
+            - [[Preface]]
+                - [[[[Preface]] [[strategy]]]]
+                    - How to build video content strategy that scale?
+                    - Data strategy with data flywheel
+                    - {{[[DONE]]}}  [[Cyberport Application [[Preface]]]] Due [[November 30th, 2022]]
+                - [[[[Preface]] [[product]]: Coffee App]]
+                    - {{[[DONE]]}} Update [[Launch Plan for [[[[Preface]] [[product]]: Coffee App]]]] plan here https://docs.google.com/document/d/1Lyvzu2CGjW-Rlm46zxEurUDbDV8guaGKnUvR4ysADkQ/edit
+                        - Make sure it is crystal clear for James to quote
+                    - {{[[DONE]]}} Get a quote from [[James Cheuk]] Finished on 14:00 [[December 2nd, 2022]]
+                    -  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]]
+                - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+                    - {{[[ARCHIVED]]}}  Upgrade [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] to fix the budget on [[November 24th, 2022]] -> [[December 1st, 2022]]
+                - [[[[Preface]] [[product]]: Customer Portal]]
+                    - {{[[DONE]]}}  #written Phase 4 [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]]
+                    - {{[[DONE]]}}  Sync up with [[Gemmy Wong]], schedule lunch with the team next week
+                - [[[[Preface]] lead database]]
+                    - {{[[DONE]]}}  Sync up with [[Yoon Kim]] on the next steps
+                - [[[[Preface]] tag-based courses [[recommender]] system]]
+                    - 
+- 09:50
+    - {{[[DONE]]}}  Add 1-3 permanent notes from [[Learning style]] Finished at 10:02 
+- 10:06
+    - {{[[DONE]]}} Update [[Launch Plan for [[[[Preface]] [[product]]: Coffee App]]]] plan here https://docs.google.com/document/d/1Lyvzu2CGjW-Rlm46zxEurUDbDV8guaGKnUvR4ysADkQ/edit
+    - {{[[DONE]]}} Get a quote from [[James Cheuk]] Finished on 14:00 [[December 2nd, 2022]]
+- 11:00
+    - {{[[DONE]]}}  Wrap up SG trip for [[Anna Yu]] on [[November 23rd, 2022]] -> [[November 28th, 2022]] Finished at 12:05 [[November 28th, 2022]]
+        - Add #Responsibilities for [[Anna Yu]] on 2 more aspects
+            - A clear list of product offering on tiers
+            - A clear product feedback loop
+- 11:40
+    - Rest with [[Theodore]]
+- 13:00
+    - Lunch
+- 14:30
+    - Nap
+- 15:30
+    - [[Family [[finance]]]]
+- 16:30
+    - {{[[DONE]]}} Call on 22842073 to fix W8-REN forms [[Family [[finance]]]] Finished at 18:59 
+        - Set up a meeting [[November 29th, 2022]] 14:00 in CWB Citibank with RM
+    - Stroll with [[Theodore]]
+- 17:30
+    - [[Theodore]] dinner
+- 18:15
+    - [[Family [[finance]]]] discussion with [[Wifey]]
+        - Preparation for meeting with [[Bonny Sun]] [[November 29th, 2022]]
+            - Do we have the cheaper plan for FWD?
+            - When do we update the premium for FWD?
+            - For Pacific, when is the max age?
+            - For FTLife, do we have some plan without saving elements?
+            - Reference AIA Life?
+            - have ji dai fai ge insurance cheaper?
+            - For FWD, what about upgrade of plan?
+- 19:00
+    - [[Theodore]] [[sleep]]
+- 19:30
+    - {{[[DONE]]}}  Read 1 verse in the [[Bible]] Finished at 19:42 
+- 20:00
+    - Dinner
+- 21:43
+    - {{[[DONE]]}}  [[Cyberport Application [[Preface]]]] Due [[November 30th, 2022]]
+- {{[[DONE]]}} #to-publish Rehash https://twitter.com/OnlyCFO/status/1597220435636019200?s=20&t=HfLryRoYpFgwXg_ssO4GTQ in engineering / product organization Finished at [[December 14th, 2022]]

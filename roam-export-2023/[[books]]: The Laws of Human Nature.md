@@ -1,0 +1,3819 @@
+- The Laws of Human Nature
+- [[Robert Greene]]
+- Ch.1 Master Your Emotional Self
+    - Highlights
+        - Every Athenian political figure believed he was rational, had realistic goals, and plans on how to get there. They all worked hard for their political factions and tried to increase their power.
+        - LOCATION: 452
+        - What consumed Pericles as a thinker and a public figure was how to get out of this trap, how to be truly rational in an arena dominated by emotions.
+        - LOCATION: 460
+        - In his conception, the human mind has to worship something, has to have its attention directed to something it values above all else.
+        - LOCATION: 462
+        - For most people, it is their ego; for some it is their family, their clan, their god, or their nation. For Pericles it would be nous, the ancient Greek word for “mind” or “intelligence.”
+        - LOCATION: 463
+        - She is the voice that comes to heroes in times of need, instilling in them a calm spirit, orienting their minds toward the perfect idea for victory and success, then giving them the energy to achieve this.
+        - LOCATION: 468
+        - Pericles trained himself to never react in the moment, to never make a decision while under the influence of a strong emotion.
+        - LOCATION: 475
+        - Rationality is not a power you are born with but one you acquire through training and practice.
+        - LOCATION: 488
+        - Why this anger or resentment? Where does this incessant need for attention come from? Under such scrutiny, your emotions will lose their hold on you.
+        - LOCATION: 496
+        - Whenever anything goes wrong in our life, we naturally seek an explanation. These explanations tend to intensify our emotions—anger, frustration, depression—which we can then wallow in and feel bad for ourselves.
+        - LOCATION: 514
+        - But generally what causes us to go astray in the first place, what leads to bad decisions and miscalculations, is our deep-rooted irrationality, the extent to which our minds are governed by emotion.
+        - LOCATION: 519
+        - What all of the analysis ignores is the basic irrationality that drove these millions of buyers and sellers up and down the line.
+        - LOCATION: 533
+        - Bubbles occur because of the intense emotional pull they have on people, which overwhelms any reasoning powers an individual mind might possess. They stimulate our natural tendencies toward greed, easy money, and quick results.
+        - LOCATION: 540
+        - The oldest is the reptilian part of the brain, which controls all automatic responses that regulate the body. This is the instinctive part. Above that is the old mammalian or limbic brain, governing feeling and emotion. And on top of that has evolved the neocortex, the part that controls cognition and, for humans, language.
+        - LOCATION: 562
+        - We dwell on our fears, intensifying them and making them last well past the moment of danger, even to the point of feeling constant anxiety.
+        - LOCATION: 584
+        - People are always labeling those who disagree with them “irrational.”
+        - LOCATION: 592
+        - Irrational people have no such awareness. They rush into action without carefully considering the ramifications and consequences.
+        - LOCATION: 597
+        - Rational people demonstrate over time that they are able to finish a project, to realize their goals, to work effectively with a team, and to create something that lasts.
+        - LOCATION: 598
+        - Irrational people reveal in their lives negative patterns—mistakes that keep repeating, unnecessary conflicts that follow them wherever they go, dreams and projects that are never realized, anger and desires for change that are never translated into concrete action.
+        - LOCATION: 599
+        - Irrational people will become consumed with a power struggle against the spouse, will let resentments and desires for vengeance secretly guide their decisions. This will lead to a protracted battle and a damaged child.
+        - LOCATION: 607
+        - When it comes to hiring an assistant or partner, rational people will use competence as their barometer—can this person do the job?
+        - LOCATION: 609
+        - Rational people can readily admit their own irrational tendencies and the need to be vigilant.
+        - LOCATION: 615
+        - Pericles wanted the energy that comes from impulses and emotions to serve our thinking self.
+        - LOCATION: 620
+        - This occurs when our emotions become inflamed, generally because of certain pressures. As we think about our anger, excitement, resentment, or suspicion, it intensifies into a reactive state—everything we see or hear is interpreted through the lens of this emotion.
+        - LOCATION: 628
+        - Third, we need to enact certain strategies and exercises that will strengthen the thinking part of the brain and give it more power in the eternal struggle with our emotions.
+        - LOCATION: 633
+        - I look at the evidence and arrive at my decisions through more or less rational processes.
+        - LOCATION: 644
+        - To hold an idea and convince ourselves we arrived at it rationally, we go in search of evidence to support our view.
+        - LOCATION: 645
+        - When investigating confirmation bias in the world, take a look at theories that seem a little too good to be true. Statistics and studies are trotted out to prove them;
+        - LOCATION: 653
+        - I believe in this idea so strongly. It must be true.
+        - LOCATION: 658
+        - We hold on to an idea that is secretly pleasing to us, but deep inside we might have some doubts as to its truth, and so we go an extra mile to convince ourselves—to believe in it with great vehemence and to loudly contradict anyone who challenges us.
+        - LOCATION: 659
+        - I understand the people I deal with; I see them just as they are.
+        - LOCATION: 667
+        - My ideas are my own. I do not listen to the group. I am not a conformist.
+        - LOCATION: 674
+        - We are social animals by nature. The feeling of isolation, of difference from the group, is depressing and terrifying.
+        - LOCATION: 675
+        - I learn from my experience and mistakes.
+        - LOCATION: 681
+        - I’m different. I’m more rational than others, more ethical as well
+        - LOCATION: 689
+        - We know, however, the reality, and so some people, perhaps all of us, are merely deceiving ourselves.
+        - LOCATION: 698
+        - Low-grade emotions continually affect our thinking, and they originate from our own impulses—for instance, the desire for pleasing and comforting thoughts. High-grade emotion, however, comes at certain moments, reaches an explosive pitch, and is generally sparked by something external—a person who gets under our skin, or particular circumstances.
+        - LOCATION: 701
+        - In the middle of such an attack we feel possessed, as if a second, limbic self has taken over.
+        - LOCATION: 706
+        - Take, for example, a young man who had a distant, narcissistic mother. As an infant or child, he experienced her coldness as abandonment, and to be abandoned must mean he was somehow unworthy of her love. Or similarly, a new sibling on the scene caused his mother to give him much less attention, which he equally experienced as abandonment.
+        - LOCATION: 715
+        - The way to recognize this in yourself and in others is by noticing behavior that is suddenly childish in its intensity and seemingly out of character.
+        - LOCATION: 721
+        - In the midst of such an attack, we must struggle to detach ourselves and contemplate the possible source—the wound in early childhood—and the patterns it has locked us into. This deep understanding of ourselves and our vulnerabilities is a key step toward becoming rational.
+        - LOCATION: 731
+        - The solution here is simple: whenever you experience unusual gains or losses, that is precisely the time to step back and counterbalance them with some necessary pessimism or optimism.
+        - LOCATION: 744
+        - They suddenly lash out in anger, reveal a paranoid streak, and become hypersensitive and often petty. Under stress or any threat, the most primitive parts of the brain are aroused and engaged, overwhelming people’s reasoning powers.
+        - LOCATION: 748
+        - There are people in the world who by their nature tend to trigger powerful emotions in almost everyone they encounter.
+        - LOCATION: 756
+        - It is best to recognize these inflamers by how they affect others, not just yourself.
+        - LOCATION: 761
+        - They have an obsessive quality, and they can lead you to extreme actions as a devoted follower or as an inveterate enemy.
+        - LOCATION: 763
+        - This is the high-grade variety of the group bias. When we are in a group of a large enough size, we become different.
+        - LOCATION: 767
+        - Being in a group does not stimulate independent reasoning but rather the intense desire to belong.
+        - LOCATION: 770
+        - Demagogues in politics or the media try to stir a continual sense of panic, urgency, and outrage.
+        - LOCATION: 781
+        - Your defense is simple: Consider your reasoning powers, your ability to think for yourself, your most precious possession.
+        - LOCATION: 782
+        - The irrational simply changes its look and its fashions.
+        - LOCATION: 789
+        - The second factor is that almost all of us at some point in our lives have experienced moments of greater rationality. This often comes with what we shall call the maker’s mind-set
+        - LOCATION: 802
+        - Know yourself thoroughly.
+        - LOCATION: 808
+        - Examine your emotions to their roots. You are angry. Let the feeling settle from within, and think about it. Was it triggered by something seemingly trivial or petty?
+        - LOCATION: 815
+        - Increase your reaction time. This power comes through practice and repetition. When some event or interaction requires a response, you must train yourself to step back.
+        - LOCATION: 822
+        - Accept people as facts. Interactions with people are the major source of emotional turmoil, but it doesn’t have to be that way. The problem is that we are continually judging people, wishing they were something that they are not.
+        - LOCATION: 828
+        - They remain a continual test to our rationality. Look at the Russian writer Anton Chekhov, one of the most fiercely rational people who ever lived, as the model for this.
+        - LOCATION: 837
+        - He applied his training as a doctor to the human animal, his goal to understand what makes us so irrational, so unhappy, and so dangerous.
+        - LOCATION: 839
+        - Find the optimal balance of thinking and emotion. We cannot divorce emotions from thinking.
+        - LOCATION: 846
+        - The horse is our emotional nature continually impelling us to move. This horse has tremendous energy and power, but without a rider it cannot be guided;
+        - LOCATION: 849
+        - Love the rational. It is important to not see the path to rationality as something painful and ascetic. In fact, it brings powers that are immensely satisfying and pleasurable, much deeper than the more manic pleasures the world tends to offer us.
+        - LOCATION: 861
+        - Our answer is to identify with the best qualities of our parents—their strength, their ability to soothe us—and incorporate these qualities into ourselves.
+    - Notes
+        - Every [[people]] believes they have [[Rationality]].
+        - Every [[people]] believes they had realistic [[goals]].
+        - Every [[people]] believes they had [[plan]] on how to get there.
+        - Every [[people]] works hard to increase their power.
+        - Every [[people]] has to worship something and direct their attention to something it values above all else.
+        - Some of the [[people]] worships their own ego.
+        - Some of the [[people]] worships their family.
+        - Some of the [[people]] worships their clan.
+        - Some of the [[people]] worships their nation.
+        - Some of the [[people]] worships their mind and intelligence.
+        - [[Making the right enough [[decided]]]], Never make a [[decided]] while under the influence of a strong emotion.
+        - [[Rationality]] is not a power you are born with but one you acquire through training and practice.
+        - Scrutinize [[emotions]] to be detached from it.
+        - [[people]] always label those who disagree with them "irrational".
+        - [[Rationality]] is the opposite of [[Irrationality]]
+        - [[Irrationality]] prevents us to [[Making the right enough [[decided]]]]
+        - Strong [[emotions]] create [[Irrationality]].
+        - Strong [[emotions]] create strong energy.
+        - [[Fear]] is a strong [[emotions]].
+        - [[angry]] is a strong [[emotions]].
+        - [[Irrationality]] of a [[people]] is revealed in their lives negative patterns.
+        - [[Rationality]] [[hiring]] [[decided]]: Can this person do the job?
+        - [[emotions]] creates a distorted lens on [[reality]].
+        - Every [[people]] believes they understands people they deal with as they are.
+        - Every [[people]] believes their ideas are their own and they are not conforming with the group.
+        - Every [[people]] is living in a group.
+        - Every [[people]] believes they are more [[Rationality]] than others.
+        - Every [[people]] believes they are more [[ethical]] than others.
+        - Every [[people]] has its childish in its intensity and seemingly out of character behaviors.
+        - Childish in its intensity and seemingly out of character behaviors comes from [[high-grade [[emotions]]]].
+        - [[high-grade [[emotions]]]] comes from ones' experience when he/she is a child.
+        - [[high-grade [[emotions]]]] has an obsessive quality, and they can lead you to extreme actions as a devoted follower or as an inveterate enemy.
+        - [[high-grade [[emotions]]]] can be formed by large enough group.
+        - Maker mindset creates greater [[Rationality]].
+        - Panic breeds [[Irrationality]].
+        - Urgency breeds [[Irrationality]].
+        - Outrage breeds [[Irrationality]].
+        - [[Low-grade [[emotions]]]] comes from [[people]]'s impulse.
+        - Increase reaction time creates space and increase [[Rationality]].
+- Ch. 2 Transform Self-love into Empathy
+    - Highlights
+        - LOCATION: 912
+        - Their mothers (or fathers) might be deep narcissists themselves, too self-absorbed to acknowledge the child, to encourage its early efforts at independence.
+        - LOCATION: 915
+        - Or alternatively the parents could be enmeshers—overinvolved in the child’s life, suffocating it with attention, isolating it from others, and living through its advancement as a means to validate their own self-worth.
+        - LOCATION: 917
+        - The result is that they have no self to retreat to, no foundation for self-esteem, and are completely dependent on the attention they can get from others to make them feel alive and worthy.
+        - LOCATION: 919
+        - In both cases, drugs or alcohol or any other form of addiction can become a necessary crutch to soothe them in the inevitable moments of doubt and depression.
+        - LOCATION: 930
+        - Sometimes they can become entrepreneurs, people who found a company because of their charisma and ability to attract followers. They can have creative flair as well.
+        - LOCATION: 964
+        - But for many of these leader types, eventually their own inner instability and chaos will come to be mirrored in the company or group they lead. They cannot forge a coherent structure or organization. Everything must flow through them. They have to control everything and everyone, their self-objects.
+        - LOCATION: 965
+        - They tend to burn and destroy whatever they create.
+        - LOCATION: 968
+        - Constant attention is their only way of survival.
+        - LOCATION: 974
+        - Second, we must be honest about our own nature and not deny it. We are all narcissists. In a conversation we are all champing at the bit to talk, to tell our story, to give our opinion.
+        - LOCATION: 985
+        - Third and most important, we must begin to make the transformation into the healthy narcissist. Healthy narcissists have a stronger, even more resilient sense of self. They tend to hover closer to the top of the scale.
+        - LOCATION: 994
+        - But in our twenties and beyond, feeling more confident about ourselves, we can begin to focus outward, on people, and rediscover these powers.
+        - LOCATION: 1008
+        - If your attention is continually interrupted by the need to look at your smartphone, you are never really gaining a foothold in the feelings or perspectives of other people.
+        - LOCATION: 1013
+        - The empathic attitude: Empathy is more than anything a state of mind, a different way of relating to others.
+        - LOCATION: 1025
+        - Instead, you must begin with the assumption that you are ignorant and that you have natural biases that will make you judge people incorrectly.
+        - LOCATION: 1027
+        - Try reversing your normal impulse to talk and give your opinion, desiring instead to hear the other person’s point of view. You have tremendous curiosity in this direction. Cut off your incessant interior monologue as best you can. Give full attention to the other.
+        - LOCATION: 1034
+        - As part of this attitude, you are giving people the same level of indulgence that you give yourself.
+        - LOCATION: 1037
+        - Pay deep attention to the moods of people, as indicated by their body language and tone of voice.
+        - LOCATION: 1049
+        - Instead of focusing on their words, which show interest and excitement, focus on the overall feeling tone that you pick up. How deeply are they listening? Are they making consistent eye contact? Does it feel like even though they are listening to you, they are absorbed in themselves?
+        - LOCATION: 1057
+        - Analytic empathy:
+        - LOCATION: 1077
+        - This can prove particularly helpful with people toward whom we feel resistant and whom we have a hard time identifying with—either because they are very different from us or because there is something about them that repels us.
+        - LOCATION: 1080
+        - Analytic empathy comes mostly through conversation and gathering information that will allow you to get inside the spirit of others.
+        - LOCATION: 1084
+        - To work on this skill, keep several things in mind: The more people you interact with in the flesh, the better you will get at this. And the greater the variety of people you meet, the more versatile your skill will become. Also, keep a sense of flow. Your ideas about people never quite settle into a judgment.
+        - LOCATION: 1101
+        - At some point, they will become total micromanagers—whom can they trust anymore? People have turned into automatons, incapable of making decisions, so they must oversee everything.
+        - LOCATION: 1192
+        - You will notice that they do not have one single deep and intimate relationship in which they exposed any vulnerability. Look for signs of a troubled childhood.
+        - LOCATION: 1200
+        - What generally makes a relationship narcissistic is the lack of empathy that makes the partners retreat deeper and deeper into their own defensive positions.
+        - LOCATION: 1338
+        - The key to employing empathy within a relationship is to understand the value system of the other person, which inevitably is different from yours.
+        - LOCATION: 1353
+        - They all knew they were trapped there for the coming winter. What they needed was distractions, something to occupy their minds and keep their spirits up. For that purpose, every day he drew up a duty roster outlining who would be doing what. He tried to mix it up as much as possible, shifting the men around in various groups and making sure they never did the same task too often. For each day there was a simple goal to accomplish—some penguins or seals to hunt, some more stores from the ship to bring to the tents, the construction of a better campground.
+        - LOCATION: 1375
+        - He was good at his job and never complained about doing other chores, but he was a man who needed to feel important.
+        - LOCATION: 1387
+        - The navigator, Huberht Hudson, revealed himself to be very self-centered and a terrible listener.
+        - LOCATION: 1390
+        - As the winter wore on, he doubled his attentiveness. At certain moments, he could feel the boredom of the men in how they carried themselves, in how they talked less and less to one another.
+        - LOCATION: 1393
+        - At one point during the voyage, he noticed McNeish’s spirits sinking, and suddenly the man stopped rowing. Shackleton sensed the danger here—if he yelled at McNeish or ordered him to row, he would probably become even more rebellious, and with so few men crowded together for so many weeks with so little food, this could turn ugly.
+        - LOCATION: 1408
+        - Improvising in the moment, he stopped the boat and ordered the boiling of hot milk for everyone. He said they were all getting tired, including himself, and they needed their spirits lifted.
+        - LOCATION: 1410
+        - Shackleton imbued himself with an air of complete confidence and optimism and watched how this infected the men’s spirit.
+        - LOCATION: 1434
+        - He had to treat each person differently, depending on his particular psychology. He also had to constantly adjust his readings, as people’s moods shifted quickly.
+        - LOCATION: 1439
+        - Third, in detecting any dips in spirit or negativity, he had to be gentle. Scolding would only make people feel ashamed and singled out, which would lead to contagious effects down the road.
+        - LOCATION: 1440
+        - Better to engage them in talk, to enter their spirit, and to find indirect ways to either elevate their mood or isolate them without making them realize what he was doing.
+        - LOCATION: 1442
+        - Understand: What makes us develop these empathic powers is necessity. If we feel our survival depends on how well we gauge the moods and minds of others, then we will find the requisite focus and tap into the powers.
+        - LOCATION: 1445
+        - You will suddenly become aware of an entire world of nonverbal behavior you never knew existed, as if your eyes could now suddenly see ultraviolet light. Once you sense this power, you will feel its importance and awaken to new social possibilities.
+    - Notes
+        - 
+- Ch.3 See Through People's Masks
+    - Highlights of chapter outline
+        - **The law of role-playing**
+            - LOCATION: 1453
+                - People continually leak out their true feelings and unconscious desires in the nonverbal cues they cannot completely control—facial expressions, vocal inflections, tension in the body, and nervous gestures.
+            - The second language: The story of Milton Erickson observing his closest family and nurses interact with each other when he is paralyzed because of polio
+                - LOCATION: 1464
+                    - And soon he noticed a peculiar pattern—in a conversation people were rarely direct.
+                - LOCATION: 1497
+                    - A sister could spend minutes beating around the bush, leaving hints to others about what she really wanted—such as to borrow an article of clothing or hear an apology from someone.
+                - LOCATION: 1497
+                    - Clearly, he realized, the mind and the body operate together, in ways we are hardly aware of.
+                - LOCATION: 1514
+                    - His motto was “observe, observe, observe.” For this purpose he kept a notebook, writing down all of his observations.
+                - LOCATION: 1521
+                    - He would watch people walking in every part of the city. He paid attention to the heaviness of the step—there was the emphatic walk of those who were persistent and full of resolve;
+                - LOCATION: 1523
+                    - Soon the man became enthralled with the sanding of the wood and the smell of it as he polished it. He stopped crying and took woodworking classes, carving elaborate chess sets and selling them.
+                - LOCATION: 1540
+                    - He could guess the career backgrounds of people by the quality of their hands, the heaviness of their step, the way they tilted their heads, and their vocal inflections.
+                - **Interpretation of Author**
+                    - LOCATION: 1571
+                        - He had to tamp down his ego—thinking less of what he wanted to say and instead directing his attention outward into the other person, attuning himself to their changing moods as reflected in their body language.
+                    - LOCATION: 1583
+                        - They have no mental space left over for simple observations, and the second language largely passes them by.
+                - **Understanding from Author**
+                    - LOCATION: 1593
+                        - It is estimated that over 65 percent of all human communication is nonverbal but that people pick up and internalize only about 5 percent of this information.
+        - **The 3 Keys to Human Nature**
+            - LOCATION: 1595
+                - “All the world’s a stage, / And all the men and women merely players; / They have their exits and their entrances, / And one man in his time plays many parts.”
+            - LOCATION: 1629
+                - Developed over so much time, before the invention of language, that is how the human face became so expressive, and gestures so elaborate. This is bred deep within us.
+            - LOCATION: 1636
+                - Our real feelings continually leak out in the form of gestures, tones of voice, facial expressions, and posture.
+            - LOCATION: 1639
+                - By paying extra-close attention to the nonverbal cues they emit, you can pick up
+            - LOCATION: 1642
+                - their moods and mirror these moods back to them, getting them to unconsciously relax in your presence.
+            - **Observational Skills**
+                - LOCATION: 1642
+                    - This is why children are the bane of inveterate liars, con artists, magicians, and people who pretend to be something they are not.
+                - LOCATION: 1659
+                    - As you practice these exercises, you must be relaxed and open to what you see, not champing at the bit to interpret your observations with words. You must be engaged in the conversation while talking less and trying to get them to talk more.
+                - LOCATION: 1672
+                    - Some people are naturally quiet and reserved, their facial expression revealing this. Some are more animated and energetic, while still others continually wear an anxious look. Aware of a person’s usual demeanor, you can pay greater attention to any deviations—for instance, sudden animation in someone who is generally reserved, or a relaxed look from the habitually nervous.
+                - LOCATION: 1678
+                    - For another exercise, observe people who are about to do something exciting—a trip to some alluring place, a date with someone they’ve been pursuing, or any event for which they have high expectations.
+                - LOCATION: 1685
+                    - With mixed signals, you need to be aware that a greater part of nonverbal communication involves the leakage of negative emotions, and you need to give greater weight to the negative cue as indicative of the person’s true feelings.
+                - LOCATION: 1694
+                    - As you progress, you will be able to split your attention more easily—listening attentively to what people have to say, but also taking careful note of nonverbal cues.
+                - LOCATION: 1699
+                    - If you are observing someone you naturally dislike, or who reminds you of someone unpleasant in your past, you will tend to see almost any cue as unfriendly or hostile. You will do the opposite for people you like. In these exercises you must strive to subtract your personal preferences and prejudices about people.
+                - LOCATION: 1709
+                    - Always consider the cultural background of people, and interpret their cues accordingly.
+            - **Decoding Keys**
+                - **Dislike/like cues**
+                    - LOCATION: 1722
+                        - At times you might feel something is not quite right, but the signs are subtle and you forget them as you pay attention to the front they present.
+                    - LOCATION: 1739
+                        - The price you pay is not only difficulties in your work or personal life, but also the emotional toll, which can have a lingering effect.
+                    - **Understand**
+                        - LOCATION: 1741
+                            - People’s hostile or resistant actions never come out of the blue. There are always signs before they take any action.
+                        - LOCATION: 1742
+                            - People give out clear indications in their body language of active dislike or hostility.
+                        - LOCATION: 1747
+                            - People will often give themselves away with the mixed signal—a positive comment to distract you but some clearly negative body language.
+                        - LOCATION: 1765
+                            - You might detect that they are noticeably friendlier and warmer toward other people and then put on a polite mask with you.
+                        - LOCATION: 1778
+                            - In general, people will want to see more of you, want to see less of you, or be rather indifferent. They may fluctuate among the three states, but they will tend to veer toward one. They will reveal this in how quickly they respond to your emails or texts, their body language on first seeing you, and the overall tone they take in your presence.
+                        - LOCATION: 1791
+                            - At the deepest level of synchrony, as Milton Erickson discovered, you will find breathing patterns falling into the same rhythm, which can sometimes end in the complete synchrony of a kiss.
+                - **Dominance/submission cues**
+                    - LOCATION: 1828
+                        - We are aware of these hierarchies, but we do not like talking explicitly about relative power positions, and we are generally uncomfortable when others talk about their superior rank.
+                    - LOCATION: 1837
+                        - They speak faster than others and feel entitled to interrupt and control the flow of the conversation. Their handshake is extra vigorous, almost crushing. When they walk in the office, you will see them assume a taller stance and a purposeful stride, generally making inferiors walk behind them. Watch chimpanzees in a zoo and you will notice similar behavior on the part of the alpha chimp.
+                    - LOCATION: 1850
+                        - For women in leadership positions, what often works best is a calm, confident expression, warm yet businesslike.
+                    - LOCATION: 1853
+                        - She listens to others with looks of complete absorption, her face remarkably still.
+                    - LOCATION: 1856
+                        - Leaders who display tension and hesitation in their nonverbal cues are generally insecure in their power and feel it threatened.
+                    - LOCATION: 1864
+                        - People trying to hide their insecurities will assert themselves a little too loudly in a conversation, their voices rising.
+                    - LOCATION: 1869
+                        - For instance, people will often show up late to indicate their superiority, real or imagined. They are not obligated to be on time.
+                    - LOCATION: 1877
+                        - One final but very subtle nonverbal means of asserting dominance in a relationship comes through the symptom. One partner suddenly develops headaches or some other illness, or starts drinking, or generally falls into a negative pattern of behavior.
+                    - LOCATION: 1885
+                        - We humans are by nature quite gullible. We want to believe in certain things—that we can get something for nothing; that we can easily regain or rejuvenate our health thanks to some new trick, perhaps even cheat death; that most people are essentially good and can be trusted.
+                    - LOCATION: 1896
+                        - Reality is messy and the pieces rarely fit so perfectly.
+                    - LOCATION: 1924
+                        - You want them to talk more, to reveal more signs of tension and contrivance. At the right moment you must surprise them with a question or remark that is designed to make them uncomfortable, revealing you are onto them.
+                    - LOCATION: 1930
+                        - Even with the most practiced deceivers, one of the best ways to unmask them is to notice how they give emphasis to their words through nonverbal cues. It is very difficult for humans to fake this. Emphasis comes through raised vocal pitch and assertive tone, forceful hand gestures, the raising of eyebrows and the widening of eyes.
+                    - LOCATION: 1936
+                        - Save your alertness for those situations in which the stakes are higher and people might be angling to get something valuable out of you.
+            - **The Art of Impression Management**
+                - **Master the nonverbal cues**
+                    - LOCATION: 1948
+                        - In certain settings, when people want to get a fix on who we are, they pay greater attention to the nonverbal cues we emit. This could be in a job interview, a group meeting, or a public appearance.
+                - **Be a method actor**
+                    - LOCATION: 1968
+                        - In method acting you train yourself to be able to display the proper emotions on command. You feel sad when your part calls for it by recalling your own experiences that caused such emotions, or if necessary by simply imagining such experiences.
+                - **Adapt to your audience**
+                    - LOCATION: 1974
+                        - Although you conform to certain parameters set by the role you play, you must be flexible. A master performer like Bill Clinton never lost sight of the fact that as president he had to project confidence and power, but if he was speaking to a group of autoworkers he would adjust his accent and his words to fit the audience, and he would do the same for a group of executives.
+                - **Create the proper first impression**
+                    - LOCATION: 1982
+                        - It has been demonstrated how much people tend to judge based on first impressions and the difficulties they have in reassessing these judgments.
+                - **Use daramatic effects**
+                    - LOCATION: 1985
+                        - This mostly involves mastering the art of presence/absence. If you are too present, if people see you too often or can predict exactly what you will do next, they will quickly grow bored with you.
+                - **Project saintly qualities**
+                    - LOCATION: 1990
+                        - Realize the following: The word personality comes from the Latin persona, which means “mask.” In the public we all wear masks, and this has a positive function. If we displayed exactly who we are and spoke our minds truthfully, we would offend almost everyone and reveal qualities that are best concealed.
+- Ch.4 Determine the Strength of People's Character
+    - The Pattern
+        - The story of [[Howard Hughes Jr.]]
+        - Interpretation
+            - LOCATION: 2014
+            - His mother had an anxious nature, and after learning she could have no more children, she directed a great deal of her anxiety toward her only son.
+            - LOCATION: 2148
+            - He had to have complete control, even at the age of nineteen, over his fate; anything less would stir up the old anxieties from childhood.
+            - LOCATION: 2156
+            - The paradox of this was that by trying to gain such total control he tended to lose it; one man could not possibly keep on top of everything, and so all kinds of unforeseen problems would arise. And when projects fell apart and the heat became intense, he would disappear from the scene or conveniently fall ill.
+            - LOCATION: 2165
+            - In fact, Hughes was a terrible businessman, and the pattern of failures that revealed this was plain for everyone to see. But this is the blind spot in human nature: we are poorly equipped to gauge the character of the people we deal with.
+            - LOCATION: 2175
+            - Instead of determining people’s character—their ability to work with others, to keep to their promises, to remain strong in adverse circumstances—we choose to work with or hire people based on their glittering résumé, their intelligence, and their charm.
+            - LOCATION: 2178
+            - Train yourself to ignore the front that people display, the myth that surrounds them, and instead plumb their depths for signs of their character. This can be seen in the patterns they reveal from their past, the quality of their decisions, how they have chosen to solve problems, how they delegate authority and work with others, and countless other signs. A person of strong character is like gold—rare but invaluable. They can adapt, learn, and improve themselves. Since your success depends on the people you work with and for, make their character the primary object of your attention. You will spare yourself the misery of discovering their character when it is too late.
+    - Keys to Human Nature
+        - LOCATION: 2185
+        - Or we realize that our way of working on a project needs some improvement; we could do things better. We try to alter our methods, only to find ourselves doing things in exactly the same way, with nearly the same results.
+        - LOCATION: 2195
+        - We can often notice this phenomenon more clearly in the actions of others, particularly those closest to us.
+        - LOCATION: 2197
+        - If we are honest with ourselves, we must admit there is some truth to the concept of fate.
+        - LOCATION: 2204
+        - The earliest and deepest layer comes from genetics, from the particular way our brains are wired, which predisposes us toward certain moods and preferences.
+        - LOCATION: 2209
+        - The second layer, which forms above this, comes from our earliest years and from the particular type of attachments we formed with our mother and caregivers.
+        - LOCATION: 2214
+        - John Bowlby, an anthropologist and psychoanalyst, studied patterns of attachment between mothers and children and came up with four basic schemas: free/autonomous, dismissing, enmeshed-ambivalent, and disorganized
+        - LOCATION: 2217
+        - Above this a third layer will form from our habits and experiences as we get older. Based on the first two layers, we will tend to rely on certain strategies for dealing with stress, looking for pleasure, or handling people.
+        - LOCATION: 2233
+        - There is a fourth layer as well. It often is developed in late childhood and adolescence as people become aware of their character flaws. They do what they can to cover them up.
+        - LOCATION: 2239
+        - As we get older, life tends to weaken us. Our empathy is harder to hold on to (see chapter 2).
+        - LOCATION: 2245
+        - Without conscious effort, these strengths will tend to wear down or turn into weaknesses.
+        - LOCATION: 2247
+        - First you must come to understand your own character, examining as best you can the elements in your past that have gone into forming it, and the patterns, mostly negative, that you can see recurring in your life.
+        - LOCATION: 2253
+        - Second, you must develop your skill in reading the character of the people you deal with.
+        - LOCATION: 2258
+        - Successful people have just as many character flaws as anyone else.
+        - LOCATION: 2272
+        - The most significant indicator of people’s character comes through their actions over time. Despite what people say about the lessons they have learned (see Howard Hughes), and how they have changed over the years, you will inevitably notice the same actions and decisions repeating in the course of their life.
+        - LOCATION: 2281
+        - If you ignore the pattern it is your own fault.
+        - LOCATION: 2288
+        - people never do something just once.
+        - LOCATION: 2288
+        - You can see eloquent signs of people’s character in how they handle everyday affairs.
+        - LOCATION: 2302
+        - People under stress lose their normal self-control.
+        - LOCATION: 2312
+        - On the other hand, some people rise to the occasion and reveal strength under fire.
+        - LOCATION: 2313
+        - On the other hand, far more people suddenly feel entitled to treat others differently now that they have the power.
+        - LOCATION: 2318
+        - Some look for a partner they can dominate and control, perhaps someone younger, less intelligent or successful. Some choose a partner they can rescue from a bad situation, playing the savior role, another form of control. Yet others look for someone to fill the mommy or daddy role. They want more pampering.
+        - LOCATION: 2326
+        - Another realm to examine is how people behave in moments away from work.
+        - LOCATION: 2332
+        - Extroverts value external things—good clothes, great meals, concrete enjoyment shared with others.
+        - LOCATION: 2340
+        - Introverts are more sensitive and easily exhausted by too much outward activity.
+        - LOCATION: 2343
+        - They love to theorize and come up with their own ideas. If they produce something, they do not like to promote it; they find the effort distasteful.
+        - LOCATION: 2345
+        - Their boldness will be expressed by the novel ideas they come up with and their creativity.
+        - LOCATION: 2349
+        - It could stem from a mixture of certain factors—genetics, secure parenting, good mentors along the way, and constant improvement (see the final section of this chapter).
+        - LOCATION: 2358
+        - Strong character has a tensile quality like a good piece of metal—it can give and bend but still retains its overall shape and never breaks.
+        - LOCATION: 2361
+        - The strength emanates from a feeling of personal security and self-worth. This allows such people to take criticism and learn from their experiences. This means they do not give up so easily, since they want to learn how to get better. They are rigorously persistent. People of strong character are open to new ideas and ways of doing things without compromising the basic principles they adhere to. In adversity they can retain their presence of mind. They can handle chaos and the unpredictable without succumbing to anxiety. They keep their word. They have patience, can organize a lot of material, and complete what they start.
+        - LOCATION: 2362
+        - People of weak character begin from the opposite position. They are easily overwhelmed by circumstances, making them hard to rely upon. They are slippery and evasive. Worst of all, they cannot be taught because learning from others implies criticism. This means you will continually hit a wall in dealing with them. They may appear to listen to your instructions, but they will simply revert to what
+        - LOCATION: 2368
+        - He looks beyond the numbers to the CEOs he will be dealing with, and what he wants to gauge above all else is their resilience, their dependability, and their self-reliance.
+        - LOCATION: 2373
+        - but he admired Eleanor’s openness to new experiences and her remarkable determination.
+        - LOCATION: 2377
+        - Looking far into the future, he could see the value of her character mattering more than anything else.
+        - LOCATION: 2377
+        - For instance, a good-natured joke at their expense can be quite revealing. Do they respond graciously to this, not so easily caught up in their insecurities, or do their eyes flash resentment or even anger?
+        - LOCATION: 2380
+        - To gauge their trustworthiness as a team player, give them strategic information or share with them some rumor—do they quickly pass along the information to others? Are they quick to take one of your ideas and package it as their own? Criticize them in a direct manner. Do they take this to heart and try to learn and improve, or do they show overt signs of resentment? Give them an open-ended assignment with less direction than usual and monitor how they organize their thoughts and their time. Challenge them with a difficult assignment or some novel way of doing something, and see how they respond, how they handle their anxiety.
+        - LOCATION: 2382
+        - People of real strength are as rare as gold, and if you find them, you should respond as if you had a discovered a treasure.
+    - Character Signs
+        - Toxic Types
+            - LOCATION: 2390
+            - The Hyperperfectionist: You are lured into their circle by how hard they work, how dedicated they are to making the best of whatever it is they produce.
+            - LOCATION: 2397
+            - Such people often have dependency issues stemming from their family background, similar to Howard Hughes.
+            - LOCATION: 2402
+            - Once their back is turned, they imagine everyone slacking off. Their compulsive need to micromanage leads to people feeling resentful and secretly resistant, which is precisely what they fear the most.
+            - LOCATION: 2404
+            - The Relentless Rebel: At first glance such people can seem quite exciting. They hate authority and love the underdog. Almost all of us are secretly attracted to such an attitude; it appeals to the adolescent within us, the desire to snub our nose at the teacher.
+            - LOCATION: 2410
+            - Look at their past history—they will tend to split with people on very bad terms, made worse by their
+            - LOCATION: 2419
+            - insults.
+            - LOCATION: 2420
+            - The Personalizer: These people seem so sensitive and thoughtful, a rare and nice quality. They might seem a little sad, but sensitive people can have it rough in life.
+            - LOCATION: 2422
+            - The Drama Magnet: They will draw you in with their exciting presence. They have unusual energy and stories to tell.
+            - LOCATION: 2433
+            - The Big Talker: You are impressed by their ideas, the projects that they are thinking about.
+            - LOCATION: 2441
+            - They need help, they need backers, and you are sympathetic, but step back for a moment and examine their record for signs of past achievements or anything tangible.
+            - LOCATION: 2442
+            - The Sexualizer: They seem charged with sexual energy, in a way that is refreshingly unrepressed. They have a tendency to mix work with pleasure, to blur the usual boundaries for when it is appropriate to use this energy, and you might imagine that this is healthy and natural.
+            - LOCATION: 2453
+            - The Pampered Prince/Princess: They will draw you in with their regal air. They are calm and ever so slightly imbued with a feeling of superiority. It is pleasant to meet people who appear confident and destined to wear a crown. Slowly you might find yourself doing favors for them, working extra hard for no pay, and not really understanding how or why.
+            - LOCATION: 2463
+            - The Pleaser: You have never met anyone so nice and considerate. You almost can’t believe how accommodating and charming they are. Then slowly you begin to have some doubts, but nothing you can put your finger on.
+            - LOCATION: 2473
+            - They secretly yearn to harm or steal from the person they serve or defer to.
+            - LOCATION: 2480
+            - The Savior: You cannot believe your good luck—you have met someone who will save you from your difficulties and troubles.
+            - LOCATION: 2482
+            - The Easy Moralizer: They communicate a sense of outrage at this bit of injustice or that, and they are quite eloquent.
+        - Superior Character
+            - LOCATION: 2491
+            - It works in the following manner: You examine yourself as thoroughly as possible. You look at the deepest layers of your character, determining whether you are an introvert or extrovert, whether you tend to be governed by high levels of anxiety and sensitivity, or hostility and anger, or a profound need to engage with people.
+            - LOCATION: 2518
+            - You look at your primal inclinations—those subjects and activities you are naturally drawn to. You examine the quality of attachments you formed with your parents, looking at your current relationships as the best sign of this. You look with rigorous honesty at your own mistakes and the patterns that continually hold you back. You know your limitations—those situations in which you do not do your best. You also become aware of the natural strengths in your character that have survived past adolescence.
+            - LOCATION: 2520
+            - She decided, for instance, to bring her own feelings of sadness and betrayal into all of the different roles she played, making women around the world identify with her; she was unlike so many of the other actresses, who were so falsely cheerful and superficial. She directed her desperate need to be loved toward the camera itself, and audiences could feel it. The film directors became father figures whom she adored and treated with extreme respect. And her most pronounced quality, her hypersensitivity, she turned outward instead of inward. She developed intensely fine antennae tuned to the likes and dislikes of the directors she worked with. Without looking at them or hearing a word they said, she could sense their displeasure with her acting, ask the right questions, and quickly incorporate their criticisms. She was a director’s dream. She coupled all of this with her fierce willpower, forging a career that spanned over forty years, something unheard of for an actress in Hollywood.
+            - LOCATION: 2541
+            - resilience under pressure, attention to detail, the ability to complete things, to work with a team, to be tolerant of people’s differences.
+- Ch.5 Become an Elusive Object of Desier
+    - The Law of Covetousness
+        - LOCATION: 2553
+        - Learn to create some mystery around you, to use strategic absence to make people desire your return, to want to possess you.
+        - The object of Desire
+            - LOCATION: 2575
+            - She could be the one stimulating such fantasies in other people.
+            - LOCATION: 2695
+            - This is how she performed such magic: First, she surrounded herself and what she made with an aura of mystery.
+            - LOCATION: 2698
+            - Just like Chanel, you need to reverse your perspective. Instead of focusing on what you want and covet in the world, you must train yourself to focus on others, on their repressed desires and unmet fantasies.
+            - LOCATION: 2712
+            - Do not define your message but leave it vague. Create an illusion of ubiquity—your object is seen everywhere and desired by others.
+            - LOCATION: 2718
+            - The more distant and unattainable this new object, the greater is our desire to have it. We can call this the grass-is-always-greener syndrome, the psychological equivalent of an optical illusion—if we get too close to the grass, to that new object, we see that is not really so green after all.
+            - LOCATION: 2726
+            - One of the most striking examples of this syndrome is the view we take of our childhood as it recedes into the past.
+            - LOCATION: 2748
+            - If we are forbidden by our culture to think a particular thought or entertain a particular desire, that taboo instantly brings to mind the very thing we are forbidden.
+            - LOCATION: 2757
+            - Second, complacency would be a dangerous evolutionary trait for a conscious animal such as humans. If our early ancestors had been prone to feeling content with present circumstances, they would not have been sensitive enough to possible dangers that lurked in the most apparently safe environments.
+            - LOCATION: 2761
+            - Finally, what is real and what is imagined are both experienced similarly in the brain. This has been demonstrated through various experiments in which subjects who imagine something produce electrical and chemical activity in their brains that is remarkably similar to when they actually live out what they are imagining, all of this shown through functional magnetic resonance imaging (fMRI).
+            - LOCATION: 2765
+            - People have become more obvious and forthright not out of some deep moral calling but out of increasing self-absorption and overall laziness. It requires no effort to simply be oneself or to blast one’s message. And the lack of effort simply results in a lack of effect on other people’s psychology.
+            - LOCATION: 2788
+            - It means that people’s interest in you will be paper thin. Their attention will quickly move on and you will not see the reason for this.
+        - Strategies for Stimulating Desire
+            - LOCATION: 2790
+            - The key to making this law work for you is to objectify yourself and what you produce.
+            - LOCATION: 2853
+            - Know how and when to withdraw
+                - LOCATION: 2794
+                - Know how and when to withdraw. This is the essence of the art. You have a presence that people see and interpret. If you are too obvious with this, if people can read you too easily and figure you out, if you show your needs too visibly, then they will unconsciously begin to have a degree of disrespect; over time they will lose interest.
+                - LOCATION: 2801
+                - This touch of coldness is the first form of withdrawal that you must practice.
+                - LOCATION: 2806
+                - The musician Michael Jackson played this game to perfection on the social level. He was deeply aware of the dangers of saturating the market with his music and public appearances. He spread out the releases of his albums, making the public hungry for more. He carefully managed the frequency of his interviews and performances and never talked about the meaning of his lyrics or propagated any overt message.
+                - LOCATION: 2812
+                - Keep in mind the following: the more active our imagination becomes, the greater the pleasure we derive from it.
+            - Create rivalries of desire
+                - LOCATION: 2822
+                - Create rivalries of desire. Human desire is never an individual phenomenon. We are social creatures and what we want almost always reflects what other people want.
+                - LOCATION: 2828
+                - You don’t directly intervene. This will inevitably spark some kind of viral pull.
+                - LOCATION: 2842
+                - It will give your object a provocative and transgressive edge. Anyway, people are drawn toward the negative.
+                - LOCATION: 2844
+                - In any negotiating situation you must always strive to bring in a third or fourth party to vie for your services, creating a rivalry of desire.
+            - Use induction
+                - Use induction. We may think we live in a time of great freedom compared with the past, but in fact we live in a world that is more regulated than ever before.
+                - LOCATION: 2855
+                - John F. Kennedy did this by setting himself off against the 1950s and the Eisenhower era—a time of stultifying conformity. By contrast, voting for him meant youth, vigor, and a lost masculinity.
+                - LOCATION: 2862
+                - One illicit desire that almost all people share is voyeurism. To peek inside the private lives of others violates strict social taboos on privacy, and yet everyone feels the pull to see what is going on behind people’s doors.
+                - LOCATION: 2865
+                - In any event, what you offer should be new, unfamiliar, and exotic, or at least presented as such.
+                - LOCATION: 2870
+                - Remember: it is not possession but desire that secretly impels people. To possess something inevitably brings about some disappointment and sparks the desire for something new to pursue.
+        - The Supreme Desire
+            - LOCATION: 2878
+            - We need to be able to distinguish between what is positive and productive in our covetous tendencies and what is negative and counterproductive.
+            - LOCATION: 2884
+            - Calming down our covetous desires, we can then learn the arts of compromise and how to make a relationship work, which never come easily or naturally.
+            - LOCATION: 2895
+            - Instead of constantly chasing after the latest trends and modeling our desires on what others find exciting, we should spend our time getting to know our own tastes and desires better, so that we can distinguish what is something we truly need or want from that which has been manufactured by advertisers or viral effects.
+            - LOCATION: 2896
+            - In the end you cannot escape from yourself.
+            - LOCATION: 2905
+            - In trying to know yourself better, you can take charge of your own nature instead of being a slave to it. And your work has endless possibilities for improvement and innovation, endless challenges for the imagination. These are the things that are closest to you and compose your real, not virtual world.
+            - LOCATION: 2910
+            - In the end what you really must covet is a deeper relationship to reality, which will bring you calmness, focus, and practical powers to alter what it is possible to alter.
+- Ch.6 elevate Your Perspective
+    - The Law of Shortsightedness
+        - Moments of Madness
+            - LOCATION: 2912
+            - France would soon become the finance capital of the world, surpassing Amsterdam and London. Such newfound power for the French could only spell disaster for England, its archenemy, particularly if another war broke out between them.
+            - LOCATION: 2937
+            - As opposed to building wealth through the traditional means of owning land, which was expensive to manage and highly taxable, it was relatively easy to earn money through purchasing stock, and profits were tax free.
+            - LOCATION: 2941
+            - Soon rumors began to circulate that the company was about to initiate trade in South America, where all kinds of riches lay buried in the mountains. This only added fuel to the fire, and people from all classes began to converge on London to buy up shares in the South Sea Company.
+            - LOCATION: 2988
+            - He had never thought prior to this that investments in joint-stock companies could yield such quick results, but the evidence from France was irrefutable.
+            - LOCATION: 3042
+            - The answer is simple: Blunt’s mental time frame had shrunk to the point where he lost the ability to look months down the road and consider consequences.
+            - LOCATION: 3051
+            - When people lose the connection between their actions and their consequences, they lose their hold on reality, and the further this goes the more it looks like madness.
+        - Keys to Human Nature
+            - LOCATION: 3058
+            - For us humans, locked in the present moment, it as if we are living at the base of the mountain. What is most apparent to our eyes—the other people around us, the surrounding forest—gives us a limited, skewed vision of reality.
+            - LOCATION: 3099
+            - First, facing a problem, conflict, or some exciting opportunity, we train ourselves to detach from the heat of the moment.
+            - LOCATION: 3106
+            - Next, we start to deepen and widen our perspective. In considering the nature of the problem we are confronting, we don’t just grab for an immediate explanation, but instead we dig deeper and consider other possibilities, other possible motivations for the people involved.
+            - LOCATION: 3107
+            - As we go through this process, certain options and explanations will begin to seem more logical and realistic than others that grabbed us in the moment.
+            - LOCATION: 3115
+            - The human brain as it evolved was designed not to examine the full picture and context of an event but to home in on the most dramatic features.
+            - LOCATION: 3123
+            - This has a decided impact on how we view the potential pleasure or pain involved in a situation.
+            - LOCATION: 3126
+            - We tend also to grab for things that offer immediate pleasure, even if we know about the negative long-term consequences.
+            - LOCATION: 3131
+            - And just as short-term thinking can be contagious, one individual who embodies the wisdom of the farsighted perspective can have an immensely positive effect on the people around him or her. Such individuals make us aware of the larger picture and reveal a mind-set that we recognize as superior. We want to imitate them.
+            - LOCATION: 3139
+            - If possible, avoid deep contact with those whose time frame is narrow, who are in continual react mode, and strive to associate with those with an expanded awareness of time.
+        - Four Signs of Shortsightedness and Strategies to Overcome Them
+            - LOCATION: 3147
+            - Most of us imagine that we engage in some form of long-term thinking; after all, we have goals and plans. But really we are fooling ourselves.
+            - LOCATION: 3149
+            - The best way to overcome this is to recognize the clear signs of shortsighted thinking in our own lives. As with most elements of human nature, awareness is the key.
+            - Unintended consequences
+                - LOCATION: 3154
+                - Unintended consequences. History is littered with endless examples of this phenomenon. In ancient Rome, a group of men loyal to the Republic feared that Julius Caesar was going to make his dictatorship permanent and establish a monarchy.
+                - LOCATION: 3157
+                - The source of this age-old syndrome is relatively simple: alarmed by something in the present, we grab for a solution without thinking deeply about the context, the roots of the problem, the possible unintended consequences that might ensue.
+                - LOCATION: 3176
+                - Nonconsequential thinking is a veritable plague in the world today that is only growing worse with the speed and ease of access to information, which gives people the illusion that they are informed and have thought deeply about things.
+                - LOCATION: 3187
+                - Understand: Any phenomenon in the world is by nature complex. The people you deal with are equally complex.
+                - LOCATION: 3191
+                - You want depth of thinking, to go to several degrees in imagining the permutations, as far as your mind can go.
+                - LOCATION: 3196
+                - put at least one person in charge of gaming out all of the possible consequences of a strategy or line of action, preferably someone with a skeptical and prudent frame of mind.
+            - Tactical hell
+                - LOCATION: 3200
+                - Tactical hell. You find yourself embroiled in several struggles or battles. You seem to get nowhere but you feel like you have invested so much time and energy already that it would be a tremendous waste to give up.
+                - LOCATION: 3202
+                - You have actually lost sight of your long-term goals, what you’re really fighting for.
+                - LOCATION: 3204
+                - Remind yourself that winning an argument or proving your point really gets you nowhere in the long run. Win through your actions, not your words.
+            - Ticker tape fever
+                - LOCATION: 3211
+                - Ticker tape fever. During the run-up to the 1929 crash on Wall Street, many people had become addicted to playing the stock market, and this addiction had a physical component—the sound of the ticker tape that electronically registered each change in a stock’s price.
+                - LOCATION: 3219
+                - This need to know instantly has a built-in momentum. Once we expect to have some bit of news quickly, we can never go back to the slower pace of just a year ago.
+                - LOCATION: 3225
+                - Our attention span decreases, as well as our tolerance for any obstacles in our path.
+                - LOCATION: 3227
+                - The trends of the moment—in business or politics—are embedded in larger trends that play out over the course of weeks and months.
+                - LOCATION: 3229
+                - Furthermore, people tend to react and overreact to any negative or positive change in the present, and it becomes doubly hard to resist getting caught up in their panic or exuberance.
+                - LOCATION: 3234
+                - Through long-term thinking Lincoln had correctly gauged the relative strengths and weaknesses of the two sides and how the war would eventually trend.
+                - LOCATION: 3251
+                - Everyone else got caught up in the day-by-day reports of the progress of the war. Some wanted to negotiate, others to suddenly speed up the effort, but all of this was based on momentary swings of fortune.
+                - LOCATION: 3252
+                - “Surrounded by all sorts of conflicting claims, by traitors, by half-hearted, timid men, by Border States men and Free States men, by radical Abolitionists and Conservatives, he has listened to all, weighed the words of all, waited, observed, yielded now here and now there, but in the main kept one inflexible, honest purpose, and drawn the national ship through.”
+                - LOCATION: 3255
+                - First and foremost we must develop patience, which is like a muscle that requires training and repetition to make it strong.
+                - LOCATION: 3258
+                - Second, when faced with issues that are important, we must have a clear sense of our long-term goals and how to attain them.
+            - Lost in trivia
+                - LOCATION: 3260
+                - 4. Lost in trivia. You feel overwhelmed by the complexity of your work. You feel the need to be on top of all the details and global trends so you can control things better, but you are drowning in information.
+                - LOCATION: 3263
+                - A similar process occurred in relation to England. The king had to read every single report on the state of the English navy, the support of the people for Queen Elizabeth, every minute detail about the country’s finances and shoreline defenses.
+                - LOCATION: 3272
+                - In some ways you are probably more like King Philip II than you would like to imagine. In your life you are more than likely paying attention to some details that seem immediately important to you, while ignoring the weather reports that will doom your project.
+                - LOCATION: 3280
+                - Assimilating too much information leads to mental fatigue, confusion, and feelings of helplessness.
+                - LOCATION: 3283
+                - What you need is a mental filtering system based on a scale of priorities and your long-term goals.
+                - LOCATION: 3284
+                - Knowing what you want to accomplish in the end will help you weed out the essential from the nonessential.
+                - [[information diets]]
+        - The Farsighted Human
+            - LOCATION: 3285
+            - This means you do not see the passage of time as an enemy but rather as a great ally.
+            - LOCATION: 3300
+            - Death is equally your friend (see chapter 18). It motivates you to make the most of each moment; it gives you a sense of urgency.
+            - LOCATION: 3302
+            - But you derive even greater pleasure from reaching your long-term goals and overcoming adversity.
+            - LOCATION: 3314
+            - It will also make you a superior strategist in life, able to resist people’s inevitable overreactions to what is happening in the present and to see further into the future, a potential power that we humans have only begun to tap into.
+- Ch.7 Soften People's Resistance by Confirming Their Self-opinion
+    - LOCATION: 3315
+    - Never attack people for their beliefs or make them feel insecure about their intelligence or goodness—that will only strengthen their defensiveness and make your task impossible.
+    - The Law of Defensiveness
+        - The Influence Game
+            - LOCATION: 3327
+            - The first few times Russell politely refused, but finally he relented and he soon became a weekly regular at the Johnson house. Lady Bird was charming and he quickly took to her.
+            - LOCATION: 3375
+            - The junior senator began to fascinate the press corps—he was tough yet sympathetic to the journalists’ job. And most important, he knew how to give them a good story.
+            - LOCATION: 3398
+            - It was hard to resist a man who could put you in a good mood. He had incredible presence.
+            - LOCATION: 3422
+            - Russell could see the wisdom in this, and he gave Johnson his tacit approval, but he also warned him: “You’re dealing with the most sensitive thing in the Senate. . . . [You’re] playing with dynamite.”
+            - LOCATION: 3454
+            - The way to Humphrey’s heart was threefold: make him feel liked, confirm his belief that he was presidential material, and give him the practical tools to realize his ambitions.
+            - LOCATION: 3504
+            - As the story of Johnson demonstrates, the royal road to influence and power is to go the opposite direction: Put the focus on others.
+        - Key to Human Nature
+            - LOCATION: 3518
+            - What these moments have in common is that we feel inwardly secure—not judged but accepted by friends, the group, or the loved one.
+            - LOCATION: 3548
+            - Understand: Creating this feeling of validation is the golden key that will unlock people’s defenses. And we cannot survive and thrive in this highly competitive world without possessing such a power.
+            - LOCATION: 3551
+            - And there are three qualities to people’s self-opinion that are nearly universal: “I am autonomous, acting of my own free will”; “I am intelligent in my own way”; and “I am basically good and decent.” #[[Permanent Notes]]
+            - LOCATION: 3565
+            - In other words, we feel the need to continually express and assert our free will.
+            - LOCATION: 3570
+            - People are generally never comfortable with the thought that they could be gullible and less than intelligent. If they have to admit they are not smart in the conventional way, they will at least think they are cleverer than others.
+            - LOCATION: 3573
+            - In addition to these universals, we find that people have more personalized self-opinions that serve to regulate their particular insecurities.
+            - LOCATION: 3577
+            - Our self-opinion is primary: it determines so much of our thinking and our values.
+            - LOCATION: 3584
+            - This often happens if you try to be reasonable and calm in your approach, avoiding any emotional extremes.
+            - LOCATION: 3594
+            - Third, you can actively confirm their self-opinion. In this case you are fulfilling one of people’s greatest emotional needs.
+            - LOCATION: 3595
+            - Your task is simple: instill in people a feeling of inner security. Mirror their values; show that you like and respect them. Make them feel you appreciate their wisdom and experience. Generate an atmosphere of mutual warmth. Get them to laugh along with you, instilling a feeling of rapport.
+            - LOCATION: 3601
+            - If your targets have a low self-opinion, the same rule applies.
+            - LOCATION: 3609
+            - If you insist that they can easily better their lives by following your advice, this will clash with their belief that the world is against them and that they really do not deserve such good things.
+            - LOCATION: 3610
+            - Never take people who say such things at face value.
+            - LOCATION: 3619
+            - Second, we humans cannot avoid trying to influence others. Everything we say or do is examined and interpreted by others for clues as to our intentions.
+            - LOCATION: 3619
+            - Most people do not want to expend the effort that goes into thinking about others and figuring out a strategic entry past their defenses.
+            - LOCATION: 3623
+            - Since the game is unavoidable, better to be skillful at it than in denial or merely improvising in the moment.
+        - Five Strategies for Becoming a Master Persuader
+            - LOCATION: 3626
+            - 1. Transform yourself into a deep listener. In the normal flow of a conversation, our attention is divided. We hear parts of what other people are saying, in order to follow and keep the conversation going.
+            - LOCATION: 3633
+            - Once you are motivated to listen, the rest is relatively simple. You cannot make the strategic purpose behind your listening too obvious.
+            - LOCATION: 3644
+            - You are deeply absorbed in what they say, but you must feel and appear relaxed in being so.
+            - LOCATION: 3649
+            - Your goal is to make them come away from the encounter feeling better about themselves.
+            - LOCATION: 3653
+            - Infect people with the proper mood. As social animals, we are extremely susceptible to the moods of other people.
+            - LOCATION: 3656
+            - If you are relaxed and anticipating a pleasurable experience, this will communicate itself and have a mirror-like effect on the other person. One of the best attitudes to adapt for this purpose is one of complete indulgence. You do not judge other people; you accept them as they are.
+            - LOCATION: 3657
+            - She seems a “mix of lucidity and mystery.” She listens deeply to what he says and, without responding, gives him the feeling she completely understands him.
+            - LOCATION: 3662
+            - Keep in mind that your expectations about people are communicated to them nonverbally.
+            - LOCATION: 3674
+            - Confirm their self-opinion. Recall the universal qualities of the self-opinions of people with a high self-opinion.
+            - LOCATION: 3678
+            - Autonomy. No attempt at influence can ever work if people feel in any way that they are being coerced or manipulated.
+            - LOCATION: 3680
+            - They must choose to do whatever it is you want them to do, or they must at least experience it as their choice. The more deeply you can create this impression, the greater your chances of success.
+            - LOCATION: 3681
+            - Your attempts at influence must always follow a similar logic: how can you get others to perceive the favor you want to ask for as something they already desire? Framing it as something pleasurable, as a rare opportunity, and as something other people want to do will generally have the proper effect.
+            - LOCATION: 3700
+            - Finally, when giving people gifts or rewards as a possible means of winning them over to your side, it is always best to give smaller gifts or rewards than larger ones.
+            - LOCATION: 3711
+            - Intelligence. When you disagree with another person and impose your contrary opinion, you are implying that you know better, that you have thought things through more rationally.
+            - LOCATION: 3716
+            - you see their point of view and agree with it. (Winning arguments is rarely worth the effort.) With their intelligence flattered, you now have some room to gently alter their opinion or have lowered their defenses for a request for help.
+            - LOCATION: 3720
+            - Goodness. In our daily thoughts, we constantly comfort ourselves as to the moral nature of our actions.
+            - LOCATION: 3740
+            - Allay their insecurities. Everyone has particular insecurities—about their looks, their creative powers, their masculinity, their power status, their uniqueness, their popularity, et cetera.
+            - LOCATION: 3757
+            - That is because we live in a tough world in which we are continually judged, and yesterday’s triumph is easily followed by tomorrow’s failure.
+            - LOCATION: 3763
+            - It is always better to praise people for their effort, not their talent.
+            - LOCATION: 3775
+            - Be very careful when people ask you for their opinion about their work or something related to their character or their looks. They do not want the truth; they want support and confirmation given as realistically as possible. Be happy to supply this for them.
+            - LOCATION: 3786
+            - Use people’s resistance and stubbornness. Some people are particularly resistant to any form of influence.
+            - LOCATION: 3792
+            - Use their emotions:
+            - LOCATION: 3799
+            - Use their language:
+            - LOCATION: 3807
+            - Use their rigidity:
+        - The Flexible Mind - Self-strategies
+            - LOCATION: 3820
+            - so does our creeping sense of superiority slowly close us off to new ideas and influences.
+            - LOCATION: 3846
+            - “The unexamined life is not worth living.” The charm of Socrates, what made him so devilishly fascinating to the youth of Athens, was the supreme openness of his mind.
+            - LOCATION: 3860
+            - Opening yourself up to its influence in this way should become part of your mental habits, allowing you to better understand things, even to criticize them properly.
+            - LOCATION: 3875
+            - Instead you will work at making yourself truly independent and concerned with the welfare of others, as opposed to staying attached to the illusion of your self-opinion.
+- Others
+    - LOCATION: 3820
+    - so does our creeping sense of superiority slowly close us off to new ideas and influences.
+    - LOCATION: 3846
+    - “The unexamined life is not worth living.” The charm of Socrates, what made him so devilishly fascinating to the youth of Athens, was the supreme openness of his mind.
+    - LOCATION: 3860
+    - Opening yourself up to its influence in this way should become part of your mental habits, allowing you to better understand things, even to criticize them properly.
+    - LOCATION: 3875
+    - Instead you will work at making yourself truly independent and concerned with the welfare of others, as opposed to staying attached to the illusion of your self-opinion.
+    - LOCATION: 3885
+    - Anton could see that he and his siblings were falling into the same pattern—bitter, secretly feeling worthless, and wanting to take their anger out on others.
+    - LOCATION: 3968
+    - Understanding his father, he could accept and even love him. He was not some imposing tyrant but a rather helpless old man.
+    - LOCATION: 3971
+    - He made a vow to himself: no more bowing and apologizing to people; no more complaining and blaming; no more disorderly living and wasting time.
+    - LOCATION: 3975
+    - The elevated mood he had so carefully crafted in Taganrog was dissipating. He became depressed and considered giving up writing entirely.
+    - LOCATION: 4008
+    - Then, toward the end of 1889, he thought of a way to free himself from his growing depression. Since his days in Taganrog, the poorest and most abject members of society had fascinated him.
+    - LOCATION: 4009
+    - His sense of proportion had been restored.
+    - LOCATION: 4024
+    - He had finally freed himself of the petty thoughts and concerns that had weighed him down.
+    - LOCATION: 4024
+    - His father had kept telling him he was lazy, and he had believed it, but now he was not so sure.
+    - LOCATION: 4040
+    - What had changed was his attitude, which opened him up to new experiences and possibilities.
+    - LOCATION: 4046
+    - This freedom essentially comes from adopting a generous spirit—toward others and toward ourselves.
+    - LOCATION: 4067
+    - No two people see or experience the world in the same way.
+    - LOCATION: 4082
+    - The world simply exists as it is—things or events are not good or bad, right or wrong, ugly or beautiful. It is we with our particular perspectives who add color to or subtract it from things and people.
+    - LOCATION: 4095
+    - “Attitude is a readiness of the psyche to act or react in a certain way. . . . To have an attitude means to be ready for something definite, even though this something is unconscious; for having an attitude is synonymous with an a priori
+    - LOCATION: 4100
+    - orientation to a definite thing.”
+    - LOCATION: 4102
+    - The attitude that we carry with us throughout life has several roots: First, we come into this world with certain genetic inclinations—toward hostility, greed, empathy, or kindness.
+    - LOCATION: 4121
+    - We internalize the voices of the mother and father figure.
+    - LOCATION: 4129
+    - When we love or admire someone, we tend to internalize a part of their presence, and they shape how we see the world in a positive way.
+    - LOCATION: 4131
+    - What we must understand about the attitude is not only how it colors our perceptions but also how it actively determines what happens to us in life—our health, our relations with people, and our success. Our attitude has a self-fulfilling dynamic.
+    - LOCATION: 4134
+    - They unconsciously want to limit what they see and experience to give them more control. Those with a positive attitude have a much less fearful approach. They are open to new experiences, ideas, and emotions.
+    - LOCATION: 4145
+    - You will also catch signs of it in how people respond to you, particularly in a nonverbal way.
+    - LOCATION: 4154
+    - View your health as largely dependent on your attitude. Feeling excited and open to adventure, you can tap into energy reserves you did not know that you had. The mind and the body are one, and your thoughts affect your physical responses.
+    - LOCATION: 4159
+    - Do not be afraid to exaggerate the role of willpower. It is an exaggeration with a purpose.
+    - LOCATION: 4165
+    - Some children exhibit a hostile attitude at a very early age. They interpret weaning and the natural separation from parents as hostile actions.
+    - LOCATION: 4184
+    - Their hostility permeates everything they do—the way they argue and provoke (they are always right); the nasty undertone of their jokes; the greediness with which they demand attention; the pleasure they get out of criticizing others and seeing them fail.
+    - LOCATION: 4194
+    - Maintain your neutrality. This will confound them and temporarily put a stop to the game they are playing.
+    - LOCATION: 4205
+    - The Anxious Attitude. These types anticipate all kinds of obstacles and difficulties in any situation they face.
+    - LOCATION: 4207
+    - With people, they often expect some sort of criticism or even betrayal. All of this stimulates unusual amounts of anxiety before the fact. What they really fear is losing control of the situation.
+    - LOCATION: 4207
+    - Sometimes they can disguise their need for control as a form of love and concern.
+    - LOCATION: 4213
+    - Another disguise, similar to such love, is to seek to please and cajole people in order to disarm any possible unpredictable and unfriendly action.
+    - LOCATION: 4218
+    - If you notice such tendencies in yourself, the best antidote is to pour your energies into work. Focusing your attention outward into a project of some sort will have a calming effect.
+    - LOCATION: 4220
+    - If you radiate calmness, your manner will have greater effect than your words.
+    - LOCATION: 4226
+    - The Avoidant Attitude. People with this attitude see the world through the lens of their insecurities, generally related to doubts about their competence and intelligence.
+    - LOCATION: 4226
+    - To enact this strategy they will constantly seek escape routes, consciously or unconsciously.
+    - LOCATION: 4231
+    - These types find it hard to commit to anything, for a good reason. If they remained at a job or in a relationship, their flaws might become too apparent to others.
+    - LOCATION: 4237
+    - You can easily recognize such people by their checkered careers and their short-term personal relationships.
+    - LOCATION: 4242
+    - If you notice traces of this attitude in yourself, a good strategy is to take on a project of even the smallest scale, taking it all the way to completion and embracing the prospect of failure.
+    - LOCATION: 4247
+    - At all costs avoid the temptation to help or rescue them from their negativity. They are too good at the avoidance game.
+    - LOCATION: 4252
+    - The Depressive Attitude. As children, these types did not feel loved or respected by their parents.
+    - LOCATION: 4253
+    - These types often have a secret need to wound others, encouraging behavior such as betrayal or criticism that will feed their depression.
+    - LOCATION: 4275
+    - Most of us have depressive tendencies and moments. The best way to handle them is to be aware of their necessity—they are our body’s and mind’s way of compelling us to slow down, to lower our energies and withdraw.
+    - LOCATION: 4281
+    - Never try to lift up depressive people by preaching to them about the wonderfulness of life. Instead, it is best to go along with their gloomy opinion of the world while subtly drawing them into positive experiences that can elevate their moods and energy without any direct appeal.
+    - LOCATION: 4286
+    - The Resentful Attitude. As children, these types never felt they got enough parental love and affection—they were always greedy for more attention.
+    - LOCATION: 4288
+    - If you notice resentful tendencies within yourself, the best antidote is to learn to let go of hurts and disappointments in life.
+    - LOCATION: 4311
+    - In dealing with such types, you must exercise supreme caution. Although they might smile and seem pleasant, they are actually scrutinizing you for any possible insult.
+    - LOCATION: 4316
+    - Better to avoid this type if possible.
+    - LOCATION: 4319
+    - See yourself as an explorer.
+    - LOCATION: 4332
+    - The unconscious is merely one more realm for you to freely explore.
+    - LOCATION: 4343
+    - How to view adversity: Our life inevitably involves obstacles, frustrations, pain, and separations.
+    - LOCATION: 4343
+    - Your goal is to move in the opposite direction, to embrace all obstacles as learning experiences, as means to getting stronger. In this way you embrace life itself.
+    - LOCATION: 4347
+    - Although adversity and pain are generally beyond your control, you have the power to determine your response and the fate that comes from that.
+    - LOCATION: 4362
+    - By accepting what we think to be the limits of our intelligence and creative powers, we create a self-fulfilling dynamic.
+    - LOCATION: 4365
+    - In ancient times, many great leaders, such as Alexander the Great and Julius Caesar, felt that they were descended from gods and part divine.
+    - LOCATION: 4368
+    - But really their cool attitude is a clever mask for their great fears—of embarrassing themselves, of failing, of showing too much emotion.
+    - LOCATION: 4383
+    - How to view your energy and health: Although we are all mortal and subject to illnesses beyond our control, we must recognize the role that willpower plays in our health.
+    - LOCATION: 4386
+    - First you must try to get rid of the natural tendency to take what people do and say as something personally directed at you, particularly if what they say or do is unpleasant.
+    - LOCATION: 4393
+    - You will save yourself from accumulating hurts and bitter feelings.
+    - LOCATION: 4397
+    - See people as facts of nature. They come in all varieties, like flowers or rocks.
+    - LOCATION: 4398
+    - You must accept diversity and the fact that people are what they are.
+    - LOCATION: 4401
+    - Learn to measure the people you deal with by the depth of their soul, and if possible associate as much as you can with those of the expansive variety.
+    - LOCATION: 4425
+    - Learn to recognize the signs of the Shadow before they become toxic.
+    - LOCATION: 4439
+    - As an infant, Nixon seemed to be unusually needy. He was a notorious crybaby;
+    - LOCATION: 4583
+    - The story of Nixon is closer to you and your reality than you might like to imagine. Like Nixon, you have crafted a public persona that accentuates your strengths and conceals your weaknesses. Like him, you have repressed the less socially acceptable traits you naturally possessed as a child.
+    - LOCATION: 4606
+    - You will tend to blame circumstances or other people for these moods and behavior, but they keep recurring because you are unaware of their source.
+    - LOCATION: 4612
+    - Your task as a student of human nature is to recognize and examine the dark side of your character.
+    - LOCATION: 4615
+    - The Shadow lies buried deep within, but it becomes disturbed and active in moments of stress, or when deep wounds and insecurities are triggered.
+    - LOCATION: 4647
+    - Most of us succeed in becoming a positive social animal, but at a price. We end up missing the intensity that we experienced in childhood, the full gamut of emotions, and even the creativity that came with this wilder energy.
+    - LOCATION: 4672
+    - Contradictory behavior: This is the most eloquent sign of all. It consists of actions that belie the carefully constructed front that people present.
+    - LOCATION: 4682
+    - Emotional outbursts: A person suddenly loses his or her habitual self-control and sharply expresses deep resentments or says something biting and hurtful.
+    - LOCATION: 4687
+    - Vehement denial: According to Freud, the only way that something unpleasant or uncomfortable in our unconscious can reach the conscious mind is through active denial.
+    - LOCATION: 4691
+    - “Accidental” behavior: People might talk of quitting some addiction, or not working so damned hard, or staying away from a self-destructive relationship.
+    - LOCATION: 4695
+    - Overidealization: This can serve as one of the most potent covers for the Shadow.
+    - LOCATION: 4700
+    - By overidealizing a cause, person, or object, people can give free rein to the Shadow.
+    - LOCATION: 4709
+    - Related to this, in arguments people will use their powerful convictions as a perfect way to disguise their desires to bully and intimidate.
+    - LOCATION: 4711
+    - Projection: This is by far the most common way of dealing with our Shadow, because it offers almost daily release.
+    - LOCATION: 4716
+    - Remember: behind any vehement hatred is often a secret and very unpalatable envy of the hated person or people.
+    - LOCATION: 4729
+    - These are relatively harmless forms of release, but there are more dangerous ones, particularly in the realm of politics.
+    - LOCATION: 4745
+    - Instead the answer is to see our Shadow in action and become more self-aware.
+    - LOCATION: 4758
+    - Through such self-knowledge we can find a way to integrate the dark side into our consciousness productively and creatively.
+    - LOCATION: 4760
+    - Their real self will rebel in the form of moods, obsessions, secret vices, and behavior that is quite contrary to their image and is often self-destructive.
+    - LOCATION: 4774
+    - The Tough Guy: He projects a rough masculinity that is intended to intimidate.
+    - LOCATION: 4778
+    - They are notoriously touchy and thin-skinned, and you might detect a micropout on their face if you trigger their insecurities, before they cover it up with a fierce scowl. If they happen to be a rival, they are easy to bait into an overreaction that reveals something less than tough.
+    - LOCATION: 4789
+    - The Saint: These people are paragons of goodness and purity.
+    - LOCATION: 4791
+    - This saintly exterior developed early on as a way to disguise their strong hunger for power and attention or their strong sensual appetites.
+    - LOCATION: 4793
+    - They are also secretly drawn to sex, to money, to the limelight, and to what is expressly taboo for their particular saintliness.
+    - LOCATION: 4797
+    - Once you recognize this type, do not become a naive follower. Keep some distance. If they are enemies, simply shine a light on the clear signs of hypocrisy.
+    - LOCATION: 4802
+    - As a variation on this, you will find people who propound a philosophy of free love and anything goes; but in fact they are after power.
+    - LOCATION: 4804
+    - The Passive-Aggressive Charmer: These types are amazingly nice and accommodating when you first meet them, so much so that you tend to let them into your life rather quickly.
+    - LOCATION: 4805
+    - The truth is that these types realize early on in life that they have aggressive, envious tendencies that are hard to control.
+    - LOCATION: 4811
+    - Under stress or simply worn out by the effort, they will lash out and hurt you. They can do this well now that they know you and your weak spots. They will, of course, blame you for what ensues.
+    - LOCATION: 4814
+    - Your best defense is to be wary of people who are too quick to charm and befriend, too nice and accommodating at first.
+    - LOCATION: 4815
+    - The Fanatic: You are impressed by their fervor, in support of whatever cause.
+    - LOCATION: 4818
+    - It’s as if they have suddenly lost belief, or secretly wanted to fail.
+    - LOCATION: 4822
+    - The truth is that such types have massive insecurities from early on in life. They have doubts about their self-worth. They never felt loved or admired enough.
+    - LOCATION: 4823
+    - They secretly know they cannot deliver the goods. And so under stress they become the opposite—indecisive and secretly doubtful.
+    - LOCATION: 4826
+    - Do not become a follower. They will make a fool of you.
+    - LOCATION: 4831
+    - The Rigid Rationalist:
+    - LOCATION: 4831
+    - Everything must be clear and analytical in the extreme.
+    - LOCATION: 4837
+    - Bait them into just such overreactions to prick their bubble of intellectual superiority. True rationality should be sober and skeptical about its own powers and not publicize itself.
+    - LOCATION: 4842
+    - The Snob: These types have a tremendous need to be different from others, to assert some form of superiority over the mass of mankind.
+    - LOCATION: 4844
+    - The truth is that banality is part of human existence.
+    - LOCATION: 4851
+    - Snobs are especially sensitive about this, greatly insecure about their origins and possible mediocrity.
+    - LOCATION: 4853
+    - The Extreme Entrepreneur: At first glance these types seem to possess very positive qualities, especially for work. They maintain very high standards and pay exceptional attention to detail.
+    - LOCATION: 4858
+    - If they were truly self-reliant, they would know the importance of delegating on a lower level to maintain control on the higher level, but something else is stirring within—the Shadow.
+    - LOCATION: 4863
+    - Often their outward show of self-reliance disguises a hidden desire to have others take care of them, to regress to the dependency of childhood.
+    - LOCATION: 4866
+    - It is best to not get too entangled with such types later on in their careers, as they have a tendency to bring about much collateral damage.
+    - LOCATION: 4870
+    - they are able to laugh at themselves; they can admit to certain shortcomings in their character, as well as to mistakes they have made; they have a playful, sometimes impish edge to them, as if they have retained more of the child within; they can play their role in life with a little bit of distance (see the last section of chapter 3). At times they can be charmingly spontaneous.
+    - LOCATION: 4873
+    - One thing is for certain: we are completely drawn to the authentic types and unconsciously repulsed by their opposite.
+    - LOCATION: 4881
+    - See the Shadow. This is the most difficult step in the process.
+    - LOCATION: 4891
+    - Look at your own emotional outbursts and moments of extreme touchiness.
+    - LOCATION: 4895
+    - Look deeply at your tendencies to project emotions and bad qualities onto people you know, or even entire groups.
+    - LOCATION: 4897
+    - Look at moments in your youth (late teens, early twenties) in which you acted in a rather insensitive or even cruel manner.
+    - LOCATION: 4900
+    - He could be honest with himself and channel the Shadow creatively. His depression lifted, as well as the writer’s block.
+    - LOCATION: 4914
+    - Pay attention instead to the emotional tone and overall feelings that they inspire, holding on to them throughout the day.
+    - LOCATION: 4921
+    - Embrace the Shadow. Your natural reaction in uncovering and facing up to your dark side is to feel uncomfortable and maintain only a surface awareness of it.
+    - LOCATION: 4928
+    - By embracing and integrating such opposing qualities into his public persona, he gave the impression of tremendous authenticity.
+    - LOCATION: 4944
+    - Explore the Shadow. Consider the Shadow as having depths that contain great creative energy.
+    - LOCATION: 4945
+    - In a similar vein, you want to explore from within your own darkest impulses, even those that might seem criminal, and find a way to express them in your work or externalize them in some fashion, in a journal for instance.
+    - LOCATION: 4962
+    - Show the Shadow. Most of the time we secretly suffer from the endless social codes we have to adhere to.
+    - LOCATION: 4967
+    - Being so nice becomes a habit, which easily turns into timidity, lack of confidence, and indecision.
+    - LOCATION: 4970
+    - Understand: You pay a greater price for being so nice and deferential than for consciously showing your Shadow.
+    - LOCATION: 4978
+    - First, to follow the latter path you must begin by respecting your own opinions more and those of others less,
+    - LOCATION: 4979
+    - Second, get in the habit in your daily life of asserting yourself more and compromising less.
+    - LOCATION: 4981
+    - Third, start caring less what people think of you.
+    - LOCATION: 4982
+    - Fourth, realize that at times you must offend and even hurt people who block your path, who have ugly values, who unjustly criticize you.
+    - LOCATION: 4983
+    - Fifth, feel free to play the impudent, willful child who mocks the stupidity and hypocrisy of others.
+    - LOCATION: 4984
+    - In general, consider this a form of exorcism. Once you show these desires and impulses, they no longer lie hidden in corners of your personality, twisting and operating in secret ways.
+    - LOCATION: 4995
+    - There were many reasons for Jane to conceal and even repress the envy stirring within her. First, it is socially toxic to display envy.
+    - LOCATION: 5154
+    - What we need to grasp is something paradoxical: people who feel envy in the first place are often motivated to become our friends.
+    - LOCATION: 5190
+    - Often we intuit that the other person is false but then forget this as they make friendly overtures.
+    - LOCATION: 5201
+    - And so almost as soon as we feel the initial pangs of envy, we are motivated to disguise it to ourselves—it
+    - LOCATION: 5220
+    - You are ruthless in your analysis and your determination to get to the root of what motivates people.
+    - LOCATION: 5236
+    - Before immersing yourself in the subtleties of the emotion, it is important to distinguish between passive and active envy.
+    - LOCATION: 5242
+    - In detecting signs of passive envy in others (for instance, little put-downs and offhand comments), you should simply tolerate this as a fact of being a social animal.
+    - LOCATION: 5247
+    - Microexpressions: When people first experience envy, they have not yet fooled themselves into thinking it is something else, and so they are more prone to leakage than later on.
+    - LOCATION: 5259
+    - Poisonous praise: A major envy attack is often preceded by little envy bites—offhand comments expertly designed to get under your skin.
+    - LOCATION: 5275
+    - Backbiting: If people like to gossip a lot, particularly about common acquaintances, you can be sure they will gossip about you.
+    - LOCATION: 5287
+    - A frequent theme in their gossip is that no one’s really that great, and people aren’t what they pretend to be.
+    - LOCATION: 5291
+    - serial gossipers do not make loyal and trustworthy friends.
+    - LOCATION: 5295
+    - The push and pull: As we saw in the Jane Williams story, enviers often use friendship and intimacy as the best way to wound the people they envy.
+    - LOCATION: 5296
+    - In general, criticism of you that seems sincere but not directly related to anything you have actually done is usually a strong sign of envy. People want to bully and overwhelm you with something negative, both wounding you and covering any tracks of envy.
+    - LOCATION: 5306
+    - Klein, who specialized in the study of infancy and early childhood, noticed that some children feel greater degrees of hostility and resentment toward the father and siblings for the attention they are receiving at their (the enviers’) expense, and toward the mother for not giving them enough.
+    - LOCATION: 5314
+    - Because envy is a painful sensation, these types will enact lifelong strategies to mitigate or repress these feelings that gnaw at them.
+    - LOCATION: 5327
+    - The Leveler: When you first meet them, levelers can seem rather entertaining and interesting. They tend to have a wicked sense of humor. They are good at putting down those who are powerful and deflating the pretentious.
+    - LOCATION: 5336
+    - Their main goal is to bring everyone down to the same mediocre level they occupy.
+    - LOCATION: 5346
+    - Be wary around such types, particularly in the workplace, because they will make you feel guilty for your own impulse to excel.
+    - LOCATION: 5348
+    - The Self-entitled Slacker:
+    - LOCATION: 5352
+    - Some people, however, feel they deserve attention and many rewards in life as if these are naturally due to them.
+    - LOCATION: 5353
+    - Be extra careful in the work environment with those who like to maintain their position through charm and being political, rather than by getting things done.
+    - LOCATION: 5369
+    - The Status Fiend:
+    - LOCATION: 5371
+    - But for some people status is more than a way of measuring social position—it is the most important determinant of their self-worth.
+    - LOCATION: 5373
+    - Recognize status fiends by how they reduce everything to material considerations.
+    - LOCATION: 5386
+    - If you are around such types, try to downplay or conceal what you have that might trigger envy, and talk up their possessions, skills, and status in whatever way you can.
+    - LOCATION: 5390
+    - The Attacher: In any court-like environment of power, you will inevitably find people who are drawn to those who are successful or powerful, not out of admiration but out of secret envy.
+    - LOCATION: 5392
+    - These types have a trait that is quite common to all enviers: they lack a clear sense of purpose in their life (see chapter 13 for more on this).
+    - LOCATION: 5403
+    - In general, be wary of those who are too eager to attach themselves to your life, too impatient to make themselves useful.
+    - LOCATION: 5406
+    - Learn to hire and work with those who have experience rather than just a pleasing manner.
+    - LOCATION: 5409
+    - The Insecure Master: For some people, reaching a high position validates their self-opinion and boosts their self-esteem. But there are some who are more anxious. Holding a high position tends to increase their insecurities, which they are careful to conceal.
+    - LOCATION: 5410
+    - Pay attention to those above you for signs of insecurity and envy.
+    - LOCATION: 5422
+    - Your time to shine will come, but not if you inadvertently stimulate their insecurities.
+    - LOCATION: 5425
+    - The most common trigger is a sudden change in your status, which alters your relationship to friends and peers.
+    - LOCATION: 5428
+    - Do not take so personally their faint praise and veiled criticisms. But be aware that among some of these peers envy can turn active and dangerous.
+    - LOCATION: 5432
+    - The best you can do in such situations is to have some self-deprecating humor and to not rub people’s faces in your success, which, after all, might contain some elements of luck.
+    - LOCATION: 5435
+    - If you detect signs of a more active envy in peers, get as far away from them as possible.
+    - LOCATION: 5440
+    - Keep in mind that people who are getting older, with their careers on the decline, have delicate egos and are quite prone to experiencing envy.
+    - LOCATION: 5440
+    - If people with natural gifts also possess a good work ethic and have some luck in life, envy will follow them wherever they go.
+    - LOCATION: 5444
+    - A high-achieving woman inflicts greater feelings of inferiority in both other women and men (“I’m inferior to a woman?”), which leads to envy and hostility, not admiration.
+    - LOCATION: 5460
+    - If you find yourself under an envy attack, your best strategy is to control your emotions. It is much easier to do this once you realize that envy is the source.
+    - LOCATION: 5479
+    - But the truth is that envy is more prevalent now than ever before, largely because of social media.
+    - LOCATION: 5487
+    - What we experience in this case is a generalized feeling of dissatisfaction. Low-grade envy sits inside us, waiting to be triggered into the more acute variety
+    - LOCATION: 5493
+    - we must also learn how to manage this emotion within ourselves, transforming it into something positive and productive.
+    - LOCATION: 5502
+    - Monitoring yourself and seeing more such instances will only help you in the slow process of moving beyond envy.
+    - LOCATION: 5511
+    - Move closer to what you envy. Envy thrives on relative closeness—in a corporate environment where people see each other every day, in a family, in a neighborhood, in any group of peers.
+    - LOCATION: 5516
+    - The process of moving closer is twofold: on the one hand, try to actually look behind the glittering
+    - LOCATION: 5524
+    - façades people present, and on the other hand, simply imagine the inevitable disadvantages that go along with their position.
+    - LOCATION: 5525
+    - Engage in downward comparisons. You normally focus on those who seem to have more than you, but it would be wiser to look at those who have less.
+    - LOCATION: 5527
+    - Practice Mitfreude
+    - LOCATION: 5534
+    - But to imagine the joy of others and to rejoice at it is the highest privilege of the highest animals.”
+    - LOCATION: 5538
+    - Because it is such a rare occurrence, it contains great power to bond people. And in internalizing other people’s joy, we increase our own capacity to feel this emotion in relation to our own experiences.
+    - LOCATION: 5544
+    - Transmute envy into emulation. We cannot stop the comparing mechanism in our brains, so it is best to redirect it into something productive and creative.
+    - LOCATION: 5545
+    - First, we must come to believe that we have the capacity to raise ourselves up.
+    - LOCATION: 5549
+    - Related to this, having a sense of purpose, a feel for your calling in life, is a great way to immunize yourself against envy.
+    - LOCATION: 5554
+    - You are focused on your own life and plans, which are clear and invigorating. What gives you satisfaction is realizing your potential, not earning attention from the public, which is fleeting.
+    - LOCATION: 5554
+    - Your sense of self-worth comes from within, not from without.
+    - LOCATION: 5556
+    - Admire human greatness. Admiration is the polar opposite of envy—we are acknowledging people’s achievements, celebrating them, without having to feel insecure.
+    - LOCATION: 5557
+    - Finally, it is worth cultivating moments in life in which we feel immense satisfaction and happiness divorced from our own success or achievements.
+    - LOCATION: 5563
+    - Many executives stopped working after lunch and spent their afternoons in card games, or would lounge about in the steam room on site.
+    - LOCATION: 5607
+    - He quickly decided upon a strategy—he would narrow Ovitz’s responsibilities, keep a tight leash on him, and make him prove himself as president.
+    - LOCATION: 5685
+    - At the beginning of his career at ABC, young Eisner had a solid grasp on reality. He was fiercely practical.
+    - LOCATION: 5727
+    - He understood and exploited to the maximum his strengths—his ambitious and competitive nature, his intense work ethic, his keen sense for the entertainment tastes of the average American.
+    - LOCATION: 5728
+    - This was intoxicating. It inevitably elevated his estimation of his skills.
+    - LOCATION: 5739
+    - Barry Diller was the perfect foil to Eisner. He would argue with him endlessly about his ideas, forcing Eisner to sharpen them.
+    - LOCATION: 5741
+    - He imagined he had the golden touch.
+    - LOCATION: 5746
+    - People had become mere instruments for Eisner to use. Ovitz was considered the most feared and powerful man in Hollywood.
+    - LOCATION: 5767
+    - Any success that we have in life inevitably depends on some good luck, timing, the contributions of others, the teachers who helped us along the way, the whims of the public in need of something new.
+    - LOCATION: 5781
+    - Your task is the following: After any kind of success, analyze the components.
+    - LOCATION: 5787
+    - With success you must raise your vigilance.
+    - LOCATION: 5790
+    - See the limits to what you can accomplish and embrace them, working with what you have.
+    - LOCATION: 5791
+    - Be wary of offending with your growing sense of superiority—you will need your allies.
+    - LOCATION: 5792
+    - Getting what you want is rarely easy. Success will depend on a lot of effort and some luck. To make your project work, you will probably have to jettison your previous strategy—circumstances are always changing and you need to keep an open mind. The people you are trying to reach never respond exactly as you might have imagined or hoped. In fact, people will generally surprise and frustrate you in their reactions.
+    - LOCATION: 5801
+    - To impress your targets, you will have to focus on them and their spirit.
+    - LOCATION: 5804
+    - Instead of seeing the task you are facing as rather large and the material resistant, under the influence of this disease you perceive the block of marble as relatively small and malleable.
+    - LOCATION: 5810
+    - It stems from our deep need to feel
+    - LOCATION: 5825
+    - important, esteemed by people, and superior to others in something.
+    - LOCATION: 5825
+    - First, you must understand the phenomenon of grandiosity itself, why it is so embedded in human nature, and why you will find many more grandiose people in the world today than ever before. Second, you need to recognize the signs of grandiosity and know how to manage the people who display them. And third and most important, you must see the signs of the disease in yourself and learn not only how to control your grandiose tendencies but also how to channel this energy into
+    - LOCATION: 5838
+    - something productive
+    - LOCATION: 5841
+    - This early pampering marks them for life. They need to be adored. They become masters at manipulating others to pamper them and shower them with attention.
+    - LOCATION: 5860
+    - In the past, we humans were able to channel our grandiose needs into religion.
+    - LOCATION: 5864
+    - Although rarely conscious of this, what they are choosing to idealize and worship is the self.
+    - LOCATION: 5874
+    - Because of this, we find more and more grandiose individuals among us.
+    - LOCATION: 5874
+    - Third, technology gives us the impression that everything in life can be as fast and simple as the information we can glean online.
+    - LOCATION: 5882
+    - With all of these elements combined, it is harder than ever for any of us to maintain a realistic attitude
+    - LOCATION: 5887
+    - and a proportionate sense of self.
+    - LOCATION: 5888
+    - People still tend to idealize leaders and worship them, and you must see this as a form of grandiosity.
+    - LOCATION: 5897
+    - In the world today, you will also notice the prevalence of negative forms of grandiosity.
+    - LOCATION: 5900
+    - They are the center of the universe. Feeling and expressing their misfortune gives them their sense of importance, of being superior in suffering.
+    - LOCATION: 5909
+    - For instance, notice how people respond to criticism of them or their work.
+    - LOCATION: 5910
+    - The emphasis is not on the criticism itself and what they need to learn but on their sense of grievance.
+    - LOCATION: 5913
+    - If people are successful, notice how they act in more private moments.
+    - LOCATION: 5914
+    - Grandiose people are generally big talkers. They take credit for anything that is even tangential to their work; they invent past successes.
+    - LOCATION: 5917
+    - Higher grandiose types generally display low levels of empathy.
+    - LOCATION: 5921
+    - They are not good listeners.
+    - LOCATION: 5922
+    - Look at the ideas themselves and don’t get caught up in their seductive self-belief.
+    - LOCATION: 5931
+    - If such types happen to be your rivals, consider yourself lucky. They are easy to taunt and bait into overreactions. Casting doubts on their greatness will make them apoplectic and doubly irrational.
+    - LOCATION: 5933
+    - The exuberance and high self-belief that come from it can be channeled into your work and help inspire you.
+    - LOCATION: 5935
+    - You need to play to your strengths and not imagine you can be great at whatever you put your mind to. You must have a thorough understanding of your energy levels, of how far you can reasonably push yourself, and of how this changes with age.
+    - LOCATION: 5939
+    - This self-awareness has a physical component to it that you must be sensitive to. When you are doing activities that mesh with your natural inclinations, you feel ease in the effort. You learn faster. You have more energy and you can withstand the tedium that comes with learning anything important.
+    - LOCATION: 5942
+    - When you take on too much, more than you can handle, you feel not only exhausted but also irritable and nervous. You are prone to headaches. When you have success in life, you will naturally feel a touch of fear, as if the good fortune could disappear.
+    - LOCATION: 5944
+    - In knowing yourself, you accept your limits. You are simply one person among many in the world, and not naturally superior to anyone.
+    - LOCATION: 5948
+    - You will search for greatness in your work.
+    - LOCATION: 5951
+    - Being realistic and pragmatic is what makes us humans so powerful.
+    - LOCATION: 5953
+    - I am destined. Grandiose leaders often try to give the impression that they were somehow destined for greatness.
+    - LOCATION: 5965
+    - I’m the common man/woman.
+    - LOCATION: 5971
+    - Nevertheless it is absolutely essential to present themselves to the public as highly representative of the average man and woman out there.
+    - LOCATION: 5972
+    - I will deliver you. These types often rise to power in times of trouble and crisis. Their self-confidence is comforting to the public or to shareholders.
+    - LOCATION: 5991
+    - In order to pull this off, their promises have to be large yet vague.
+    - LOCATION: 5993
+    - The leader’s promise to bring these invented enemies down increases the leader’s power exponentially.
+    - LOCATION: 5999
+    - At such a point nothing will dissuade true believers, but you must maintain your internal distance and analytic powers.
+    - LOCATION: 6003
+    - I rewrite the rules. A secret wish of humans is to do without the usual rules and conventions in place in any field—to gain power just by following our own inner light.
+    - LOCATION: 6004
+    - As a variation on this, grandiose leaders will often rely on their intuitions, disregarding the need for focus groups or any form of scientific feedback.
+    - LOCATION: 6014
+    - I have the golden touch. Those with heightened grandiosity will try to create the legend that they have never really failed.
+    - LOCATION: 6018
+    - I’m invulnerable. The grandiose leader takes risks.
+    - LOCATION: 6028
+    - In fact they are rather invulnerable, until that fatal hubristic maneuver in which they finally go too far and it all crashes down.
+    - LOCATION: 6034
+    - Creating a viral disenchantment is your best hope.
+    - LOCATION: 6041
+    - Grandiosity is a form of primal energy we all possess.
+    - LOCATION: 6043
+    - It impels us to want something more than we have, to be recognized and esteemed by others, and to feel connected to something larger.
+    - LOCATION: 6043
+    - The energy is channeled into our work and our desire to reach goals, to solve problems, or to improve relationships. It impels us to develop and hone our skills.
+    - LOCATION: 6048
+    - Come to terms with your grandiose needs. You need to begin from a position of honesty.
+    - LOCATION: 6055
+    - Concentrate the energy. Fantastical grandiosity will make you flit from one fantastic idea to another, imagining all the accolades and attention you’ll receive but never realizing any of them.
+    - LOCATION: 6059
+    - You want to get into the habit of focusing deeply and completely on a single project or problem. You want the goal to be relatively simple to reach, and within a time frame of months and not years. You will want to break this down into mini steps and goals along the way. Your objective here is to enter a state of flow, in which your mind becomes increasingly absorbed in the work, to the point at which ideas come to you at odd hours.
+    - LOCATION: 6061
+    - This feeling of flow should be pleasurable and addicting. You don’t allow yourself to engage in fantasies about other projects on the horizon.
+    - LOCATION: 6064
+    - Related to this, you want this project to involve skills you already have or are in the process of developing.
+    - LOCATION: 6067
+    - Maintain a dialogue with reality. Your project begins with an idea, and as you try to hone this idea, you let your imagination take flight, being open to various possibilities. At some point you move from the planning phase to execution. Now you must actively search for feedback and criticism from people you respect or from your natural audience.
+    - LOCATION: 6070
+    - If you stay too long in the imagination phase, what you create will tend to be grandiose and detached from reality.
+    - LOCATION: 6077
+    - If you only listen to feedback and try to make the work a complete reflection of what others tell you or want, the work will be conventional and flat.
+    - LOCATION: 6077
+    - Seek out calibrated challenges. The problem with fantastical grandiosity is that you imagine some great new goal you will achieve—that brilliant novel you will write, that lucrative start-up you will create.
+    - LOCATION: 6083
+    - The challenge is so great that you may start, but you will soon peter out as you realize you are not up to it. Or if you are the ambitious, assertive type, you might try to go all the way, but you will end up in the Euro Disney syndrome, overwhelmed, failing in a large fashion, blaming others for the fiasco, and never learning from the experience.
+    - LOCATION: 6085
+    - Your goal with practical grandiosity is to continually look for challenges just above your skill level.
+    - LOCATION: 6087
+    - Let loose your grandiose energy. Once you have tamed this energy, made it serve your ambitions and goals, you should feel safe to let it loose upon occasion.
+    - LOCATION: 6093
+    - We can take this even further by experiencing a deeper connection to life itself, what Sigmund Freud called “the oceanic feeling.”
+    - LOCATION: 6109
+    - For days Caterina watched her husband, who was paralyzed with fear and unable to make a decision.
+    - LOCATION: 6187
+    - She turned to religion and she returned to ruling her realm. Slowly she recovered.
+    - LOCATION: 6269
+    - When it came to ruling, she displayed a high degree of empathy, something quite unusual for the time.
+    - LOCATION: 6334
+    - She learned her lesson and afterward would remain true to herself for the rest of her life.
+    - LOCATION: 6346
+    - She was unrepressed and authentic, which inspired in them the desire to let go as well, to move past their own constricted roles.
+    - LOCATION: 6357
+    - Your task is to let go of the rigidity that takes hold of you as you overidentify with the expected gender role.
+    - LOCATION: 6372
+    - Do not be afraid to bring out the more sensitive or ambitious sides to your character.
+    - LOCATION: 6378
+    - Many of us will have at least one successful relationship in our lives, but we will tend to have many more that were decidedly unsuccessful, that ended unhappily.
+    - LOCATION: 6388
+    - Too much of our unconscious is at play, and we have no rational access to its processes.
+    - LOCATION: 6411
+    - We all possess hormones and genes of the opposite sex. These contrasexual traits are in the minority (to a greater or lesser extent, depending on the individual), but they are within us all and they form a part of our character.
+    - LOCATION: 6416
+    - In our earliest years we were completely open and susceptible to the influence of others.
+    - LOCATION: 6418
+    - If the relationship to the mother or father was mostly positive, we will tend to project onto the other person the desirable qualities that our parent had, in the hope of reexperiencing that early paradise.
+    - LOCATION: 6451
+    - The relationship will often tend to fall apart from the misreading and miscommunications on both sides, and not aware of the source of this, we will go through precisely the same cycle with the next person.
+    - LOCATION: 6467
+    - First you must try to observe the anima and the animus as they manifest themselves in others, particularly in their intimate relationships. By paying attention to their behavior and patterns in these situations, you will have access to their unconscious that is normally denied to you.
+    - LOCATION: 6476
+    - Your second task is to become aware of the projecting mechanism within yourself. (See the next section for common types of projections.)
+    - LOCATION: 6491
+    - If that person happens to be of the opposite sex, all kinds of emotions—resentments, fears, disappointments, hostility—will be stirred up, along with various projections, whereas with someone of your own gender there would be much less of a reaction.
+    - LOCATION: 6499
+    - Your third task is to look inward, to see those feminine or masculine qualities that are repressed and undeveloped within you.
+    - LOCATION: 6502
+    - First, you must recognize in yourself any tendency toward one of these forms of projection.
+    - LOCATION: 6525
+    - Second, you must use this as an invaluable tool for gaining access to the unconscious of other people, to seeing their anima and animus in action.
+    - LOCATION: 6526
+    - The Devilish Romantic: For the woman in this scenario, the man who fascinates her—often older and successful—might seem like a rake, the type who cannot help but chase after young women.
+    - LOCATION: 6532
+    - They are secretly drawn to the devilish side of their fantasy man and to the narcissism that comes with it.
+    - LOCATION: 6557
+    - The Elusive Woman of Perfection: He thinks he has found the ideal woman.
+    - LOCATION: 6561
+    - The Lovable Rebel: For the woman who is drawn to this type, the man who intrigues her has a noticeable disdain for authority.
+    - LOCATION: 6584
+    - The woman with this projection often had a strong, patriarchal father who was distant and strict.
+    - LOCATION: 6590
+    - The Fallen Woman:
+    - LOCATION: 6601
+    - He thinks she’s earthy. She seems to be in need of protection, education, and money. He will be the one to rescue and elevate her. But somehow the closer he gets to her, the less it turns out as he had expected.
+    - LOCATION: 6603
+    - Men of this type often had strong mother figures in their childhood. They became good, obedient boys, excellent students at school.
+    - LOCATION: 6613
+    - The Superior Man: He seems brilliant, skilled, strong, and stable. He radiates confidence and power.
+    - LOCATION: 6626
+    - Although the relationship details might be quite different now, this type of projection is all too common among women. It stems from feelings of inferiority.
+    - LOCATION: 6638
+    - The Woman to Worship Him: He’s driven and ambitious, but his life is hard. It’s a harsh, unforgiving world out there, and it’s not easy to find any comfort.
+    - LOCATION: 6649
+    - This male projection generally stems from a particular type of relationship with the mother—she adores her son and showers him with attention. Perhaps this is to compensate for never quite getting what she wants from her husband.
+    - LOCATION: 6653
+    - When he grows up, he is often quite ambitious, always trying to live up to the expectations of his mother.
+    - LOCATION: 6656
+    - He must see the nature of his ambition as stemming from his desire to please his mother and live up to her expectations.
+    - LOCATION: 6665
+    - He tends to drive himself too hard. He must learn to comfort and soothe himself, to withdraw from time to time and be satisfied with his accomplishments.
+    - LOCATION: 6666
+    - He needs to be able to care for himself. This will drastically improve his relationships.
+    - LOCATION: 6667
+    - He will give more, instead of waiting to be adored and taken care of. He will relate to women as they are, and in the end they will perhaps feel unconsciously impelled to provide more of the comfort he needs, without being pushed into this.
+    - LOCATION: 6668
+    - A common experience for us humans is that at a certain point in life—often near the age of forty—we go through what is known as a midlife crisis.
+    - LOCATION: 6670
+    - In primitive cultures around the world, the wisest man or woman in the tribe was the shaman, the healer who could communicate with the spirit world.
+    - LOCATION: 6685
+    - The shamans’ power came from the depth of their communication with this inner figure, which was experienced as a real woman or man from within.
+    - LOCATION: 6687
+    - Understand: The return to your original nature contains elemental power.
+    - LOCATION: 6690
+    - Let us say there are feminine and masculine styles when it comes to thinking, taking action, learning from experience, and relating to other people.
+    - LOCATION: 6701
+    - Masculine and feminine styles of thinking: Masculine thinking tends toward focusing on what separates phenomena from one another and categorizing them.
+    - LOCATION: 6705
+    - Feminine thinking orients itself differently. It likes to focus on the whole, how the parts connect to one another, the overall gestalt.
+    - LOCATION: 6710
+    - This form of thinking leads to insights when the hidden connections between things suddenly become visible in intuitive flashes.
+    - LOCATION: 6714
+    - In business, Warren Buffett is an example of someone who blends the two styles.
+    - LOCATION: 6723
+    - He looks at a company from both the outside and the inside.
+    - LOCATION: 6726
+    - Masculine and feminine styles of action: When it comes to taking action, the masculine tendency is to move forward, explore the situation, attack, and vanquish.
+    - LOCATION: 6737
+    - the feminine style often prefers to first withdraw from the immediate situation and contemplate more deeply the options.
+    - LOCATION: 6741
+    - For those with the aggressive, masculine inclination, balance would come from training yourself to step back before taking any action.
+    - LOCATION: 6752
+    - accustom yourself to various degrees of conflict and confrontation, so that any avoidance of it is strategic and not out of fear.
+    - LOCATION: 6760
+    - sometimes there are bad people who need to be thwarted, and being empathetic only empowers them. You need to be comfortable saying no and turning people down.
+    - LOCATION: 6762
+    - Masculine and feminine styles of self-assessment and learning:
+    - LOCATION: 6766
+    - when men make mistakes they tend to look outward and find other people or circumstances to blame. Men’s sense of self is deeply tied to their success, and they do not like to look inward if they fail.
+    - LOCATION: 6767
+    - For women, it is the opposite: When there is failure, they tend to blame themselves and look inward.
+    - LOCATION: 6773
+    - For those with the masculine style, when it comes
+    - LOCATION: 6775
+    - For those with the feminine style, it is easy to beat yourself up after failures or mistakes.
+    - LOCATION: 6780
+    - You are training yourself to not take things so personally.
+    - LOCATION: 6786
+    - Masculine and feminine styles of relating to people and leadership:
+    - LOCATION: 6787
+    - Leaders will designate various deputies to do their bidding. Men form hierarchies and punish those who fall out of line.
+    - LOCATION: 6789
+    - The feminine style is more about maintaining the group spirit and keeping the relationships smoothed
+    - LOCATION: 6791
+    - out, with fewer differences among individuals.
+    - LOCATION: 6792
+    - For those with the masculine style, it is important to enlarge your concept of leadership.
+    - LOCATION: 6794
+    - When you think more deeply about the individuals on the team and strategize to involve them more, you can have superior results, engaging the energy and creativity of the group.
+    - LOCATION: 6794
+    - For those of the feminine style, you must not be afraid of assuming a strong leadership role, particularly in times of crisis.
+    - LOCATION: 6800
+    - Instilling a touch of fear in your lieutenants is not always a bad thing.
+    - LOCATION: 6804
+    - “Lord, I must confess that I’m weak now. I’m faltering. I’m losing my courage. And I can’t let the people see me like this, because if they see me weak and losing my courage, they will begin to get weak.”
+    - LOCATION: 6920
+    - We are all complex.
+    - LOCATION: 7074
+    - The only solution to the dilemma is King’s solution—to find a higher sense of purpose, a mission that will provide us our own direction, not that of our parents, friends, or peers.
+    - LOCATION: 7080
+    - We feel increasingly bored. Not really engaged in our work, we turn to various distractions to occupy our restless minds.
+    - LOCATION: 7126
+    - We feel increasingly insecure. We all have dreams and a sense of our own potential.
+    - LOCATION: 7130
+    - We often feel anxious and stressed but are never quite certain as to why.
+    - LOCATION: 7134
+    - And finally, we feel depressed.
+    - LOCATION: 7139
+    - When we engage this internal guidance system, all of the negative emotions that plague us in our aimlessness are neutralized and even turned around into positive ones. For instance, we may feel boredom in the process of accumulating skills. Practice can be tedious. But we can embrace the tedium, knowing of the tremendous benefits to come.
+    - LOCATION: 7179
+    - With a sense of purpose, we feel much less insecure. We have an overall sense that we are advancing, realizing some or all of our potential. We can begin to look back at various accomplishments, small or large. We got things done.
+    - LOCATION: 7186
+    - In the process, we learn to control our levels of anxiety—if we think too much about how far we have to go, we might feel overwhelmed. Instead we learn to focus on smaller goals along the way, while also retaining a degree of urgency.
+    - LOCATION: 7192
+    - And finally, with a sense of purpose we are less prone to depression. Yes, low moments are inevitable, even welcome. They make us withdraw and reassess ourselves, as they did for King.
+    - LOCATION: 7199
+    - Once you identify people as motivated by a false purpose, you should avoid hiring or working with them, as they will tend to draw you downward with their unproductive energy.
+    - LOCATION: 7219
+    - Once you commit yourself to developing or strengthening your sense of purpose, then the hard work begins.
+    - LOCATION: 7237
+    - Discover your calling in life. You begin this strategy by looking for signs of primal inclinations in your earliest years, when they were often the clearest.
+    - LOCATION: 7243
+    - As another sign, examine moments in your life when certain tasks or activities felt natural and easy to you, similar to swimming with a current. In performing such activities, you have a greater tolerance for the tedium of practicing. People’s criticisms don’t discourage you so easily; you want to learn. You can contrast this with other subjects or tasks that you find deeply boring and unfulfilling, which frustrate you.
+    - LOCATION: 7264
+    - Related to this, you will want to figure out the particular form of intelligence that your brain is wired for.
+    - LOCATION: 7267
+    - You are reacquainting yourself with your natural likes and dislikes.
+    - LOCATION: 7273
+    - You are developing the habit of assessing and listening to yourself, so that you can continually monitor your progress and adjust this calling to the various stages in your life.
+    - LOCATION: 7276
+    - Do not try to bypass the work of discovering your calling or imagine that it will simply come to you naturally. Although it may come to a few people early in life or in a lightning-bolt moment, for most of us it requires continual introspection and effort.
+    - LOCATION: 7282
+    - Use resistance and negative spurs. The key to success in any field is first developing skills in various areas, which you can later combine in unique and creative ways.
+    - LOCATION: 7286
+    - You must choose to move in the opposite direction. You want to embrace negative experiences, limitations, and even pain as the perfect means of building up your skill levels and sharpening your sense of purpose.
+    - LOCATION: 7290
+    - If you give yourself a year to finish a project or start up a business, you will generally take a year or more.
+    - LOCATION: 7295
+    - As you progress on your path, you will be subject to more and more of people’s criticisms. Some of them might be constructive and worth paying attention to, but many of them come from envy.
+    - LOCATION: 7303
+    - Absorb purposeful energy. We humans are extremely susceptible to the moods and energy of other people.
+    - LOCATION: 7309
+    - In this case, you want to find people who are pragmatic and not merely those who are charismatic or visionaries. You want their practical advice, and to absorb their spirit of getting things done.
+    - LOCATION: 7322
+    - Create a ladder of descending goals. Operating with long-term goals will bring you tremendous clarity and resolve.
+    - LOCATION: 7326
+    - Lose yourself in the work. Perhaps the greatest difficulty you will face in maintaining a high and consistent sense of purpose is the level of commitment that is required over time and the sacrifices that go with this.
+    - LOCATION: 7338
+    - To offset this tedium, you need to have moments of flow in which your mind becomes so deeply immersed in the work that you are transported beyond your ego.
+    - LOCATION: 7341
+    - Second, you must plan on giving yourself uninterrupted time with the work—as many hours in the day as possible, and as many days in the week.
+    - LOCATION: 7348
+    - Third, the emphasis must be on the work, never on yourself or the desire for recognition.
+    - LOCATION: 7353
+    - The real purpose comes from within. It is an idea, a calling, a sense of mission that we feel personally and intimately connected to. It is our own;
+    - LOCATION: 7374
+    - The pursuit of pleasure: For many of us, work is just an irritating necessity of life.
+    - LOCATION: 7384
+    - No matter the objects of the pursuit, they tend to lead to a dynamic of diminishing returns.
+    - LOCATION: 7386
+    - Causes and cults: People have a profound need to believe in something, and in the absence of great unifying belief systems, this void is easily filled by all kinds of microcauses and cults.
+    - LOCATION: 7397
+    - We can recognize a microcause or cult by the vagueness of what its disciples want. They cannot describe the kind of world or society they desire in concrete, practical terms.
+    - LOCATION: 7402
+    - Money and success: For many people, the pursuit of money and status can supply them with plenty of motivation and focus.
+    - LOCATION: 7414
+    - Second, money and success that last come from remaining original and not mindlessly following the path that others are following.
+    - LOCATION: 7423
+    - We all know the effects of “hyperintention”: If we want and need desperately to [[sleep]], we are less likely to fall a[[sleep]].
+    - LOCATION: 7429
+    - Attention: People have always pursued fame and attention as a way to feel enlarged and more important.
+    - LOCATION: 7437
+    - Cynicism: According to Friedrich Nietzsche, “Man would rather have the void as purpose than be void of purpose.” Cynicism, the feeling that there is no purpose or meaning in life, is what we shall call having “the void as purpose.”
+    - LOCATION: 7446
+    - Reality is not brutal and ugly—it contains much that is sublime, beautiful, and worthy of wonder.
+    - LOCATION: 7458
+    - His strategy, however, had a fatal flaw at its core: when people operate in groups, they do not engage in nuanced thinking and deep analysis. Only individuals with a degree of calmness and detachment can do so.
+    - LOCATION: 7706
+    - To resist this downward pull that groups inevitably exert on us, we must conduct a very different experiment in human nature from Mao’s, with a simple goal in mind—to develop the ability to detach ourselves from the group and create some mental space for true independent thinking.
+    - LOCATION: 7767
+    - Instead, let’s cultivate such status and recognition through our excellent work. We must accept our need to belong to the group and prove our loyalty, but let’s do it in more positive ways—by questioning group decisions that will harm it in the long run, by supplying divergent opinions, by steering the group in a more rational direction, gently and strategically.
+    - LOCATION: 7775
+    - emotions: by staying calm and patient, by focusing on results and cooperating with others to get practical things done, we can begin to spread this spirit throughout the group.
+    - LOCATION: 7778
+    - In these moments, we are aware that we don’t belong, that others are looking at us as outsiders, and from deep within we feel uneasy and unusually alert, although in fact we may have nothing really to fear.
+    - LOCATION: 7802
+    - And finally, we are drawn to this force.
+    - LOCATION: 7813
+    - The social force, however, can be used and shaped for positive purposes, for high-level cooperation and empathy, for an upward pull, which we experience when we create something together in a group.
+    - LOCATION: 7851
+    - Rebelling for its own sake will simply marginalize us.
+    - LOCATION: 7859
+    - The desire to fit in: Let us say that you enter a group, as part of a new job for instance.
+    - LOCATION: 7867
+    - Emotional contagion: When we were babies, we were highly sensitive to the moods and emotions of our mother; her smiles elicited our own, her anxiety made us tense.
+    - LOCATION: 7905
+    - Hypercertainty: When we are on our own and think about our decisions and plans, we naturally feel doubts.
+    - LOCATION: 7922
+    - When looking at your own group and its culture, think in terms of style and the overall mood that prevails.
+    - LOCATION: 7946
+    - To answer these questions, don’t pay much attention to what the group says about itself, but rather examine its actions and the emotional tone that prevails within.
+    - LOCATION: 7952
+    - First, the culture will often center on an ideal that the group imagines for itself—liberal,
+    - LOCATION: 7955
+    - Second, this culture will often reflect the founders of the group, particularly if they have a strong personality.
+    - LOCATION: 7957
+    - Better to be aware and realize that the larger the group and the more established the culture over time, the more likely it will control you than the other way around.
+    - LOCATION: 7965
+    - This creeping conservatism will often be the death of the group, because it slowly loses the ability to adapt.
+    - LOCATION: 7968
+    - Group rules and codes:
+    - LOCATION: 7969
+    - Does success stem more from results or from political schmoozing? Look at how hard people work when not being observed by bosses.
+    - LOCATION: 7975
+    - The group court:
+    - LOCATION: 7979
+    - The group enemy:
+    - LOCATION: 8009
+    - Since time immemorial, leaders have exploited this enemy reflex for power, using the existence of the rival or enemy to justify almost anything and to distract from their own shortcomings.
+    - LOCATION: 8015
+    - Look at the group you belong to, and you will inevitably see some sort of enemy or bogeyman to push against.
+    - LOCATION: 8019
+    - Group factions:
+    - LOCATION: 8023
+    - If a faction gets strong enough, its members will start to give precedence to its interests over that of the greater group. Some leaders try to exploit this dynamic by playing one faction off the other, in the form of divide and conquer: the more the factions fight, the weaker they become, and the greater the power in the hands of the man or woman on top.
+    - LOCATION: 8029
+    - First, you must become a consummate observer of yourself as you interact with groups of any size.
+    - LOCATION: 8043
+    - Be ruthlessly frank with yourself. Look at how your ideas and beliefs alter the longer you stay at a job or within a particular group.
+    - LOCATION: 8045
+    - You are under subtle pressure to get along and to fit in, and you will respond to this without being aware.
+    - LOCATION: 8046
+    - We are all permeable to the influence of the group. What makes us more permeable is our insecurities. The less we are certain about our self-worth as individuals, the more we are unconsciously drawn toward fitting in and blending ourselves into the group spirit.
+    - LOCATION: 8051
+    - Your second task is to become a consummate observer of the groups you belong to or interact with. Consider yourself an anthropologist studying the strange customs of an alien tribe.
+    - LOCATION: 8061
+    - Your goal in this second task is to maintain as tight a grip on reality as possible.
+    - LOCATION: 8069
+    - Just as groups tend to exert a downward pull on our emotions and behavior, we can also experience or imagine the opposite—a group that exerts an upward pull.
+    - LOCATION: 8074
+    - It consists of members who feel free to contribute their diverse opinions, whose minds are open, and whose focus is on getting work done and cooperating on a high level.
+    - LOCATION: 8075
+    - The Intriguer: These individuals can be particularly difficult to recognize. They seem intensely loyal to the boss and to the group.
+    - LOCATION: 8111
+    - Perhaps they had competitive issues in childhood with the father figure.
+    - LOCATION: 8114
+    - Keep your eye instead on their maneuvers and their impatience to rise from within.
+    - LOCATION: 8131
+    - It is best to keep your distance and not become one of their pawns, nor their enemy.
+    - LOCATION: 8135
+    - The Stirrer: This type is generally riddled with insecurities but adept at disguising them from those in the court.
+    - LOCATION: 8136
+    - Even though they are quite insensitive to the feelings of those they malign, they are hypersensitive to any sign of disrespect to them, and since they have fewer compunctions than you, they will make your life miserable through their passive-aggressive campaigns.
+    - LOCATION: 8149
+    - The Gatekeeper: The goal of the game for these types is gaining exclusive access to leaders, monopolizing the flow of information to them.
+    - LOCATION: 8152
+    - If you’re a leader, beware of such types. They will tend to isolate you from the group, and isolation is dangerous.
+    - LOCATION: 8165
+    - The Shadow Enabler: Leaders are often in a difficult position. They have to bear the responsibility for what happens to the group and the stress that goes with that.
+    - LOCATION: 8166
+    - Nixon found this too tempting and too therapeutic to resist. Colson shared some of these hidden sadistic desires himself, and so this was the perfect way for him to live out his own Shadow.
+    - LOCATION: 8180
+    - Your clean reputation is the most important thing you possess. Maintain a polite distance.
+    - LOCATION: 8187
+    - The Court Jester: Almost every court has its Jester. In the past they wore a cap and bells, but today they come in different varieties and looks.
+    - LOCATION: 8187
+    - These types fall into such roles because secretly they have a fear of responsibility and a dread of failing. They know that as Jesters they are not taken seriously and are given little actual power.
+    - LOCATION: 8193
+    - Better to reserve your nonconformity for your private life, or until you have amassed more power.
+    - LOCATION: 8199
+    - The Mirrorer: These types are often among the most successful courtiers of all, because they are capable of playing the double game to the hilt—they are adept at charming leaders and fellow courtiers, maintaining a broad base of support.
+    - LOCATION: 8200
+    - With leaders, you must be aware of their idealized opinion of themselves and always confirm it in some way, or even encourage them to live up to it.
+    - LOCATION: 8215
+    - The Favorite and the Punching Bag: These two types occupy the highest and lowest rungs of the court.
+    - LOCATION: 8218
+    - Early on, they act relaxed and chummy with the leader, without seeming disrespectful.
+    - LOCATION: 8221
+    - Many leaders are secretly dying to not have to be so formal and in control.
+    - LOCATION: 8221
+    - This position is fraught with danger.
+    - LOCATION: 8223
+    - Make your power dependent on your accomplishments and your usefulness, not on the friendly feelings people have for you.
+    - LOCATION: 8229
+    - See everyone in the court as your potential ally. Within the ruthless environment of the court, try to befriend the Punching Bag, showing a different way of behaving and taking the fun out of this cruel game.
+    - LOCATION: 8235
+    - The reason for this common pattern is simple: what is really at fault is the dysfunctional dynamic of the group, which tends to produce
+    - LOCATION: 8242
+    - incompetent lieutenants and grandiose leaders. And unless it is fixed, the problems keep recurring with different faces.
+    - LOCATION: 8243
+    - In a dysfunctional culture, the members are often confused about their roles and the overall direction of the group.
+    - LOCATION: 8244
+    - Amid such confusion, people start to think more of their own interests and agendas, and they form factions.
+    - LOCATION: 8245
+    - Leaders find themselves dragged down by all the internal dissension and gamesmanship. Feeling vulnerable, they surround themselves with courtiers who tell them what they want to hear.
+    - LOCATION: 8249
+    - What we must do to avoid this trap is to alter our perspective: instead of instantly focusing on individuals and the drama of the failed action, we must focus on the overall group dynamic.
+    - LOCATION: 8252
+    - What creates a functional, healthy dynamic is the ability of the group to maintain a tight relationship to reality.
+    - LOCATION: 8255
+    - Instill a collective sense of purpose. That social force that compels people to want to belong and to fit in you want to capture and channel for a higher purpose.
+    - LOCATION: 8268
+    - To make this work, the group must practice what you preach.
+    - LOCATION: 8274
+    - We often like to reduce the behavior of people to base motives—greed, selfishness, the desire for attention.
+    - LOCATION: 8277
+    - Assemble the right team of lieutenants. As the leader of a reality group, you need the ability to focus on the larger picture and the overall goals that matter. You have only so much mental energy, and you must marshal it wisely.
+    - LOCATION: 8283
+    - You want the most competent person for the job. You also give great consideration to their character.
+    - LOCATION: 8289
+    - You select for this team people who have skills that you lack, each individual with their particular strengths.
+    - LOCATION: 8291
+    - Let information and ideas flow freely. As the group evolves, your greatest danger is the slow formation of a bubble around you.
+    - LOCATION: 8300
+    - He wanted as much unfiltered information as possible before deciding on a strategy. He kept such reports to a reasonably small number, but their diversity is what gave him such a clear picture.
+    - LOCATION: 8308
+    - Infect the group with productive emotions. In the group setting, people are naturally more emotional and permeable to the moods of others.
+    - LOCATION: 8319
+    - As part of this strategy, always keep the group focused on completing concrete tasks, which will naturally ground and calm them.
+    - LOCATION: 8325
+    - Infect the group with a sense of resolution that emanates from you.
+    - LOCATION: 8326
+    - Most important, showing a lack of fear and an overall openness to new ideas will have the most therapeutic effect of all.
+    - LOCATION: 8331
+    - Forge a battle-tested group. It is essential that you know your group well, its strengths and weaknesses and the maximum you can expect of it.
+    - LOCATION: 8333
+    - You want to be able to gauge the relative inner toughness of people before you are thrust into a crisis. Give various members some relatively challenging tasks or shorter deadlines than usual, and see how they respond.
+    - LOCATION: 8337
+    - In the end, you want a group that has been through a few wars, dealt with them reasonably well, and now is battle-tested.
+    - LOCATION: 8342
+    - Finally, we like to focus on the psychological health of individuals, and how perhaps a therapist could fix any problems they might have.
+    - LOCATION: 8345
+    - by participating in a high-functioning reality group, we can make ourselves healthy and whole.
+    - LOCATION: 8347
+    - It is our duty as enlightened humans to create as many such groups as possible, making society healthier in the process.
+    - LOCATION: 8351
+    - Elizabeth prudently kept England out of the conflicts, and soon the country was prospering.
+    - LOCATION: 8452
+    - Unlike her father or almost any other English monarch, she had zero credibility as a ruler, and no respect or authority to draw upon. The country was in a weakened state. She was too young, with no political experience or prior proximity to power to learn from.
+    - LOCATION: 8567
+    - What made this even more troubling was that Elizabeth was ambitious and highly intelligent; she felt more than capable of ruling England.
+    - LOCATION: 8571
+    - This feeling of entitlement also blunted their political effectiveness.
+    - LOCATION: 8581
+    - Surrounded by all the usual royal pomp, she mixed in a common touch, making her seem both comforting and regal.
+    - LOCATION: 8594
+    - Upon occasion, she would flash her anger if a minister seemed to be furthering a personal agenda, and such outbursts could be quite intimidating.
+    - LOCATION: 8603
+    - Her sense of the greater good was what guided her, but in this case the greater good would be served by having Mary executed. She was violating her own principles.
+    - LOCATION: 8612
+    - Unlike Philip, she left battle strategy in the hands of her admirals, but she overruled them on one score—she wanted them to fight the armada as close to England as possible.
+    - LOCATION: 8627
+    - Although there are no longer powerful kings and queens in our midst, more of us than ever operate as if we consider ourselves royalty. We feel entitled to respect for our work, no matter how little we have actually accomplished.
+    - LOCATION: 8643
+    - We grow defensive and prickly if our ideas are challenged, putting our intelligence and wisdom into question, even on the smallest of matters.
+    - LOCATION: 8655
+    - We expect nothing from the people around us, from those whom we lead. We are not defensive or sitting back but completely active—everything we get from others, and most definitely their respect, must be earned.
+    - LOCATION: 8661
+    - It is a fundamental fact of human nature that our emotions are almost always ambivalent, rarely pure and simple
+    - LOCATION: 8678
+    - On the one hand, we intuitively recognize the need for leaders. In any group, people have their narrow agendas and competing interests. The members feel insecure about their own position and work to secure it.
+    - LOCATION: 8697
+    - Hard decisions would never be made. No one would be guiding the ship.
+    - LOCATION: 8699
+    - No matter how powerful the leaders, no matter how much we might admire them, below the surface sits this ambivalence, and it makes people’s loyalties notoriously fickle and volatile.
+    - LOCATION: 8705
+    - Throughout history, however, certain notable leaders have been able to erect a bulwark against this volatility, to earn a type of solid respect and support that allowed them to accomplish great things over time.
+    - LOCATION: 8723
+    - First and foremost, we must understand the fundamental task of any leader—to provide a far-reaching vision, to see the global picture, to work for the greater good of the group and maintain its unity.
+    - LOCATION: 8738
+    - At the same time, however, we must see leadership as a dynamic relationship we have with those being led.
+    - LOCATION: 8744
+    - We need to attune ourselves to the shifting moods of the members of the group. We must never assume we have their support.
+    - LOCATION: 8746
+    - visceral—we can feel when members are losing respect for us. As part of the dynamic, we need to realize that when we show our respect and trust toward those below us, such feelings will flow back to us.
+    - LOCATION: 8747
+    - When it comes to our primary task—that of providing a vision for the group and leading it toward the appropriate goals—we must be stern and immovable.
+    - LOCATION: 8751
+    - When leaders fail to establish these twin pillars of authority—vision and empathy—what often happens is the following: Those in the group feel the disconnect and distance between them and leadership.
+    - LOCATION: 8756
+    - And so, in subtle ways, they begin to feel resentful and to lose respect.
+    - LOCATION: 8759
+    - If such leaders, sensing all of this, become more forceful and demanding, the members become more passive-aggressive. If the leaders become pliant and plead for more support, the members feel even less respect, as if the group were now leading the leader.
+    - LOCATION: 8761
+    - hill. This friction, caused by their own inattentiveness, is why so many leaders get so little done and are so mediocre.
+    - LOCATION: 8763
+    - Now we are no longer dealing with the invisible friction from the group but the opposite.
+    - LOCATION: 8769
+    - It is always within our capacity to reach this ideal, and if the members lose respect and trust in us, we must see this as our own fault.
+    - LOCATION: 8772
+    - First, you must make yourself a consummate observer of the phenomenon of authority, using as a measuring device the degree of influence people wield without the use of force or motivational speeches.
+    - LOCATION: 8774
+    - Second, you want to develop some of the habits and strategies (see the next section) that will serve you well in projecting authority.
+    - LOCATION: 8780
+    - But sometimes it could stem from your own actions, as you violate many of the principles described above.
+    - LOCATION: 8787
+    - Take any grumbling as a reflection on your authority.
+    - LOCATION: 8789
+    - In general, you want to heighten your sensitivity to others, looking in particular at those moments when you can feel people’s disrespect, or your authority on the wane.
+    - LOCATION: 8789
+    - Third and most important, you must not fall for the counterproductive prejudices of the times we live in, in which the very concept of authority is often misunderstood and despised.
+    - LOCATION: 8794
+    - This disdain for authority and leadership has filtered its way throughout our culture.
+    - LOCATION: 8798
+    - In this atmosphere, leaders begin to believe that they are more like caretakers, there to stand back and enable the group to make the right decisions, doing everything by consensus.
+    - LOCATION: 8804
+    - Or they entertain the idea that what matters more than anything else is crunching numbers, absorbing the mass of information available today.
+    - LOCATION: 8805
+    - Find your authority style: Authenticity. The authority you establish must emerge naturally from your character, from the particular strengths you possess.
+    - LOCATION: 8836
+    - Deliverers have an acute dislike of any kind of injustice, particularly those that affect the group they identify with.
+    - LOCATION: 8838
+    - Another archetype would be the Founder. These are the ones who establish a new order in politics or business.
+    - LOCATION: 8840
+    - Other archetypes could include the Truth Seeker (people who have no tolerance for lies and politicking); the Quiet Pragmatist (they want nothing more than to fix things that are broken, and have infinite patience); the Healer (they have a knack for finding what will fulfill and unify people); the Teacher (they have a way of getting people to initiate action and learn from their mistakes). You must identify with one of these archetypes, or any others that are noticeable in culture.
+    - LOCATION: 8845
+    - Focus outwardly: the Attitude.
+    - LOCATION: 8854
+    - First, you hone your listening skills, absorbing yourself in the words and nonverbal cues of others.
+    - LOCATION: 8856
+    - Second, you dedicate yourself to earning people’s respect.
+    - LOCATION: 8859
+    - Third, you consider being a leader a tremendous responsibility, the welfare of the group hanging on your every decision.
+    - LOCATION: 8861
+    - If you exude this attitude, people will feel it, and it will open them up to your influence.
+    - LOCATION: 8864
+    - Cultivate the third eye: the Vision.
+    - LOCATION: 8867
+    - As early in life as possible, you train yourself to disconnect from the emotions roiling the group. You force yourself to raise your vision, to imagine the larger picture.
+    - LOCATION: 8888
+    - Lead from the front: the Tone. As the leader, you must be seen working as hard as or even harder than everyone else.
+    - LOCATION: 8899
+    - You set the highest standards for yourself. You are consistent and accountable. If there are sacrifices that need to be made, you are the first to make them for the good of the group.
+    - LOCATION: 8899
+    - It is important that you set this tone from the beginning. First impressions are critical. If you try later on to show you want to lead from the front, it will look forced and lack credibility.
+    - LOCATION: 8903
+    - Begin this early on in your career by developing the highest possible standards for your own work
+- The Laws of Human Nature
+- [[Robert Greene]]
+- Ch.1 Master Your Emotional Self
+    - Highlights
+        - Every Athenian political figure believed he was rational, had realistic goals, and plans on how to get there. They all worked hard for their political factions and tried to increase their power.
+        - LOCATION: 452
+        - What consumed Pericles as a thinker and a public figure was how to get out of this trap, how to be truly rational in an arena dominated by emotions.
+        - LOCATION: 460
+        - In his conception, the human mind has to worship something, has to have its attention directed to something it values above all else.
+        - LOCATION: 462
+        - For most people, it is their ego; for some it is their family, their clan, their god, or their nation. For Pericles it would be nous, the ancient Greek word for “mind” or “intelligence.”
+        - LOCATION: 463
+        - She is the voice that comes to heroes in times of need, instilling in them a calm spirit, orienting their minds toward the perfect idea for victory and success, then giving them the energy to achieve this.
+        - LOCATION: 468
+        - Pericles trained himself to never react in the moment, to never make a decision while under the influence of a strong emotion.
+        - LOCATION: 475
+        - Rationality is not a power you are born with but one you acquire through training and practice.
+        - LOCATION: 488
+        - Why this anger or resentment? Where does this incessant need for attention come from? Under such scrutiny, your emotions will lose their hold on you.
+        - LOCATION: 496
+        - Whenever anything goes wrong in our life, we naturally seek an explanation. These explanations tend to intensify our emotions—anger, frustration, depression—which we can then wallow in and feel bad for ourselves.
+        - LOCATION: 514
+        - But generally what causes us to go astray in the first place, what leads to bad decisions and miscalculations, is our deep-rooted irrationality, the extent to which our minds are governed by emotion.
+        - LOCATION: 519
+        - What all of the analysis ignores is the basic irrationality that drove these millions of buyers and sellers up and down the line.
+        - LOCATION: 533
+        - Bubbles occur because of the intense emotional pull they have on people, which overwhelms any reasoning powers an individual mind might possess. They stimulate our natural tendencies toward greed, easy money, and quick results.
+        - LOCATION: 540
+        - The oldest is the reptilian part of the brain, which controls all automatic responses that regulate the body. This is the instinctive part. Above that is the old mammalian or limbic brain, governing feeling and emotion. And on top of that has evolved the neocortex, the part that controls cognition and, for humans, language.
+        - LOCATION: 562
+        - We dwell on our fears, intensifying them and making them last well past the moment of danger, even to the point of feeling constant anxiety.
+        - LOCATION: 584
+        - People are always labeling those who disagree with them “irrational.”
+        - LOCATION: 592
+        - Irrational people have no such awareness. They rush into action without carefully considering the ramifications and consequences.
+        - LOCATION: 597
+        - Rational people demonstrate over time that they are able to finish a project, to realize their goals, to work effectively with a team, and to create something that lasts.
+        - LOCATION: 598
+        - Irrational people reveal in their lives negative patterns—mistakes that keep repeating, unnecessary conflicts that follow them wherever they go, dreams and projects that are never realized, anger and desires for change that are never translated into concrete action.
+        - LOCATION: 599
+        - Irrational people will become consumed with a power struggle against the spouse, will let resentments and desires for vengeance secretly guide their decisions. This will lead to a protracted battle and a damaged child.
+        - LOCATION: 607
+        - When it comes to hiring an assistant or partner, rational people will use competence as their barometer—can this person do the job?
+        - LOCATION: 609
+        - Rational people can readily admit their own irrational tendencies and the need to be vigilant.
+        - LOCATION: 615
+        - Pericles wanted the energy that comes from impulses and emotions to serve our thinking self.
+        - LOCATION: 620
+        - This occurs when our emotions become inflamed, generally because of certain pressures. As we think about our anger, excitement, resentment, or suspicion, it intensifies into a reactive state—everything we see or hear is interpreted through the lens of this emotion.
+        - LOCATION: 628
+        - Third, we need to enact certain strategies and exercises that will strengthen the thinking part of the brain and give it more power in the eternal struggle with our emotions.
+        - LOCATION: 633
+        - I look at the evidence and arrive at my decisions through more or less rational processes.
+        - LOCATION: 644
+        - To hold an idea and convince ourselves we arrived at it rationally, we go in search of evidence to support our view.
+        - LOCATION: 645
+        - When investigating confirmation bias in the world, take a look at theories that seem a little too good to be true. Statistics and studies are trotted out to prove them;
+        - LOCATION: 653
+        - I believe in this idea so strongly. It must be true.
+        - LOCATION: 658
+        - We hold on to an idea that is secretly pleasing to us, but deep inside we might have some doubts as to its truth, and so we go an extra mile to convince ourselves—to believe in it with great vehemence and to loudly contradict anyone who challenges us.
+        - LOCATION: 659
+        - I understand the people I deal with; I see them just as they are.
+        - LOCATION: 667
+        - My ideas are my own. I do not listen to the group. I am not a conformist.
+        - LOCATION: 674
+        - We are social animals by nature. The feeling of isolation, of difference from the group, is depressing and terrifying.
+        - LOCATION: 675
+        - I learn from my experience and mistakes.
+        - LOCATION: 681
+        - I’m different. I’m more rational than others, more ethical as well
+        - LOCATION: 689
+        - We know, however, the reality, and so some people, perhaps all of us, are merely deceiving ourselves.
+        - LOCATION: 698
+        - Low-grade emotions continually affect our thinking, and they originate from our own impulses—for instance, the desire for pleasing and comforting thoughts. High-grade emotion, however, comes at certain moments, reaches an explosive pitch, and is generally sparked by something external—a person who gets under our skin, or particular circumstances.
+        - LOCATION: 701
+        - In the middle of such an attack we feel possessed, as if a second, limbic self has taken over.
+        - LOCATION: 706
+        - Take, for example, a young man who had a distant, narcissistic mother. As an infant or child, he experienced her coldness as abandonment, and to be abandoned must mean he was somehow unworthy of her love. Or similarly, a new sibling on the scene caused his mother to give him much less attention, which he equally experienced as abandonment.
+        - LOCATION: 715
+        - The way to recognize this in yourself and in others is by noticing behavior that is suddenly childish in its intensity and seemingly out of character.
+        - LOCATION: 721
+        - In the midst of such an attack, we must struggle to detach ourselves and contemplate the possible source—the wound in early childhood—and the patterns it has locked us into. This deep understanding of ourselves and our vulnerabilities is a key step toward becoming rational.
+        - LOCATION: 731
+        - The solution here is simple: whenever you experience unusual gains or losses, that is precisely the time to step back and counterbalance them with some necessary pessimism or optimism.
+        - LOCATION: 744
+        - They suddenly lash out in anger, reveal a paranoid streak, and become hypersensitive and often petty. Under stress or any threat, the most primitive parts of the brain are aroused and engaged, overwhelming people’s reasoning powers.
+        - LOCATION: 748
+        - There are people in the world who by their nature tend to trigger powerful emotions in almost everyone they encounter.
+        - LOCATION: 756
+        - It is best to recognize these inflamers by how they affect others, not just yourself.
+        - LOCATION: 761
+        - They have an obsessive quality, and they can lead you to extreme actions as a devoted follower or as an inveterate enemy.
+        - LOCATION: 763
+        - This is the high-grade variety of the group bias. When we are in a group of a large enough size, we become different.
+        - LOCATION: 767
+        - Being in a group does not stimulate independent reasoning but rather the intense desire to belong.
+        - LOCATION: 770
+        - Demagogues in politics or the media try to stir a continual sense of panic, urgency, and outrage.
+        - LOCATION: 781
+        - Your defense is simple: Consider your reasoning powers, your ability to think for yourself, your most precious possession.
+        - LOCATION: 782
+        - The irrational simply changes its look and its fashions.
+        - LOCATION: 789
+        - The second factor is that almost all of us at some point in our lives have experienced moments of greater rationality. This often comes with what we shall call the maker’s mind-set
+        - LOCATION: 802
+        - Know yourself thoroughly.
+        - LOCATION: 808
+        - Examine your emotions to their roots. You are angry. Let the feeling settle from within, and think about it. Was it triggered by something seemingly trivial or petty?
+        - LOCATION: 815
+        - Increase your reaction time. This power comes through practice and repetition. When some event or interaction requires a response, you must train yourself to step back.
+        - LOCATION: 822
+        - Accept people as facts. Interactions with people are the major source of emotional turmoil, but it doesn’t have to be that way. The problem is that we are continually judging people, wishing they were something that they are not.
+        - LOCATION: 828
+        - They remain a continual test to our rationality. Look at the Russian writer Anton Chekhov, one of the most fiercely rational people who ever lived, as the model for this.
+        - LOCATION: 837
+        - He applied his training as a doctor to the human animal, his goal to understand what makes us so irrational, so unhappy, and so dangerous.
+        - LOCATION: 839
+        - Find the optimal balance of thinking and emotion. We cannot divorce emotions from thinking.
+        - LOCATION: 846
+        - The horse is our emotional nature continually impelling us to move. This horse has tremendous energy and power, but without a rider it cannot be guided;
+        - LOCATION: 849
+        - Love the rational. It is important to not see the path to rationality as something painful and ascetic. In fact, it brings powers that are immensely satisfying and pleasurable, much deeper than the more manic pleasures the world tends to offer us.
+        - LOCATION: 861
+        - Our answer is to identify with the best qualities of our parents—their strength, their ability to soothe us—and incorporate these qualities into ourselves.
+    - Notes
+        - Every [[people]] believes they have [[Rationality]].
+        - Every [[people]] believes they had realistic [[goals]].
+        - Every [[people]] believes they had [[plan]] on how to get there.
+        - Every [[people]] works hard to increase their power.
+        - Every [[people]] has to worship something and direct their attention to something it values above all else.
+        - Some of the [[people]] worships their own ego.
+        - Some of the [[people]] worships their family.
+        - Some of the [[people]] worships their clan.
+        - Some of the [[people]] worships their nation.
+        - Some of the [[people]] worships their mind and intelligence.
+        - [[Making the right enough [[decision]]]], Never make a [[decision]] while under the influence of a strong emotion.
+        - [[Rationality]] is not a power you are born with but one you acquire through training and practice.
+        - Scrutinize [[emotions]] to be detached from it.
+        - [[people]] always label those who disagree with them "irrational".
+        - [[Rationality]] is the opposite of [[Irrationality]]
+        - [[Irrationality]] prevents us to [[Making the right enough [[decision]]]]
+        - Strong [[emotions]] create [[Irrationality]].
+        - Strong [[emotions]] create strong energy.
+        - [[Fear]] is a strong [[emotions]].
+        - [[angry]] is a strong [[emotions]].
+        - [[Irrationality]] of a [[people]] is revealed in their lives negative patterns.
+        - [[Rationality]] [[hiring]] [[decision]]: Can this person do the job?
+        - [[emotions]] creates a distorted lens on [[reality]].
+        - Every [[people]] believes they understands people they deal with as they are.
+        - Every [[people]] believes their ideas are their own and they are not conforming with the group.
+        - Every [[people]] is living in a group.
+        - Every [[people]] believes they are more [[Rationality]] than others.
+        - Every [[people]] believes they are more [[ethical]] than others.
+        - Every [[people]] has its childish in its intensity and seemingly out of character behaviors.
+        - Childish in its intensity and seemingly out of character behaviors comes from [[high-grade [[emotions]]]].
+        - [[high-grade [[emotions]]]] comes from ones' experience when he/she is a child.
+        - [[high-grade [[emotions]]]] has an obsessive quality, and they can lead you to extreme actions as a devoted follower or as an inveterate enemy.
+        - [[high-grade [[emotions]]]] can be formed by large enough group.
+        - Maker mindset creates greater [[Rationality]].
+        - Panic breeds [[Irrationality]].
+        - Urgency breeds [[Irrationality]].
+        - Outrage breeds [[Irrationality]].
+        - [[Low-grade [[emotions]]]] comes from [[people]]'s impulse.
+        - Increase reaction time creates space and increase [[Rationality]].
+- Ch. 2 Transform Self-love into Empathy
+    - Highlights
+        - LOCATION: 912
+        - Their mothers (or fathers) might be deep narcissists themselves, too self-absorbed to acknowledge the child, to encourage its early efforts at independence.
+        - LOCATION: 915
+        - Or alternatively the parents could be enmeshers—overinvolved in the child’s life, suffocating it with attention, isolating it from others, and living through its advancement as a means to validate their own self-worth.
+        - LOCATION: 917
+        - The result is that they have no self to retreat to, no foundation for self-esteem, and are completely dependent on the attention they can get from others to make them feel alive and worthy.
+        - LOCATION: 919
+        - In both cases, drugs or alcohol or any other form of addiction can become a necessary crutch to soothe them in the inevitable moments of doubt and depression.
+        - LOCATION: 930
+        - Sometimes they can become entrepreneurs, people who found a company because of their charisma and ability to attract followers. They can have creative flair as well.
+        - LOCATION: 964
+        - But for many of these leader types, eventually their own inner instability and chaos will come to be mirrored in the company or group they lead. They cannot forge a coherent structure or organization. Everything must flow through them. They have to control everything and everyone, their self-objects.
+        - LOCATION: 965
+        - They tend to burn and destroy whatever they create.
+        - LOCATION: 968
+        - Constant attention is their only way of survival.
+        - LOCATION: 974
+        - Second, we must be honest about our own nature and not deny it. We are all narcissists. In a conversation we are all champing at the bit to talk, to tell our story, to give our opinion.
+        - LOCATION: 985
+        - Third and most important, we must begin to make the transformation into the healthy narcissist. Healthy narcissists have a stronger, even more resilient sense of self. They tend to hover closer to the top of the scale.
+        - LOCATION: 994
+        - But in our twenties and beyond, feeling more confident about ourselves, we can begin to focus outward, on people, and rediscover these powers.
+        - LOCATION: 1008
+        - If your attention is continually interrupted by the need to look at your smartphone, you are never really gaining a foothold in the feelings or perspectives of other people.
+        - LOCATION: 1013
+        - The empathic attitude: Empathy is more than anything a state of mind, a different way of relating to others.
+        - LOCATION: 1025
+        - Instead, you must begin with the assumption that you are ignorant and that you have natural biases that will make you judge people incorrectly.
+        - LOCATION: 1027
+        - Try reversing your normal impulse to talk and give your opinion, desiring instead to hear the other person’s point of view. You have tremendous curiosity in this direction. Cut off your incessant interior monologue as best you can. Give full attention to the other.
+        - LOCATION: 1034
+        - As part of this attitude, you are giving people the same level of indulgence that you give yourself.
+        - LOCATION: 1037
+        - Pay deep attention to the moods of people, as indicated by their body language and tone of voice.
+        - LOCATION: 1049
+        - Instead of focusing on their words, which show interest and excitement, focus on the overall feeling tone that you pick up. How deeply are they listening? Are they making consistent eye contact? Does it feel like even though they are listening to you, they are absorbed in themselves?
+        - LOCATION: 1057
+        - Analytic empathy:
+        - LOCATION: 1077
+        - This can prove particularly helpful with people toward whom we feel resistant and whom we have a hard time identifying with—either because they are very different from us or because there is something about them that repels us.
+        - LOCATION: 1080
+        - Analytic empathy comes mostly through conversation and gathering information that will allow you to get inside the spirit of others.
+        - LOCATION: 1084
+        - To work on this skill, keep several things in mind: The more people you interact with in the flesh, the better you will get at this. And the greater the variety of people you meet, the more versatile your skill will become. Also, keep a sense of flow. Your ideas about people never quite settle into a judgment.
+        - LOCATION: 1101
+        - At some point, they will become total micromanagers—whom can they trust anymore? People have turned into automatons, incapable of making decisions, so they must oversee everything.
+        - LOCATION: 1192
+        - You will notice that they do not have one single deep and intimate relationship in which they exposed any vulnerability. Look for signs of a troubled childhood.
+        - LOCATION: 1200
+        - What generally makes a relationship narcissistic is the lack of empathy that makes the partners retreat deeper and deeper into their own defensive positions.
+        - LOCATION: 1338
+        - The key to employing empathy within a relationship is to understand the value system of the other person, which inevitably is different from yours.
+        - LOCATION: 1353
+        - They all knew they were trapped there for the coming winter. What they needed was distractions, something to occupy their minds and keep their spirits up. For that purpose, every day he drew up a duty roster outlining who would be doing what. He tried to mix it up as much as possible, shifting the men around in various groups and making sure they never did the same task too often. For each day there was a simple goal to accomplish—some penguins or seals to hunt, some more stores from the ship to bring to the tents, the construction of a better campground.
+        - LOCATION: 1375
+        - He was good at his job and never complained about doing other chores, but he was a man who needed to feel important.
+        - LOCATION: 1387
+        - The navigator, Huberht Hudson, revealed himself to be very self-centered and a terrible listener.
+        - LOCATION: 1390
+        - As the winter wore on, he doubled his attentiveness. At certain moments, he could feel the boredom of the men in how they carried themselves, in how they talked less and less to one another.
+        - LOCATION: 1393
+        - At one point during the voyage, he noticed McNeish’s spirits sinking, and suddenly the man stopped rowing. Shackleton sensed the danger here—if he yelled at McNeish or ordered him to row, he would probably become even more rebellious, and with so few men crowded together for so many weeks with so little food, this could turn ugly.
+        - LOCATION: 1408
+        - Improvising in the moment, he stopped the boat and ordered the boiling of hot milk for everyone. He said they were all getting tired, including himself, and they needed their spirits lifted.
+        - LOCATION: 1410
+        - Shackleton imbued himself with an air of complete confidence and optimism and watched how this infected the men’s spirit.
+        - LOCATION: 1434
+        - He had to treat each person differently, depending on his particular psychology. He also had to constantly adjust his readings, as people’s moods shifted quickly.
+        - LOCATION: 1439
+        - Third, in detecting any dips in spirit or negativity, he had to be gentle. Scolding would only make people feel ashamed and singled out, which would lead to contagious effects down the road.
+        - LOCATION: 1440
+        - Better to engage them in talk, to enter their spirit, and to find indirect ways to either elevate their mood or isolate them without making them realize what he was doing.
+        - LOCATION: 1442
+        - Understand: What makes us develop these empathic powers is necessity. If we feel our survival depends on how well we gauge the moods and minds of others, then we will find the requisite focus and tap into the powers.
+        - LOCATION: 1445
+        - You will suddenly become aware of an entire world of nonverbal behavior you never knew existed, as if your eyes could now suddenly see ultraviolet light. Once you sense this power, you will feel its importance and awaken to new social possibilities.
+    - Notes
+        - 
+- Ch.3 See Through People's Masks
+    - Highlights of chapter outline
+        - **The law of role-playing**
+            - LOCATION: 1453
+                - People continually leak out their true feelings and unconscious desires in the nonverbal cues they cannot completely control—facial expressions, vocal inflections, tension in the body, and nervous gestures.
+            - The second language: The story of Milton Erickson observing his closest family and nurses interact with each other when he is paralyzed because of polio
+                - LOCATION: 1464
+                    - And soon he noticed a peculiar pattern—in a conversation people were rarely direct.
+                - LOCATION: 1497
+                    - A sister could spend minutes beating around the bush, leaving hints to others about what she really wanted—such as to borrow an article of clothing or hear an apology from someone.
+                - LOCATION: 1497
+                    - Clearly, he realized, the mind and the body operate together, in ways we are hardly aware of.
+                - LOCATION: 1514
+                    - His motto was “observe, observe, observe.” For this purpose he kept a notebook, writing down all of his observations.
+                - LOCATION: 1521
+                    - He would watch people walking in every part of the city. He paid attention to the heaviness of the step—there was the emphatic walk of those who were persistent and full of resolve;
+                - LOCATION: 1523
+                    - Soon the man became enthralled with the sanding of the wood and the smell of it as he polished it. He stopped crying and took woodworking classes, carving elaborate chess sets and selling them.
+                - LOCATION: 1540
+                    - He could guess the career backgrounds of people by the quality of their hands, the heaviness of their step, the way they tilted their heads, and their vocal inflections.
+                - **Interpretation of Author**
+                    - LOCATION: 1571
+                        - He had to tamp down his ego—thinking less of what he wanted to say and instead directing his attention outward into the other person, attuning himself to their changing moods as reflected in their body language.
+                    - LOCATION: 1583
+                        - They have no mental space left over for simple observations, and the second language largely passes them by.
+                - **Understanding from Author**
+                    - LOCATION: 1593
+                        - It is estimated that over 65 percent of all human communication is nonverbal but that people pick up and internalize only about 5 percent of this information.
+        - **The 3 Keys to Human Nature**
+            - LOCATION: 1595
+                - “All the world’s a stage, / And all the men and women merely players; / They have their exits and their entrances, / And one man in his time plays many parts.”
+            - LOCATION: 1629
+                - Developed over so much time, before the invention of language, that is how the human face became so expressive, and gestures so elaborate. This is bred deep within us.
+            - LOCATION: 1636
+                - Our real feelings continually leak out in the form of gestures, tones of voice, facial expressions, and posture.
+            - LOCATION: 1639
+                - By paying extra-close attention to the nonverbal cues they emit, you can pick up
+            - LOCATION: 1642
+                - their moods and mirror these moods back to them, getting them to unconsciously relax in your presence.
+            - **Observational Skills**
+                - LOCATION: 1642
+                    - This is why children are the bane of inveterate liars, con artists, magicians, and people who pretend to be something they are not.
+                - LOCATION: 1659
+                    - As you practice these exercises, you must be relaxed and open to what you see, not champing at the bit to interpret your observations with words. You must be engaged in the conversation while talking less and trying to get them to talk more.
+                - LOCATION: 1672
+                    - Some people are naturally quiet and reserved, their facial expression revealing this. Some are more animated and energetic, while still others continually wear an anxious look. Aware of a person’s usual demeanor, you can pay greater attention to any deviations—for instance, sudden animation in someone who is generally reserved, or a relaxed look from the habitually nervous.
+                - LOCATION: 1678
+                    - For another exercise, observe people who are about to do something exciting—a trip to some alluring place, a date with someone they’ve been pursuing, or any event for which they have high expectations.
+                - LOCATION: 1685
+                    - With mixed signals, you need to be aware that a greater part of nonverbal communication involves the leakage of negative emotions, and you need to give greater weight to the negative cue as indicative of the person’s true feelings.
+                - LOCATION: 1694
+                    - As you progress, you will be able to split your attention more easily—listening attentively to what people have to say, but also taking careful note of nonverbal cues.
+                - LOCATION: 1699
+                    - If you are observing someone you naturally dislike, or who reminds you of someone unpleasant in your past, you will tend to see almost any cue as unfriendly or hostile. You will do the opposite for people you like. In these exercises you must strive to subtract your personal preferences and prejudices about people.
+                - LOCATION: 1709
+                    - Always consider the cultural background of people, and interpret their cues accordingly.
+            - **Decoding Keys**
+                - **Dislike/like cues**
+                    - LOCATION: 1722
+                        - At times you might feel something is not quite right, but the signs are subtle and you forget them as you pay attention to the front they present.
+                    - LOCATION: 1739
+                        - The price you pay is not only difficulties in your work or personal life, but also the emotional toll, which can have a lingering effect.
+                    - **Understand**
+                        - LOCATION: 1741
+                            - People’s hostile or resistant actions never come out of the blue. There are always signs before they take any action.
+                        - LOCATION: 1742
+                            - People give out clear indications in their body language of active dislike or hostility.
+                        - LOCATION: 1747
+                            - People will often give themselves away with the mixed signal—a positive comment to distract you but some clearly negative body language.
+                        - LOCATION: 1765
+                            - You might detect that they are noticeably friendlier and warmer toward other people and then put on a polite mask with you.
+                        - LOCATION: 1778
+                            - In general, people will want to see more of you, want to see less of you, or be rather indifferent. They may fluctuate among the three states, but they will tend to veer toward one. They will reveal this in how quickly they respond to your emails or texts, their body language on first seeing you, and the overall tone they take in your presence.
+                        - LOCATION: 1791
+                            - At the deepest level of synchrony, as Milton Erickson discovered, you will find breathing patterns falling into the same rhythm, which can sometimes end in the complete synchrony of a kiss.
+                - **Dominance/submission cues**
+                    - LOCATION: 1828
+                        - We are aware of these hierarchies, but we do not like talking explicitly about relative power positions, and we are generally uncomfortable when others talk about their superior rank.
+                    - LOCATION: 1837
+                        - They speak faster than others and feel entitled to interrupt and control the flow of the conversation. Their handshake is extra vigorous, almost crushing. When they walk in the office, you will see them assume a taller stance and a purposeful stride, generally making inferiors walk behind them. Watch chimpanzees in a zoo and you will notice similar behavior on the part of the alpha chimp.
+                    - LOCATION: 1850
+                        - For women in leadership positions, what often works best is a calm, confident expression, warm yet businesslike.
+                    - LOCATION: 1853
+                        - She listens to others with looks of complete absorption, her face remarkably still.
+                    - LOCATION: 1856
+                        - Leaders who display tension and hesitation in their nonverbal cues are generally insecure in their power and feel it threatened.
+                    - LOCATION: 1864
+                        - People trying to hide their insecurities will assert themselves a little too loudly in a conversation, their voices rising.
+                    - LOCATION: 1869
+                        - For instance, people will often show up late to indicate their superiority, real or imagined. They are not obligated to be on time.
+                    - LOCATION: 1877
+                        - One final but very subtle nonverbal means of asserting dominance in a relationship comes through the symptom. One partner suddenly develops headaches or some other illness, or starts drinking, or generally falls into a negative pattern of behavior.
+                    - LOCATION: 1885
+                        - We humans are by nature quite gullible. We want to believe in certain things—that we can get something for nothing; that we can easily regain or rejuvenate our health thanks to some new trick, perhaps even cheat death; that most people are essentially good and can be trusted.
+                    - LOCATION: 1896
+                        - Reality is messy and the pieces rarely fit so perfectly.
+                    - LOCATION: 1924
+                        - You want them to talk more, to reveal more signs of tension and contrivance. At the right moment you must surprise them with a question or remark that is designed to make them uncomfortable, revealing you are onto them.
+                    - LOCATION: 1930
+                        - Even with the most practiced deceivers, one of the best ways to unmask them is to notice how they give emphasis to their words through nonverbal cues. It is very difficult for humans to fake this. Emphasis comes through raised vocal pitch and assertive tone, forceful hand gestures, the raising of eyebrows and the widening of eyes.
+                    - LOCATION: 1936
+                        - Save your alertness for those situations in which the stakes are higher and people might be angling to get something valuable out of you.
+            - **The Art of Impression Management**
+                - **Master the nonverbal cues**
+                    - LOCATION: 1948
+                        - In certain settings, when people want to get a fix on who we are, they pay greater attention to the nonverbal cues we emit. This could be in a job interview, a group meeting, or a public appearance.
+                - **Be a method actor**
+                    - LOCATION: 1968
+                        - In method acting you train yourself to be able to display the proper emotions on command. You feel sad when your part calls for it by recalling your own experiences that caused such emotions, or if necessary by simply imagining such experiences.
+                - **Adapt to your audience**
+                    - LOCATION: 1974
+                        - Although you conform to certain parameters set by the role you play, you must be flexible. A master performer like Bill Clinton never lost sight of the fact that as president he had to project confidence and power, but if he was speaking to a group of autoworkers he would adjust his accent and his words to fit the audience, and he would do the same for a group of executives.
+                - **Create the proper first impression**
+                    - LOCATION: 1982
+                        - It has been demonstrated how much people tend to judge based on first impressions and the difficulties they have in reassessing these judgments.
+                - **Use daramatic effects**
+                    - LOCATION: 1985
+                        - This mostly involves mastering the art of presence/absence. If you are too present, if people see you too often or can predict exactly what you will do next, they will quickly grow bored with you.
+                - **Project saintly qualities**
+                    - LOCATION: 1990
+                        - Realize the following: The word personality comes from the Latin persona, which means “mask.” In the public we all wear masks, and this has a positive function. If we displayed exactly who we are and spoke our minds truthfully, we would offend almost everyone and reveal qualities that are best concealed.
+- Ch.4 Determine the Strength of People's Character
+    - The Pattern
+        - The story of [[Howard Hughes Jr.]]
+        - Interpretation
+            - LOCATION: 2014
+            - His mother had an anxious nature, and after learning she could have no more children, she directed a great deal of her anxiety toward her only son.
+            - LOCATION: 2148
+            - He had to have complete control, even at the age of nineteen, over his fate; anything less would stir up the old anxieties from childhood.
+            - LOCATION: 2156
+            - The paradox of this was that by trying to gain such total control he tended to lose it; one man could not possibly keep on top of everything, and so all kinds of unforeseen problems would arise. And when projects fell apart and the heat became intense, he would disappear from the scene or conveniently fall ill.
+            - LOCATION: 2165
+            - In fact, Hughes was a terrible businessman, and the pattern of failures that revealed this was plain for everyone to see. But this is the blind spot in human nature: we are poorly equipped to gauge the character of the people we deal with.
+            - LOCATION: 2175
+            - Instead of determining people’s character—their ability to work with others, to keep to their promises, to remain strong in adverse circumstances—we choose to work with or hire people based on their glittering résumé, their intelligence, and their charm.
+            - LOCATION: 2178
+            - Train yourself to ignore the front that people display, the myth that surrounds them, and instead plumb their depths for signs of their character. This can be seen in the patterns they reveal from their past, the quality of their decisions, how they have chosen to solve problems, how they delegate authority and work with others, and countless other signs. A person of strong character is like gold—rare but invaluable. They can adapt, learn, and improve themselves. Since your success depends on the people you work with and for, make their character the primary object of your attention. You will spare yourself the misery of discovering their character when it is too late.
+    - Keys to Human Nature
+        - LOCATION: 2185
+        - Or we realize that our way of working on a project needs some improvement; we could do things better. We try to alter our methods, only to find ourselves doing things in exactly the same way, with nearly the same results.
+        - LOCATION: 2195
+        - We can often notice this phenomenon more clearly in the actions of others, particularly those closest to us.
+        - LOCATION: 2197
+        - If we are honest with ourselves, we must admit there is some truth to the concept of fate.
+        - LOCATION: 2204
+        - The earliest and deepest layer comes from genetics, from the particular way our brains are wired, which predisposes us toward certain moods and preferences.
+        - LOCATION: 2209
+        - The second layer, which forms above this, comes from our earliest years and from the particular type of attachments we formed with our mother and caregivers.
+        - LOCATION: 2214
+        - John Bowlby, an anthropologist and psychoanalyst, studied patterns of attachment between mothers and children and came up with four basic schemas: free/autonomous, dismissing, enmeshed-ambivalent, and disorganized
+        - LOCATION: 2217
+        - Above this a third layer will form from our habits and experiences as we get older. Based on the first two layers, we will tend to rely on certain strategies for dealing with stress, looking for pleasure, or handling people.
+        - LOCATION: 2233
+        - There is a fourth layer as well. It often is developed in late childhood and adolescence as people become aware of their character flaws. They do what they can to cover them up.
+        - LOCATION: 2239
+        - As we get older, life tends to weaken us. Our empathy is harder to hold on to (see chapter 2).
+        - LOCATION: 2245
+        - Without conscious effort, these strengths will tend to wear down or turn into weaknesses.
+        - LOCATION: 2247
+        - First you must come to understand your own character, examining as best you can the elements in your past that have gone into forming it, and the patterns, mostly negative, that you can see recurring in your life.
+        - LOCATION: 2253
+        - Second, you must develop your skill in reading the character of the people you deal with.
+        - LOCATION: 2258
+        - Successful people have just as many character flaws as anyone else.
+        - LOCATION: 2272
+        - The most significant indicator of people’s character comes through their actions over time. Despite what people say about the lessons they have learned (see Howard Hughes), and how they have changed over the years, you will inevitably notice the same actions and decisions repeating in the course of their life.
+        - LOCATION: 2281
+        - If you ignore the pattern it is your own fault.
+        - LOCATION: 2288
+        - people never do something just once.
+        - LOCATION: 2288
+        - You can see eloquent signs of people’s character in how they handle everyday affairs.
+        - LOCATION: 2302
+        - People under stress lose their normal self-control.
+        - LOCATION: 2312
+        - On the other hand, some people rise to the occasion and reveal strength under fire.
+        - LOCATION: 2313
+        - On the other hand, far more people suddenly feel entitled to treat others differently now that they have the power.
+        - LOCATION: 2318
+        - Some look for a partner they can dominate and control, perhaps someone younger, less intelligent or successful. Some choose a partner they can rescue from a bad situation, playing the savior role, another form of control. Yet others look for someone to fill the mommy or daddy role. They want more pampering.
+        - LOCATION: 2326
+        - Another realm to examine is how people behave in moments away from work.
+        - LOCATION: 2332
+        - Extroverts value external things—good clothes, great meals, concrete enjoyment shared with others.
+        - LOCATION: 2340
+        - Introverts are more sensitive and easily exhausted by too much outward activity.
+        - LOCATION: 2343
+        - They love to theorize and come up with their own ideas. If they produce something, they do not like to promote it; they find the effort distasteful.
+        - LOCATION: 2345
+        - Their boldness will be expressed by the novel ideas they come up with and their creativity.
+        - LOCATION: 2349
+        - It could stem from a mixture of certain factors—genetics, secure parenting, good mentors along the way, and constant improvement (see the final section of this chapter).
+        - LOCATION: 2358
+        - Strong character has a tensile quality like a good piece of metal—it can give and bend but still retains its overall shape and never breaks.
+        - LOCATION: 2361
+        - The strength emanates from a feeling of personal security and self-worth. This allows such people to take criticism and learn from their experiences. This means they do not give up so easily, since they want to learn how to get better. They are rigorously persistent. People of strong character are open to new ideas and ways of doing things without compromising the basic principles they adhere to. In adversity they can retain their presence of mind. They can handle chaos and the unpredictable without succumbing to anxiety. They keep their word. They have patience, can organize a lot of material, and complete what they start.
+        - LOCATION: 2362
+        - People of weak character begin from the opposite position. They are easily overwhelmed by circumstances, making them hard to rely upon. They are slippery and evasive. Worst of all, they cannot be taught because learning from others implies criticism. This means you will continually hit a wall in dealing with them. They may appear to listen to your instructions, but they will simply revert to what
+        - LOCATION: 2368
+        - He looks beyond the numbers to the CEOs he will be dealing with, and what he wants to gauge above all else is their resilience, their dependability, and their self-reliance.
+        - LOCATION: 2373
+        - but he admired Eleanor’s openness to new experiences and her remarkable determination.
+        - LOCATION: 2377
+        - Looking far into the future, he could see the value of her character mattering more than anything else.
+        - LOCATION: 2377
+        - For instance, a good-natured joke at their expense can be quite revealing. Do they respond graciously to this, not so easily caught up in their insecurities, or do their eyes flash resentment or even anger?
+        - LOCATION: 2380
+        - To gauge their trustworthiness as a team player, give them strategic information or share with them some rumor—do they quickly pass along the information to others? Are they quick to take one of your ideas and package it as their own? Criticize them in a direct manner. Do they take this to heart and try to learn and improve, or do they show overt signs of resentment? Give them an open-ended assignment with less direction than usual and monitor how they organize their thoughts and their time. Challenge them with a difficult assignment or some novel way of doing something, and see how they respond, how they handle their anxiety.
+        - LOCATION: 2382
+        - People of real strength are as rare as gold, and if you find them, you should respond as if you had a discovered a treasure.
+    - Character Signs
+        - Toxic Types
+            - LOCATION: 2390
+            - The Hyperperfectionist: You are lured into their circle by how hard they work, how dedicated they are to making the best of whatever it is they produce.
+            - LOCATION: 2397
+            - Such people often have dependency issues stemming from their family background, similar to Howard Hughes.
+            - LOCATION: 2402
+            - Once their back is turned, they imagine everyone slacking off. Their compulsive need to micromanage leads to people feeling resentful and secretly resistant, which is precisely what they fear the most.
+            - LOCATION: 2404
+            - The Relentless Rebel: At first glance such people can seem quite exciting. They hate authority and love the underdog. Almost all of us are secretly attracted to such an attitude; it appeals to the adolescent within us, the desire to snub our nose at the teacher.
+            - LOCATION: 2410
+            - Look at their past history—they will tend to split with people on very bad terms, made worse by their
+            - LOCATION: 2419
+            - insults.
+            - LOCATION: 2420
+            - The Personalizer: These people seem so sensitive and thoughtful, a rare and nice quality. They might seem a little sad, but sensitive people can have it rough in life.
+            - LOCATION: 2422
+            - The Drama Magnet: They will draw you in with their exciting presence. They have unusual energy and stories to tell.
+            - LOCATION: 2433
+            - The Big Talker: You are impressed by their ideas, the projects that they are thinking about.
+            - LOCATION: 2441
+            - They need help, they need backers, and you are sympathetic, but step back for a moment and examine their record for signs of past achievements or anything tangible.
+            - LOCATION: 2442
+            - The Sexualizer: They seem charged with sexual energy, in a way that is refreshingly unrepressed. They have a tendency to mix work with pleasure, to blur the usual boundaries for when it is appropriate to use this energy, and you might imagine that this is healthy and natural.
+            - LOCATION: 2453
+            - The Pampered Prince/Princess: They will draw you in with their regal air. They are calm and ever so slightly imbued with a feeling of superiority. It is pleasant to meet people who appear confident and destined to wear a crown. Slowly you might find yourself doing favors for them, working extra hard for no pay, and not really understanding how or why.
+            - LOCATION: 2463
+            - The Pleaser: You have never met anyone so nice and considerate. You almost can’t believe how accommodating and charming they are. Then slowly you begin to have some doubts, but nothing you can put your finger on.
+            - LOCATION: 2473
+            - They secretly yearn to harm or steal from the person they serve or defer to.
+            - LOCATION: 2480
+            - The Savior: You cannot believe your good luck—you have met someone who will save you from your difficulties and troubles.
+            - LOCATION: 2482
+            - The Easy Moralizer: They communicate a sense of outrage at this bit of injustice or that, and they are quite eloquent.
+        - Superior Character
+            - LOCATION: 2491
+            - It works in the following manner: You examine yourself as thoroughly as possible. You look at the deepest layers of your character, determining whether you are an introvert or extrovert, whether you tend to be governed by high levels of anxiety and sensitivity, or hostility and anger, or a profound need to engage with people.
+            - LOCATION: 2518
+            - You look at your primal inclinations—those subjects and activities you are naturally drawn to. You examine the quality of attachments you formed with your parents, looking at your current relationships as the best sign of this. You look with rigorous honesty at your own mistakes and the patterns that continually hold you back. You know your limitations—those situations in which you do not do your best. You also become aware of the natural strengths in your character that have survived past adolescence.
+            - LOCATION: 2520
+            - She decided, for instance, to bring her own feelings of sadness and betrayal into all of the different roles she played, making women around the world identify with her; she was unlike so many of the other actresses, who were so falsely cheerful and superficial. She directed her desperate need to be loved toward the camera itself, and audiences could feel it. The film directors became father figures whom she adored and treated with extreme respect. And her most pronounced quality, her hypersensitivity, she turned outward instead of inward. She developed intensely fine antennae tuned to the likes and dislikes of the directors she worked with. Without looking at them or hearing a word they said, she could sense their displeasure with her acting, ask the right questions, and quickly incorporate their criticisms. She was a director’s dream. She coupled all of this with her fierce willpower, forging a career that spanned over forty years, something unheard of for an actress in Hollywood.
+            - LOCATION: 2541
+            - resilience under pressure, attention to detail, the ability to complete things, to work with a team, to be tolerant of people’s differences.
+- Ch.5 Become an Elusive Object of Desier
+    - The Law of Covetousness
+        - LOCATION: 2553
+        - Learn to create some mystery around you, to use strategic absence to make people desire your return, to want to possess you.
+        - The object of Desire
+            - LOCATION: 2575
+            - She could be the one stimulating such fantasies in other people.
+            - LOCATION: 2695
+            - This is how she performed such magic: First, she surrounded herself and what she made with an aura of mystery.
+            - LOCATION: 2698
+            - Just like Chanel, you need to reverse your perspective. Instead of focusing on what you want and covet in the world, you must train yourself to focus on others, on their repressed desires and unmet fantasies.
+            - LOCATION: 2712
+            - Do not define your message but leave it vague. Create an illusion of ubiquity—your object is seen everywhere and desired by others.
+            - LOCATION: 2718
+            - The more distant and unattainable this new object, the greater is our desire to have it. We can call this the grass-is-always-greener syndrome, the psychological equivalent of an optical illusion—if we get too close to the grass, to that new object, we see that is not really so green after all.
+            - LOCATION: 2726
+            - One of the most striking examples of this syndrome is the view we take of our childhood as it recedes into the past.
+            - LOCATION: 2748
+            - If we are forbidden by our culture to think a particular thought or entertain a particular desire, that taboo instantly brings to mind the very thing we are forbidden.
+            - LOCATION: 2757
+            - Second, complacency would be a dangerous evolutionary trait for a conscious animal such as humans. If our early ancestors had been prone to feeling content with present circumstances, they would not have been sensitive enough to possible dangers that lurked in the most apparently safe environments.
+            - LOCATION: 2761
+            - Finally, what is real and what is imagined are both experienced similarly in the brain. This has been demonstrated through various experiments in which subjects who imagine something produce electrical and chemical activity in their brains that is remarkably similar to when they actually live out what they are imagining, all of this shown through functional magnetic resonance imaging (fMRI).
+            - LOCATION: 2765
+            - People have become more obvious and forthright not out of some deep moral calling but out of increasing self-absorption and overall laziness. It requires no effort to simply be oneself or to blast one’s message. And the lack of effort simply results in a lack of effect on other people’s psychology.
+            - LOCATION: 2788
+            - It means that people’s interest in you will be paper thin. Their attention will quickly move on and you will not see the reason for this.
+        - Strategies for Stimulating Desire
+            - LOCATION: 2790
+            - The key to making this law work for you is to objectify yourself and what you produce.
+            - LOCATION: 2853
+            - Know how and when to withdraw
+                - LOCATION: 2794
+                - Know how and when to withdraw. This is the essence of the art. You have a presence that people see and interpret. If you are too obvious with this, if people can read you too easily and figure you out, if you show your needs too visibly, then they will unconsciously begin to have a degree of disrespect; over time they will lose interest.
+                - LOCATION: 2801
+                - This touch of coldness is the first form of withdrawal that you must practice.
+                - LOCATION: 2806
+                - The musician Michael Jackson played this game to perfection on the social level. He was deeply aware of the dangers of saturating the market with his music and public appearances. He spread out the releases of his albums, making the public hungry for more. He carefully managed the frequency of his interviews and performances and never talked about the meaning of his lyrics or propagated any overt message.
+                - LOCATION: 2812
+                - Keep in mind the following: the more active our imagination becomes, the greater the pleasure we derive from it.
+            - Create rivalries of desire
+                - LOCATION: 2822
+                - Create rivalries of desire. Human desire is never an individual phenomenon. We are social creatures and what we want almost always reflects what other people want.
+                - LOCATION: 2828
+                - You don’t directly intervene. This will inevitably spark some kind of viral pull.
+                - LOCATION: 2842
+                - It will give your object a provocative and transgressive edge. Anyway, people are drawn toward the negative.
+                - LOCATION: 2844
+                - In any negotiating situation you must always strive to bring in a third or fourth party to vie for your services, creating a rivalry of desire.
+            - Use induction
+                - Use induction. We may think we live in a time of great freedom compared with the past, but in fact we live in a world that is more regulated than ever before.
+                - LOCATION: 2855
+                - John F. Kennedy did this by setting himself off against the 1950s and the Eisenhower era—a time of stultifying conformity. By contrast, voting for him meant youth, vigor, and a lost masculinity.
+                - LOCATION: 2862
+                - One illicit desire that almost all people share is voyeurism. To peek inside the private lives of others violates strict social taboos on privacy, and yet everyone feels the pull to see what is going on behind people’s doors.
+                - LOCATION: 2865
+                - In any event, what you offer should be new, unfamiliar, and exotic, or at least presented as such.
+                - LOCATION: 2870
+                - Remember: it is not possession but desire that secretly impels people. To possess something inevitably brings about some disappointment and sparks the desire for something new to pursue.
+        - The Supreme Desire
+            - LOCATION: 2878
+            - We need to be able to distinguish between what is positive and productive in our covetous tendencies and what is negative and counterproductive.
+            - LOCATION: 2884
+            - Calming down our covetous desires, we can then learn the arts of compromise and how to make a relationship work, which never come easily or naturally.
+            - LOCATION: 2895
+            - Instead of constantly chasing after the latest trends and modeling our desires on what others find exciting, we should spend our time getting to know our own tastes and desires better, so that we can distinguish what is something we truly need or want from that which has been manufactured by advertisers or viral effects.
+            - LOCATION: 2896
+            - In the end you cannot escape from yourself.
+            - LOCATION: 2905
+            - In trying to know yourself better, you can take charge of your own nature instead of being a slave to it. And your work has endless possibilities for improvement and innovation, endless challenges for the imagination. These are the things that are closest to you and compose your real, not virtual world.
+            - LOCATION: 2910
+            - In the end what you really must covet is a deeper relationship to reality, which will bring you calmness, focus, and practical powers to alter what it is possible to alter.
+- Ch.6 elevate Your Perspective
+    - The Law of Shortsightedness
+        - Moments of Madness
+            - LOCATION: 2912
+            - France would soon become the finance capital of the world, surpassing Amsterdam and London. Such newfound power for the French could only spell disaster for England, its archenemy, particularly if another war broke out between them.
+            - LOCATION: 2937
+            - As opposed to building wealth through the traditional means of owning land, which was expensive to manage and highly taxable, it was relatively easy to earn money through purchasing stock, and profits were tax free.
+            - LOCATION: 2941
+            - Soon rumors began to circulate that the company was about to initiate trade in South America, where all kinds of riches lay buried in the mountains. This only added fuel to the fire, and people from all classes began to converge on London to buy up shares in the South Sea Company.
+            - LOCATION: 2988
+            - He had never thought prior to this that investments in joint-stock companies could yield such quick results, but the evidence from France was irrefutable.
+            - LOCATION: 3042
+            - The answer is simple: Blunt’s mental time frame had shrunk to the point where he lost the ability to look months down the road and consider consequences.
+            - LOCATION: 3051
+            - When people lose the connection between their actions and their consequences, they lose their hold on reality, and the further this goes the more it looks like madness.
+        - Keys to Human Nature
+            - LOCATION: 3058
+            - For us humans, locked in the present moment, it as if we are living at the base of the mountain. What is most apparent to our eyes—the other people around us, the surrounding forest—gives us a limited, skewed vision of reality.
+            - LOCATION: 3099
+            - First, facing a problem, conflict, or some exciting opportunity, we train ourselves to detach from the heat of the moment.
+            - LOCATION: 3106
+            - Next, we start to deepen and widen our perspective. In considering the nature of the problem we are confronting, we don’t just grab for an immediate explanation, but instead we dig deeper and consider other possibilities, other possible motivations for the people involved.
+            - LOCATION: 3107
+            - As we go through this process, certain options and explanations will begin to seem more logical and realistic than others that grabbed us in the moment.
+            - LOCATION: 3115
+            - The human brain as it evolved was designed not to examine the full picture and context of an event but to home in on the most dramatic features.
+            - LOCATION: 3123
+            - This has a decided impact on how we view the potential pleasure or pain involved in a situation.
+            - LOCATION: 3126
+            - We tend also to grab for things that offer immediate pleasure, even if we know about the negative long-term consequences.
+            - LOCATION: 3131
+            - And just as short-term thinking can be contagious, one individual who embodies the wisdom of the farsighted perspective can have an immensely positive effect on the people around him or her. Such individuals make us aware of the larger picture and reveal a mind-set that we recognize as superior. We want to imitate them.
+            - LOCATION: 3139
+            - If possible, avoid deep contact with those whose time frame is narrow, who are in continual react mode, and strive to associate with those with an expanded awareness of time.
+        - Four Signs of Shortsightedness and Strategies to Overcome Them
+            - LOCATION: 3147
+            - Most of us imagine that we engage in some form of long-term thinking; after all, we have goals and plans. But really we are fooling ourselves.
+            - LOCATION: 3149
+            - The best way to overcome this is to recognize the clear signs of shortsighted thinking in our own lives. As with most elements of human nature, awareness is the key.
+            - Unintended consequences
+                - LOCATION: 3154
+                - Unintended consequences. History is littered with endless examples of this phenomenon. In ancient Rome, a group of men loyal to the Republic feared that Julius Caesar was going to make his dictatorship permanent and establish a monarchy.
+                - LOCATION: 3157
+                - The source of this age-old syndrome is relatively simple: alarmed by something in the present, we grab for a solution without thinking deeply about the context, the roots of the problem, the possible unintended consequences that might ensue.
+                - LOCATION: 3176
+                - Nonconsequential thinking is a veritable plague in the world today that is only growing worse with the speed and ease of access to information, which gives people the illusion that they are informed and have thought deeply about things.
+                - LOCATION: 3187
+                - Understand: Any phenomenon in the world is by nature complex. The people you deal with are equally complex.
+                - LOCATION: 3191
+                - You want depth of thinking, to go to several degrees in imagining the permutations, as far as your mind can go.
+                - LOCATION: 3196
+                - put at least one person in charge of gaming out all of the possible consequences of a strategy or line of action, preferably someone with a skeptical and prudent frame of mind.
+            - Tactical hell
+                - LOCATION: 3200
+                - Tactical hell. You find yourself embroiled in several struggles or battles. You seem to get nowhere but you feel like you have invested so much time and energy already that it would be a tremendous waste to give up.
+                - LOCATION: 3202
+                - You have actually lost sight of your long-term goals, what you’re really fighting for.
+                - LOCATION: 3204
+                - Remind yourself that winning an argument or proving your point really gets you nowhere in the long run. Win through your actions, not your words.
+            - Ticker tape fever
+                - LOCATION: 3211
+                - Ticker tape fever. During the run-up to the 1929 crash on Wall Street, many people had become addicted to playing the stock market, and this addiction had a physical component—the sound of the ticker tape that electronically registered each change in a stock’s price.
+                - LOCATION: 3219
+                - This need to know instantly has a built-in momentum. Once we expect to have some bit of news quickly, we can never go back to the slower pace of just a year ago.
+                - LOCATION: 3225
+                - Our attention span decreases, as well as our tolerance for any obstacles in our path.
+                - LOCATION: 3227
+                - The trends of the moment—in business or politics—are embedded in larger trends that play out over the course of weeks and months.
+                - LOCATION: 3229
+                - Furthermore, people tend to react and overreact to any negative or positive change in the present, and it becomes doubly hard to resist getting caught up in their panic or exuberance.
+                - LOCATION: 3234
+                - Through long-term thinking Lincoln had correctly gauged the relative strengths and weaknesses of the two sides and how the war would eventually trend.
+                - LOCATION: 3251
+                - Everyone else got caught up in the day-by-day reports of the progress of the war. Some wanted to negotiate, others to suddenly speed up the effort, but all of this was based on momentary swings of fortune.
+                - LOCATION: 3252
+                - “Surrounded by all sorts of conflicting claims, by traitors, by half-hearted, timid men, by Border States men and Free States men, by radical Abolitionists and Conservatives, he has listened to all, weighed the words of all, waited, observed, yielded now here and now there, but in the main kept one inflexible, honest purpose, and drawn the national ship through.”
+                - LOCATION: 3255
+                - First and foremost we must develop patience, which is like a muscle that requires training and repetition to make it strong.
+                - LOCATION: 3258
+                - Second, when faced with issues that are important, we must have a clear sense of our long-term goals and how to attain them.
+            - Lost in trivia
+                - LOCATION: 3260
+                - 4. Lost in trivia. You feel overwhelmed by the complexity of your work. You feel the need to be on top of all the details and global trends so you can control things better, but you are drowning in information.
+                - LOCATION: 3263
+                - A similar process occurred in relation to England. The king had to read every single report on the state of the English navy, the support of the people for Queen Elizabeth, every minute detail about the country’s finances and shoreline defenses.
+                - LOCATION: 3272
+                - In some ways you are probably more like King Philip II than you would like to imagine. In your life you are more than likely paying attention to some details that seem immediately important to you, while ignoring the weather reports that will doom your project.
+                - LOCATION: 3280
+                - Assimilating too much information leads to mental fatigue, confusion, and feelings of helplessness.
+                - LOCATION: 3283
+                - What you need is a mental filtering system based on a scale of priorities and your long-term goals.
+                - LOCATION: 3284
+                - Knowing what you want to accomplish in the end will help you weed out the essential from the nonessential.
+                - [[information diets]] [[🤔 Questions]]
+        - The Farsighted Human
+            - LOCATION: 3285
+            - This means you do not see the passage of time as an enemy but rather as a great ally.
+            - LOCATION: 3300
+            - Death is equally your friend (see chapter 18). It motivates you to make the most of each moment; it gives you a sense of urgency.
+            - LOCATION: 3302
+            - But you derive even greater pleasure from reaching your long-term goals and overcoming adversity.
+            - LOCATION: 3314
+            - It will also make you a superior strategist in life, able to resist people’s inevitable overreactions to what is happening in the present and to see further into the future, a potential power that we humans have only begun to tap into.
+- Ch.7 Soften People's Resistance by Confirming Their Self-opinion
+    - LOCATION: 3315
+    - Never attack people for their beliefs or make them feel insecure about their intelligence or goodness—that will only strengthen their defensiveness and make your task impossible.
+    - The Law of Defensiveness
+        - The Influence Game
+            - LOCATION: 3327
+            - The first few times Russell politely refused, but finally he relented and he soon became a weekly regular at the Johnson house. Lady Bird was charming and he quickly took to her.
+            - LOCATION: 3375
+            - The junior senator began to fascinate the press corps—he was tough yet sympathetic to the journalists’ job. And most important, he knew how to give them a good story.
+            - LOCATION: 3398
+            - It was hard to resist a man who could put you in a good mood. He had incredible presence.
+            - LOCATION: 3422
+            - Russell could see the wisdom in this, and he gave Johnson his tacit approval, but he also warned him: “You’re dealing with the most sensitive thing in the Senate. . . . [You’re] playing with dynamite.”
+            - LOCATION: 3454
+            - The way to Humphrey’s heart was threefold: make him feel liked, confirm his belief that he was presidential material, and give him the practical tools to realize his ambitions.
+            - LOCATION: 3504
+            - As the story of Johnson demonstrates, the royal road to influence and power is to go the opposite direction: Put the focus on others.
+        - Key to Human Nature
+            - LOCATION: 3518
+            - What these moments have in common is that we feel inwardly secure—not judged but accepted by friends, the group, or the loved one.
+            - LOCATION: 3548
+            - Understand: Creating this feeling of validation is the golden key that will unlock people’s defenses. And we cannot survive and thrive in this highly competitive world without possessing such a power.
+            - LOCATION: 3551
+            - And there are three qualities to people’s self-opinion that are nearly universal: “I am autonomous, acting of my own free will”; “I am intelligent in my own way”; and “I am basically good and decent.” #[[Permanent Notes]]
+            - LOCATION: 3565
+            - In other words, we feel the need to continually express and assert our free will.
+            - LOCATION: 3570
+            - People are generally never comfortable with the thought that they could be gullible and less than intelligent. If they have to admit they are not smart in the conventional way, they will at least think they are cleverer than others.
+            - LOCATION: 3573
+            - In addition to these universals, we find that people have more personalized self-opinions that serve to regulate their particular insecurities.
+            - LOCATION: 3577
+            - Our self-opinion is primary: it determines so much of our thinking and our values.
+            - LOCATION: 3584
+            - This often happens if you try to be reasonable and calm in your approach, avoiding any emotional extremes.
+            - LOCATION: 3594
+            - Third, you can actively confirm their self-opinion. In this case you are fulfilling one of people’s greatest emotional needs.
+            - LOCATION: 3595
+            - Your task is simple: instill in people a feeling of inner security. Mirror their values; show that you like and respect them. Make them feel you appreciate their wisdom and experience. Generate an atmosphere of mutual warmth. Get them to laugh along with you, instilling a feeling of rapport.
+            - LOCATION: 3601
+            - If your targets have a low self-opinion, the same rule applies.
+            - LOCATION: 3609
+            - If you insist that they can easily better their lives by following your advice, this will clash with their belief that the world is against them and that they really do not deserve such good things.
+            - LOCATION: 3610
+            - Never take people who say such things at face value.
+            - LOCATION: 3619
+            - Second, we humans cannot avoid trying to influence others. Everything we say or do is examined and interpreted by others for clues as to our intentions.
+            - LOCATION: 3619
+            - Most people do not want to expend the effort that goes into thinking about others and figuring out a strategic entry past their defenses.
+            - LOCATION: 3623
+            - Since the game is unavoidable, better to be skillful at it than in denial or merely improvising in the moment.
+        - Five Strategies for Becoming a Master Persuader
+            - LOCATION: 3626
+            - 1. Transform yourself into a deep listener. In the normal flow of a conversation, our attention is divided. We hear parts of what other people are saying, in order to follow and keep the conversation going.
+            - LOCATION: 3633
+            - Once you are motivated to listen, the rest is relatively simple. You cannot make the strategic purpose behind your listening too obvious.
+            - LOCATION: 3644
+            - You are deeply absorbed in what they say, but you must feel and appear relaxed in being so.
+            - LOCATION: 3649
+            - Your goal is to make them come away from the encounter feeling better about themselves.
+            - LOCATION: 3653
+            - Infect people with the proper mood. As social animals, we are extremely susceptible to the moods of other people.
+            - LOCATION: 3656
+            - If you are relaxed and anticipating a pleasurable experience, this will communicate itself and have a mirror-like effect on the other person. One of the best attitudes to adapt for this purpose is one of complete indulgence. You do not judge other people; you accept them as they are.
+            - LOCATION: 3657
+            - She seems a “mix of lucidity and mystery.” She listens deeply to what he says and, without responding, gives him the feeling she completely understands him.
+            - LOCATION: 3662
+            - Keep in mind that your expectations about people are communicated to them nonverbally.
+            - LOCATION: 3674
+            - Confirm their self-opinion. Recall the universal qualities of the self-opinions of people with a high self-opinion.
+            - LOCATION: 3678
+            - Autonomy. No attempt at influence can ever work if people feel in any way that they are being coerced or manipulated.
+            - LOCATION: 3680
+            - They must choose to do whatever it is you want them to do, or they must at least experience it as their choice. The more deeply you can create this impression, the greater your chances of success.
+            - LOCATION: 3681
+            - Your attempts at influence must always follow a similar logic: how can you get others to perceive the favor you want to ask for as something they already desire? Framing it as something pleasurable, as a rare opportunity, and as something other people want to do will generally have the proper effect.
+            - LOCATION: 3700
+            - Finally, when giving people gifts or rewards as a possible means of winning them over to your side, it is always best to give smaller gifts or rewards than larger ones.
+            - LOCATION: 3711
+            - Intelligence. When you disagree with another person and impose your contrary opinion, you are implying that you know better, that you have thought things through more rationally.
+            - LOCATION: 3716
+            - you see their point of view and agree with it. (Winning arguments is rarely worth the effort.) With their intelligence flattered, you now have some room to gently alter their opinion or have lowered their defenses for a request for help.
+            - LOCATION: 3720
+            - Goodness. In our daily thoughts, we constantly comfort ourselves as to the moral nature of our actions.
+            - LOCATION: 3740
+            - Allay their insecurities. Everyone has particular insecurities—about their looks, their creative powers, their masculinity, their power status, their uniqueness, their popularity, et cetera.
+            - LOCATION: 3757
+            - That is because we live in a tough world in which we are continually judged, and yesterday’s triumph is easily followed by tomorrow’s failure.
+            - LOCATION: 3763
+            - It is always better to praise people for their effort, not their talent.
+            - LOCATION: 3775
+            - Be very careful when people ask you for their opinion about their work or something related to their character or their looks. They do not want the truth; they want support and confirmation given as realistically as possible. Be happy to supply this for them.
+            - LOCATION: 3786
+            - Use people’s resistance and stubbornness. Some people are particularly resistant to any form of influence.
+            - LOCATION: 3792
+            - Use their emotions:
+            - LOCATION: 3799
+            - Use their language:
+            - LOCATION: 3807
+            - Use their rigidity:
+        - The Flexible Mind - Self-strategies
+            - LOCATION: 3820
+            - so does our creeping sense of superiority slowly close us off to new ideas and influences.
+            - LOCATION: 3846
+            - “The unexamined life is not worth living.” The charm of Socrates, what made him so devilishly fascinating to the youth of Athens, was the supreme openness of his mind.
+            - LOCATION: 3860
+            - Opening yourself up to its influence in this way should become part of your mental habits, allowing you to better understand things, even to criticize them properly.
+            - LOCATION: 3875
+            - Instead you will work at making yourself truly independent and concerned with the welfare of others, as opposed to staying attached to the illusion of your self-opinion.
+- Others
+    - LOCATION: 3820
+    - so does our creeping sense of superiority slowly close us off to new ideas and influences.
+    - LOCATION: 3846
+    - “The unexamined life is not worth living.” The charm of Socrates, what made him so devilishly fascinating to the youth of Athens, was the supreme openness of his mind.
+    - LOCATION: 3860
+    - Opening yourself up to its influence in this way should become part of your mental habits, allowing you to better understand things, even to criticize them properly.
+    - LOCATION: 3875
+    - Instead you will work at making yourself truly independent and concerned with the welfare of others, as opposed to staying attached to the illusion of your self-opinion.
+    - LOCATION: 3885
+    - Anton could see that he and his siblings were falling into the same pattern—bitter, secretly feeling worthless, and wanting to take their anger out on others.
+    - LOCATION: 3968
+    - Understanding his father, he could accept and even love him. He was not some imposing tyrant but a rather helpless old man.
+    - LOCATION: 3971
+    - He made a vow to himself: no more bowing and apologizing to people; no more complaining and blaming; no more disorderly living and wasting time.
+    - LOCATION: 3975
+    - The elevated mood he had so carefully crafted in Taganrog was dissipating. He became depressed and considered giving up writing entirely.
+    - LOCATION: 4008
+    - Then, toward the end of 1889, he thought of a way to free himself from his growing depression. Since his days in Taganrog, the poorest and most abject members of society had fascinated him.
+    - LOCATION: 4009
+    - His sense of proportion had been restored.
+    - LOCATION: 4024
+    - He had finally freed himself of the petty thoughts and concerns that had weighed him down.
+    - LOCATION: 4024
+    - His father had kept telling him he was lazy, and he had believed it, but now he was not so sure.
+    - LOCATION: 4040
+    - What had changed was his attitude, which opened him up to new experiences and possibilities.
+    - LOCATION: 4046
+    - This freedom essentially comes from adopting a generous spirit—toward others and toward ourselves.
+    - LOCATION: 4067
+    - No two people see or experience the world in the same way.
+    - LOCATION: 4082
+    - The world simply exists as it is—things or events are not good or bad, right or wrong, ugly or beautiful. It is we with our particular perspectives who add color to or subtract it from things and people.
+    - LOCATION: 4095
+    - “Attitude is a readiness of the psyche to act or react in a certain way. . . . To have an attitude means to be ready for something definite, even though this something is unconscious; for having an attitude is synonymous with an a priori
+    - LOCATION: 4100
+    - orientation to a definite thing.”
+    - LOCATION: 4102
+    - The attitude that we carry with us throughout life has several roots: First, we come into this world with certain genetic inclinations—toward hostility, greed, empathy, or kindness.
+    - LOCATION: 4121
+    - We internalize the voices of the mother and father figure.
+    - LOCATION: 4129
+    - When we love or admire someone, we tend to internalize a part of their presence, and they shape how we see the world in a positive way.
+    - LOCATION: 4131
+    - What we must understand about the attitude is not only how it colors our perceptions but also how it actively determines what happens to us in life—our health, our relations with people, and our success. Our attitude has a self-fulfilling dynamic.
+    - LOCATION: 4134
+    - They unconsciously want to limit what they see and experience to give them more control. Those with a positive attitude have a much less fearful approach. They are open to new experiences, ideas, and emotions.
+    - LOCATION: 4145
+    - You will also catch signs of it in how people respond to you, particularly in a nonverbal way.
+    - LOCATION: 4154
+    - View your health as largely dependent on your attitude. Feeling excited and open to adventure, you can tap into energy reserves you did not know that you had. The mind and the body are one, and your thoughts affect your physical responses.
+    - LOCATION: 4159
+    - Do not be afraid to exaggerate the role of willpower. It is an exaggeration with a purpose.
+    - LOCATION: 4165
+    - Some children exhibit a hostile attitude at a very early age. They interpret weaning and the natural separation from parents as hostile actions.
+    - LOCATION: 4184
+    - Their hostility permeates everything they do—the way they argue and provoke (they are always right); the nasty undertone of their jokes; the greediness with which they demand attention; the pleasure they get out of criticizing others and seeing them fail.
+    - LOCATION: 4194
+    - Maintain your neutrality. This will confound them and temporarily put a stop to the game they are playing.
+    - LOCATION: 4205
+    - The Anxious Attitude. These types anticipate all kinds of obstacles and difficulties in any situation they face.
+    - LOCATION: 4207
+    - With people, they often expect some sort of criticism or even betrayal. All of this stimulates unusual amounts of anxiety before the fact. What they really fear is losing control of the situation.
+    - LOCATION: 4207
+    - Sometimes they can disguise their need for control as a form of love and concern.
+    - LOCATION: 4213
+    - Another disguise, similar to such love, is to seek to please and cajole people in order to disarm any possible unpredictable and unfriendly action.
+    - LOCATION: 4218
+    - If you notice such tendencies in yourself, the best antidote is to pour your energies into work. Focusing your attention outward into a project of some sort will have a calming effect.
+    - LOCATION: 4220
+    - If you radiate calmness, your manner will have greater effect than your words.
+    - LOCATION: 4226
+    - The Avoidant Attitude. People with this attitude see the world through the lens of their insecurities, generally related to doubts about their competence and intelligence.
+    - LOCATION: 4226
+    - To enact this strategy they will constantly seek escape routes, consciously or unconsciously.
+    - LOCATION: 4231
+    - These types find it hard to commit to anything, for a good reason. If they remained at a job or in a relationship, their flaws might become too apparent to others.
+    - LOCATION: 4237
+    - You can easily recognize such people by their checkered careers and their short-term personal relationships.
+    - LOCATION: 4242
+    - If you notice traces of this attitude in yourself, a good strategy is to take on a project of even the smallest scale, taking it all the way to completion and embracing the prospect of failure.
+    - LOCATION: 4247
+    - At all costs avoid the temptation to help or rescue them from their negativity. They are too good at the avoidance game.
+    - LOCATION: 4252
+    - The Depressive Attitude. As children, these types did not feel loved or respected by their parents.
+    - LOCATION: 4253
+    - These types often have a secret need to wound others, encouraging behavior such as betrayal or criticism that will feed their depression.
+    - LOCATION: 4275
+    - Most of us have depressive tendencies and moments. The best way to handle them is to be aware of their necessity—they are our body’s and mind’s way of compelling us to slow down, to lower our energies and withdraw.
+    - LOCATION: 4281
+    - Never try to lift up depressive people by preaching to them about the wonderfulness of life. Instead, it is best to go along with their gloomy opinion of the world while subtly drawing them into positive experiences that can elevate their moods and energy without any direct appeal.
+    - LOCATION: 4286
+    - The Resentful Attitude. As children, these types never felt they got enough parental love and affection—they were always greedy for more attention.
+    - LOCATION: 4288
+    - If you notice resentful tendencies within yourself, the best antidote is to learn to let go of hurts and disappointments in life.
+    - LOCATION: 4311
+    - In dealing with such types, you must exercise supreme caution. Although they might smile and seem pleasant, they are actually scrutinizing you for any possible insult.
+    - LOCATION: 4316
+    - Better to avoid this type if possible.
+    - LOCATION: 4319
+    - See yourself as an explorer.
+    - LOCATION: 4332
+    - The unconscious is merely one more realm for you to freely explore.
+    - LOCATION: 4343
+    - How to view adversity: Our life inevitably involves obstacles, frustrations, pain, and separations.
+    - LOCATION: 4343
+    - Your goal is to move in the opposite direction, to embrace all obstacles as learning experiences, as means to getting stronger. In this way you embrace life itself.
+    - LOCATION: 4347
+    - Although adversity and pain are generally beyond your control, you have the power to determine your response and the fate that comes from that.
+    - LOCATION: 4362
+    - By accepting what we think to be the limits of our intelligence and creative powers, we create a self-fulfilling dynamic.
+    - LOCATION: 4365
+    - In ancient times, many great leaders, such as Alexander the Great and Julius Caesar, felt that they were descended from gods and part divine.
+    - LOCATION: 4368
+    - But really their cool attitude is a clever mask for their great fears—of embarrassing themselves, of failing, of showing too much emotion.
+    - LOCATION: 4383
+    - How to view your energy and health: Although we are all mortal and subject to illnesses beyond our control, we must recognize the role that willpower plays in our health.
+    - LOCATION: 4386
+    - First you must try to get rid of the natural tendency to take what people do and say as something personally directed at you, particularly if what they say or do is unpleasant.
+    - LOCATION: 4393
+    - You will save yourself from accumulating hurts and bitter feelings.
+    - LOCATION: 4397
+    - See people as facts of nature. They come in all varieties, like flowers or rocks.
+    - LOCATION: 4398
+    - You must accept diversity and the fact that people are what they are.
+    - LOCATION: 4401
+    - Learn to measure the people you deal with by the depth of their soul, and if possible associate as much as you can with those of the expansive variety.
+    - LOCATION: 4425
+    - Learn to recognize the signs of the Shadow before they become toxic.
+    - LOCATION: 4439
+    - As an infant, Nixon seemed to be unusually needy. He was a notorious crybaby;
+    - LOCATION: 4583
+    - The story of Nixon is closer to you and your reality than you might like to imagine. Like Nixon, you have crafted a public persona that accentuates your strengths and conceals your weaknesses. Like him, you have repressed the less socially acceptable traits you naturally possessed as a child.
+    - LOCATION: 4606
+    - You will tend to blame circumstances or other people for these moods and behavior, but they keep recurring because you are unaware of their source.
+    - LOCATION: 4612
+    - Your task as a student of human nature is to recognize and examine the dark side of your character.
+    - LOCATION: 4615
+    - The Shadow lies buried deep within, but it becomes disturbed and active in moments of stress, or when deep wounds and insecurities are triggered.
+    - LOCATION: 4647
+    - Most of us succeed in becoming a positive social animal, but at a price. We end up missing the intensity that we experienced in childhood, the full gamut of emotions, and even the creativity that came with this wilder energy.
+    - LOCATION: 4672
+    - Contradictory behavior: This is the most eloquent sign of all. It consists of actions that belie the carefully constructed front that people present.
+    - LOCATION: 4682
+    - Emotional outbursts: A person suddenly loses his or her habitual self-control and sharply expresses deep resentments or says something biting and hurtful.
+    - LOCATION: 4687
+    - Vehement denial: According to Freud, the only way that something unpleasant or uncomfortable in our unconscious can reach the conscious mind is through active denial.
+    - LOCATION: 4691
+    - “Accidental” behavior: People might talk of quitting some addiction, or not working so damned hard, or staying away from a self-destructive relationship.
+    - LOCATION: 4695
+    - Overidealization: This can serve as one of the most potent covers for the Shadow.
+    - LOCATION: 4700
+    - By overidealizing a cause, person, or object, people can give free rein to the Shadow.
+    - LOCATION: 4709
+    - Related to this, in arguments people will use their powerful convictions as a perfect way to disguise their desires to bully and intimidate.
+    - LOCATION: 4711
+    - Projection: This is by far the most common way of dealing with our Shadow, because it offers almost daily release.
+    - LOCATION: 4716
+    - Remember: behind any vehement hatred is often a secret and very unpalatable envy of the hated person or people.
+    - LOCATION: 4729
+    - These are relatively harmless forms of release, but there are more dangerous ones, particularly in the realm of politics.
+    - LOCATION: 4745
+    - Instead the answer is to see our Shadow in action and become more self-aware.
+    - LOCATION: 4758
+    - Through such self-knowledge we can find a way to integrate the dark side into our consciousness productively and creatively.
+    - LOCATION: 4760
+    - Their real self will rebel in the form of moods, obsessions, secret vices, and behavior that is quite contrary to their image and is often self-destructive.
+    - LOCATION: 4774
+    - The Tough Guy: He projects a rough masculinity that is intended to intimidate.
+    - LOCATION: 4778
+    - They are notoriously touchy and thin-skinned, and you might detect a micropout on their face if you trigger their insecurities, before they cover it up with a fierce scowl. If they happen to be a rival, they are easy to bait into an overreaction that reveals something less than tough.
+    - LOCATION: 4789
+    - The Saint: These people are paragons of goodness and purity.
+    - LOCATION: 4791
+    - This saintly exterior developed early on as a way to disguise their strong hunger for power and attention or their strong sensual appetites.
+    - LOCATION: 4793
+    - They are also secretly drawn to sex, to money, to the limelight, and to what is expressly taboo for their particular saintliness.
+    - LOCATION: 4797
+    - Once you recognize this type, do not become a naive follower. Keep some distance. If they are enemies, simply shine a light on the clear signs of hypocrisy.
+    - LOCATION: 4802
+    - As a variation on this, you will find people who propound a philosophy of free love and anything goes; but in fact they are after power.
+    - LOCATION: 4804
+    - The Passive-Aggressive Charmer: These types are amazingly nice and accommodating when you first meet them, so much so that you tend to let them into your life rather quickly.
+    - LOCATION: 4805
+    - The truth is that these types realize early on in life that they have aggressive, envious tendencies that are hard to control.
+    - LOCATION: 4811
+    - Under stress or simply worn out by the effort, they will lash out and hurt you. They can do this well now that they know you and your weak spots. They will, of course, blame you for what ensues.
+    - LOCATION: 4814
+    - Your best defense is to be wary of people who are too quick to charm and befriend, too nice and accommodating at first.
+    - LOCATION: 4815
+    - The Fanatic: You are impressed by their fervor, in support of whatever cause.
+    - LOCATION: 4818
+    - It’s as if they have suddenly lost belief, or secretly wanted to fail.
+    - LOCATION: 4822
+    - The truth is that such types have massive insecurities from early on in life. They have doubts about their self-worth. They never felt loved or admired enough.
+    - LOCATION: 4823
+    - They secretly know they cannot deliver the goods. And so under stress they become the opposite—indecisive and secretly doubtful.
+    - LOCATION: 4826
+    - Do not become a follower. They will make a fool of you.
+    - LOCATION: 4831
+    - The Rigid Rationalist:
+    - LOCATION: 4831
+    - Everything must be clear and analytical in the extreme.
+    - LOCATION: 4837
+    - Bait them into just such overreactions to prick their bubble of intellectual superiority. True rationality should be sober and skeptical about its own powers and not publicize itself.
+    - LOCATION: 4842
+    - The Snob: These types have a tremendous need to be different from others, to assert some form of superiority over the mass of mankind.
+    - LOCATION: 4844
+    - The truth is that banality is part of human existence.
+    - LOCATION: 4851
+    - Snobs are especially sensitive about this, greatly insecure about their origins and possible mediocrity.
+    - LOCATION: 4853
+    - The Extreme Entrepreneur: At first glance these types seem to possess very positive qualities, especially for work. They maintain very high standards and pay exceptional attention to detail.
+    - LOCATION: 4858
+    - If they were truly self-reliant, they would know the importance of delegating on a lower level to maintain control on the higher level, but something else is stirring within—the Shadow.
+    - LOCATION: 4863
+    - Often their outward show of self-reliance disguises a hidden desire to have others take care of them, to regress to the dependency of childhood.
+    - LOCATION: 4866
+    - It is best to not get too entangled with such types later on in their careers, as they have a tendency to bring about much collateral damage.
+    - LOCATION: 4870
+    - they are able to laugh at themselves; they can admit to certain shortcomings in their character, as well as to mistakes they have made; they have a playful, sometimes impish edge to them, as if they have retained more of the child within; they can play their role in life with a little bit of distance (see the last section of chapter 3). At times they can be charmingly spontaneous.
+    - LOCATION: 4873
+    - One thing is for certain: we are completely drawn to the authentic types and unconsciously repulsed by their opposite.
+    - LOCATION: 4881
+    - See the Shadow. This is the most difficult step in the process.
+    - LOCATION: 4891
+    - Look at your own emotional outbursts and moments of extreme touchiness.
+    - LOCATION: 4895
+    - Look deeply at your tendencies to project emotions and bad qualities onto people you know, or even entire groups.
+    - LOCATION: 4897
+    - Look at moments in your youth (late teens, early twenties) in which you acted in a rather insensitive or even cruel manner.
+    - LOCATION: 4900
+    - He could be honest with himself and channel the Shadow creatively. His depression lifted, as well as the writer’s block.
+    - LOCATION: 4914
+    - Pay attention instead to the emotional tone and overall feelings that they inspire, holding on to them throughout the day.
+    - LOCATION: 4921
+    - Embrace the Shadow. Your natural reaction in uncovering and facing up to your dark side is to feel uncomfortable and maintain only a surface awareness of it.
+    - LOCATION: 4928
+    - By embracing and integrating such opposing qualities into his public persona, he gave the impression of tremendous authenticity.
+    - LOCATION: 4944
+    - Explore the Shadow. Consider the Shadow as having depths that contain great creative energy.
+    - LOCATION: 4945
+    - In a similar vein, you want to explore from within your own darkest impulses, even those that might seem criminal, and find a way to express them in your work or externalize them in some fashion, in a journal for instance.
+    - LOCATION: 4962
+    - Show the Shadow. Most of the time we secretly suffer from the endless social codes we have to adhere to.
+    - LOCATION: 4967
+    - Being so nice becomes a habit, which easily turns into timidity, lack of confidence, and indecision.
+    - LOCATION: 4970
+    - Understand: You pay a greater price for being so nice and deferential than for consciously showing your Shadow.
+    - LOCATION: 4978
+    - First, to follow the latter path you must begin by respecting your own opinions more and those of others less,
+    - LOCATION: 4979
+    - Second, get in the habit in your daily life of asserting yourself more and compromising less.
+    - LOCATION: 4981
+    - Third, start caring less what people think of you.
+    - LOCATION: 4982
+    - Fourth, realize that at times you must offend and even hurt people who block your path, who have ugly values, who unjustly criticize you.
+    - LOCATION: 4983
+    - Fifth, feel free to play the impudent, willful child who mocks the stupidity and hypocrisy of others.
+    - LOCATION: 4984
+    - In general, consider this a form of exorcism. Once you show these desires and impulses, they no longer lie hidden in corners of your personality, twisting and operating in secret ways.
+    - LOCATION: 4995
+    - There were many reasons for Jane to conceal and even repress the envy stirring within her. First, it is socially toxic to display envy.
+    - LOCATION: 5154
+    - What we need to grasp is something paradoxical: people who feel envy in the first place are often motivated to become our friends.
+    - LOCATION: 5190
+    - Often we intuit that the other person is false but then forget this as they make friendly overtures.
+    - LOCATION: 5201
+    - And so almost as soon as we feel the initial pangs of envy, we are motivated to disguise it to ourselves—it
+    - LOCATION: 5220
+    - You are ruthless in your analysis and your determination to get to the root of what motivates people.
+    - LOCATION: 5236
+    - Before immersing yourself in the subtleties of the emotion, it is important to distinguish between passive and active envy.
+    - LOCATION: 5242
+    - In detecting signs of passive envy in others (for instance, little put-downs and offhand comments), you should simply tolerate this as a fact of being a social animal.
+    - LOCATION: 5247
+    - Microexpressions: When people first experience envy, they have not yet fooled themselves into thinking it is something else, and so they are more prone to leakage than later on.
+    - LOCATION: 5259
+    - Poisonous praise: A major envy attack is often preceded by little envy bites—offhand comments expertly designed to get under your skin.
+    - LOCATION: 5275
+    - Backbiting: If people like to gossip a lot, particularly about common acquaintances, you can be sure they will gossip about you.
+    - LOCATION: 5287
+    - A frequent theme in their gossip is that no one’s really that great, and people aren’t what they pretend to be.
+    - LOCATION: 5291
+    - serial gossipers do not make loyal and trustworthy friends.
+    - LOCATION: 5295
+    - The push and pull: As we saw in the Jane Williams story, enviers often use friendship and intimacy as the best way to wound the people they envy.
+    - LOCATION: 5296
+    - In general, criticism of you that seems sincere but not directly related to anything you have actually done is usually a strong sign of envy. People want to bully and overwhelm you with something negative, both wounding you and covering any tracks of envy.
+    - LOCATION: 5306
+    - Klein, who specialized in the study of infancy and early childhood, noticed that some children feel greater degrees of hostility and resentment toward the father and siblings for the attention they are receiving at their (the enviers’) expense, and toward the mother for not giving them enough.
+    - LOCATION: 5314
+    - Because envy is a painful sensation, these types will enact lifelong strategies to mitigate or repress these feelings that gnaw at them.
+    - LOCATION: 5327
+    - The Leveler: When you first meet them, levelers can seem rather entertaining and interesting. They tend to have a wicked sense of humor. They are good at putting down those who are powerful and deflating the pretentious.
+    - LOCATION: 5336
+    - Their main goal is to bring everyone down to the same mediocre level they occupy.
+    - LOCATION: 5346
+    - Be wary around such types, particularly in the workplace, because they will make you feel guilty for your own impulse to excel.
+    - LOCATION: 5348
+    - The Self-entitled Slacker:
+    - LOCATION: 5352
+    - Some people, however, feel they deserve attention and many rewards in life as if these are naturally due to them.
+    - LOCATION: 5353
+    - Be extra careful in the work environment with those who like to maintain their position through charm and being political, rather than by getting things done.
+    - LOCATION: 5369
+    - The Status Fiend:
+    - LOCATION: 5371
+    - But for some people status is more than a way of measuring social position—it is the most important determinant of their self-worth.
+    - LOCATION: 5373
+    - Recognize status fiends by how they reduce everything to material considerations.
+    - LOCATION: 5386
+    - If you are around such types, try to downplay or conceal what you have that might trigger envy, and talk up their possessions, skills, and status in whatever way you can.
+    - LOCATION: 5390
+    - The Attacher: In any court-like environment of power, you will inevitably find people who are drawn to those who are successful or powerful, not out of admiration but out of secret envy.
+    - LOCATION: 5392
+    - These types have a trait that is quite common to all enviers: they lack a clear sense of purpose in their life (see chapter 13 for more on this).
+    - LOCATION: 5403
+    - In general, be wary of those who are too eager to attach themselves to your life, too impatient to make themselves useful.
+    - LOCATION: 5406
+    - Learn to hire and work with those who have experience rather than just a pleasing manner.
+    - LOCATION: 5409
+    - The Insecure Master: For some people, reaching a high position validates their self-opinion and boosts their self-esteem. But there are some who are more anxious. Holding a high position tends to increase their insecurities, which they are careful to conceal.
+    - LOCATION: 5410
+    - Pay attention to those above you for signs of insecurity and envy.
+    - LOCATION: 5422
+    - Your time to shine will come, but not if you inadvertently stimulate their insecurities.
+    - LOCATION: 5425
+    - The most common trigger is a sudden change in your status, which alters your relationship to friends and peers.
+    - LOCATION: 5428
+    - Do not take so personally their faint praise and veiled criticisms. But be aware that among some of these peers envy can turn active and dangerous.
+    - LOCATION: 5432
+    - The best you can do in such situations is to have some self-deprecating humor and to not rub people’s faces in your success, which, after all, might contain some elements of luck.
+    - LOCATION: 5435
+    - If you detect signs of a more active envy in peers, get as far away from them as possible.
+    - LOCATION: 5440
+    - Keep in mind that people who are getting older, with their careers on the decline, have delicate egos and are quite prone to experiencing envy.
+    - LOCATION: 5440
+    - If people with natural gifts also possess a good work ethic and have some luck in life, envy will follow them wherever they go.
+    - LOCATION: 5444
+    - A high-achieving woman inflicts greater feelings of inferiority in both other women and men (“I’m inferior to a woman?”), which leads to envy and hostility, not admiration.
+    - LOCATION: 5460
+    - If you find yourself under an envy attack, your best strategy is to control your emotions. It is much easier to do this once you realize that envy is the source.
+    - LOCATION: 5479
+    - But the truth is that envy is more prevalent now than ever before, largely because of social media.
+    - LOCATION: 5487
+    - What we experience in this case is a generalized feeling of dissatisfaction. Low-grade envy sits inside us, waiting to be triggered into the more acute variety
+    - LOCATION: 5493
+    - we must also learn how to manage this emotion within ourselves, transforming it into something positive and productive.
+    - LOCATION: 5502
+    - Monitoring yourself and seeing more such instances will only help you in the slow process of moving beyond envy.
+    - LOCATION: 5511
+    - Move closer to what you envy. Envy thrives on relative closeness—in a corporate environment where people see each other every day, in a family, in a neighborhood, in any group of peers.
+    - LOCATION: 5516
+    - The process of moving closer is twofold: on the one hand, try to actually look behind the glittering
+    - LOCATION: 5524
+    - façades people present, and on the other hand, simply imagine the inevitable disadvantages that go along with their position.
+    - LOCATION: 5525
+    - Engage in downward comparisons. You normally focus on those who seem to have more than you, but it would be wiser to look at those who have less.
+    - LOCATION: 5527
+    - Practice Mitfreude
+    - LOCATION: 5534
+    - But to imagine the joy of others and to rejoice at it is the highest privilege of the highest animals.”
+    - LOCATION: 5538
+    - Because it is such a rare occurrence, it contains great power to bond people. And in internalizing other people’s joy, we increase our own capacity to feel this emotion in relation to our own experiences.
+    - LOCATION: 5544
+    - Transmute envy into emulation. We cannot stop the comparing mechanism in our brains, so it is best to redirect it into something productive and creative.
+    - LOCATION: 5545
+    - First, we must come to believe that we have the capacity to raise ourselves up.
+    - LOCATION: 5549
+    - Related to this, having a sense of purpose, a feel for your calling in life, is a great way to immunize yourself against envy.
+    - LOCATION: 5554
+    - You are focused on your own life and plans, which are clear and invigorating. What gives you satisfaction is realizing your potential, not earning attention from the public, which is fleeting.
+    - LOCATION: 5554
+    - Your sense of self-worth comes from within, not from without.
+    - LOCATION: 5556
+    - Admire human greatness. Admiration is the polar opposite of envy—we are acknowledging people’s achievements, celebrating them, without having to feel insecure.
+    - LOCATION: 5557
+    - Finally, it is worth cultivating moments in life in which we feel immense satisfaction and happiness divorced from our own success or achievements.
+    - LOCATION: 5563
+    - Many executives stopped working after lunch and spent their afternoons in card games, or would lounge about in the steam room on site.
+    - LOCATION: 5607
+    - He quickly decided upon a strategy—he would narrow Ovitz’s responsibilities, keep a tight leash on him, and make him prove himself as president.
+    - LOCATION: 5685
+    - At the beginning of his career at ABC, young Eisner had a solid grasp on reality. He was fiercely practical.
+    - LOCATION: 5727
+    - He understood and exploited to the maximum his strengths—his ambitious and competitive nature, his intense work ethic, his keen sense for the entertainment tastes of the average American.
+    - LOCATION: 5728
+    - This was intoxicating. It inevitably elevated his estimation of his skills.
+    - LOCATION: 5739
+    - Barry Diller was the perfect foil to Eisner. He would argue with him endlessly about his ideas, forcing Eisner to sharpen them.
+    - LOCATION: 5741
+    - He imagined he had the golden touch.
+    - LOCATION: 5746
+    - People had become mere instruments for Eisner to use. Ovitz was considered the most feared and powerful man in Hollywood.
+    - LOCATION: 5767
+    - Any success that we have in life inevitably depends on some good luck, timing, the contributions of others, the teachers who helped us along the way, the whims of the public in need of something new.
+    - LOCATION: 5781
+    - Your task is the following: After any kind of success, analyze the components.
+    - LOCATION: 5787
+    - With success you must raise your vigilance.
+    - LOCATION: 5790
+    - See the limits to what you can accomplish and embrace them, working with what you have.
+    - LOCATION: 5791
+    - Be wary of offending with your growing sense of superiority—you will need your allies.
+    - LOCATION: 5792
+    - Getting what you want is rarely easy. Success will depend on a lot of effort and some luck. To make your project work, you will probably have to jettison your previous strategy—circumstances are always changing and you need to keep an open mind. The people you are trying to reach never respond exactly as you might have imagined or hoped. In fact, people will generally surprise and frustrate you in their reactions.
+    - LOCATION: 5801
+    - To impress your targets, you will have to focus on them and their spirit.
+    - LOCATION: 5804
+    - Instead of seeing the task you are facing as rather large and the material resistant, under the influence of this disease you perceive the block of marble as relatively small and malleable.
+    - LOCATION: 5810
+    - It stems from our deep need to feel
+    - LOCATION: 5825
+    - important, esteemed by people, and superior to others in something.
+    - LOCATION: 5825
+    - First, you must understand the phenomenon of grandiosity itself, why it is so embedded in human nature, and why you will find many more grandiose people in the world today than ever before. Second, you need to recognize the signs of grandiosity and know how to manage the people who display them. And third and most important, you must see the signs of the disease in yourself and learn not only how to control your grandiose tendencies but also how to channel this energy into
+    - LOCATION: 5838
+    - something productive
+    - LOCATION: 5841
+    - This early pampering marks them for life. They need to be adored. They become masters at manipulating others to pamper them and shower them with attention.
+    - LOCATION: 5860
+    - In the past, we humans were able to channel our grandiose needs into religion.
+    - LOCATION: 5864
+    - Although rarely conscious of this, what they are choosing to idealize and worship is the self.
+    - LOCATION: 5874
+    - Because of this, we find more and more grandiose individuals among us.
+    - LOCATION: 5874
+    - Third, technology gives us the impression that everything in life can be as fast and simple as the information we can glean online.
+    - LOCATION: 5882
+    - With all of these elements combined, it is harder than ever for any of us to maintain a realistic attitude
+    - LOCATION: 5887
+    - and a proportionate sense of self.
+    - LOCATION: 5888
+    - People still tend to idealize leaders and worship them, and you must see this as a form of grandiosity.
+    - LOCATION: 5897
+    - In the world today, you will also notice the prevalence of negative forms of grandiosity.
+    - LOCATION: 5900
+    - They are the center of the universe. Feeling and expressing their misfortune gives them their sense of importance, of being superior in suffering.
+    - LOCATION: 5909
+    - For instance, notice how people respond to criticism of them or their work.
+    - LOCATION: 5910
+    - The emphasis is not on the criticism itself and what they need to learn but on their sense of grievance.
+    - LOCATION: 5913
+    - If people are successful, notice how they act in more private moments.
+    - LOCATION: 5914
+    - Grandiose people are generally big talkers. They take credit for anything that is even tangential to their work; they invent past successes.
+    - LOCATION: 5917
+    - Higher grandiose types generally display low levels of empathy.
+    - LOCATION: 5921
+    - They are not good listeners.
+    - LOCATION: 5922
+    - Look at the ideas themselves and don’t get caught up in their seductive self-belief.
+    - LOCATION: 5931
+    - If such types happen to be your rivals, consider yourself lucky. They are easy to taunt and bait into overreactions. Casting doubts on their greatness will make them apoplectic and doubly irrational.
+    - LOCATION: 5933
+    - The exuberance and high self-belief that come from it can be channeled into your work and help inspire you.
+    - LOCATION: 5935
+    - You need to play to your strengths and not imagine you can be great at whatever you put your mind to. You must have a thorough understanding of your energy levels, of how far you can reasonably push yourself, and of how this changes with age.
+    - LOCATION: 5939
+    - This self-awareness has a physical component to it that you must be sensitive to. When you are doing activities that mesh with your natural inclinations, you feel ease in the effort. You learn faster. You have more energy and you can withstand the tedium that comes with learning anything important.
+    - LOCATION: 5942
+    - When you take on too much, more than you can handle, you feel not only exhausted but also irritable and nervous. You are prone to headaches. When you have success in life, you will naturally feel a touch of fear, as if the good fortune could disappear.
+    - LOCATION: 5944
+    - In knowing yourself, you accept your limits. You are simply one person among many in the world, and not naturally superior to anyone.
+    - LOCATION: 5948
+    - You will search for greatness in your work.
+    - LOCATION: 5951
+    - Being realistic and pragmatic is what makes us humans so powerful.
+    - LOCATION: 5953
+    - I am destined. Grandiose leaders often try to give the impression that they were somehow destined for greatness.
+    - LOCATION: 5965
+    - I’m the common man/woman.
+    - LOCATION: 5971
+    - Nevertheless it is absolutely essential to present themselves to the public as highly representative of the average man and woman out there.
+    - LOCATION: 5972
+    - I will deliver you. These types often rise to power in times of trouble and crisis. Their self-confidence is comforting to the public or to shareholders.
+    - LOCATION: 5991
+    - In order to pull this off, their promises have to be large yet vague.
+    - LOCATION: 5993
+    - The leader’s promise to bring these invented enemies down increases the leader’s power exponentially.
+    - LOCATION: 5999
+    - At such a point nothing will dissuade true believers, but you must maintain your internal distance and analytic powers.
+    - LOCATION: 6003
+    - I rewrite the rules. A secret wish of humans is to do without the usual rules and conventions in place in any field—to gain power just by following our own inner light.
+    - LOCATION: 6004
+    - As a variation on this, grandiose leaders will often rely on their intuitions, disregarding the need for focus groups or any form of scientific feedback.
+    - LOCATION: 6014
+    - I have the golden touch. Those with heightened grandiosity will try to create the legend that they have never really failed.
+    - LOCATION: 6018
+    - I’m invulnerable. The grandiose leader takes risks.
+    - LOCATION: 6028
+    - In fact they are rather invulnerable, until that fatal hubristic maneuver in which they finally go too far and it all crashes down.
+    - LOCATION: 6034
+    - Creating a viral disenchantment is your best hope.
+    - LOCATION: 6041
+    - Grandiosity is a form of primal energy we all possess.
+    - LOCATION: 6043
+    - It impels us to want something more than we have, to be recognized and esteemed by others, and to feel connected to something larger.
+    - LOCATION: 6043
+    - The energy is channeled into our work and our desire to reach goals, to solve problems, or to improve relationships. It impels us to develop and hone our skills.
+    - LOCATION: 6048
+    - Come to terms with your grandiose needs. You need to begin from a position of honesty.
+    - LOCATION: 6055
+    - Concentrate the energy. Fantastical grandiosity will make you flit from one fantastic idea to another, imagining all the accolades and attention you’ll receive but never realizing any of them.
+    - LOCATION: 6059
+    - You want to get into the habit of focusing deeply and completely on a single project or problem. You want the goal to be relatively simple to reach, and within a time frame of months and not years. You will want to break this down into mini steps and goals along the way. Your objective here is to enter a state of flow, in which your mind becomes increasingly absorbed in the work, to the point at which ideas come to you at odd hours.
+    - LOCATION: 6061
+    - This feeling of flow should be pleasurable and addicting. You don’t allow yourself to engage in fantasies about other projects on the horizon.
+    - LOCATION: 6064
+    - Related to this, you want this project to involve skills you already have or are in the process of developing.
+    - LOCATION: 6067
+    - Maintain a dialogue with reality. Your project begins with an idea, and as you try to hone this idea, you let your imagination take flight, being open to various possibilities. At some point you move from the planning phase to execution. Now you must actively search for feedback and criticism from people you respect or from your natural audience.
+    - LOCATION: 6070
+    - If you stay too long in the imagination phase, what you create will tend to be grandiose and detached from reality.
+    - LOCATION: 6077
+    - If you only listen to feedback and try to make the work a complete reflection of what others tell you or want, the work will be conventional and flat.
+    - LOCATION: 6077
+    - Seek out calibrated challenges. The problem with fantastical grandiosity is that you imagine some great new goal you will achieve—that brilliant novel you will write, that lucrative start-up you will create.
+    - LOCATION: 6083
+    - The challenge is so great that you may start, but you will soon peter out as you realize you are not up to it. Or if you are the ambitious, assertive type, you might try to go all the way, but you will end up in the Euro Disney syndrome, overwhelmed, failing in a large fashion, blaming others for the fiasco, and never learning from the experience.
+    - LOCATION: 6085
+    - Your goal with practical grandiosity is to continually look for challenges just above your skill level.
+    - LOCATION: 6087
+    - Let loose your grandiose energy. Once you have tamed this energy, made it serve your ambitions and goals, you should feel safe to let it loose upon occasion.
+    - LOCATION: 6093
+    - We can take this even further by experiencing a deeper connection to life itself, what Sigmund Freud called “the oceanic feeling.”
+    - LOCATION: 6109
+    - For days Caterina watched her husband, who was paralyzed with fear and unable to make a decision.
+    - LOCATION: 6187
+    - She turned to religion and she returned to ruling her realm. Slowly she recovered.
+    - LOCATION: 6269
+    - When it came to ruling, she displayed a high degree of empathy, something quite unusual for the time.
+    - LOCATION: 6334
+    - She learned her lesson and afterward would remain true to herself for the rest of her life.
+    - LOCATION: 6346
+    - She was unrepressed and authentic, which inspired in them the desire to let go as well, to move past their own constricted roles.
+    - LOCATION: 6357
+    - Your task is to let go of the rigidity that takes hold of you as you overidentify with the expected gender role.
+    - LOCATION: 6372
+    - Do not be afraid to bring out the more sensitive or ambitious sides to your character.
+    - LOCATION: 6378
+    - Many of us will have at least one successful relationship in our lives, but we will tend to have many more that were decidedly unsuccessful, that ended unhappily.
+    - LOCATION: 6388
+    - Too much of our unconscious is at play, and we have no rational access to its processes.
+    - LOCATION: 6411
+    - We all possess hormones and genes of the opposite sex. These contrasexual traits are in the minority (to a greater or lesser extent, depending on the individual), but they are within us all and they form a part of our character.
+    - LOCATION: 6416
+    - In our earliest years we were completely open and susceptible to the influence of others.
+    - LOCATION: 6418
+    - If the relationship to the mother or father was mostly positive, we will tend to project onto the other person the desirable qualities that our parent had, in the hope of reexperiencing that early paradise.
+    - LOCATION: 6451
+    - The relationship will often tend to fall apart from the misreading and miscommunications on both sides, and not aware of the source of this, we will go through precisely the same cycle with the next person.
+    - LOCATION: 6467
+    - First you must try to observe the anima and the animus as they manifest themselves in others, particularly in their intimate relationships. By paying attention to their behavior and patterns in these situations, you will have access to their unconscious that is normally denied to you.
+    - LOCATION: 6476
+    - Your second task is to become aware of the projecting mechanism within yourself. (See the next section for common types of projections.)
+    - LOCATION: 6491
+    - If that person happens to be of the opposite sex, all kinds of emotions—resentments, fears, disappointments, hostility—will be stirred up, along with various projections, whereas with someone of your own gender there would be much less of a reaction.
+    - LOCATION: 6499
+    - Your third task is to look inward, to see those feminine or masculine qualities that are repressed and undeveloped within you.
+    - LOCATION: 6502
+    - First, you must recognize in yourself any tendency toward one of these forms of projection.
+    - LOCATION: 6525
+    - Second, you must use this as an invaluable tool for gaining access to the unconscious of other people, to seeing their anima and animus in action.
+    - LOCATION: 6526
+    - The Devilish Romantic: For the woman in this scenario, the man who fascinates her—often older and successful—might seem like a rake, the type who cannot help but chase after young women.
+    - LOCATION: 6532
+    - They are secretly drawn to the devilish side of their fantasy man and to the narcissism that comes with it.
+    - LOCATION: 6557
+    - The Elusive Woman of Perfection: He thinks he has found the ideal woman.
+    - LOCATION: 6561
+    - The Lovable Rebel: For the woman who is drawn to this type, the man who intrigues her has a noticeable disdain for authority.
+    - LOCATION: 6584
+    - The woman with this projection often had a strong, patriarchal father who was distant and strict.
+    - LOCATION: 6590
+    - The Fallen Woman:
+    - LOCATION: 6601
+    - He thinks she’s earthy. She seems to be in need of protection, education, and money. He will be the one to rescue and elevate her. But somehow the closer he gets to her, the less it turns out as he had expected.
+    - LOCATION: 6603
+    - Men of this type often had strong mother figures in their childhood. They became good, obedient boys, excellent students at school.
+    - LOCATION: 6613
+    - The Superior Man: He seems brilliant, skilled, strong, and stable. He radiates confidence and power.
+    - LOCATION: 6626
+    - Although the relationship details might be quite different now, this type of projection is all too common among women. It stems from feelings of inferiority.
+    - LOCATION: 6638
+    - The Woman to Worship Him: He’s driven and ambitious, but his life is hard. It’s a harsh, unforgiving world out there, and it’s not easy to find any comfort.
+    - LOCATION: 6649
+    - This male projection generally stems from a particular type of relationship with the mother—she adores her son and showers him with attention. Perhaps this is to compensate for never quite getting what she wants from her husband.
+    - LOCATION: 6653
+    - When he grows up, he is often quite ambitious, always trying to live up to the expectations of his mother.
+    - LOCATION: 6656
+    - He must see the nature of his ambition as stemming from his desire to please his mother and live up to her expectations.
+    - LOCATION: 6665
+    - He tends to drive himself too hard. He must learn to comfort and soothe himself, to withdraw from time to time and be satisfied with his accomplishments.
+    - LOCATION: 6666
+    - He needs to be able to care for himself. This will drastically improve his relationships.
+    - LOCATION: 6667
+    - He will give more, instead of waiting to be adored and taken care of. He will relate to women as they are, and in the end they will perhaps feel unconsciously impelled to provide more of the comfort he needs, without being pushed into this.
+    - LOCATION: 6668
+    - A common experience for us humans is that at a certain point in life—often near the age of forty—we go through what is known as a midlife crisis.
+    - LOCATION: 6670
+    - In primitive cultures around the world, the wisest man or woman in the tribe was the shaman, the healer who could communicate with the spirit world.
+    - LOCATION: 6685
+    - The shamans’ power came from the depth of their communication with this inner figure, which was experienced as a real woman or man from within.
+    - LOCATION: 6687
+    - Understand: The return to your original nature contains elemental power.
+    - LOCATION: 6690
+    - Let us say there are feminine and masculine styles when it comes to thinking, taking action, learning from experience, and relating to other people.
+    - LOCATION: 6701
+    - Masculine and feminine styles of thinking: Masculine thinking tends toward focusing on what separates phenomena from one another and categorizing them.
+    - LOCATION: 6705
+    - Feminine thinking orients itself differently. It likes to focus on the whole, how the parts connect to one another, the overall gestalt.
+    - LOCATION: 6710
+    - This form of thinking leads to insights when the hidden connections between things suddenly become visible in intuitive flashes.
+    - LOCATION: 6714
+    - In business, Warren Buffett is an example of someone who blends the two styles.
+    - LOCATION: 6723
+    - He looks at a company from both the outside and the inside.
+    - LOCATION: 6726
+    - Masculine and feminine styles of action: When it comes to taking action, the masculine tendency is to move forward, explore the situation, attack, and vanquish.
+    - LOCATION: 6737
+    - the feminine style often prefers to first withdraw from the immediate situation and contemplate more deeply the options.
+    - LOCATION: 6741
+    - For those with the aggressive, masculine inclination, balance would come from training yourself to step back before taking any action.
+    - LOCATION: 6752
+    - accustom yourself to various degrees of conflict and confrontation, so that any avoidance of it is strategic and not out of fear.
+    - LOCATION: 6760
+    - sometimes there are bad people who need to be thwarted, and being empathetic only empowers them. You need to be comfortable saying no and turning people down.
+    - LOCATION: 6762
+    - Masculine and feminine styles of self-assessment and learning:
+    - LOCATION: 6766
+    - when men make mistakes they tend to look outward and find other people or circumstances to blame. Men’s sense of self is deeply tied to their success, and they do not like to look inward if they fail.
+    - LOCATION: 6767
+    - For women, it is the opposite: When there is failure, they tend to blame themselves and look inward.
+    - LOCATION: 6773
+    - For those with the masculine style, when it comes
+    - LOCATION: 6775
+    - For those with the feminine style, it is easy to beat yourself up after failures or mistakes.
+    - LOCATION: 6780
+    - You are training yourself to not take things so personally.
+    - LOCATION: 6786
+    - Masculine and feminine styles of relating to people and leadership:
+    - LOCATION: 6787
+    - Leaders will designate various deputies to do their bidding. Men form hierarchies and punish those who fall out of line.
+    - LOCATION: 6789
+    - The feminine style is more about maintaining the group spirit and keeping the relationships smoothed
+    - LOCATION: 6791
+    - out, with fewer differences among individuals.
+    - LOCATION: 6792
+    - For those with the masculine style, it is important to enlarge your concept of leadership.
+    - LOCATION: 6794
+    - When you think more deeply about the individuals on the team and strategize to involve them more, you can have superior results, engaging the energy and creativity of the group.
+    - LOCATION: 6794
+    - For those of the feminine style, you must not be afraid of assuming a strong leadership role, particularly in times of crisis.
+    - LOCATION: 6800
+    - Instilling a touch of fear in your lieutenants is not always a bad thing.
+    - LOCATION: 6804
+    - “Lord, I must confess that I’m weak now. I’m faltering. I’m losing my courage. And I can’t let the people see me like this, because if they see me weak and losing my courage, they will begin to get weak.”
+    - LOCATION: 6920
+    - We are all complex.
+    - LOCATION: 7074
+    - The only solution to the dilemma is King’s solution—to find a higher sense of purpose, a mission that will provide us our own direction, not that of our parents, friends, or peers.
+    - LOCATION: 7080
+    - We feel increasingly bored. Not really engaged in our work, we turn to various distractions to occupy our restless minds.
+    - LOCATION: 7126
+    - We feel increasingly insecure. We all have dreams and a sense of our own potential.
+    - LOCATION: 7130
+    - We often feel anxious and stressed but are never quite certain as to why.
+    - LOCATION: 7134
+    - And finally, we feel depressed.
+    - LOCATION: 7139
+    - When we engage this internal guidance system, all of the negative emotions that plague us in our aimlessness are neutralized and even turned around into positive ones. For instance, we may feel boredom in the process of accumulating skills. Practice can be tedious. But we can embrace the tedium, knowing of the tremendous benefits to come.
+    - LOCATION: 7179
+    - With a sense of purpose, we feel much less insecure. We have an overall sense that we are advancing, realizing some or all of our potential. We can begin to look back at various accomplishments, small or large. We got things done.
+    - LOCATION: 7186
+    - In the process, we learn to control our levels of anxiety—if we think too much about how far we have to go, we might feel overwhelmed. Instead we learn to focus on smaller goals along the way, while also retaining a degree of urgency.
+    - LOCATION: 7192
+    - And finally, with a sense of purpose we are less prone to depression. Yes, low moments are inevitable, even welcome. They make us withdraw and reassess ourselves, as they did for King.
+    - LOCATION: 7199
+    - Once you identify people as motivated by a false purpose, you should avoid hiring or working with them, as they will tend to draw you downward with their unproductive energy.
+    - LOCATION: 7219
+    - Once you commit yourself to developing or strengthening your sense of purpose, then the hard work begins.
+    - LOCATION: 7237
+    - Discover your calling in life. You begin this strategy by looking for signs of primal inclinations in your earliest years, when they were often the clearest.
+    - LOCATION: 7243
+    - As another sign, examine moments in your life when certain tasks or activities felt natural and easy to you, similar to swimming with a current. In performing such activities, you have a greater tolerance for the tedium of practicing. People’s criticisms don’t discourage you so easily; you want to learn. You can contrast this with other subjects or tasks that you find deeply boring and unfulfilling, which frustrate you.
+    - LOCATION: 7264
+    - Related to this, you will want to figure out the particular form of intelligence that your brain is wired for.
+    - LOCATION: 7267
+    - You are reacquainting yourself with your natural likes and dislikes.
+    - LOCATION: 7273
+    - You are developing the habit of assessing and listening to yourself, so that you can continually monitor your progress and adjust this calling to the various stages in your life.
+    - LOCATION: 7276
+    - Do not try to bypass the work of discovering your calling or imagine that it will simply come to you naturally. Although it may come to a few people early in life or in a lightning-bolt moment, for most of us it requires continual introspection and effort.
+    - LOCATION: 7282
+    - Use resistance and negative spurs. The key to success in any field is first developing skills in various areas, which you can later combine in unique and creative ways.
+    - LOCATION: 7286
+    - You must choose to move in the opposite direction. You want to embrace negative experiences, limitations, and even pain as the perfect means of building up your skill levels and sharpening your sense of purpose.
+    - LOCATION: 7290
+    - If you give yourself a year to finish a project or start up a business, you will generally take a year or more.
+    - LOCATION: 7295
+    - As you progress on your path, you will be subject to more and more of people’s criticisms. Some of them might be constructive and worth paying attention to, but many of them come from envy.
+    - LOCATION: 7303
+    - Absorb purposeful energy. We humans are extremely susceptible to the moods and energy of other people.
+    - LOCATION: 7309
+    - In this case, you want to find people who are pragmatic and not merely those who are charismatic or visionaries. You want their practical advice, and to absorb their spirit of getting things done.
+    - LOCATION: 7322
+    - Create a ladder of descending goals. Operating with long-term goals will bring you tremendous clarity and resolve.
+    - LOCATION: 7326
+    - Lose yourself in the work. Perhaps the greatest difficulty you will face in maintaining a high and consistent sense of purpose is the level of commitment that is required over time and the sacrifices that go with this.
+    - LOCATION: 7338
+    - To offset this tedium, you need to have moments of flow in which your mind becomes so deeply immersed in the work that you are transported beyond your ego.
+    - LOCATION: 7341
+    - Second, you must plan on giving yourself uninterrupted time with the work—as many hours in the day as possible, and as many days in the week.
+    - LOCATION: 7348
+    - Third, the emphasis must be on the work, never on yourself or the desire for recognition.
+    - LOCATION: 7353
+    - The real purpose comes from within. It is an idea, a calling, a sense of mission that we feel personally and intimately connected to. It is our own;
+    - LOCATION: 7374
+    - The pursuit of pleasure: For many of us, work is just an irritating necessity of life.
+    - LOCATION: 7384
+    - No matter the objects of the pursuit, they tend to lead to a dynamic of diminishing returns.
+    - LOCATION: 7386
+    - Causes and cults: People have a profound need to believe in something, and in the absence of great unifying belief systems, this void is easily filled by all kinds of microcauses and cults.
+    - LOCATION: 7397
+    - We can recognize a microcause or cult by the vagueness of what its disciples want. They cannot describe the kind of world or society they desire in concrete, practical terms.
+    - LOCATION: 7402
+    - Money and success: For many people, the pursuit of money and status can supply them with plenty of motivation and focus.
+    - LOCATION: 7414
+    - Second, money and success that last come from remaining original and not mindlessly following the path that others are following.
+    - LOCATION: 7423
+    - We all know the effects of “hyperintention”: If we want and need desperately to [[sleep]], we are less likely to fall a[[sleep]].
+    - LOCATION: 7429
+    - Attention: People have always pursued fame and attention as a way to feel enlarged and more important.
+    - LOCATION: 7437
+    - Cynicism: According to Friedrich Nietzsche, “Man would rather have the void as purpose than be void of purpose.” Cynicism, the feeling that there is no purpose or meaning in life, is what we shall call having “the void as purpose.”
+    - LOCATION: 7446
+    - Reality is not brutal and ugly—it contains much that is sublime, beautiful, and worthy of wonder.
+    - LOCATION: 7458
+    - His strategy, however, had a fatal flaw at its core: when people operate in groups, they do not engage in nuanced thinking and deep analysis. Only individuals with a degree of calmness and detachment can do so.
+    - LOCATION: 7706
+    - To resist this downward pull that groups inevitably exert on us, we must conduct a very different experiment in human nature from Mao’s, with a simple goal in mind—to develop the ability to detach ourselves from the group and create some mental space for true independent thinking.
+    - LOCATION: 7767
+    - Instead, let’s cultivate such status and recognition through our excellent work. We must accept our need to belong to the group and prove our loyalty, but let’s do it in more positive ways—by questioning group decisions that will harm it in the long run, by supplying divergent opinions, by steering the group in a more rational direction, gently and strategically.
+    - LOCATION: 7775
+    - emotions: by staying calm and patient, by focusing on results and cooperating with others to get practical things done, we can begin to spread this spirit throughout the group.
+    - LOCATION: 7778
+    - In these moments, we are aware that we don’t belong, that others are looking at us as outsiders, and from deep within we feel uneasy and unusually alert, although in fact we may have nothing really to fear.
+    - LOCATION: 7802
+    - And finally, we are drawn to this force.
+    - LOCATION: 7813
+    - The social force, however, can be used and shaped for positive purposes, for high-level cooperation and empathy, for an upward pull, which we experience when we create something together in a group.
+    - LOCATION: 7851
+    - Rebelling for its own sake will simply marginalize us.
+    - LOCATION: 7859
+    - The desire to fit in: Let us say that you enter a group, as part of a new job for instance.
+    - LOCATION: 7867
+    - Emotional contagion: When we were babies, we were highly sensitive to the moods and emotions of our mother; her smiles elicited our own, her anxiety made us tense.
+    - LOCATION: 7905
+    - Hypercertainty: When we are on our own and think about our decisions and plans, we naturally feel doubts.
+    - LOCATION: 7922
+    - When looking at your own group and its culture, think in terms of style and the overall mood that prevails.
+    - LOCATION: 7946
+    - To answer these questions, don’t pay much attention to what the group says about itself, but rather examine its actions and the emotional tone that prevails within.
+    - LOCATION: 7952
+    - First, the culture will often center on an ideal that the group imagines for itself—liberal,
+    - LOCATION: 7955
+    - Second, this culture will often reflect the founders of the group, particularly if they have a strong personality.
+    - LOCATION: 7957
+    - Better to be aware and realize that the larger the group and the more established the culture over time, the more likely it will control you than the other way around.
+    - LOCATION: 7965
+    - This creeping conservatism will often be the death of the group, because it slowly loses the ability to adapt.
+    - LOCATION: 7968
+    - Group rules and codes:
+    - LOCATION: 7969
+    - Does success stem more from results or from political schmoozing? Look at how hard people work when not being observed by bosses.
+    - LOCATION: 7975
+    - The group court:
+    - LOCATION: 7979
+    - The group enemy:
+    - LOCATION: 8009
+    - Since time immemorial, leaders have exploited this enemy reflex for power, using the existence of the rival or enemy to justify almost anything and to distract from their own shortcomings.
+    - LOCATION: 8015
+    - Look at the group you belong to, and you will inevitably see some sort of enemy or bogeyman to push against.
+    - LOCATION: 8019
+    - Group factions:
+    - LOCATION: 8023
+    - If a faction gets strong enough, its members will start to give precedence to its interests over that of the greater group. Some leaders try to exploit this dynamic by playing one faction off the other, in the form of divide and conquer: the more the factions fight, the weaker they become, and the greater the power in the hands of the man or woman on top.
+    - LOCATION: 8029
+    - First, you must become a consummate observer of yourself as you interact with groups of any size.
+    - LOCATION: 8043
+    - Be ruthlessly frank with yourself. Look at how your ideas and beliefs alter the longer you stay at a job or within a particular group.
+    - LOCATION: 8045
+    - You are under subtle pressure to get along and to fit in, and you will respond to this without being aware.
+    - LOCATION: 8046
+    - We are all permeable to the influence of the group. What makes us more permeable is our insecurities. The less we are certain about our self-worth as individuals, the more we are unconsciously drawn toward fitting in and blending ourselves into the group spirit.
+    - LOCATION: 8051
+    - Your second task is to become a consummate observer of the groups you belong to or interact with. Consider yourself an anthropologist studying the strange customs of an alien tribe.
+    - LOCATION: 8061
+    - Your goal in this second task is to maintain as tight a grip on reality as possible.
+    - LOCATION: 8069
+    - Just as groups tend to exert a downward pull on our emotions and behavior, we can also experience or imagine the opposite—a group that exerts an upward pull.
+    - LOCATION: 8074
+    - It consists of members who feel free to contribute their diverse opinions, whose minds are open, and whose focus is on getting work done and cooperating on a high level.
+    - LOCATION: 8075
+    - The Intriguer: These individuals can be particularly difficult to recognize. They seem intensely loyal to the boss and to the group.
+    - LOCATION: 8111
+    - Perhaps they had competitive issues in childhood with the father figure.
+    - LOCATION: 8114
+    - Keep your eye instead on their maneuvers and their impatience to rise from within.
+    - LOCATION: 8131
+    - It is best to keep your distance and not become one of their pawns, nor their enemy.
+    - LOCATION: 8135
+    - The Stirrer: This type is generally riddled with insecurities but adept at disguising them from those in the court.
+    - LOCATION: 8136
+    - Even though they are quite insensitive to the feelings of those they malign, they are hypersensitive to any sign of disrespect to them, and since they have fewer compunctions than you, they will make your life miserable through their passive-aggressive campaigns.
+    - LOCATION: 8149
+    - The Gatekeeper: The goal of the game for these types is gaining exclusive access to leaders, monopolizing the flow of information to them.
+    - LOCATION: 8152
+    - If you’re a leader, beware of such types. They will tend to isolate you from the group, and isolation is dangerous.
+    - LOCATION: 8165
+    - The Shadow Enabler: Leaders are often in a difficult position. They have to bear the responsibility for what happens to the group and the stress that goes with that.
+    - LOCATION: 8166
+    - Nixon found this too tempting and too therapeutic to resist. Colson shared some of these hidden sadistic desires himself, and so this was the perfect way for him to live out his own Shadow.
+    - LOCATION: 8180
+    - Your clean reputation is the most important thing you possess. Maintain a polite distance.
+    - LOCATION: 8187
+    - The Court Jester: Almost every court has its Jester. In the past they wore a cap and bells, but today they come in different varieties and looks.
+    - LOCATION: 8187
+    - These types fall into such roles because secretly they have a fear of responsibility and a dread of failing. They know that as Jesters they are not taken seriously and are given little actual power.
+    - LOCATION: 8193
+    - Better to reserve your nonconformity for your private life, or until you have amassed more power.
+    - LOCATION: 8199
+    - The Mirrorer: These types are often among the most successful courtiers of all, because they are capable of playing the double game to the hilt—they are adept at charming leaders and fellow courtiers, maintaining a broad base of support.
+    - LOCATION: 8200
+    - With leaders, you must be aware of their idealized opinion of themselves and always confirm it in some way, or even encourage them to live up to it.
+    - LOCATION: 8215
+    - The Favorite and the Punching Bag: These two types occupy the highest and lowest rungs of the court.
+    - LOCATION: 8218
+    - Early on, they act relaxed and chummy with the leader, without seeming disrespectful.
+    - LOCATION: 8221
+    - Many leaders are secretly dying to not have to be so formal and in control.
+    - LOCATION: 8221
+    - This position is fraught with danger.
+    - LOCATION: 8223
+    - Make your power dependent on your accomplishments and your usefulness, not on the friendly feelings people have for you.
+    - LOCATION: 8229
+    - See everyone in the court as your potential ally. Within the ruthless environment of the court, try to befriend the Punching Bag, showing a different way of behaving and taking the fun out of this cruel game.
+    - LOCATION: 8235
+    - The reason for this common pattern is simple: what is really at fault is the dysfunctional dynamic of the group, which tends to produce
+    - LOCATION: 8242
+    - incompetent lieutenants and grandiose leaders. And unless it is fixed, the problems keep recurring with different faces.
+    - LOCATION: 8243
+    - In a dysfunctional culture, the members are often confused about their roles and the overall direction of the group.
+    - LOCATION: 8244
+    - Amid such confusion, people start to think more of their own interests and agendas, and they form factions.
+    - LOCATION: 8245
+    - Leaders find themselves dragged down by all the internal dissension and gamesmanship. Feeling vulnerable, they surround themselves with courtiers who tell them what they want to hear.
+    - LOCATION: 8249
+    - What we must do to avoid this trap is to alter our perspective: instead of instantly focusing on individuals and the drama of the failed action, we must focus on the overall group dynamic.
+    - LOCATION: 8252
+    - What creates a functional, healthy dynamic is the ability of the group to maintain a tight relationship to reality.
+    - LOCATION: 8255
+    - Instill a collective sense of purpose. That social force that compels people to want to belong and to fit in you want to capture and channel for a higher purpose.
+    - LOCATION: 8268
+    - To make this work, the group must practice what you preach.
+    - LOCATION: 8274
+    - We often like to reduce the behavior of people to base motives—greed, selfishness, the desire for attention.
+    - LOCATION: 8277
+    - Assemble the right team of lieutenants. As the leader of a reality group, you need the ability to focus on the larger picture and the overall goals that matter. You have only so much mental energy, and you must marshal it wisely.
+    - LOCATION: 8283
+    - You want the most competent person for the job. You also give great consideration to their character.
+    - LOCATION: 8289
+    - You select for this team people who have skills that you lack, each individual with their particular strengths.
+    - LOCATION: 8291
+    - Let information and ideas flow freely. As the group evolves, your greatest danger is the slow formation of a bubble around you.
+    - LOCATION: 8300
+    - He wanted as much unfiltered information as possible before deciding on a strategy. He kept such reports to a reasonably small number, but their diversity is what gave him such a clear picture.
+    - LOCATION: 8308
+    - Infect the group with productive emotions. In the group setting, people are naturally more emotional and permeable to the moods of others.
+    - LOCATION: 8319
+    - As part of this strategy, always keep the group focused on completing concrete tasks, which will naturally ground and calm them.
+    - LOCATION: 8325
+    - Infect the group with a sense of resolution that emanates from you.
+    - LOCATION: 8326
+    - Most important, showing a lack of fear and an overall openness to new ideas will have the most therapeutic effect of all.
+    - LOCATION: 8331
+    - Forge a battle-tested group. It is essential that you know your group well, its strengths and weaknesses and the maximum you can expect of it.
+    - LOCATION: 8333
+    - You want to be able to gauge the relative inner toughness of people before you are thrust into a crisis. Give various members some relatively challenging tasks or shorter deadlines than usual, and see how they respond.
+    - LOCATION: 8337
+    - In the end, you want a group that has been through a few wars, dealt with them reasonably well, and now is battle-tested.
+    - LOCATION: 8342
+    - Finally, we like to focus on the psychological health of individuals, and how perhaps a therapist could fix any problems they might have.
+    - LOCATION: 8345
+    - by participating in a high-functioning reality group, we can make ourselves healthy and whole.
+    - LOCATION: 8347
+    - It is our duty as enlightened humans to create as many such groups as possible, making society healthier in the process.
+    - LOCATION: 8351
+    - Elizabeth prudently kept England out of the conflicts, and soon the country was prospering.
+    - LOCATION: 8452
+    - Unlike her father or almost any other English monarch, she had zero credibility as a ruler, and no respect or authority to draw upon. The country was in a weakened state. She was too young, with no political experience or prior proximity to power to learn from.
+    - LOCATION: 8567
+    - What made this even more troubling was that Elizabeth was ambitious and highly intelligent; she felt more than capable of ruling England.
+    - LOCATION: 8571
+    - This feeling of entitlement also blunted their political effectiveness.
+    - LOCATION: 8581
+    - Surrounded by all the usual royal pomp, she mixed in a common touch, making her seem both comforting and regal.
+    - LOCATION: 8594
+    - Upon occasion, she would flash her anger if a minister seemed to be furthering a personal agenda, and such outbursts could be quite intimidating.
+    - LOCATION: 8603
+    - Her sense of the greater good was what guided her, but in this case the greater good would be served by having Mary executed. She was violating her own principles.
+    - LOCATION: 8612
+    - Unlike Philip, she left battle strategy in the hands of her admirals, but she overruled them on one score—she wanted them to fight the armada as close to England as possible.
+    - LOCATION: 8627
+    - Although there are no longer powerful kings and queens in our midst, more of us than ever operate as if we consider ourselves royalty. We feel entitled to respect for our work, no matter how little we have actually accomplished.
+    - LOCATION: 8643
+    - We grow defensive and prickly if our ideas are challenged, putting our intelligence and wisdom into question, even on the smallest of matters.
+    - LOCATION: 8655
+    - We expect nothing from the people around us, from those whom we lead. We are not defensive or sitting back but completely active—everything we get from others, and most definitely their respect, must be earned.
+    - LOCATION: 8661
+    - It is a fundamental fact of human nature that our emotions are almost always ambivalent, rarely pure and simple
+    - LOCATION: 8678
+    - On the one hand, we intuitively recognize the need for leaders. In any group, people have their narrow agendas and competing interests. The members feel insecure about their own position and work to secure it.
+    - LOCATION: 8697
+    - Hard decisions would never be made. No one would be guiding the ship.
+    - LOCATION: 8699
+    - No matter how powerful the leaders, no matter how much we might admire them, below the surface sits this ambivalence, and it makes people’s loyalties notoriously fickle and volatile.
+    - LOCATION: 8705
+    - Throughout history, however, certain notable leaders have been able to erect a bulwark against this volatility, to earn a type of solid respect and support that allowed them to accomplish great things over time.
+    - LOCATION: 8723
+    - First and foremost, we must understand the fundamental task of any leader—to provide a far-reaching vision, to see the global picture, to work for the greater good of the group and maintain its unity.
+    - LOCATION: 8738
+    - At the same time, however, we must see leadership as a dynamic relationship we have with those being led.
+    - LOCATION: 8744
+    - We need to attune ourselves to the shifting moods of the members of the group. We must never assume we have their support.
+    - LOCATION: 8746
+    - visceral—we can feel when members are losing respect for us. As part of the dynamic, we need to realize that when we show our respect and trust toward those below us, such feelings will flow back to us.
+    - LOCATION: 8747
+    - When it comes to our primary task—that of providing a vision for the group and leading it toward the appropriate goals—we must be stern and immovable.
+    - LOCATION: 8751
+    - When leaders fail to establish these twin pillars of authority—vision and empathy—what often happens is the following: Those in the group feel the disconnect and distance between them and leadership.
+    - LOCATION: 8756
+    - And so, in subtle ways, they begin to feel resentful and to lose respect.
+    - LOCATION: 8759
+    - If such leaders, sensing all of this, become more forceful and demanding, the members become more passive-aggressive. If the leaders become pliant and plead for more support, the members feel even less respect, as if the group were now leading the leader.
+    - LOCATION: 8761
+    - hill. This friction, caused by their own inattentiveness, is why so many leaders get so little done and are so mediocre.
+    - LOCATION: 8763
+    - Now we are no longer dealing with the invisible friction from the group but the opposite.
+    - LOCATION: 8769
+    - It is always within our capacity to reach this ideal, and if the members lose respect and trust in us, we must see this as our own fault.
+    - LOCATION: 8772
+    - First, you must make yourself a consummate observer of the phenomenon of authority, using as a measuring device the degree of influence people wield without the use of force or motivational speeches.
+    - LOCATION: 8774
+    - Second, you want to develop some of the habits and strategies (see the next section) that will serve you well in projecting authority.
+    - LOCATION: 8780
+    - But sometimes it could stem from your own actions, as you violate many of the principles described above.
+    - LOCATION: 8787
+    - Take any grumbling as a reflection on your authority.
+    - LOCATION: 8789
+    - In general, you want to heighten your sensitivity to others, looking in particular at those moments when you can feel people’s disrespect, or your authority on the wane.
+    - LOCATION: 8789
+    - Third and most important, you must not fall for the counterproductive prejudices of the times we live in, in which the very concept of authority is often misunderstood and despised.
+    - LOCATION: 8794
+    - This disdain for authority and leadership has filtered its way throughout our culture.
+    - LOCATION: 8798
+    - In this atmosphere, leaders begin to believe that they are more like caretakers, there to stand back and enable the group to make the right decisions, doing everything by consensus.
+    - LOCATION: 8804
+    - Or they entertain the idea that what matters more than anything else is crunching numbers, absorbing the mass of information available today.
+    - LOCATION: 8805
+    - Find your authority style: Authenticity. The authority you establish must emerge naturally from your character, from the particular strengths you possess.
+    - LOCATION: 8836
+    - Deliverers have an acute dislike of any kind of injustice, particularly those that affect the group they identify with.
+    - LOCATION: 8838
+    - Another archetype would be the Founder. These are the ones who establish a new order in politics or business.
+    - LOCATION: 8840
+    - Other archetypes could include the Truth Seeker (people who have no tolerance for lies and politicking); the Quiet Pragmatist (they want nothing more than to fix things that are broken, and have infinite patience); the Healer (they have a knack for finding what will fulfill and unify people); the Teacher (they have a way of getting people to initiate action and learn from their mistakes). You must identify with one of these archetypes, or any others that are noticeable in culture.
+    - LOCATION: 8845
+    - Focus outwardly: the Attitude.
+    - LOCATION: 8854
+    - First, you hone your listening skills, absorbing yourself in the words and nonverbal cues of others.
+    - LOCATION: 8856
+    - Second, you dedicate yourself to earning people’s respect.
+    - LOCATION: 8859
+    - Third, you consider being a leader a tremendous responsibility, the welfare of the group hanging on your every decision.
+    - LOCATION: 8861
+    - If you exude this attitude, people will feel it, and it will open them up to your influence.
+    - LOCATION: 8864
+    - Cultivate the third eye: the Vision.
+    - LOCATION: 8867
+    - As early in life as possible, you train yourself to disconnect from the emotions roiling the group. You force yourself to raise your vision, to imagine the larger picture.
+    - LOCATION: 8888
+    - Lead from the front: the Tone. As the leader, you must be seen working as hard as or even harder than everyone else.
+    - LOCATION: 8899
+    - You set the highest standards for yourself. You are consistent and accountable. If there are sacrifices that need to be made, you are the first to make them for the good of the group.
+    - LOCATION: 8899
+    - It is important that you set this tone from the beginning. First impressions are critical. If you try later on to show you want to lead from the front, it will look forced and lack credibility.
+    - LOCATION: 8903
+    - Begin this early on in your career by developing the highest possible standards for your own work
+    - LOCATION: 8909
+    - Stir conflicting emotions: the Aura.
+    - LOCATION: 8911
+    - show. As the leader, you want to be more mysterious, to establish a presence that fascinates people.
+    - LOCATION: 8913
+    - Related to this, you must learn to balance presence and absence. If you are too present and familiar, always available and visible, you seem too banal.
+    - LOCATION: 8923
+    - Develop this aura early on, as a way to enthrall people.
+    - LOCATION: 8933
+    - Never appear to take, always to give: the Taboo.
+    - LOCATION: 8935
+    - Taking something from people they have assumed they possessed—money, rights or privileges, time that is their own—creates a basic insecurity and will call into question your authority and all the credit you have amassed.
+    - LOCATION: 8936
+    - Related to this, you must avoid overpromising to people.
+    - LOCATION: 8942
+    - Rejuvenate your authority: Adaptability. Your authority will grow with each action that inspires trust and respect.
+    - LOCATION: 8947
+    - The first step in avoiding this danger is to maintain the kind of sensitivity that Elizabeth displayed throughout her life, noting the moods behind people’s words, gauging the effect you have on newcomers and young people.
+    - LOCATION: 8952
+    - Losing that empathy should be your greatest fear, as you will begin to cocoon yourself in your great reputation.
+    - LOCATION: 8954
+    - The second step is to look for new markets and audiences to appeal to, which will force you to adapt.
+    - LOCATION: 8955
+    - We all have a higher and a lower self.
+    - LOCATION: 8960
+    - You have a responsibility to contribute to the culture and times you live in.
+    - LOCATION: 8972
+    - To serve this higher purpose, you must cultivate what is unique about you.
+    - LOCATION: 8978
+    - In a world full of endless distractions, you must focus and prioritize.
+    - LOCATION: 8983
+    - You must adhere to the highest standards in your work.
+    - LOCATION: 8986
+    - When it comes to operating with this inner authority, we can consider Leonardo da Vinci our model. His motto in life was ostinato rigore, “relentless rigor.”
+    - LOCATION: 8993
+    - He was ferociously diligent and hard on himself.
+    - LOCATION: 8995
+    - There is nothing more disorienting and depressing than to see the years pass by without a sense of direction, grasping to reach goals that keep changing, and squandering our youthful energies.
+    - LOCATION: 9000
+    - His method was always the same: aiming first for the biggest refineries in the respective town, showing them his books, which were now even more impressive, getting a few big fish to surrender, and instilling panic in the others.
+    - LOCATION: 9156
+    - In truth, what we can attribute it to more than anything is the sheer relentless force of will that he possessed to utterly dominate every situation and rival he encountered, and to exploit every opportunity that crossed his path. We shall call this aggressive energy.
+    - LOCATION: 9260
+    - But his attraction to the oil business may seem at first glance rather strange. It was a Wild West environment, totally anarchic; fortunes could be made or lost in a matter of months.
+    - LOCATION: 9280
+    - To repress such a thought, he constructed what we shall call the aggressor’s narrative. He had to convince himself that his quest for power served some higher purpose.
+    - LOCATION: 9289
+    - Rockefeller represents a type of individual that you will likely come across in your field. We shall call this type the sophisticated aggressor, as opposed to the primitive aggressor.
+    - LOCATION: 9320
+    - The sophisticated aggressors that you encounter do not have to be as spectacularly successful as a Rockefeller.
+    - LOCATION: 9325
+    - When it comes to taking action against aggressors, you must be as sophisticated and crafty as they are. Do not try to fight with them directly. They are too relentless, and they usually have enough power to overwhelm you in direct confrontation.
+    - LOCATION: 9344
+    - Standing up to and outwitting aggressors can be one of the most satisfying and ennobling experiences we humans can have.
+    - LOCATION: 9354
+    - Out of frustration, anger, insecurity, fear, or impatience we suddenly found ourselves becoming unusually assertive.
+    - LOCATION: 9365
+    - We become rather aggressive in trying to help them, ordering their life, being forceful with our advice.
+    - LOCATION: 9374
+    - We can notice this split—between what we think of ourselves and how we actually act at times—in the behavior of our friends, colleagues, and those in the news.
+    - LOCATION: 9377
+    - Being unaware of our true nature causes us many problems. We can turn aggressive in the negative sense without realizing what is happening, and then pay the consequences for going too far.
+    - LOCATION: 9396
+    - What this means is that we humans are continually plagued by feelings of helplessness that come from many sources.
+    - LOCATION: 9409
+    - We satisfy this need by developing solid work skills that help us secure our career status and give us a feeling of control over the future.
+    - LOCATION: 9413
+    - It is possible that there is a genetic component to this. The psychoanalyst Melanie Klein, who specialized in the study of infants, noticed that some babies were decidedly more anxious and greedier than others.
+    - LOCATION: 9433
+    - Your task as a student of human nature is threefold: First, you must stop denying the reality of your own aggressive tendencies. You are on the aggressive spectrum, like all of us.
+    - LOCATION: 9495
+    - First, we can channel this energy into our work, into patiently achieving things (controlled aggression). Second, we can channel it into aggressive or passive-aggressive behavior. Finally, we can turn it inward in the form of self-loathing, directing our anger and aggression at our own failings and activating our internal saboteur (more on this later).
+    - LOCATION: 9499
+    - Your goal is not to repress this assertive energy but to become aware of it as it drives you forward and to channel it productively.
+    - LOCATION: 9507
+    - Your second task is to make yourself a master observer of aggression in the people around you.
+    - LOCATION: 9511
+    - Look for some telltale signs. First, if they have an unusually high number of enemies whom they have accumulated over the years, there must be a good reason, and not the one they tell you.
+    - LOCATION: 9520
+    - You can look for subtler signs as well. Chronic aggressors often have obsessive personalities. Having meticulous habits and creating a completely predictable environment is their way of holding control.
+    - LOCATION: 9526
+    - Once you realize you are dealing with this type, you must use every ounce of your energy to disengage mentally, to gain control of your emotional response.
+    - LOCATION: 9530
+    - Make the easy victory they are counting on with you suddenly seem more expensive.
+    - LOCATION: 9541
+    - In negotiations, they will hit you with some last-minute change to what they had agreed upon, violating all rules but knowing you will give in because you have come this far and don’t want to blow it up.
+    - LOCATION: 9543
+    - In any event, with the stakes being high, you must calculate that defeating aggressors is more important than maintaining your purity.
+    - LOCATION: 9550
+    - Finally, your third task as a student of human nature is to rid yourself of the denial of the very real aggressive tendencies in human nature itself and what such aggression might mean for our future as a species.
+    - LOCATION: 9551
+    - Sometimes we make a comment that could be taken as quite neutral, but our tone of voice and the expression on our face indicate we are upset, stirring up some guilt.
+    - LOCATION: 9593
+    - The Subtle-Superiority Strategy: A friend, colleague, or employee is chronically late, but he or she always has a ready excuse that is logical, along with an apology that seems sincere.
+    - LOCATION: 9612
+    - If this is chronic behavior, you must not get angry or display overt irritation—passive aggressors thrive on getting a rise out of you.
+    - LOCATION: 9624
+    - The Sympathy Strategy: Somehow the person you are dealing with is always the victim—of irrational hostility, of unfair circumstances, of society in general.
+    - LOCATION: 9635
+    - As part of this, passive aggressors may display various symptoms and ailments—anxiety attacks, depression, headaches—that make their suffering seem quite real.
+    - LOCATION: 9646
+    - The Dependency Strategy: You are suddenly befriended by someone who is unusually attentive and concerned for your welfare.
+    - LOCATION: 9656
+    - They want to listen to your stories of hardship and adversity. How refreshing and unusual to have such attention.
+    - LOCATION: 9657
+    - A variation of this strategy comes from people who love to make promises (of assistance, money, a job), but don’t quite deliver on them.
+    - LOCATION: 9666
+    - In general, be wary about people’s promises and never completely rely on them. With those who fail to deliver, it is more likely a pattern, and it is best to have nothing more to do with them.
+    - LOCATION: 9676
+    - The Insinuating-Doubt Strategy: In the course of a conversation, someone you know, perhaps a friend, lets slip a comment that makes you wonder about yourself and if they are in some way insulting you.
+    - LOCATION: 9678
+    - The point of this strategy is to make you feel bad in a way that gets under your skin and causes you to think of the insinuation for days.
+    - LOCATION: 9690
+    - The Blame-Shifter Strategy: With certain people, you feel irritated and upset by something they have done.
+    - LOCATION: 9695
+    - The Passive-Tyrant Strategy: The person you are working for seems to be bubbling with energy, ideas, and charisma.
+    - LOCATION: 9721
+    - They are a bit disorganized, but that is normal—they have so much to do, so much responsibility and so many plans, they can’t keep on top of it all.
+    - LOCATION: 9722
+    - But if they have no idea what actually works, if they can’t exactly discern what kind of behavior draws praise and what draws punishment, they have no power, no independence, and can be made to do anything.
+    - LOCATION: 9732
+    - It is very hard to strategize against such types, because most often they are your superiors and have real power over you. They tend to be hypersensitive and prone to anger, which makes any form of resistance or inner detachment hard to maintain.
+    - LOCATION: 9740
+    - The internal saboteur can also have a dampening effect on our mental powers. It discourages us from being bold and adventurous in our thinking.
+    - LOCATION: 9765
+    - Creative people display great aggressiveness in their thinking, as they try out many options and search for possible solutions. By trying to rid ourselves of any kind of aggressive impulse, we actually thwart our own creative energies.
+    - LOCATION: 9767
+    - The problem has never been that we humans are assertive and aggressive. That would be to make a problem of our own nature. The positive and negative aspects of this energy are but two sides of the same coin.
+    - LOCATION: 9769
+    - Ambition: To say you’re ambitious in the world today is often to admit to something slightly dirty,
+    - LOCATION: 9777
+    - perhaps revealing too much self-absorption.
+    - LOCATION: 9778
+    - Some people remain ambitious as they get older, but their ambitions are too vague. They want success, money, and attention. Because of such vagueness, it is hard for them to ever feel they have satisfied their desires.
+    - LOCATION: 9786
+    - This specific ambition might be grand enough, but you can visualize quite clearly the end point and how to get there.
+    - LOCATION: 9793
+    - Persistence: If you observe infants, you will notice how willful and relentless they are when they want something.
+    - LOCATION: 9798
+    - Fearlessness: We are bold creatures by nature. As children, we were not afraid to ask for more or assert our will.
+    - LOCATION: 9818
+    - Anger: It is natural and healthy for you to feel anger at certain types of people—those who unfairly block your advancement, the many fools who
+    - LOCATION: 9837
+    - have power but are lazy and incompetent, the sanctimonious critics who espouse their clichés with so much conviction and attack you without understanding your views.
+    - LOCATION: 9838
+    - You must do the opposite. Your anger is directed at very specific individuals and forces. You analyze the emotion—are you certain that your frustration does not stem from your own inadequacies?
+    - LOCATION: 9846
+    - Do not be afraid to use your anger in your work, particularly if it is allied to some cause or if you are expressing yourself through something creative. It is often the sense of contained rage that makes an orator so effective; it was the source of much of the charisma of Malcolm X.
+    - LOCATION: 9855
+    - In your expressive work, never shy away from anger but capture and channel it, letting it breathe into the work a sense of life and movement. In giving expression to such anger, you will always find an audience.
+    - LOCATION: 9859
+    - If such people could not be persuaded by the symbols of the glorious past, he would have to use force to make the past and the traditions prevail.
+    - LOCATION: 10161
+    - When this occurs, some people will feel, like the king, profoundly uncomfortable and will hold on even more fervently to the past. They will band together to try to stop the tide from advancing, a futile task.
+    - LOCATION: 10201
+    - You drop the mental habits and past ways of looking at things that can cloud your vision. You stop the tendency to moralize, to judge what is happening. You simply want to see things as they are.
+    - LOCATION: 10206
+    - Once you have an adequate feel for what is really going on, you must be bold in how you respond, giving voice to what other people are feeling but not understanding.
+    - LOCATION: 10214
+    - what drives these changes is the continual succession of new generations of young people, who are trying to create something more relevant to their experience of the world, something that reflects more their values and spirit and that goes in a different direction from that of the previous generation.
+    - LOCATION: 10251
+    - (There is an inscription on a Babylonian clay tablet that dates from around 1000 BC that reads, “Today’s youth is rotten, evil, godless and lazy. It will never be what youth used to be, and it will never be able to preserve our culture.”
+    - LOCATION: 10305
+    - Without a unifying belief to anchor and calm us, we become tribal, relying on some small affinity group to give us a feeling of belonging.
+    - LOCATION: 10369
+    - Some unifying belief system is in gestation, and some new values are being generated that we cannot yet see.
+    - LOCATION: 10378
+    - Your task as a student of human nature is threefold: First and foremost, you must alter your attitude toward your own generation.
+    - LOCATION: 10405
+    - Your second task is to create a kind of personality profile of your generation, so that you can understand its spirit in the present and exploit it.
+    - LOCATION: 10422
+    - Try to map out the ramifications of these decisive events. Pay particular attention to the effect they may have had on the pattern of socialization that will characterize your generation.
+    - LOCATION: 10434
+    - In filling out this profile, look at the parenting styles of those who raised you—permissive, overcontrolling, neglectful, or empathetic.
+    - LOCATION: 10443
+    - Pay close attention to the heroes and icons of a generation, those who act out the qualities that others secretly wish they had as well.
+    - LOCATION: 10450
+    - Like an individual, any generation will tend to have an unconscious, shadow side to its personality.
+    - LOCATION: 10454
+    - Keep in mind that this knowledge is more critical to posses now than ever, for two reasons.
+    - LOCATION: 10486
+    - Push against the past. You may feel a deep need to create something new and more relevant to your generation, but the past will almost always exercise a strong pull on you, in the form of the values of your parents that you internalized at a young age.
+    - LOCATION: 10501
+    - Resurrect the spirit of childhood.
+    - LOCATION: 10526
+    - By bringing to life the spirit of your early years—its humor, its decisive historical events, the styles and products of the period, the feeling in the air as it affected you—you will reach a vast audience of all those who experienced those years in a similar way.
+    - LOCATION: 10526
+    - Create the new social configuration. It is human nature for people to crave more social interaction with those with whom they feel an affinity.
+    - LOCATION: 10534
+    - Subvert the spirit. You might find yourself at odds with some part of the spirit of your generation or the times you live in.
+    - LOCATION: 10544
+    - Keep adapting. It was in your youth that your generation forged its particular spirit, a period of emotional intensity that we often remember fondly.
+    - LOCATION: 10558
+    - Such depth will always have an uncanny effect on any audience, as your work seems beyond time itself.
+    - LOCATION: 10574
+    - If we look more closely, however, at our personal experience of time, we can notice something peculiar—the passage of the hours or days can alter depending on our mood and circumstances.
+    - LOCATION: 10584
+    - The phases of life: As we pass through the phases of life—youth, emerging adult, middle age, and old age—we notice certain common changes in us.
+    - LOCATION: 10596
+    - Present generations: Your goal here is to be less a product of the times and to gain the ability to transform your relationship to your generation.
+    - LOCATION: 10619
+    - Past generations:
+    - LOCATION: 10627
+    - The future: We can understand our effect on the future most clearly in our relationship to our children, or to those young people we influence in some way as teachers or mentors.
+    - LOCATION: 10658
+    - Something so significant as her father’s early death could not be meaningless.
+    - LOCATION: 10722
+    - Thinking in this way, she realized she had no time to waste. How many more years would she live and have the energy and clarity to write? Being so focused on her work would also help rid her of any anxiety about the illness.
+    - LOCATION: 10783
+    - She would find it easier now to not take so seriously the petty concerns that seemed to roil others so much.
+    - LOCATION: 10789
+    - She sensed that increasing numbers of people in this world had lost their way. They could not wholeheartedly commit themselves to their work or to relationships.
+    - LOCATION: 10872
+    - For Flannery, her proximity to death was a call to stir herself to action, to feel a sense of urgency, to deepen her religious faith and spark her sense of wonder at all mysteries and uncertainties of life.
+    - LOCATION: 10878
+    - We must come to look at our own mortality without flinching, and without fooling ourselves with some fleeting, abstract meditation on death.
+    - LOCATION: 10909
+    - We must focus hard on the uncertainty that death represents—it could come tomorrow, as could other adversity or separation.
+    - LOCATION: 10910
+    - Making death a familiar presence, we understand how short life is and what really should matter to us.
+    - LOCATION: 10913
+    - Even when we take a walk or have a conversation with someone, we generally remain connected to this interior monologue, only half listening and paying attention to what we see or hear.
+    - LOCATION: 10924
+    - Similarly, if we are about to leave on a trip and must say good-bye to people we love, whom we may not see for a while, we might suddenly view them in a different light.
+    - LOCATION: 10929
+    - In such moments, and during the more intense forms of grief from actual deaths, we notice a heightening of the senses and a deepening of our emotions.
+    - LOCATION: 10940
+    - Many of us can no longer believe in the concept of the afterlife with any conviction, but we are left with no compensations, with only the stark reality confronting us.
+    - LOCATION: 10955
+    - Make the awareness visceral.
+    - LOCATION: 10996
+    - life is not a thought; it is a flesh-and-blood reality, something we feel from within.
+    - LOCATION: 10997
+    - We must begin by meditating on our death and seeking to convert it into something more real and physical.
+    - LOCATION: 11016
+    - Awaken to the shortness of life.
+    - LOCATION: 11031
+    - We come to imagine that we always have more time than is the reality.
+    - LOCATION: 11032
+    - Then, if a deadline is forced upon us on a particular project, that dreamlike relationship to time is shattered and for some mysterious reason we find the focus to get done in days what would have taken weeks or months.
+    - LOCATION: 11036
+    - As the years go by, we become increasingly bitter and resentful, haunted with the sense we have accomplished nothing and wasted our potential.
+    - LOCATION: 11049
+    - Let the awareness of the shortness of life clarify our daily actions.
+    - LOCATION: 11050
+    - See the mortality in everyone.
+    - LOCATION: 11056
+    - We want to begin this on a smaller scale, by looking first at those around us, in our home and our workplace, seeing and imagining their deaths and noting how this can suddenly alter our perception of them.
+    - LOCATION: 11072
+    - Embrace all pain and adversity. Life by its nature involves pain and suffering. And the ultimate form of this is death itself.
+    - LOCATION: 11087
+    - Open the mind to the Sublime.
+    - LOCATION: 11114
+    - The Sublime is anything that exceeds our capacity for words or concepts by being too large, too vast, too dark and mysterious.
+    - LOCATION: 11118

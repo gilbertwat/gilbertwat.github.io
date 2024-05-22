@@ -1,0 +1,187 @@
+- {{[[DONE]]}} #Notes Read https://www.hkcnews.com/article/40333/吳靄儀-818集會-818民陣遊行-40333/margaret-ng-this-is-my-statement
+    - Why are you reading this?
+        - This will be a classic in [[🏴Hong Kong]] and [[HongKonger]]s' [[🏛️ History]].
+    - Topics
+        - [[🏴Hong Kong]]
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} #Notes Read https://yourlogicalfallacyis.com 
+    - Why are you reading this?
+        - 
+    - Topics
+        - [[Logic]]
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into permanent notes
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} #Notes Read https://www.atlanticcouncil.org/content-series/atlantic-council-strategy-paper-series/the-longer-telegram
+    - Why I am reading this?
+        - Because I want to learn more about how to communicate a strategy to a broader audience
+        - Because I want to make sure I understand the direction of geopolitic shift and its effect on [[🏴Hong Kong]]
+    - Topics
+        - [[strategic thinking]]
+    - Excerpt
+        - This is a structural challenge that, to some extent, has been gradually emerging over the last two decades. The rise to power of Xi has greatly accentuated this challenge, and accelerated its timetable.
+            - structural challenge
+            - accentuated this challenge, accelerated its timetable.
+        - It is now a matter of urgency that this country develop an integrated, operational, and bipartisan national strategy to guide the content and implementation of US policy toward Xi’s China for the next three decades.
+            - timeframe is very clear -> three decades
+        - At root, the issue is that “strategic competition” is a declaration of doctrinal attitude, not a comprehensive strategy to be operationalized.
+            - doctrinal attitude is not operational
+        - Washington’s difficulty in developing an effective China strategy has been accentuated by the absence of a clearly understood strategic objective. At present, articulated objectives range from inducing Chinese economic reform through a limited trade war to full-blown regime change.
+            - Options not selected as objective should be listed to remove ambigiuity
+        - It would therefore be extremely hazardous for US strategists to accept that an effective future US China strategy should rest on an assumption that the Chinese system is destined to inevitably collapse from within—much less to make the “overthrow of the Communist Party” the nation’s declared objective.
+            - Make sure people are removed from dream and deal with reality
+        - The present challenge will require a qualitatively different and more granular policy response to China than the blunt instrument of “containment with Chinese characteristics” and a dream of CCP collapse.
+            - Make sure we understands the audience so that we know some of their imaginations, false hopes and candidly refute them.
+        - The overriding political objective should be to cause China’s elite leadership to collectively conclude that it is in the country’s best interests to continue to operate within the existing US-led liberal international order rather than build a rival order, and that it is in the party’s best interests, if it wishes to remain in power at home, not to attempt to expand China’s borders or export its political model beyond China’s shores.
+            - War is an extension of politics. Hence war is an act of persuasion.
+        - Areas of major national concern
+            - United States which also will warrant a US response, but not necessarily of a military nature. These are national security interests of a nonvital, but nonetheless highly significant nature. There are multiple tools in the US tool kit that can be deployed for these purposes that will not only send a message to the senior echelons of the Chinese leadership that a line has been crossed, but also administer real and measurable pain.
+            - any act of genocide or crimes against humanity against any group within China
+                - "Hong Kong is only an areas of major national concern"
+        - In the final analysis, the major problem facing the United States in confronting Xi’s China is not one of military, economic, or technological capabilities. It is one of self-belief.[]()
+    - Takeaways
+        - The executive summary of a [[strategy]] document should be stressing the urgency of the challenge we are facing.
+        - War is an extension of politics. 
+        - Politics is an act of to align and resolve conflict.
+        - vacillation = indecision
+        - [[🏴Hong Kong]] is a tool for [[USA]] and [[China]].
+    - [[🤔 Questions]]
+- {{[[DONE]]}} #Notes Read https://www.nfx.com/post/paradox-of-genius/ 
+    - Topics
+        - [[strategic thinking]]
+    - Excerpt
+        - uncovers not just how to be the best, and “the only”, but also — the importance of building something that endures.
+        - So they have to be really scrappy and they have to invent and figure out and innovate a solution without resources. And that is a solution that works
+        - That’s the solution that is going to spread and succeed because **they have used genius to solve it instead of money.**
+        - That’s the advantage for startups. What that means for **startups is you need to amplify, augment, and enhance the fact that you have a lack of resources. That is actually your chief asset.**
+        - True innovation you can only get to if you don’t have the resources. You have to be scrappy and ingenious. **You’ve almost got to be a desperado.**
+        - I resonate with this idea that is often attributed to Jerry Garcia of The Grateful Dead, which is **“Don’t be the best, be the only.”**
+        - Both as an individual and as a company, **you want to work on something that nobody has a name for.** When there’s no name for what you’re doing, that means that there’s no category and you have difficulty explaining to people what it is that you’re doing. That means that you are on the path to the only because there’s no category.
+        - It often will take a long time for you to arrive as an individual to understand what your gifts are. That’s where the need for meandering comes from. That’s where this long path comes from.
+        - **What the technium wants is very similar to what evolution wants.**It’s headed towards increased complexity, increased diversity, increasing specialization, increasing mutualism, and other things.
+        - One of my goals is to listen to the technology, to listen to it, watching how people actually use the technology, versus what it was invented for. You can see how outlaws and kids use it.
+        - We can give it a couple of generations, then we can tell more through the use of it, and the street use of it. There are ways that we can listen to the technology, to try and discern what its biases are.
+        - I don’t think there is a destination; I think there are directions.
+        - The secret of this world of network communications is that they exhibit network effects in all dimensions. If you can tap into one, it’s wonderful because you can go for quite a ride. [All kinds of aspects of our lives are affected like this.](https://www.nfx.com/post/your-life-network-effects/)
+        - It’s true not only for ideas. There’s a universal truth buried even deeper that is a network effect of giving: **The more you give, the more you get — and the more you get, the more you give**, and that’s also a network effect.
+        - Luck is a huge component that’s not talked about often enough. If you are really honest about your successes, there’s a huge degree of it that is attributed to luck. I respect the people who acknowledge the luck in their life.
+    - Takeaways 
+        - Stewardship means the belief that human is responsible for taking care of the world.
+    - {{[[DONE]]}}  [[Mohammad Ahmad]] might like that, share with him
+    - 
+- {{[[DONE]]}} #Notes Read https://jvns.ca/blog/things-your-manager-might-not-know/ 
+    - Topics
+        - [[Managing up]]
+    - Excerpt
+        - What’s slowing the team down
+            - Encourage you to take the time you need to figure it out (“it’s really important to get all these edge cases right, I’m happy you’re doing this!”)
+            - Suggest someone who could help you (“Ankita was dealing with those exact issues last year, you should talk to her!”)
+            - Factor it into their planning (“Sounds like that won’t get done this week then, good to know”)
+            - Deprioritize the feature (“Oh, I thought this was going to be a quick fix, if this is really complicated we should focus our energy on something else instead”)
+        - Exactly what individual people on the team are working on
+            - You can ask your manager how they like to stay updated about what the team is doing: maybe they want to track everything through the issue tracker, maybe they want folks to write weekly digest, or maybe they have a different system.
+        - Where the technical debt is
+            - technical debt that’s slowing you down when building new features
+            - systems that are causing a lot of disruption because they’re unreliable
+        - How to help you get better at your job
+            - They don’t necessarily even know what you’re struggling with in the first place (like we talked about in the last article)
+            - Even if they do know, it might not be obvious to them what they can do to improve the situation. Some managers are of course better at figuring this out than others – it’s not easy!
+            - **less work**: maybe you’re doing 3 projects and it’s too much and it’s making all of 3 projects go slowly, and you need to only be working on 2 things.
+            - **harder work**: maybe you don’t feel like you’re learning anything with your current work and you want to work on something that’s more of a challenge
+            - **a learning budget**: you’re learning about some new technology, and you think going to a conference will really help you, and you want a couple of days off and the budget to buy a ticket.
+            - **help with an interpersonal situation**: maybe you’re having a little bit of trouble working with someone else on the team, and you need some advice to understand what’s going on with that person and how to work with them more effectively.
+            - **specific feedback on work you did**: asking for feedback on a specific piece of work you did (“hey, do you have any feedback on that migration we did?“) is MUCH more effective than just asking “do you have any feedback for me?”.
+        - What your goals are
+            - Get better at your job” also means different things to different people. So if you have a specific career goal, it’s important to tell it to your manager!
+        - What issues they should be escalating
+            - You’re in a negotiation with a vendor and it’s not going well (vendor negotiations happen infrequently and they can be really tricky to handle for anyone!)
+            - You’re stuck because of a conflict in priorities between teams (your team needs another team to be doing X, but the other team thinks that the priority is Y).
+        - What extra work you’re doing
+        - How compensation/promotions work at the company
+            - what the system for issuing stock refreshes is
+            - how raises are calculated when someone gets promoted
+            - what’s actually expected for a promotion to a given level, and whether or not it’s the same as what’s written down
+            - whether / why exceptions are made to the rules
+            - the basic facts about your compensation (I’ve had jobs where managers knew my salary but not what my stock grants were. Apparently this is pretty common!)
+        - They don’t know how priorities are going to change in the future – if there’s a surprise change in priorities, often it’s a surprise to them too!
+        - They might not know if they’re going to get headcount / how to get headcount: if you’re stressed because your team is overloaded and you’d love to hire someone, they might need to figure out how to get permission to do that themselves
+        - They may not know how __they’re__ performing. If they’re uncertain about how their next performance review is going to come back or if they just got a bad review, sometimes that uncertainty/stress can trickle down in weird ways. People are human! I think this is good to be aware of as a possible explanation for weird behaviour even if usually they won’t tell you that this is happening.
+    - Takeaways
+        - Manager 
+    - [[🤔 Questions]]
+- {{[[DONE]]}} #Notes Read https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when 
+    - Topics
+        - [[investment]] [[Economics]]
+    - Excerpt
+    - Takeaways 
+    - [[🤔 Questions]]
+- {{[[DONE]]}} #Notes URL https://uploads-ssl.webflow.com/5fcf9ac604d37418aa70a5ab/60072dbb32d416d6b3806935_5f1596b12bcc0800f3dcadcd_pox.pdf
+    - Topics
+        - [[cryptocurrency]] [[stacks.co]]
+    - [[Excerpts]]
+        - In this paper, we introduce a new mining mechanism, called proof-of-transfer (PoX) that
+- generalizes the concept of proof-of-burn. PoX uses the proof-of-work cryptocurrency of an established blockchain to secure a new blockchain. However, unlike proof-of-burn rather than
+- burning the cryptocurrency, miners transfer the committed cryptocurrency to some other participant(s) in the network. This allows network participants who are adding value to the new
+- cryptocurrency network to earn a reward in a base cryptocurrency by actively participating in
+- the consensus algorithm.
+    - Consensus algorithms for public blockchains require computational or financial resources to secure the blockchain state. Mining mechanisms used by these algorithms
+- are broadly divided into proof-of-work (PoW), in which nodes dedicate computational
+- resources, and proof-of-stake (PoS), in which nodes dedicate financial resources. The
+- intention behind both proof-of-work and proof-of-stake is to make it practically infeasible for any single malicious actor to have enough computational power or ownership
+- stake to attack the network.
+    - With proof-of-work, a miner does some “work” that consumes electricity and is
+- rewarded with digital currency
+    - With proof-of-stake, miners are staking their holdings of a new digital currency to
+- participate in the consensus algorithm and bad behavior can be penalized by “slashing” the funds of the miner. PoS requires less energy/electricity to be consumed and
+- can give cryptocurrency holders who participate in staking a reward on their holdings
+- in the base cryptocurrency.
+    - This is by design— adding complexity
+- increases the attack surface, which reduces the value of Bitcoin as a foundational layer.
+    - The Stacks blockchain is an attempt to create this
+- blockchain, and over its lifetime, we have explored the design space for establishing
+- novel, feature-rich blockchains on top of Bitcoin, using it as a trusted foundation.
+    - With proof-of-burn, Stacks miners compete by destroying a cryptocurrency rather than consuming electricity.
+    - Before the PoB chain matures, and the new
+- cryptocurrency gains value and stability, miners may be unwilling to destroy Bitcoin
+- in order to participate.
+    - However, unlike PoB, rather than burning the cryptocurrency, miners transfer the committed cryptocurrency to some other participant in the network. This allows network
+- participants, who are adding value to new cryptocurrency network, to earn rewards
+- in a base cryptocurrency by actively participating in the consensus algorithm.
+    - {{[[DONE]]}} Takeaways 
+- {{[[DONE]]}}  #PoC [[stacks.co]]
+- {{[[DONE]]}} #Notes Read https://www.okayhq.com/blog/engineering-productivity-can-be-measured 
+    - Why are you reading this?
+        - 
+    - Topics
+        - 
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into permanent notes
+    - Further [[🤔 Questions]] to think about
+- {{[[DONE]]}} Share to notion and Slack channels https://documentation.divio.com
+- {{[[DONE]]}} Share this https://costarastrology.freshteam.com/jobs/ZCyid5f012P3/mobile-qa-tester with [[Keith Chan]] 
+- [[Ergon]] weekly sync up
+    - [[May 12th, 2021]] launch
+        - Video Recording API
+            - Next 2 weeks
+    - {{[[DONE]]}} Call [[Chris Tsang]] for API update 
+- [[Interview]] Tommy Tang
+    - Redundant by head count cut
+    - Most proud
+        - Automation and Testing
+    - Moderate
+    - Not very familiar with system design
+    - Skill set not fit
+- [[Interview]] Sam Yum
+    - 30min 1m Transaction
+        - 10hour --> 30min
+    - Know Kafka
+        - 1 producer, multiple consumers
+        - client requirement as baseline
+        - intuitively as initial
+        - at-least once
+    - Cultural not fit
+        - Too vendor like
+        - No interest in our product
+- 

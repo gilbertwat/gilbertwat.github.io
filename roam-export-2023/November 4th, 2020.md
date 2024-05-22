@@ -1,0 +1,90 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Wake up in the morning and incidents happened again
+            - Blaming myself for not checking the fix myself and let [[Vincent Chan]] spotted it instead of me.
+- #Notes URL https://www.speedshop.co/2015/08/05/rack-mini-profiler-the-secret-weapon.html
+    - Topics
+        - [[🔢 Software Development]] [[Performance]]
+    - [[Excerpts]]
+    - {{[[DONE]]}} Takeaways 
+        - https://github.com/MiniProfiler/rack-mini-profiler
+- Today is a firefighting day. [[Henry Tang]] [[Tom Lui]] [[Victor Lam]] [[Vincent Chan]]
+    - # [Impact]
+        - ~**9,000** driver accounts were expired from 00:05 to 09:30 on Nov 3rd
+        - The actual number of drivers who opened DA and couldn’t work: **2,898**
+        - Provided by Ops: about 800 more canceled orders than normal (since last midnight till 11am). 800 orders x 120 (average gmv) = estimated 96000 GMV loss.
+        - Some drivers in TW and SG were impacted but the scale is much smaller and TW team fixed the issue themselves via mass update
+    - Related conversation on Slack
+    - #theme-driver-exp https://gogovan.slack.com/archives/CBE09FBE2/p1604358903134200
+    - #fire-fighting
+    - https://gogovan.slack.com/archives/C01APEB4RGV/p1604366122007700
+    - # [Timeline]
+    - **Nov 3rd**
+    - 07:15 [#product-hk](https://gogovan.slack.com/archives/CBE09FBE2/p1604358903134200) Hugo reported that drivers are blocked in iOS/Android App
+    - 09:00~09:30 Gilbert Wat Victor Lam found out the changed driver status caused this issue
+    - 09:30~10:00 All blocked drivers were recovered by direct DB update
+    - **Nov 4th**
+    - 01:05 #theme-driver-exp reported that there were 9,000+ driver accounts were expired again (probably already happened earlier than that)
+    - 01:18 All blocked drivers were recovered by direct DB update
+    - **Nov 5th**
+    - 12:31 #theme-driver-exp reported that there were 9,000+ driver accounts were expired again
+    - 12:43 All blocked drivers were recovered by direct DB update
+    - # [5Whys]
+    - ## 1. Why drivers were expired?
+    - **On Nov 2nd**, we deployed a planned feature to help ops teams look for potential expired drivers and expire them based on the values of “license_expiry”, “license_plate_value_date” and/ or “insurance_due_date”
+    - The actual time to expire drivers should be controlled by Ops teams via a backend configuration. The default of this configuration should be “disable”.
+    - The feature ignores the default option (“disable”) of the backend configuration and automatically expires all the drivers who have expired documents in our database (among “license_expiry”, “license_plate_value_date” and/ or “insurance_due_date”) before Ops teams are ready to roll this out.
+    - ## 2. Why expired drivers didn’t take the blocked status as the expected result
+    - 1) Driver documents have never updated so far.  So no driver has faced blocked status by document expiration.
+    - 2) Driver could only see this page which didn’t include enough explanation about the blocked situation and the way to solve the issue.
+    - 3) Although Ops team had been guided drivers since 3 months ago for the document update, Ops team also didn’t know the feature was deployed for the blocking drivers by any document expiration.
+    - ## 3. Why the feature ignored the default option
+    - Our QA + release process (code review + staging + deployment of scheduled job + monitoring) failed to discover the bug in the code in the configurations.
+    - ## 4. Why Ops team didn’t know the release of document expiration feature
+    - Our release process of scheduled job didn’t include ops team for helping out monitoring unexpected behaviors.
+    - ## 5. Why we didn’t detect the default option could be ignored
+    - Our QA + release process (code review + staging + deployment of scheduled job + monitoring) failed to discover the bug in the code in the configurations.
+    - ## 6. Why do we failed to deploy the fix at Wednesday midnight?
+    - None of our delivery teammates realize our deployment was not for the updated version. We are expecting on-duty teammates to deploy new code change. He / she may not have the right context to quickly discover problems.
+    - ## 7. Why do we failed to deploy the fix at Thursday midnight?
+    - Code change was only deployed on new infrastructure (Kubernetes) and scheduled job was only run on the old infrastructure (Heroku).
+    - # [How to prevent]
+    - ## 1) For user experience
+    - If App guided drivers properly, blocked drivers were supposed to follow our intention for updating their document.
+    - We need to test more edge cases and add handling logics regarding expected user behavior.
+    - Can we check similar cases and test in DA?
+    - ## 2) For internal team communication
+    - We’ve been sharing product update in many ways across teams.
+    - However, sometimes we need stronger alignment for impactful changes.
+    - We need to share potential user impact and release plan across teams for some area.
+    - Any idea?
+    - ## 3) For code quality
+    - If the default option worked as intended, the document expired wouldn’t impact on users.
+    - For complicated logic or overlapped conditions, we need to put more efforts to verify.
+    - Code review policy can be added with code complexity check result.
+    - Anything else?
+    - # Proposed software development process upgrade
+    - ### Planning
+        - When we are planning solution for features, engineers will do a basic impact analysis for the PMs to decide the possible impact of the solution to the existing data-set. PMs and QA will need to based on this to determine the impact to customers. The impact analysis will be aligned with ops and cs team. Delivery manager and team lead will be consulted.
+        - For scheduled development, we can choose run the routine **manually with engineers via script** in phase 1 or we need to validate our changes using __Validating 1)__
+    - ### Validating
+        - For all scheduled routine development, we can choose to do a mock run on production data-set when necessary if we don’t do __Planning 2)__
+        - For code review process, we are putting extra attention to batch update and complex SQL queries.
+        - We may invest in using automatic quality measures to further guarantee the logic is as simple as possible and well tested.
+    - ### Deploying
+        - Engineers will make sure we are including deployment to our old infrastructure until we decommissioned it.
+        - We need to app level verification in deployment successful or not on CI/CD pipeline for all infrastructure we are running on.
+    - ### Monitoring
+        - Engineers need to monitor any new scheduled job (even if the flag is off) in the first 5 runs after deployment.
+        - Ops and CS should to be aware of any new scheduled job deployed to platform.
+    - ### General issues
+    - We suggest UI/UX in our DA, particularly parts that are handling drivers' business continuity needs to be more clear and help our ops team to be able to easily troubleshoot for drivers and make necessary change for the drivers.
+    - We also suggest to double the backend engineers count (2 minimum for each themes) as current there is no room for solution review to minimize the risk in solution design.
+    - 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

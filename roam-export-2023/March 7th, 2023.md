@@ -1,0 +1,9 @@
+- {{[[DONE]]}}  [[Moses Ngan]] demo prep for [[[[Preface]] [[project]]: Nomad payment scheme update]] 👏🏼 finished on [[April 5th, 2023]]
+    - [[March 10th, 2023]] focus group
+    - [[March 17th, 2023]] [[March 18th, 2023]] all nomads
+- before [[June 1st, 2023]], [[[[Preface]] [[project]]: Nomad bonus scheme]]
+    - [[Adrian Chan]] to be PIC
+        - Up Tier / Down Tier
+            - Anna
+- {{[[DONE]]}}  How to use Chat GPT API 👏🏼 finished on [[April 5th, 2023]]
+- 

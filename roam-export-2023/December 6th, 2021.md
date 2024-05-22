@@ -1,0 +1,5 @@
+- {{[[DONE]]}} Write about [[Grantits.io]] [[How to interview a Data scientist]]
+    - From Interview questions with [[Raymond Chan]]
+- {{[[DONE]]}} Confirm with [[Preface Coding]]
+- {{[[DONE]]}} Booked Dinner for 3rd anniversary with [[Wifey]] on [[December 30th, 2021]]
+- [[🆕 Input]] https://www.amazingcto.com/

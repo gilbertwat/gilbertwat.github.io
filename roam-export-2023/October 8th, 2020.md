@@ -1,0 +1,61 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[[[2020]] Q4]] [[QPSM]] [[GOGOX]]
+    - [[[[2020]] Q3]]
+        - Service uptime
+            - uptime drop on October (Nightmare)
+                - Thanks for platform-team and infrastructure team.
+                - 50% 50% migration now, will continue
+        - Quality metrics
+            - Ratio of P0/P1 bugs -> Ratio of P0/P1 production bugs / user stories
+            - Reopened user stories count / user stories ratios
+        - Highlight
+            - Communicate better
+                - Last quarter we mentioned
+                    - Light-weight and on-time communication
+                    - Check assumption, keep each other in the loop. Ask.
+                    - Focus on solutions
+                    - Open and candid conversation.
+                - Engineers improved a lot!
+                - Manifestation: Additional Requirement 2.0
+                    - Cross theme collaboration
+                        - [[Ivo Wu]] and [[Ben Cheng]] to lead the engineering discussion
+            - New CTO Yeah [[Young]]
+            - Incidents
+                - Delivery Platform
+                - Post mortem
+                - Upgrade our infrastructure and do fire drill
+    - [[[[2020]] Q4]]
+        - Company Objectives
+            - Continued & sustainable growth
+            - Achieve solid growth outside HK
+            - Maintain burn and improve efficiencies
+            - Test expansion via lean launches and/or agent model
+        - Continue to better communicate with the whole company
+        - OKRs
+            - Data driven culture
+            - Ship world class services
+                - 0 incidents from security / code defect / performance
+                    - More site reliability efforts on monitoring, alert and dashboard
+                    - Decouple release in platform with app
+                - 0 release delay
+                    - With AR 2.0 experience we are very confident to do it.
+                        - [[Jim Wong]] [[Jackson Chung]] [[Jay Chang]]
+                - Reduce Infra cost by 0-5%
+                - GOGOEnergy support (Nightmare) Thanks [[Rob Dong]]
+                - Reduce X% of Mean Time To Recovery
+                    - Fire drill
+                        - Even better communication with teammates across the company [[Belda Chan]]
+                    - Better post mortem
+                - Reduct X% of Production Lead Time
+                - Increase code coverage to 40%
+                - Setup SLA through SLO
+                    - We have 99.9% for 2 months straight
+                    - New SLO: error rate
+                        - Which error rate will affect business? (Need everyone collaboration)
+        - Welcome QA team to Engineering side
+- [[How do you feel when you wind down?]]
+    - {{slider}}

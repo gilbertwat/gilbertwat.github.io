@@ -1,0 +1,29 @@
+- What tech enhancement to be developed for London and SG?
+    - Tech stack: Next.JS, React, Javascript, Ruby on Rails, PostgreSQL, Redis, Heroku, Honeycomb.io . Potentially: React Native, Solito, Expo
+    - UK (Phase 1)
+        - Credit purchasing system for Preface Coding
+            - Customer can purchase credits using Hong Kong Dollar.
+            - UK Customer can purchase credits using British Pound sterling.
+            - UK Customer can purchase credits and use on enrolling courses and events offered by Preface Coding in Hong Kong, the UK and online.
+        - video listing and delivery for logged-in users on mobile
+            - All customers can purchase the right to view videos by their credits.
+            - All customers can view the list of available videos on our customer portal.
+            - All customers can view multiple video quality based on network connectivity.
+        - Timezone feature for courses and calendars
+        - Integrate with local payment gateway - WorldPay / Adyen
+        - Meet UK compliance requirement in education for our nomad
+            -  Expected to be some checkbox and remarks
+    - SG (Phase 2)
+        - Enhancement of credit purchasing system for Preface Coding
+            - Customers can purchase credits using SIngapore Dollar.
+            - Customers can enroll with their credit for courses and events of Preface Coding in Singapore.
+        - video live streaming classes for logged-in users on mobile
+            - Integrate with OBS studio and stream on the mobile web environment
+            - 720p video quality on 4G network
+        - multiple currency support
+            - display on our purchasable items
+            - Select currency for individual purchasable items on admin side
+        - Integrate with local payment gateway - Grab Pay
+        - Meet SG compliance requirement in education for our nomad
+            - Expected to be some checkbox and remarks
+    - Need to work closely with Preface Engineering team for integration.

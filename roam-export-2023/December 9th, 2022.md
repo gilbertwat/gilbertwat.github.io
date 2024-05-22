@@ -1,0 +1,13 @@
+- 11:30
+    - [[1:1]] [[Tommie Lo]]
+        - Tommie full brain is on expansion
+        - approved 40K budget for [[[[Preface]] [[product]]: Coffee App]] 
+- 16:00
+    - [[1:1]] [[Yoon Kim]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - OK
+        - What is our recurring topics?
+            - AI-assisted productivity
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- Experiment with Co-pilot for the whole day

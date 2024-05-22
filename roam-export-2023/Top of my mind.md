@@ -1,0 +1,86 @@
+- # Mind
+    - ## Spiritual. Creative. Positive. Pragmatic. Motivated. Bold.
+    - ## Biased towards actions.
+- # Body
+    - 15% body fat. [[June 1st, 2023]]
+    - 70kg body weight. [[March 1st, 2023]]
+    - 7 hours of [[sleep]] every day.
+- # Friends & Family
+    - Happy. Healthy. Safe. Keep them warm.
+- # Financial
+    - +1 revenue stream. [[December 31st, 2023]]
+    - +8% p.a. growth in assets in 2022. [[December 31st, 2023]]
+- # Career
+    - ## Lead
+        - Lead Preface team to build 2 more revenue streams. [[December 31st, 2023]]
+    - ## Build
+        - Ship an education tech product with a digital acquisition channel [[December 31st, 2023]]
+    - ## Write
+        - 6 blog posts. [[February 28th, 2023]], [[April 30th, 2023]] [[June 30th, 2023]] [[August 31st, 2023]] [[October 31st, 2022]] [[December 31st, 2023]]
+        - 52 weekly diary.
+    - ## Not
+        - Active sell.
+        - Active networking.
+        - proactive public speaking.
+        - Organizing social events.
+        - Interview and media exposure.
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- # Mission statement
+    - # Create positive, open and candid vibe in the group I am in.
+    - # Make things people want.
+    - # [[Prepare for War]]
+- # Main Current [[goals]]
+    - ## To create a business that generate enough income for a family of four regardless of geography and timezone for the next 25 years.
+        - Create an audience of myself / my brand.
+            - What is my brand?
+                - What is something that I am 
+                    - passionate about
+                    - have unique insights
+        - Create a digital / crypto product that people want
+- Take care of my [[Family [[finance]]]]
+- Take care of my [[Family]]
+- Take care of my [[Friends]]
+- [[🎯 Major [[decision]]]] considering
+    - Considering
+        - 
+- # Daily routines
+    - Read some [[books]]?
+        - Currently reading 
+            - Reading
+                - [[[[books]]: Turn the ship around]]
+                - [[[[books]]: The Silk Road]]
+                - [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+        - Follow up to put stuff into [[Permanent Notes]]
+            - Note taking
+                - [[[[books]]: Turning the Flywheel]]
+                - [[[[books]]: Macau Society and History]]
+                - [[[[books]]: The Laws of Human Nature]]
+                - [[[[books]]: The Invention of China]]
+                - [[[[books]]: Arsène Wenger]]
+    - Follow up [[project]]
+    - Think about [[🤔 Questions]]
+    - Check some boxes in 
+        - [[TODO]]
+- When you feel tired, maybe you can try
+    - Doing nothing?
+    - [[Meditation]]?
+    - Clean up your [[Permanent Notes]] 
+- Cultivating good habits 🌱
+    - I want to spot market opportunities.
+    - I want to able to sell.
+    - I want to always honor my [[💪🏻 Commitments]].
+    - I want to [[listen well]].
+    - I want to think and communicate with crystal clear message on subjects that matter.
+    - I want to write/tell good stories.
+    - I want to be mindful to all my actions / interactions and increase my [[🧘🏻‍♂️ Self Awareness]]
+    - I want to be fully present in my endeavors.
+    - I want to lower my body fat to 14% and keep it that way.
+- Topics I am currently interested:
+    - [[ESG Environment, Sustainability and Governance]]
+    - [[Tool of thoughts]]
+    - [[Next gen dev tools]]
+    - [[ creator economy]]

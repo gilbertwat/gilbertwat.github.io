@@ -1,0 +1,17 @@
+- {{[[kanban]]}}
+    - #lead
+        - [[Z27]]
+    - #Ongoing
+        - [[Preface]]
+        - [[Gilbert Wat]]
+    - #parked
+        - [[Grantits.io]]
+        - [[Ergon]]
+        - [[GOGOX]]
+        - [[GOGOEnergy]]
+        - [[Accenture]]
+        - [[AndyOS]]
+        - [[Thomas Pun]]
+    - #[[dropped]]
+        - [[Plaza Premium]]
+        - [[Inspect Element]]

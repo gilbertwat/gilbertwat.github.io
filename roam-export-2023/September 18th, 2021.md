@@ -1,0 +1,2 @@
+- [[machine learning]] new course taken #[[decision]] #[[💪🏻 Commitments]]
+    - https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&index=1

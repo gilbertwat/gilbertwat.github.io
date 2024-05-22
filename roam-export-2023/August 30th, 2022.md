@@ -1,0 +1,55 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]] #[[foundation activity]] #[[transformative activity]]
+        - Customer type related to [[[[Preface]] [[product]]: Customer Portal]]
+            - B2B
+                - Key account
+                    - Platform business
+                    - Talent [[management]] department
+                        - Vendor list
+                - SMB 200,000 in HK
+                    - RTTP (25)
+                - startup
+                - schools
+                    - Nurture -> approve Headmaster -> Board -> Govt -> delivery -> collect money
+                    - seasonal
+                    - need to be strategic enough
+                    - PTA??
+            - B2C
+                - Parents
+                - Working class
+            - International expansion??
+        - PCW
+        - Summer finale
+            - [[[[Preface]] summer finale]] will be on [[September 10th, 2022]]
+                - Intention is to promote [[[[Preface]] membership scheme]]
+                - Content creation
+                    - Video
+                    - Event
+                    - Article
+                    - PCW 2-5/F
+                - Breakfast & learn for parents
+                - News & learn
+                - PCW
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]] #[[foundation activity]]
+        - Recap on [[[[[[Preface]] leadership team]] weekly meeting]] #[[foundation activity]] #[[transformative activity]]
+- 11:30
+    - [[Vegas Ho]] discussion #[[foundation activity]]
+        - Cynicism curbing
+        - [[Ken Chow]] ultimatum
+- 15:00
+    - [[Ken Chow]] [[Anna Yu]] on [[customer interview]] prep on [[[[Preface]] [[product]]: Customer Portal]] MVP #[[draining activity]] #[[transformative activity]]
+        - [[Anna Yu]] will ask more high level questions for customers
+            - Validate / invalidate assumption from us
+                - we are focusing on delivery of services, is that true?
+        - [[Ken Chow]] will focus on 3 things
+            - support role: UI/UX support for Buy Link
+            - accountable: UI/UX design for 1 on 1 buy link
+            - support role: product discovery
+            - [[August 31st, 2022]] get back to me on the UX assumption and questions
+                - current sales package on 1 on 1?
+                - quick UX mockup
+- 16:30
+    - [[Cheryl Lai]] [[1:1]] #[[foundation activity]]
+- 17:30
+    - Interview code test passed for the candidate on Interview senior software engineer Tylor

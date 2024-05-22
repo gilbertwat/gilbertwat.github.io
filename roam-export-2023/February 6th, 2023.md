@@ -1,0 +1,121 @@
+- #[[12 2023]]
+- 10:00
+    - [[Theodore]] [[sleep]]
+- 11:00
+    - Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  Migrate `login` to the shared folder. 👏🏼 finished on [[March 13th, 2023]]
+- 14:30
+    - Interview with [[UX designer]]
+        - https://preface.bamboohr.com/hiring/candidates/1152#ats-info
+        - Why does he change his field from Architect to UX Designer?
+            - A bit dull, architect is straight and narrow
+            - Want to have More impact
+            - Want to work on more flexible solution
+            - Wan to have more possibility
+        - Why does he want to leave current role?
+            - Not comfortable with the company direction.
+                - Environment changed
+                    - Business model changes
+                    - Marketplace: Source global brand -> Retailer in APAC
+                    - Distributors
+        - What does he expect the difference between Preface and the current role?
+            - Not very sure, rambling general stuff such as educational field.
+        - What is the project he has been working on?
+            - Peeba App
+                - User research
+                - Finding reference for UI
+            - Fulfillment by Peeba
+                - Challenging: 
+                    - Real work thing
+                    - Asking a lot of questions
+                    - Find references
+                    - Accounting for edge cases
+                        - Split orders / shipment
+                            - A lot of debate in the team
+                                - Manually / by the system
+                                    - Optimized for the company
+                                        - + Deep thinking
+                                        - Effort of development vs .... 
+                                            - + Rely on other parties together to solve the problems.
+            - More specific UI/UX design challenge
+                - Mobile Optimized for a B2B information heavy app
+                    - Infinite Scrolling behaviors
+                        - Not able to talk about specific.
+                - UI only find references
+                    - Recognize 
+                    - Hard to pinpoint user behaviors
+                        - Pricing Red vs Black
+                            - User interview vs usability tests
+                                - Setup 
+                            - A/B tests
+                        - Am not sure about 
+                            - fun and challenging, learn fast
+            - How to work with tech team?
+                - Ideation, Design the whole thing, logics set too
+                - Hands off to the developers.
+        - Q&A
+            - How does Preface different from more tech centric educational institution such as Xccerelate?
+- 16:00
+    - Interview with [[[[product]] manager]]
+        - Challenge
+            - Stay engaged
+                - onboarding
+                - retention
+                - monetary
+                - time spend
+                    - Performant 
+                - active user
+                - B2B users
+                - Work closely with S&M
+                - Collaboration
+                - Work with Sales team
+                - market place
+                - Subscription model
+                - Attract and charge
+                - Tx Fee
+                    - Estimate usage
+                - Sales
+                    - Tough target to meet
+                    - Delivery
+                - Confident close friends open communication
+                    - Delivery
+                - Number of Invoice -> Calculation Pricing -> 
+                - Number of institution
+            - 30-40 Speak a lot to the customers.
+                - UX A/B testing
+                - B2B Robust product Success Manager 
+                    - Audience 
+                - Company Objective: Get the Series B funding
+                    - Impact and Effort: Gateway to attract, great revenue driver.
+                - Tech UX debt deprioritized last year
+            - Work with Tech lead vs Designer
+                - "A really good relationship"
+                - Blocker of not dealing with it. Knock on effect. Data. Developer have different view.
+                    - Backlog grooming
+                - Architectural vs Feature Team, vs outsource team business analysts QA designer
+                - Head Of Product
+                    - 2 Viet
+                    - Feature Team
+                    - 1 Architectural
+                - CPO
+                    - 
+                - Flexible
+                    - Strategy vs Hands on
+                - Geography vs Difference
+                - Singapore
+            - Peers Junior dev, Head of Sales, CPO, CEO, Operations
+            - Mentor UX PM
+                - Good energy
+                - learn from them
+                - fresh pair of mind.
+            - Reasonable
+                - Open minded, Confident, Retrospective Iterative 
+                - Feedback Incorporate customized 
+                    - Communicative style: don't listen
+                        - Empatheize
+                        - Previous boss, strong headed - get things done.
+- [[[[[[product]] manager]] interview test]]
+- {{[[DONE]]}}  Drafted update of all [[Preface]] [[project]]  👏🏼 finished on 22:30
+- [[gratitude dairy]]
+    - Able to calmly response to boss's comment because it is on Slack
+    - Have [[Wifey]] to calm me down.

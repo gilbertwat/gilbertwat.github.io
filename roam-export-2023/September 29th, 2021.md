@@ -1,0 +1,48 @@
+- [[COVID-19]] [[vaccination]] day 6
+    - everything's ok
+- 09:00 - 13:00 [[QPSM]] [[[[2021]] Q4]]
+    - Deliverables:
+        - https://docs.google.com/presentation/d/1ERNGCdo8mrhTZ85Jluenj8dAR4fQJfgb2zAtBtvLBao/edit#slide=id.gf4b2947b1b_0_40
+    - Questions
+        - [[[[GOGOX]] Driver Experience Theme]]
+            - Given engineering constraint how can we reward / publish drivers
+                - Jarvis
+                    - Data engineering
+                - Suspension
+                - No substainable
+            - Membership exclusive features
+            - Fairness = Trust
+                - No skip queue
+        - [[[[GOGOX]] Client Experience Theme]]
+            - Voucher system design
+            - SG decimal handling
+            - CAC
+            - Engineering investment on fixing decimal place for SG
+                - Kurt
+                - Ben
+                - Phoenix
+            - Order Request 500 / days * 25 days
+        - [[[[GOGOX]] Payment Theme]]
+            - Knowledge lost
+        - [[[[GOGOX]] Business Experience Theme]]
+            - Order fulfillment
+            - Audit / Compliance requirement
+            - NPS vibe word of mouth 
+        - [[[[GOGOX]] GOGODelivery Theme]]
+- 14:00 {{[[DONE]]}} #Notes Read https://twitter.com/Suhail/status/1443059372779728899?s=20 
+    - Why are you reading this?
+        - What [[KPI]] should I be monitoring as a [[Starting a startup]]
+    - Topics
+        - [[Startup]]
+    - Excerpts from the article and some scribble
+        - Stability
+        - Product
+        - Revenue
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- 15:00 - 15:30 [[Interview]] [[[[Backend]] [[software engineer]]]] for Louce Kerdely Fabien
+    - [[decision]]: Despite the lack of performance in the interview (too passive in response), Still giving out a code test to validate my hunch
+- 17:00 - 18:00 [[Interview]] [[[[Backend]] [[software engineer]]]] for Michael Choy
+    - [[decision]]: Give an offer out of SE II / SE III
+        - He is very good at communicating thoughts in English
+        - He is very good at system designs and can see thoughts

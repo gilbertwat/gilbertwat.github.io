@@ -1,0 +1,11 @@
+- #[[02 2023]]
+- {{[[TODO]]}}  GTM checklist for [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+- {{[[DONE]]}}  See how to make progress of [[[[Preface]] [[project]]: Website Revamp 2023]]
+    - Make a parallex of the upside down triangle
+    - Questions: how to connect it to our customers?
+- {{[[DONE]]}} Read through [[[[books]]: CRM: The Foundation of Contemporary Marketing Strategy]] and take notes and ship some notes daily
+- {{[[DONE]]}}  Secure a Office365 co-pilot license
+- #health
+    - Rest
+        - #sleep a bit bad as my #[[nose allergy]]
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes

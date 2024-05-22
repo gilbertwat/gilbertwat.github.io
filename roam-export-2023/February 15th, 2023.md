@@ -1,0 +1,17 @@
+- 09:00
+    - Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  react-query? 👏🏼 finished on [[February 21st, 2023]]
+            - {{[[DONE]]}}  Babel Macro for translation with lingui.dev 👏🏼 finished on [[February 16th, 2023]]
+- 12:00
+    - Lunch
+- 13:00
+    - Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  react-query? 👏🏼 finished on [[February 21st, 2023]]
+            - {{[[DONE]]}}  Babel Macro for translation with lingui.dev 👏🏼 finished on [[February 16th, 2023]]
+- 15:00
+    - [[Theodore]] Park time
+- 15:30
+    - Debrief with Interview with Boris But [[Anna Yu]] [[Ben Cheng]]
+- [[gratitude dairy]]
+    - [[Wifey]] is furious about the lack of gift in Valentine's day but still put up with me.
+    - Able not to say anything about my grudge with [[Wifey]] and further damage our relationship.

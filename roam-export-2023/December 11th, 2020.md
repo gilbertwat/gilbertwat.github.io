@@ -1,0 +1,43 @@
+- Always radiate your gratitude, good vibe and hope.
+- #[[Quick Capture]]
+    - https://twitter.com/amanda_robs/status/1336774447391510535?s=21
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[1:1]] with [[Henry Tang]]
+    - Have a lot of suggestions 
+    - 
+- [[1:1]] with [[Mohammad Ahmad]]
+    - Parents in [[Ghana]]
+    - Born in [[Pakistan]]
+    - Want to go to [[Canada]]
+    - Has a brother younger than him 11 years old
+- [[1:1]] with [[Kavin Wong]]
+    - Not much of a problem
+- [[1:1]] with [[Victor Lam]]
+    - {{[[DONE]]}}  [[Victor Lam]] need to provide some stories for resolving conflicts, swifting team priorities and 
+- [[[[🔮 Bets]] 2021]] [[Brainstorming]] 
+    - Build for a narrower community for example:
+        - [[🏴Hong Kong]]
+        - [[RoamResearch]]
+- Team lead requirements
+    - Architecture
+        - Maintain architecture 
+    - Leadership
+    - Management
+    - Technical
+- Management meeting
+    - everyone is cutting budget
+    - Who is the ownership of X?
+    - 
+- Relator
+    - People exceptionally talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
+    - [[Myself]]'s Top 5
+    - How I understand people is not through Empathy, but through my understanding and thoughtfulness in my friends or colleagues
+    - I want to do a deep relationship
+    - Mature Relator: 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

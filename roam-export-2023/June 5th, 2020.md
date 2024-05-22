@@ -1,0 +1,48 @@
+- Effective Engineers
+    - Hi Chun,
+- Think back to the last time you shared an idea that you were really excited about at work.
+- Maybe it was refactoring something huge out of a monolithic codebase. Or maybe it was organizing a hackday to introduce some new ideas into the product. Or maybe it was hosting an engineering book club that met monthly.
+- Whatever the idea was, what happened to it?
+- Did you get buy-in from other people? Or did you get met with skepticism or shrugs and put the idea onto an indefinite hold?
+- *All too often, when we are enthusiastic about an idea, we double down on why WE think it's a great idea.**
+- For example, I love refactoring and code deletion.
+- So if my idea were to refactor something huge out of a monolithic codebase, I would get excited imagining how much cleaner the code would be!
+- It would be so satisfying to refactor all that functionality out in a way that made sense, and then delete all those lines of code. We could reduce the number of lines of code in the monolith by 60,000 lines!!!
+- Now, this approach works really well if the person you're trying to get buy-in from is also extremely enthusiastic about the same things — code deletion, refactoring, and code cleanliness.
+- *The problem arises when the person you're trying to get onboard cares much more about something else.**
+- This could be true when you think about other engineers, your manager, your PM, or your CEO — think about what's most important to them.
+- Is it code deletion, refactoring, and code cleanliness? Possibly, but also possibly not.
+- Different people find different things to be important, so doubling down on why YOU think something is a good idea is often insufficient to get buy-in from others.
+- That’s __especially__ true as you progress in your career and work with other teams, executives, and larger initiatives.
+- Say you have a large refactoring project you want to take on.
+- *I want to share with you SEVEN different ways you might get buy-in from a VP of Engineering.**
+- “This part of the codebase is heavily used in new feature development, but it's really hard to work with. Pulling it out into its own service would speed up new feature development significantly.”
+- “This part of the codebase is called on average 8 times per request. Pulling it out of the monolith would set us up to easily make meaningful performance improvements on every request.”
+- “I know we've been wanting to hire more senior engineers. Right now, opportunities in Go is a huge draw for a lot of potential applicants, and starting to build out more of our backend in Go would help us attract the types of engineers we want to hire.”
+- “With the product direction still in flux, I've been hearing that several engineers are interested in taking this opportunity to spearhead some platform improvements. I think the timing is good and could help keep them engaged in this uncertain time.”
+- “Even though most of our codebase is in PHP, I think this is a real opportunity to show that our engineering team really embraces innovation and new technologies.
+- “This project is really straightforward yet impactful. It would be a great project to split up between the new interns, so that they can work on something real and impactful (but not in the critical path) in a team setting.”
+- “I know it feels like we don't have time to stop and invest in platform improvements right now. Here's my proposal on how we can get this done in a week with two engineers — and how that investment will save us weeks towards our upcoming launch.”
+- Each of these framings address a different aspect of engineering that might matter to your VP.
+- Which of these framings would be most effective?
+- Well, it really depends on your VP of Engineering and what is most important to them.
+- *Knowing what’s important to someone is the key.**
+- When you know that information, you can find the most effective way to frame what you want to get buy-in from them.
+- The great news is that we’re teaching a course where you’ll master tools to discover what's most important to __anyone you work with__ — so that you can arrive at the most compelling framing to get buy-in.
+- Enrollment for our online course, **Building Alignment**, opened last week.
+    - Knowing what is important for the other parties is very important
+- [[Overview for VP]]
+- https://www.theatlantic.com/magazine/archive/2020/05/mcmaster-china-strategy/609088/
+    - strategic empathy
+        - US lacks it, to use foe's mindset to predict its next move.
+- https://medium.com/darius-foroux/develop-mental-toughness-with-this-ancient-practice-c312b21bd22e
+    - Indifferent to things that you cannot control
+    - How to process news?
+        - Important thing: 100% attention
+        - Not important thing: 0% attention
+- [[business]]
+    - The key is to figure out the need of your customers
+    - https://a16z.com/2020/04/08/crypto-network-effects/
+        - Basically echos what I mean in the article [[The nature of money]]
+        - Network effect = marketplace
+- 

@@ -1,0 +1,150 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - #[[🧘🏻‍♂️ Self Awareness]] wake up with a disappointment that I missed last night Clubhouse in Cantonese.
+            - Sounds fun. But why disappointment?
+                - I am not cool enough to be invited into the party. 
+        - #[[🧘🏻‍♂️ Self Awareness]] wake up with a revelation that I am always watching people do the work and fails to put in the effort and decisions we need to succeed. #[[Imposter]]
+- Start the day **strong**!
+- New theme suggestions for [[GOGOX]]
+    - Merchant Experience
+        - Package experience
+        - Customer insights experience
+    - Partner Experience
+        - Hub experience
+        - Courier experience
+        - Cross border experience
+        - Return experience
+    - Consumer experience
+        - Local experience
+        - Notification experience
+- #Notes URL https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/
+    - [[Topics]]
+        - [[raising capitals]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - First, __finite__ games are played __for the purpose of winning__.
+    - Whenever you’re engaging in an activity that’s definite, bounded, 
+- and where the game can be completed by mutual agreement of all the 
+- players, then that’s a finite game.
+    - __infinite__ games are played __for the purpose of continuing to play__.
+    - You do not “win” infinite games; these are activities like learning, 
+- culture, community, or any exploration with no defined set of rules nor 
+- any pre-agreed-upon conditions for completion.
+    - They play the infinite game of growing their status within a growing community, which is a __very good thing__.
+    - There are two kinds of Bad Angels. The first kind are literally in it 
+- for the money: they want to see financial returns in a reasonable period
+    - of time, and push their founders to run their startups as an 
+- investment, like real estate. The second kind is more subtle: they’re 
+- Angels who’re doing it for the satisfaction and the status, but only 
+- among their own, __closed__ peer set. They are competing for zero-sum bragging rights, not working to grow the community.
+    - Good Angels have an entirely different attitude about the relationship 
+- between angels and founders. They’re not trying to win something; 
+- they’re trying to create something. This is a good thing, because that’s
+    - exactly the mindset you need to have, if you’re founding a startup. 
+- Startups are also infinite games. At the moment you found a startup, at 
+- no point in the next ten years (or whatever appropriately long time 
+- horizon) will you have “won” anything; nor is there a fixed set of rules
+    - you’re agreeing to. __You are playing in order to keep playing.__ Your goal is growth, and growth is never done.
+        - Of course, that’s not the only way to run a business. The majority of 
+- businesses can be appropriately described as finite games: you’re going 
+- after a bounded, definite opportunity; with a clear concept of what 
+- winning looks like.
+    - But these aren’t startups, the way we use the term startups. Startups 
+- are a bet that the future will be radically different from the present, 
+- and they are valuable on the way up because they are, effectively, a 
+- call option on that future coming true. Their founders set out to 
+- discover that future; their value is __indefinite__, not definite. 
+- One day they might become giant, cash-gushing businesses; but not 
+- anywhere near your current horizon. Your only goal right now is grow, 
+- explore, and earn the right to keep growing and exploring.
+    - So where do Good Angels come from? There is really only one reliable 
+- source of Good Angels, and that’s big liquidity events of other 
+- startups. Any other source of money is potentially suspect. But Angels 
+- who’ve made their starting nest egg from founding or growing a startup 
+- of their own understand the infinite game, because they’ve played it. 
+- And they want to keep playing it, because they like it, and Angel 
+- investing is how you do that.
+    - The most visceral difference between the Canadian startup investing 
+- scene versus the Bay Area is speed. It is not an incremental difference:
+    - they operate on entirely different time scales. Bay Area startups can 
+- go from initially announcing their pre-seed round to closing an 
+- oversubscribed round of SAFE notes in 72 hours. In Canada, you’re 
+- generally lucky if you can get a deal done in __3 months__.
+    - Another fairly obvious difference between the Canadian startup ecosystem versus the Bay Area is that valuations are lower. It’s actually not just valuations that are lower; the price of everything is lower 
+- (including salaries, which is helpful if you’re staffing entry level 
+- positions but a huge problem when you’re trying to recruit experienced 
+- managers & senior talent). But the valuation issue is pretty 
+- central.
+    - Why are milestones so dangerous? Because when you define clear 
+- milestones, you initiate finite games: you’re defining and bounding the 
+- problem of startup-building, and inadvertently creating a “win/loss” 
+- condition upon the completion of the milestone.
+    - Hopefully by now you can see this picture coming together: the 
+- difference between the Canadian startup ecosystem versus the 
+- actually-functioning one in the Bay Area isn’t an incremental difference
+    - of degree. They’re two systems running in totally contrasting modes: 
+- one runs fast, rules opportunities in, rolls valuations forward, and is 
+- optimized for infinite-game-mindset founders. The other runs slow, rules
+    - opportunities out, feels the need to “defend” valuations (thereby 
+- collapsing them to their literal milestone value) and optimizes for 
+- fixed, finite games.
+    - The problem starts when founders think about SR&ED as “free money”. __It is not free__.
+    - It has a cost of capital, like any capital. But instead of costing you 
+- your equity, it costs you your time, your focus, and above all it costs 
+- you something you can never get back which is your 
+- indeterminate curiosity.
+    - SR&ED forces you to play finite games, because it forces you to 
+- articulate what you’re spending this money on. And so you have to 
+- justify, at the very least, what problem you are solving 
+- and what specific steps you are taking to solve it. You enter the world 
+- of __problem definition, __where building your startup becomes Serious Work, with official time sheets and government forms.
+    - My hope is that people in Canada reading this will realize that the problem facing us isn’t __a lack of anything__. The problem with our startup scene isn’t a __lack__ of money, startups, investors, hustle, great Universities, technical talent, or creativity. Our problem is actually the __presence__ of
+    - actively bad things: all of our non-dilutive (but extremely expensive!)
+    - innovation credits, the presence of incubators and entrepreneurship 
+- programs, and the accidental costs of milestone thinking. If we want to 
+- build a real startup community in Canada, we need to let go of those 
+- crutches, and choose the Infinite Game.
+    - {{[[DONE]]}} Takeaways 
+        - In [[Game theory]], [[finite games]] are played to win.
+        - In [[Game theory]], [[infinite games]] are played to continuing to play.
+        - [[Good angel investors]] are playing [[infinite games]].
+        - Not [[Good angel investors]] are playing [[finite games]].
+        - Gaining status is a [[finite games]].
+        - Gaining return of investment in a period of time is a [[infinite games]].
+        - [[Growth]] is never done.
+        - [[Starting a startup]] is an [[infinite games]].
+        - [[Starting a startup]] is to create something.
+        - [[Starting a startup]] is to continue to play.
+        - [[Starting a startup]] is betting on a radically different future.
+        - [[Starting a startup]] discovers a radically different future.
+        - Some [[business]] are [[finite games]].
+        - [[Good angel investors]] seems only comes from big liquidity events of previous startup. 
+        - Fast deal speed is essential for a [[Startup]].
+        - Fast deal speed is leveraged for the founders.
+        - [[Milestone]] is bad for [[infinite games]].
+        - [[Milestone]] is a [[finite games]].
+        - [[silicon valley]] runs fast.
+        - [[silicon valley]] rules opportunities in.
+        - [[silicon valley]] rolls valuations forward.
+        - [[silicon valley]] optimized for [[indefinite games]].
+        - The presence of bad things is preventing good things from happening.
+    - [[🤔 Questions]]
+        - How to identify a not [[Good angel investors]] in pitching and other means?
+        - How to make people willing to bet on [[Startup]] and become a [[Good angel investors]] without 
+- [[1:1]] with [[Jay Chang]]
+    - What is the goal of mobile automation?
+    - Device farm sharing session
+    - General answer from [[Steven Lam]]
+- [[1:1]] with [[Victor Lam]]
+    - Central problem of the company is from the indecision of [[Steven Lam]].
+- #[[🧘🏻‍♂️ Self Awareness]] [[🤔 Questions]] [[1:1]]
+    - What is your dream?
+    - What is your worries?
+- https://docs.blockstack.org/understand-stacks/running-mainnet-node#optional-running-with-docker
+- {{[[DONE]]}}  #PoC [[stacks.co]]
+    - https://matrix.org/
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

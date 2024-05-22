@@ -1,0 +1,1 @@
+- [[ideas]] VSCode theme like Winamp

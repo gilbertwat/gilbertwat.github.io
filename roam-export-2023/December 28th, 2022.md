@@ -1,0 +1,46 @@
+- 09:46
+    - Work on [[2022 review in [[Preface]]]] and [[2023 plan in [[Preface]]]]
+- 14:24
+    - [[Joseph Chan]] and [[Tommie Lo]]
+        - Secret income for engineer
+        - groom engineer to be educator
+        - Retention of customer is the problem of Preface
+        - Can reach the market already, we are missing the product to suit them.
+        - Transactional -> LTV (Alumni Network)
+        - Ease of mind in technology learning
+        - Immersive is a belief
+        - Preface Paper is a CAC.
+        - Preface is different because of PCW
+        - customer experience is maximal for tech team
+        - curriculum === piece of mind
+        - information flow is not even.
+        - FOMO + tech-phobia
+        - Passionate + Judgement
+        - Without SaaS, Series B is not possible
+        - Knowledgable is a good enough mating traits
+        - {{[[DONE]]}}  Segment and mixpanel evaluation  👏🏼 finished on [[March 13th, 2023]]
+- 17:00
+    - [[Anna Yu]] [[1:1]]
+        - Year end review and year start briefing
+            - From Anna
+                - What should we start doing?
+                - What should we stop doing?
+                    - All-hands without action items to follow through
+                        - Excited about B2C events
+                        - Not so much about the figure sharing
+                - What should we continue doing?
+                    - weekly update from [[Gilbert Wat]] is useful
+                        - Keep tech team aligned with the company
+            - From me
+                - [[Gilbert Wat]] will try to illustrate his thought better. [[expectation]]
+                - {{[[DONE]]}}  Share a list of books and product management courses for 2023
+                    - #expectation: Finish course on udemy together
+                    - {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]
+                - Shared the framework of [[idea state machine]]
+                - [[expectation]]: The scope of her role will be bigger
+                    - One of the expectation higher will be the envisioning of projects
+                - Concerns about the "hidden" costs
+                    - For example, business is going very creative on some of the offering and forget the limitation of our portal in discount code.
+                        - [[expectation]]: Keep the antenna sharp and keep each party informed about ideas and related efforts.
+                        - [[expectation]]: Not her responsibility that the hidden cost is not revealed until the #Program stage / #product stage in the [[idea state machine]]
+                            - Since it is too much for PM in [[Gilbert Wat]]'s experience

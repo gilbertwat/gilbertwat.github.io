@@ -1,0 +1,16 @@
+- {{[[DONE]]}} Grant Hubspot access to vendor #security #Preface
+- {{[[DONE]]}}  Share weekend findings on [[[[UI]]/[[UX]]]] in luxurious app.
+- think about standardization of [[Preface]] product
+- 17:00
+    - Continue Design discussion with [[Ken Chow]] [[Anna Yu]] and [[Ben Cheng]] on [[[[Preface]] Seamless Buy Link]]
+        - Meeting Notes
+            - Shared the overall design critique
+        - Assessment
+            - There is some challenges in working with [[Ken Chow]] when our expectation is he could help us solve [[[[UI]]/[[UX]]]] problems on a bigger scope.
+                - The rationale of insisted items is murky at best.
+                - There is a vibe of "I know better" and "You don't know my trade."
+                - Problems from teammates raised on UI is not heard.
+- [[[[Preface]] Seamless Buy Link]] out of scope
+    - The debate of whether our customers uses student ID or student username for identification.
+        - Stakeholder is ComOps team
+- Think about the transition plan of [[Ken Chow]] / [[[[UI]]/[[UX]]]] department

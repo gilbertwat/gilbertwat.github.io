@@ -1,0 +1,42 @@
+- Always radiate your gratitude and good vibe;
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #Research [[GOGOX]] https://www.optaplanner.org/
+- #[[ideas]] #Research mobile business collaboration tools
+    - business collaboration is hard now on mobile.
+- #[[🧘🏻‍♂️ Self Awareness]] I am bad at [[Managing up]] and following up on deadline and progress
+- #[[ideas]] #[[Side Projects]] Chart for React Native or Flutter
+- [[Handover]] [[[[GOGOX]] Payment Theme]] with [[Roger Ho]] [[Victor Lam]] [[Phoenix Lau]]
+    - Complete PT-770,PT-771,PT-772,PT-773
+    - PT-776 -> [[Kavin Wong]]
+    - PT-774 Data migration [[TBD]]
+    - Offboarding [[Roger Ho]]
+        - Documentation of interface of prepaid-wallet & partner wallet
+            - Event design document
+                - Rationale
+                - Pitfall
+                - Usage
+            - RESTful API (if any)
+        - Project plan of driver wallet (Stories left, progress, solution design doc)
+        - Configurations documents
+            - Rationale and usage
+- #Research #Tools https://pandoc.org/
+- [[1:1]] with [[Henry Tang]]
+    - Wanna try something new
+    - [[[[GOGOX]] Driver Experience Theme]] theme now not so challenging technically
+        - Flow problem challenging
+            - Feature + business logic complex
+- #[[ideas]] StoolTracker
+- #[[🧘🏻‍♂️ Self Awareness]] #MyNoList
+    - Emacs
+    - Security
+- [[[[GOGOX]] Driver Experience Theme]] [[Retrospective]]
+    - Successfully driving the team to arrive the same conclusion to decentralize [[Tom Lui]]
+    - Some tension between [[Anthony Chan]] [[Keith Chan]] and [[Shamiya Patel]]
+- [[How do you feel when you wind down?]]
+    - {{slider}}

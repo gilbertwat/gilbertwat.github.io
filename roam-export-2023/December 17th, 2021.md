@@ -1,0 +1,7 @@
+- #[[sleep]]
+    - Quality: mama day as #Alcohol last night
+    - Hrs: 8
+- 10:00 - 10:30 Signing contract for [[[[Preface]] Coding]]
+- 10:30 - 12:00 Distracted
+- 14:00 - 16:00 [[Resignation Letter to [[GOGOX]]]]
+- 16:00 - 17:00 [[Interview]] with a PM

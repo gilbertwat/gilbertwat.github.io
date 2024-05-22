@@ -1,0 +1,30 @@
+- How to find a [[stock]] with growth?
+    - Related 
+        - https://twitter.com/QCompounding/status/1598162471306534912?s=20&t=VtaD-NPoTOjYKWhrq91ypw
+            - good [[company]] / [[stock]]
+                - Financial strength
+                    - ROE > 15%
+                    - EPS growth > 10
+                    - Debt/profit ratio < 4x
+                - Business Model
+                    - Market leader
+                    - Competitive advantages
+                    - Low Cyclicality
+                - Management Team
+                    - High level of ownership
+                    - Constructive Acquisitions
+                    - Good capital allocation
+                - Market valuation
+                    - 5 year valuation model
+                        - Try to Purchase at half the estimated value in 5 years (~ 15% annual return)
+    - Look at the revenue stream.
+        - What is the growth of the the revenue?
+            - What is the driver of such growth?
+            - What is the risk of such growth?
+                - Do you think there is a chance of being perceived to materialize?
+            - Can the executive team execute the growth strategy?
+    - What is the narrative?
+        - Can the narrative changes to TAM?
+    - Financial Health
+        - Debt to X ratio and is it skeptical to marco (FED Rate)
+    - [Screener](https://yhoo.it/3KDKBTi)

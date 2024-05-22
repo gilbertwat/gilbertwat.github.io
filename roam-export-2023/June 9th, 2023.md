@@ -1,0 +1,5 @@
+- {{[[DONE]]}}  Handling Finance of [[Preface]] Finished on [[June 9th, 2023]]
+- Investigate the potential improvement of [[[[Preface]] [[product]]: website]]
+    - It is not matching the business needs
+    - Allocated $10000 HKD for digital marketing for [[Joseph Chan]]
+- {{[[DONE]]}}  Fixed domain name expiry

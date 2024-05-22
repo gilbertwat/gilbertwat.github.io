@@ -1,0 +1,9 @@
+- #[[sleep]]
+    - Quality: very good, feel like smarter and think clearer
+    - Hrs: 6.5
+- 09:00 Read Email
+- 10:00 [[Writing [[Mohammad Ahmad]] reference letter]]
+- Fix notes for [[December 20th, 2021]] and [[December 21st, 2021]]
+- Chat with [[Gemmy Wong]]
+- Write [[[[GOGOEnergy]] 2022 Tech Plan]]
+- Organize [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]] Notes

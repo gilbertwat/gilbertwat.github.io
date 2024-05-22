@@ -1,0 +1,15 @@
+- A green field project is always has an appeal to developers
+    - Freedom
+        - of choosing new tech
+        - of legacy business logics
+        - of coding standard
+        - of senior governing solutions
+    - Speed
+        - of developing new feature
+        - of positive impact to business
+        - of understanding the domain
+- A brown field project
+    - Reverse of the green field project
+        - Legacy code
+        - Messy business logic
+        - Abandoned code

@@ -1,0 +1,55 @@
+- 00:00 [[Theodore]]
+    - [[milk]] 80ml
+    - [[wet diaper]]
+- 03:00 [[Theodore]]
+    - [[milk]] 80ml
+    - [[wet diaper]]
+- 07:00 [[Theodore]]
+    - I cannot [[sleep]] well because he keeps calling us, not very safe.
+    - [[milk]] 120ml
+    - [[wet diaper]]
+- 08:30
+    - [[Preface]] Leadership meeting
+        - {{[[DONE]]}}  [[Queena]] Customer enquiries segments
+        - {{[[DONE]]}}  [[Basil]] Tracking system
+        - Lockdown strategy [[March 17th, 2022]] for 9 days
+            - Stand-by process for fulfillment
+            - Gear for [[WFH]]
+            - Data request update flow update
+            - Portal dashboard ???
+- 10:15 [[Theodore]]
+    - [[milk]] 30ml
+    - seems very fussy
+    - Always yawning
+    - #[[decided]]: [[sleep]] on the high chair
+    - #Result is good
+    - #hypothesis
+        - New environment, very nervous
+        - Nervous -> cannot [[sleep]] well
+        - Nervous -> cannot poop
+        - Switched milk -> cannot poop
+        - cannot [[sleep]] well -> eat a lot
+        - eat cannot ease the insecurity -> fussy
+- 12:08
+    - [[2022]] [[goals]]
+    - [[[[Preface]] [[[[2022]] Q1]] [[OKR]]s]]
+    - What is the plan for next week?
+        - In [[Week 9]], I plan to ...
+            - {{[[DONE]]}} Resolve [[Aaron Lai]] issue
+            - {{[[DONE]]}} Resolve [[Ronald Kwok]] issue of leaving
+            - {{[[DONE]]}} Check up [[Ben Cheng]]
+            - {{[[DONE]]}} Check up [[Ivo Wu]]
+            - {{[[DONE]]}} Follow up with [[Alexander Li]] on [[[[Preface]] membership scheme]]
+            - {{[[DONE]]}} Follow up with [[Moses Ngan]] on [[[[[[Preface]] [[product]]: website]] migration]]
+            - {{[[DONE]]}} Follow up with [[Moses Ngan]] on [[[[Preface]] membership scheme]]
+            - {{[[DONE]]}} Follow up with [[Ehsan Ayaz]] on [[[[[[Preface]] [[product]]: website]] migration]]
+            - {{[[DONE]]}} Follow up with [[Vegas Ho]] on hiring
+            - {{[[DONE]]}} Follow up with [[Ellen Lau]] on [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+            - {{[[DONE]]}} Follow up with [[Ehsan Ayaz]]
+- 14:30
+    - [[1:1]] [[Ehsan Ayaz]]
+        - Harsh when supporting the Early summer camp taskforce.
+        - Harsh when supporting the company effort when we are in this COVID situation.
+- 15:40
+    - [[1:1]] [[Ronald Kwok]]
+        - Discuss his potential offer

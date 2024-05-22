@@ -1,0 +1,13 @@
+- What is your meme today?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FSOHlXM9YVG.png?alt=media&token=4ebe4a59-a634-49a3-ba20-1d7d6d0b5d9d)
+- What is the coding you have done for 120 minutes?
+    - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+- [[❌]] #[[💦 Workout]] for 45 minutes in [[recovery]]
+- [[❌]] [[Lower back spasm]] stretch
+- [[❌]] Preparation of Bookclub in [[[[books]]: The Laws of Human Nature]]
+- 19:30 - 21:00 [[meetings]] with [[Ergon]] 
+    - CV editor is bullhorn
+    - 95%
+        - hard to reproduce
+    - The problem is about from Bullhorn -> MongoDB
+    - 

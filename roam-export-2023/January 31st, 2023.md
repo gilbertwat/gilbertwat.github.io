@@ -1,0 +1,23 @@
+- #[[05 2023]]
+- 08:30
+    - [[Preface]] leadership team weekly meeting
+        - share {{[[DONE]]}}  preparation for [[January 31st, 2023]] leadership meeting on [[[[Preface]] [[strategy]]: product metrics]]
+- 10:30
+    - [[1:1]] [[Anna Yu]]
+        - [Shared Notes](https://docs.google.com/document/d/1oGCkhjC2aquAAVNoBDnI82C0VOG2_9xCqakUL4hVNMU/edit#heading=h.mzdb1hrmwug)
+- 11:00
+    - [[Preface]] tech team weekly meeting
+- 13:00
+- 15:00
+    - [[1:1]] with [[Alex Li]]
+        - [Shared Notes](https://docs.google.com/document/d/16eYrId-9_p8jGB1IF79lsb2H1PG4etG4_tlAYmVl7DE/edit)
+- 17:00
+    - [[1:1]] with [[Ben Cheng]]
+        - [Shared Notes](https://docs.google.com/document/d/1iWLA-8KNNVI71ZASwo-JaEOXikyMVfNwDVj1e1-MG6o/edit?usp=sharing)
+- {{[[ARCHIVED]]}} Follow up with [[James Cheuk]]
+- {{[[DONE]]}}  Follow up on https://twitter.com/alexandr_wang/status/1619893376589139972?s=20
+- {{[[DONE]]}}  https://twitter.com/BasedBeffJezos/status/1619870596057407488?s=20 watch and notes 👏🏼 finished on [[February 14th, 2023]]
+- {{[[ARCHIVED]]}}  Work on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]
+- [[gratitude dairy]]
+    - I have a [[Wifey]] that is always brutally honest to me.
+    - [[Alex Li]] is always brutally honest to me.

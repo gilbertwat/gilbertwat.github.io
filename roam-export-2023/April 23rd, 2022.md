@@ -1,0 +1,14 @@
+- 09:00
+    - [[1:1]] with [[Tommie Lo]]
+        - Follow up last conversation
+            - Start being more tough to junior engineer
+            - Start to collaborate more with [[Carmen Yeung]]
+            - Hiring
+        - {{[[DONE]]}} Learning budget for the team 
+            - {{[[DONE]]}} Complete the budget request on [[May 3rd, 2022]] for our {{[[DONE]]}} Learning budget for the team 
+        - {{[[DONE]]}} New computer for the whole team with more RAM 
+            - {{[[DONE]]}} Complete the budget request on [[May 3rd, 2022]] {{[[DONE]]}} New computer for the whole team with more RAM 
+- 15:00
+    - Hubspot data discussion with [[Basil]] and [[Queena]]
+        - Part of {{[[DONE]]}} Host a road trip to collect all the data and metric requires from other departments and leaders
+        - Some initial alignment from both of t

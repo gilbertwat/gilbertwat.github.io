@@ -1,0 +1,3 @@
+- {{[[ARCHIVED]]}}  #to-read https://arxiv.org/pdf/2211.12190.pdf
+- {{[[ARCHIVED]]}} Further investigate the problem of concept and data drift in [[machine learning]]
+- {{[[ARCHIVED]]}}  #to-read https://arxiv.org/pdf/2211.12054.pdf

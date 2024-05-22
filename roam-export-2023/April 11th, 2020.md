@@ -1,0 +1,26 @@
+- [[books]] [[[[books]]: Disunited Nations]]
+    - What is a successful country
+        - Land (Defensible borders)
+        - Food
+        - Population Structure
+        - mix of energy input in modern life
+        - Ship 1/20 of the cost of land delivery
+        - Plain
+        - China is a place without / cannot build continuity
+            - Margin of Error razor thin (Arable land is very little)
+            - No Fossil Fuel
+            - 1/5 agricultural product is internationally traded
+            - 4/5 dependent on petroleum-derived inputs
+        - Energy access
+            - Green tech
+                - Competing with Arable land
+            - Oil
+                - No control over for China
+    - Japan
+        - we are in a information revolution, it will be the same as industrial revolution. riot and revolution will be soon
+        - value add economic of scale
+        - no empire, back to preindustrial 
+    - Russian
+    - Germany
+        - Demography
+        - need external security

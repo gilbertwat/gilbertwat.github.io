@@ -1,0 +1,26 @@
+- Author:: [[Scott Alexander]]
+- Full Title:: Staying Classy
+- Category:: #articles
+- URL:: https://slatestarcodex.com/2016/01/30/staying-classy/
+- ### Highlights first synced by #Readwise [[September 1st, 2023]]
+    - Classes are cultures. ([View Highlight](https://read.readwise.io/read/01h97h9abmkpyqkyn2cbf8xd7p))
+    - College is a finishing school for the upper classes. They send their children there to learn the proper upper class values and behaviors. ([View Highlight](https://read.readwise.io/read/01h97h9z7fymahca27hyz1fxzd))
+    - 65% of people are in the labor class. ([View Highlight](https://read.readwise.io/read/01h97habdfw7agrxngt9q9sjnf))
+    - 23.5% of people are in the gentry class. They fetishize education and career capital. They engage in all sorts of signaling games around “fair trade” and “organic” and what museums they go to. ([View Highlight](https://read.readwise.io/read/01h97hankdqbtq2kkh209z4gnk))
+    - t the lower level they’re schoolteachers and starving artists, at the mid level they’re “professions” like engineering and law, and at the highest level they’re professors and scientists and entrepreneurs. ([View Highlight](https://read.readwise.io/read/01h97hb2c25wt72j84f1gqdh2m))
+    - 1.5% of people are in the elite class ([View Highlight](https://read.readwise.io/read/01h97hb8vaqhtngj3r8smyw9xf))
+    - they might compete in complicated status games around who throws the best parties or has the best horses or whatever. ([View Highlight](https://read.readwise.io/read/01h97hbfe053jmd91w8nxqy9gd))
+    - The highest class (E1) are psychopaths who burn the global commons for shits and giggles. They tend to be drug lords, arms dealers, and morally insane billionaires. ([View Highlight](https://read.readwise.io/read/01h97hd4by6esehke3r12jexdk))
+    - After the World Wars, everybody got angry at the Elites for all the war and killing and stuff, which convinced them to lie low for a few decades and forced the Gentry to take over. ([View Highlight](https://read.readwise.io/read/01h97hds96zvcakcjzt4x3degh))
+    - These tribes seem closely related to classes. “Blue Tribe” is similar to Gentry; “Red Tribe” is similar to Labor. I won’t say there’s a perfect 1:1 equivalence; for example, I know some union leaders who are very clearly in the Labor class but who wouldn’t be caught dead in the Red Tribe. But the resemblance is too close to miss. ([View Highlight](https://read.readwise.io/read/01h97hm08dvg9ym18px7g3p7pq))
+- ### New highlights added [[September 3rd, 2023]] at 11:49 PM
+    - Dalits are the underclass, made up of homeless people, chronically unemployed people, drug addicts, etc. ([View Highlight](https://read.readwise.io/read/01h9dvarvaxkw16y12jt8mz8zp))
+    - Vaisyas are standard middle-class people who engage in productive employment. ([View Highlight](https://read.readwise.io/read/01h9dvax0r043x02dgew06qfse))
+    - Brahmins are very educated people who participate in the world of ideas ([View Highlight](https://read.readwise.io/read/01h9dvb5x5ctht55f8knq2cev0))
+    - Optimates are very rich WASPs concerned with breeding and old money. ([View Highlight](https://read.readwise.io/read/01h9dvbrtbj5x6c4d0vexmzbx9))
+- ### New highlights added [[October 25th, 2023]] at 3:42 PM
+    - People mostly understand their own class, and the class one step above or below them, but have only vague stereotypes of classes further than that. ([View Highlight](https://read.readwise.io/read/01hdjw554bgb9pnywmg7ycs1nr))
+    - Or suppose a thin 25-year-old man comes in wearing glasses, a small close-cropped beard, and a Led Zeppelin t-shirt. His name is Alex and he apologizes for being three minutes late. ([View Highlight](https://read.readwise.io/read/01hdjwdj81dymweqhx1jyrqe5n))
+    - 10% of people are in an underclass consisting of “generationally poor” ([View Highlight](https://read.readwise.io/read/01hdjwehks7ag8zbmh45gr4n56))
+    - A ([View Highlight](https://read.readwise.io/read/01hdjwf5fn9hfvs13yqsgfj0vj))
+    - To be in labor you need skills, to be in gentry you need education, and to be in elite you need connections. ([View Highlight](https://read.readwise.io/read/01hdjwfpw00chvnra6aktqjr0z))

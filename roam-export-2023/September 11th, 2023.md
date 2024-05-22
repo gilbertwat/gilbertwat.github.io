@@ -1,0 +1,7 @@
+- Insights on [[Starting a startup]] [[business]] with [[Wifey]]
+    - From [[Plaza Premium]] [[Mrs. Song]] on [[pricing]]
+        - The price for your service should be "penny" for the customers.
+            - For example 5-8% per orders for the partners in [[GOGOX]]
+        - Prepayment is always always the better deal.
+- [[gratitude dairy]]
+    - [[Theodore]] removes his shoes for the first time.

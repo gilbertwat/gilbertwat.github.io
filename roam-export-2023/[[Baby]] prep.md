@@ -1,0 +1,27 @@
+- Launch date: Around [[February 15th, 2022]]
+- Status: [[Ongoing]]
+- [[List from [[Tony Ha]]]]
+- For [[Wifey]]:
+    - On day
+        - 走佬袋
+    - Afterward 
+        - 月子餐
+- For [[Baby]]:
+    - Clothes
+        - Summer
+        - Winter
+    - Hygiene
+        - Diapers
+        - Cotton
+        - Laundry
+        - Clothes wash
+    - Eatery
+        - Bottle x 6
+        - Breast pump
+        - Formula powder
+        - Formula powder holder.  
+    - Travel
+        - Stroller
+    - Name:
+        - 中文名
+- 

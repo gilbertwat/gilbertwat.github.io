@@ -1,0 +1,11 @@
+- Fallout with [[James Cheuk]] on the current projects
+    - Delay on [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]] 
+    - {{[[TODO]]}}  #writings [[My post mortem with the negotiation with [[James Cheuk]]]]
+- Work on [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]
+- Ops x Weekly with [[Hema Shah]] [[Ellen Lau]] [[Ben Cheng]]
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - #health #discomfort stuffy nose
+- [[career]]
+    - {{[[DONE]]}}  30 minutes of any one of #writings

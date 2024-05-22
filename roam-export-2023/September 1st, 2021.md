@@ -1,0 +1,4 @@
+- 09:00 [[Twitter]] {{[[POMO]]: 25}}
+    - Generate interests
+    - https://twitter.com/dvassallo/status/1432695370438479876
+- 10:21 {{[[DONE]]}} Read [[Summary of  [[GOGOX]] Application Proof]]

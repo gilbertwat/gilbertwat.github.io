@@ -1,0 +1,12 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - A bit tired after yesterday workout
+- https://www.notion.so/Opvia-Jobs-151305ed30a140f29ec9eb7df00deadc
+- 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

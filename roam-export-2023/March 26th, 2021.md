@@ -1,0 +1,74 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[[[2021]] Q2]] [[OKR]] for [[GOGOX]]
+    - Integrate QA teammates into software delivery process
+    - Keep our SLO on all product we support
+        - Mobile need to improve to 99% crash free rate
+    - On time delivery for all product project
+    - Deliver project flywheel
+    - Transform remote work culture
+        - use slack channel
+    - Impact MAP API on Production
+    - 
+- [[1:1]] with [[Chris Lee]] [[QA team]] [[GOGOX]]
+    - Concerns
+        - Short term change?
+    - Day to day
+        - Business theme
+        - Payment
+        - -> Product based???
+    - Sacrifice current work??
+    - Try my best lah mindset
+    - Challenges?
+        - Manual work mostly
+        - A lot of repeated work test
+        - think of scenerio testing
+        - Learn automation is challenging
+    - Enjoy
+        - All or none of it
+    - Not enjoy
+        - Task switching / exploratory research work
+    - Smooth definition
+        - no upstream blocker
+        - no surprise from engineers
+        - A lot to cover in smoke test in 2 days
+    - p0 p1 p2 analysis on affected area
+    - OT is ok as long as it is spared
+    - Sprint to sprint routine
+        - Meeting / ritual
+        - think about test cases
+            - Individual work?
+        - manual testing 
+        - PISD / ad-hoc support
+    - Given When Then is very good for
+- [[1:1]] with [[Tracy Fung]] [[QA team]] [[GOGOX]]
+    - Clear communicator
+    - Wanna Growth to 
+        - Developer communication
+        - Delivery User centric app
+        - From Senior 
+        - [[Nathan Ng]] and [[Chris Lee]] learn more from
+        - [[Chris Lee]]
+            - Are step by step
+            - Are open
+        - [[Nathan Ng]]
+            - More manager style
+            - More organized
+        - Face to face warmth
+    - help [[Lili Chan]] too on Shopify
+    - Study story and write user stories
+    - Incident 
+    - Manager can solve your problems
+        - Communication gap with [[Shamiya Patel]]
+    - QA team are very nice
+    - Slower response from Developer on Slack
+    - QA teammates are very nice very enjoy
+- [[Lucien Lu]] [[QA team]] [[GOGOX]] [[1:1]]
+    - Very happy with current role
+    - Have a bit of supporting issue
+    - Same routine with other QA
+        - Write test cases
+        - Run test cases
+        - Sprint meetings
+    - Stressed by the timeline, the scope of the QA is too big for each sprint.

@@ -1,0 +1,40 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- {{[[DONE]]}} Reread https://alexdanco.com/2020/01/23/social-capital-in-silicon-valley
+    - Topics
+        - #Startup #Society
+    - Excerpt
+        - But Silicon Valley still has this unbeatable advantage, available in abundance like nowhere else, that helps startups get off the ground: __social capital__.
+        - It’s called social __capital__ for a reason, because like other forms of capital, it works as a production factor.
+        - Having access to social capital is a privilege. In the business world, social capital is earned over decades, and doled out carefully by those who have it: you can’t just give that stuff away.
+        - Social capital is especially important if you’re trying to build something out of nothing, and need credibility and momentum in order to open doors and be taken seriously.
+        - It’s a part of the culture. To some degree, people pay it forward because someone paid it forward to them. But it’s not just people being nice. Newcomers have real currency here. What, though?
+        - The Silicon Valley tech ecosystem is a world of pattern matching amidst uncertainty. We pattern match ideas, we pattern match companies, but most of all we pattern match people.
+        - You’re different enough to have unique potential, but similar enough to fluently use all of the leverage that the tech ecosystem offers you.
+        - How else can you boost your social capital in Silicon Valley? Being a founder is obviously one way. Growth is also good at bestowing status – if you work at a fast-growing startup, even if it’s small or you’re not the founder, you’ll be in demand. Old fashioned charisma, being good at Twitter, or knowing good gossip obviously counts for something. You can also [buy your way in by angel investing](https://alexdanco.com/2019/11/27/the-social-subsidy-of-angel-investing/) – so long as you do it the right way. Looking the part sure doesn’t hurt.
+        - I’d like to join the group, and I have something to offer.
+        - If you can demonstrate to early prospects and investors that you’re successfully able to promote hyped-up equity in your own reputation, it’s a good sign that you’ll be able to successfully sell hyped-up equity in your startup too.
+        - **Social capital is antifragile: it’s either chaotic and growing, or orderly and shrinking**
+        - It’s useful that no one knows whose stock will rise next year.
+        - Social capital is antifragile: it thrives under conditions of disorder, and it suffers at rest.
+        - One of the most important parts of the Silicon Valley social contract is the code of conduct around how you interact with people above or below your status level. There’s a kind of “Golden Rule” that’s in place if you participate in tech: “Treat others as if they might be the next great founder.” Status illegibility is a virtue.
+    - {{[[DONE]]}}  Takeaways 
+        - Social capital is coined for a reason. It is a production factor. People can leverage them to do something more.
+        - It is not obvious. 
+        - Real status doesn't show that.
+        - It will convergent with real status.
+        - In silicon valley, pay it forward and treat everyone as a future founder is a norm.
+        - But why?
+        - it is because of the social capital in silicon valley.
+    - [[🤔 Questions]]
+        - What is the social capital in [[🏴Hong Kong]]?
+            - Hustling?
+        - What is the social capital in [[GOGOX]]?
+        - What is the social capital in [[🇹🇼 Taiwan]]?
+        - What is the social capital in [[London]]?
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}

@@ -1,0 +1,51 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - [[sleep]] not very fully
+- [[[[GOGOX]] Driver Experience Theme]] challenges
+    - It is a theme that relies on local operation team to be successful
+        - What is successful in the lens of [[Tom Lui]]? [[Reeve Kwan]]? [[Steven Lam]]? [[Vincent Chan]]? Drivers? [[Ming Tse]]? Is there any alignment??
+            - KPIs
+            - Sentiments (How to measure)
+            - Business Impact ($$)
+        - It is very hard to leverage the operation to achieve business impact
+            - Not on the critical path of success in business in all regions
+                - The feature shipped before is not creating revenue
+                    - Empirical
+                    - Not aim for that??
+                - HK
+                    - 搞搞震 (Feel like)
+                    - Why are HK conservative?
+                - SG
+                    - ?? [[Tom Lui]] 幾好
+                    - Always delay on the feature rollout
+                        - Why?
+                - TW
+                    - ??
+                    - Always delay on the feature rollout
+                        - Why?
+                - VN
+                    - ??
+                - KR
+                    - Not applicable as KR has their only DA
+                - IN
+                    - ??
+            - Not directly contribute to the flywheel on the business
+        - No one is using OKRs as alignment
+    - Driver Sentiments
+        - ???
+    - Product Metrics
+        - ???
+    - Teammates engagement
+        - is low
+            - Evidence 
+                - Delivery quality and speed is not as effective as we want
+                - 1on1 (都係咁, Ship feature, code focus)
+            - Why?
+        - Not invest in building the team
+- [[How do you feel when you wind down?]]
+    - {{slider}}

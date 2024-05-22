@@ -1,0 +1,10 @@
+- Candidates
+    - To perform guitar in a concert
+    - Write a book
+    - To start a consultancy business
+    - To build a few product with a constant revenue stream
+    - To go around the world with my family
+    - Bring up a useful [[Theodore]]
+    - To go for an iron man race
+    - To earn 10m USD
+    - 

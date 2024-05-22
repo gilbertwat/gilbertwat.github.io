@@ -1,0 +1,29 @@
+- Research on [[AI]] #[[foundation activity]]
+    - Skim through paper
+        - https://towardsdatascience.com/the-f1-score-bec2bbc38aa6
+            - [[Literature Notes]]
+                - [[f1 score]] is the harmonic mean of precision and recall
+                - [[f1 score]] = 2 * ([[precision]] * [[recall]]) / ([[precision]] + [[recall]]), $$2 \times \frac{Precision \times Recall}{Precision + Recall}$$
+        - https://developers.google.com/machine-learning/crash-course/classification/true-false-positive-negative
+            - [[true positive]] means given the prediction is positive, it actually is positive.
+            - [[false positive]] means given the prediction is positive, it actually is negative.
+            - [[true negative]] means given the prediction is negative, it actually is negative.
+            - [[false negative]] means given the prediction is negative, it actually is positive.
+        - https://developers.google.com/machine-learning/crash-course/classification/accuracy
+            - [[accuracy]] in [[machine learning]] is the sum of [[true positive]] and [[true negative]] divided by the sum of all [[true positive]], [[true negative]], [[false negative]] and [[false positive]].
+        - https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+            - [[precision]] is [[true positive]] divided by the sum of [[true positive]] and [[false positive]], $$\frac{TP}{TP+FP}$$
+            - [[precision]] the higher the better.
+            - [[recall]] is [[true positive]] divided by the sum of [[true positive]] and [[false negative]], $$\frac{TP}{TP+FN}$$
+            - [[recall]] the hight the better.
+            - [[recall]] is always in tension with [[precision]].
+    - Continue {{embed-path: ((oyRvLLeln))}}
+- {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes #[[foundation activity]]
+- {{[[DONE]]}} Add 1-3 [[Permanent Notes]] #[[foundation activity]]
+- {{[[DONE]]}}  Research on [[tokenomics]] #[[foundation activity]] #progress
+    - https://daolaunch.net/defining-good-and-bad-project-tokenomics/
+        - [[Vesting]] schedule has to be shorter than equity
+        - [[smart contract]] needs to be audited
+        - [[token allocation]] has to be also reasonable to all stakeholders.
+        - [[[[product]]-[[market]] fit]] and utilities is also crucial.
+        - [[ideal team]] with relevant experience and backers is also crucial.

@@ -1,0 +1,136 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - Not [[sleep]]ing a full cycle, [[sleep]]y
+- [[360 Review]] [[Paul Leung]]
+    - What's one thing this person should stop doing?
+        - I have tons but I need to highlight that he should stop requiring total control and alignment from all agile teams on a certain process. Process is helping us to ship product and debug delivery problems. They should be changeable according to circumstances and as lightweight as possible. Each agile team has its own customer segments and team dynamics, hence we need our process to be flexible. We can solve release management problem by treating our process as building blocks and decoupling systems.
+    - What's one thing this person should start doing?
+        - I have tons but I would emphasize on understanding current team situation. Also keep himself up-to-date with the best practices in an increasingly complex system. The approach of assuring quality in an established, slow pace organization with a simple product is different from what [[GOGOX]] need right now.
+    - What's one thing this person should continue doing?
+        - Nil
+- [[360 Review]] [[Gemmy Wong]]
+    - What's one thing this person should stop doing?
+        - Focusing on the ideals and gaps between them, instead we should focus on the steps necessary to bridge the gaps and create a feedback loop to iterate. For example, we are not happy with the work quality of department X, and their work is affecting our company. What should be our next step? How to measure success? Can we root cause fix it? If not, how are we minimizing its impact to the company?
+    - What's one thing this person should start doing?
+        - Put more effort on articulating design efforts, taste and concepts to non-designers to expand her influence
+    - What's one thing this person should continue doing?
+        - Keeping the good vibe and standard of work to set up a good example for designers around the company
+- [[360 Review]] [[Ben Lin]]
+    - What's one thing this person should stop doing?
+        - Prioritize execution of tasks instead of communicating and updating project status. Platform team members are supposed to be the best partner of infrastructure team, but currently we are not sharing enough context to be even more impactful and communication cruft is coming up from time to time.
+    - What's one thing this person should start doing?
+        - Influence our infrastructure teammates to be more aware of the business and product and be relentless in seeking feedback from users such as platform team members.
+    - What's one thing this person should continue doing?
+        - Be calm, rational and confident to himself.
+- [[360 Review]] [[Patrick Leung]]
+    - What's one thing this person should stop doing?
+        - Very stressed out by the seemingly under-performance of data team members
+    - What's one thing this person should start doing?
+        - Rallying the team together to support new data manager.
+    - What's one thing this person should continue doing?
+        - Understand business deeply by talking to everyone of the department head.
+- [[SLA]] discussion
+    - [[Tony Ha]] [[Brian Chen]] [[Ben Lin]]
+    - Error Rate
+        - Need to be meaningful as for
+        - POST w1/orders
+- [[SLA]] Error rate candidates
+    - API candidate for error rate SLO
+        - client app
+            - Misc
+                - P1
+                    - GET /configs (*)
+            - Auth
+                - P1
+                    - POST /c2/users/sign_in
+            - Van
+                - P1
+                    - POST /c2/orders/quote
+                    - POST /c2/orders (*)
+                - P2
+                    - POST /orders/{uuid}/cancel
+        - Public API:
+            - v2/
+        - Driver App:
+            - Misc
+                - P1
+                    - GET /configs_v2
+            - Auth
+                - P1
+                    - POST /user/authorize (*)
+            - GOGODelivery
+                - P1
+                    - GET /d2/orders
+                    - GET /d2/orders/<uuid>/
+                    - POST /orders/<uuid>/signatures
+            - Van
+                - P1
+                    - GET /order/channels
+                    - POST /order/subscribed_orders
+                - P2
+                    - PUT /order/order_request/<id>/journey/state
+                    - PUT /order/order_request/<id>/journey/arriving 
+                    - POST /order/pricing/amend_and_complete/<id>
+                    - PATCH /order/order_request/<id> (*)
+            - Payment
+                - P2
+                    - GET /order/order_request/<id>/payment/hkfps/token
+                    - POST /user/go_go_coins/topup/*
+            - Location
+                - P1
+                    - PUT /user/location (*)
+        - Web
+            - P1
+                - POST /users/sign_in
+                - POST /b2b/order_requests
+            - P2
+                - POST /b2b/order_requests/bulk
+                - POST /b2b/prepaid_wallets/add_credit
+- Delivery [[All Hands [[meetings]]]] #5
+    - Praise the team
+        - 99.9% uptime
+        - Firefighting (Not celebrating, but mourning)
+        - Reopened stories + staging bugs
+            - Why
+                - They are not on any book I have read
+                - Indicate the communication gaps in the team.
+                - How?
+                    - Just make sure we are communicating in agile team well
+            - Ultimately
+                - Feature lead time
+                    - from concept to release
+                    - A lot of missing pieces
+                        - operation, regional difference
+                    - Not actionable
+                    - Customer satisfaction is the utmost important, all KPIs, OKRs... are tools to help us focus.
+                    - If you are interested to learn more, discuss with me.
+    - Great job!
+    - Company Update
+        - Critical moment of the company
+        - Steven and SMT are working very hard to make sure our direction is clear
+        - We need to turn defensive to offensive
+    - How can we help?
+        - Profit center mindset
+        - Customer focus mindset
+        - Flexibility
+    - Specifically
+        - 0 release delay (Emphasize the timeline is from engineers not PM not Gilbert not Young not SMT not CEO)
+            - update our workflow
+        - 0 incidents (business continuity)
+            - update our workflow
+        - Update our development workflow
+            - Own our quality
+    - One last thing,
+        - In this quarter, everyone did a good job to grow
+        - I can see everyone is growing in some respects, more communicative, more collaborative, more proactive, more focus.
+        - Great job!
+        - One thing I want everyone to adopt in Q4
+            - Own our quality
+    - (1+0.01)^365 = 36.6
+- [[Ergon]] meeting [[Phase 3]]
+    - Reconfirm a change to make sure no hard feeling from the affected. 
+- How do you feel when you wind down?
+    - {{slider}}

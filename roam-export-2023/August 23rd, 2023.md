@@ -1,0 +1,2 @@
+- https://wistia.com/pricing #[[[[Preface]] [[project]]: #sourcing Video delivery platform]]
+- https://mindstamp.com/ [[[[Preface]] [[project]]: #sourcing Video delivery platform]]

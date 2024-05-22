@@ -1,0 +1,48 @@
+- Last day of [[Ronald Kwok]]
+- 09:00
+    - [[Preface]] Leadership offsite
+        - 4 minutes of meditation
+            - Not much
+        - Ice breaker
+            - Very interesting game to open up
+        - Performance 
+            - To align the lingo of the 
+            - 5Es
+                - Execute
+                - Energize
+                - Enable
+                - Envision
+                - Engage
+            - 9-Box
+                - High | Medium | Low Potential
+                - High | Medium | Low Performance
+                - Very different standard for me with others
+                    - Calibrated with the rest of the company
+        - 1:1 101 and roll out to the company
+            - Each of the team has to do it.
+        - Business Strategy meeting
+            - Key takeaways
+                - Our financial figure is not very bad.
+                - We need to 1000% our revenue and cut our cost by 70% in percentage to become a unicorn.
+                - It is actually an alignment meeting to make sure every leaders in the company shared the same internal challenges
+                    - Experimenting new product in between 30 HKD - 60000 HKD
+                        - The disjoint between [[[[Preface]] Coding]] and [[[[Preface]] Coffee & Wine]]
+                    - Unclear product strategy and process
+                        - Product trial and hero product distinction
+                        - Take it to [[Tommie Lo]] on [[April 22nd, 2022]]
+                    - Data is not accurate and not usable
+                        - Need to define what is important metric for our company and our departments
+                            - {{[[DONE]]}} Host a road trip to collect all the data and metric requires from other departments and leaders
+                    - Unclear and unscalable SOPs for some crucial functionalities
+                        - Nomad's team
+                        - Product team
+                    - No selection of customers
+        - Observation
+            - Hema has a very different reputation among the leaders and the work level.
+                - Hema is well loved among the leaders but not very welcome in the work level.
+            - Strategy is not very clear at the moment.
+                - Knowledge as a Service?
+                - Insight as a Service?
+                - Personally a bit put off by these notions because it reminds me of Accenture or McKinsey
+                    - They cannot be a hyper growth company.
+                    - 

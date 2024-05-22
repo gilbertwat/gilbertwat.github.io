@@ -1,0 +1,7 @@
+- https://www.gwern.net/
+- https://danluu.com/
+- https://commoncog.com/blog
+- https://www.lesswrong.com/
+- https://fs.blog/
+- https://bitcoinmagazine.com/technical/taproot-coming-what-it-and-how-it-will-benefit-bitcoin
+- 

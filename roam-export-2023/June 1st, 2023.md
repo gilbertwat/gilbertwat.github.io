@@ -1,0 +1,4 @@
+- Presentation for [[[[Preface]] [[project]]: Techbites MVP]] Launch
+    - What is TechBites?
+        - Fast Tech Content, Insightful and Educational
+        - Initial User Persona: 

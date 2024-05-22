@@ -1,0 +1,39 @@
+- Individual Contributor
+    - Software Engineer Trainee
+        - Internal Grade: (Associate)
+        - Requirements
+            - Ask for help when blocked by uncertainly
+            - Basic coding skills
+            - Complete daily task with minimal guidance
+            - Follow team’s best code practice
+            - Report progress with clarity
+            - Suggest solution of current projects
+    - Software Engineer 
+        - Internal Grade: (Lead)
+        - Requirements
+            - Complete 1-week project with minimal guidance
+            - Complete features from end-to-end technically
+            - Contribute team’s best practice in coding
+            - Suggest way to improve team productivity
+    - Senior Software Engineer
+        - Internal Grade: (Assistant Manager)
+        - Requirements
+            - Be a tech expert in one or more core technology
+            - Collaborate with cross team effectively
+            - Complete project independently
+            - Drive initiative to Improve team productivity
+            - Embrace unknown and uncertainty
+            - Level up other team members
+            - Raise the quality of the system
+    - Staff Engineer / Engineering Manager
+        - Internal Grade: (Manager)
+        - Requirements
+            - Discover area of improvement aligned with business priority
+            - Lead tech driven cross team effort
+    - Senior Staff Engineer / Senior Engineering Manager
+        - Internal Grade: (Senior Manager)
+        - Requirements
+            - Constructively challenge leadership assumptions
+            - Drive changes even outside tech team
+            - Lead tech direction
+            - Proactively suggest better alternatives

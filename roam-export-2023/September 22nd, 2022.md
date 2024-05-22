@@ -1,0 +1,76 @@
+- [[[[2022]] Week 38]] [[goals]]
+    - [[Preface]]
+        - [[team building]]
+            - {{[[DONE]]}}  Celebrate with tech team on MVP launch for buy link on [[September 21st, 2022]]
+        - shipping
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 1 Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+            - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+        - #hiring
+            - {{[[DONE]]}}  [[Gemmy Wong]] follow up Finished at [[September 24th, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - A bit higher temperature and still exhausted
+- 10:15
+    - {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes
+- 10:30
+    - Clean up [[September 21st, 2022]] notes
+- 12:17
+    - Work on {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 1 Finished at [[September 24th, 2022]]
+- 12:55
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[[[Week 11]] of [[2022]]]]
+- 13:00
+    - Lunch and [[Theodore]] shopping
+- 16:00
+    - Discussion of {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]] with [[Anna Yu]] and [[Ben Cheng]]
+        - Reference [[Launch Plan for [[[[Preface]] [[product]]: Coffee App]]]]
+        - #progress #decided to quote in different phrases
+        - Phase 1: Demo (Pre-customer)
+            - Development
+                - Add customization of header images based on users
+            - Operation
+                - Add and perform adding new demo users
+        - Phase 2: Support of non-crew credit (~10 app users from customers)
+            - Development
+                - Refactor backend to support partner credit
+            - Operation
+                - Add and perform SOP to mark new users as staff users
+                - Add and perform financial reports to calculate costs.
+        - Phase 3: Go on app store (> 100 users from customers)
+            - Development
+                - Respond to the comment from Google Play Store
+                - Respond to the comment from Apple Store
+            - Operation
+                - Add Reliability SOP to handle E365 reliability issues with [[[[Preface]] Coffee & Wine]]
+            - Content / Marketing
+                - Write copy in Apple store to pass review process
+                - Write copy in Google Play store to pass review process
+        - Phase 4: Go on large scale of deployment (> 1000 users from customers)
+            - Development
+                - Stress test
+            - Operation
+            - Content / Marketin
+        - Alternatives
+            - Turn [[[[Preface]] [[product]]: Coffee App]] to Web?? Any business perception problem?
+- 17:00
+    - [[Theodore]] bathing and feeding and soothing
+- 18:30
+    - Continue Discussion of {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]] with [[Anna Yu]] and [[Ben Cheng]]
+- 19:30
+    - [[Theodore]] wake up
+- 20:00
+    - Dinner
+- 20:40
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[Anderson-Darling single-sample test]]
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[[[Gilbert Wat]]'s [[creative]] [[system]]]]
+    - {{[[DONE]]}}  Read [[Bible]] for 10 minutes 
+- {{[[DONE]]}}  Seek [[investment]] opportunities
+- [[day end evaluation]]
+    - {{[[DONE]]}}  Mark #decided and #progress and [[nature of [[progress]] and [[achievements]]]]
+    - #Energy
+        - High energy not really ready for [[sleep]]
+    - [[Theodore]] growth milestone
+        - Went to shopping mall and a bit nervous in new environment.
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time

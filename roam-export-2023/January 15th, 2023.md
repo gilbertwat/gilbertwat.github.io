@@ -1,0 +1,13 @@
+- #[[22 2023]]
+- #[[15 2023]]
+- #SmartBlock weekly notes
+    - What did I learn in this week?
+        - {{[[query]]: {and: {between: <%DATE:last Saturday%> <%DATE:last Sunday%>]} [[learning]]}}}
+        - Some specific points mentioned include the importance of prioritizing the improvement of technology over relying solely on human ability, the usefulness of evaluating projects by removing assumptions, the benefits of aligning communication with project goals and purpose, and the role of a leader in facilitating effective communication and focusing on the most important tasks.
+    - What did I do this week?
+        - {{[[query]]: {and: {between: <%DATE:last Saturday%> <%DATE:last Sunday%>]} [[DONE]]}}}
+    - What did I feel grateful this week?
+        - {{[[query]]: {and: {between: <%DATE:last Saturday%> <%DATE:last Sunday%>} [[gratitude dairy]]}}}
+- [[gratitude dairy]]
+    - I still have a good buffer to deal with the chaos in the company.
+    - The short rib is so good. Proud of my work to bring good food on the table.

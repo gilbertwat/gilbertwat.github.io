@@ -1,0 +1,12 @@
+- 09:00 - 10:30 Trying to code but lost interest when I find my ideas are right
+    - #[[🧘🏻‍♂️ Self Awareness]] It is either I don't derive as much joy in implementing something or Leetcode is not as enjoyable as coding real stuff.
+    - Next action: code on personal projects
+- 11:00 - 11:30 [[Ben Cheng]] 
+    - Retrospective of Interview yesterday
+        - English barrier
+- 11:30 - 11:45 Idle and distracted time listening https://www.youtube.com/watch?v=hdrLQ7DpiWs
+    - [[Permanent Notes]] Human is a visual animal.
+- 11:45 - 12:00 #[[💦 Workout]]
+    - [[Pull up]] 2 x 6
+    - [[Core [[💦 Workout]]]] 10 x 20sec
+- 13:15 - 15:00 

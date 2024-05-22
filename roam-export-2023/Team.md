@@ -1,0 +1,13 @@
+- Building a high performing team
+    - What is a high performing team?
+        - KPIs
+            - KPIs are metrics that the team hold as a team standard.
+            - Maximum 3-5 KPIs to keep the team focuses.
+        - OKRs
+            - OKRs are metrics that we aspire or aim to achieve in a certain timeframe.
+            - Maximum 3-5 OKRs to keep the team focuses.
+    - How to build a high performant team?
+        - How to improve team morale?
+        - How to improve team performance?
+        - How to develop people?
+        - How to spot people's potential?

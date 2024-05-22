@@ -1,0 +1,11 @@
+- #[[21 2023]]
+- #health
+    - #health #discomfort stuffy nose
+    - #health #discomfort red eyes and swollen tear duct
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- 15:00
+    - [[Bonny Sun]] meetup for [[Family [[finance]]]]
+        - To co-sign a life insurance
+        - Will open up her timeslot to share her rationale on {{[[DONE]]}}  Consider the suggestion of HSBC Life insurance and saving with [[Wifey]]

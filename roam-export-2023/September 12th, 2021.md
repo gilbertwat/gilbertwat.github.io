@@ -1,0 +1,81 @@
+- 23:24 Retrospective of Week 36
+    - Link to last week Retrospective of Week 35
+    - What went well?
+        - #[[health]]
+            - [[🙏🏼 pray]] more
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[🚴🏼‍♂️ Cycling]] x1
+        - #[[Family [[finance]]]]
+            - Almost get an [[NFT]] but not, saved $20000
+        - #[[Family]] & #[[Friends]]
+            - [[姑姐]] has the finance set up by [[Dad]]
+            - [[Dad]] seems very accommodating
+        - #[[🛠️ Work]]
+            - [[Ergon]]
+                - New quotes for new backend
+            - [[Grantits.io]]
+                - [[Lina Sio]] is seeking for advice for the coordination uncertainty for planning with engineering team
+    - What went wrong?
+        - #[[health]]
+            - Failed Write back diary 
+            - Failed to workout the whole week
+            - Failed to do Retrospective of Week 35 on Sunday
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Failed write a post on it for the implication of [[Jordan B. Peterson]] on my #[[🧘🏻‍♂️ Self Awareness]] and [[✝️ Faith]]
+        - #[[Family [[finance]]]]
+            - Crypto crash 😅 -25% crypto profile
+        - #[[Family]] & #[[Friends]]
+            - Failed Contact [[姑姐]] for follow up
+        - #[[🛠️ Work]]
+            - [[Ergon]]
+                - Rejected [[Kingson Kwan]]'s offer to be co-founder of [[new.club]]
+            - [[GOGOX]]
+                - Totally 0 progress towards [[[[GOGOX]] Project Flywheel]]
+                - [[Rob Dong]] is resigning
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - Shitty impression 575 per day
+                - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+    - What can be done next week 37?
+        - #[[health]]
+            - Write diary daily
+                - [[September 12th, 2021]]
+                - {{[[DONE]]}} [[September 13th, 2021]]
+                - [[September 14th, 2021]]
+                - [[September 15th, 2021]]
+                - [[September 16th, 2021]]
+                - [[September 17th, 2021]]
+                - [[September 18th, 2021]]
+            - Keep composure and discipline
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - {{[[DONE]]}} Prepare for Facebook meeting on [[October 22nd, 2021]]
+                - {{[[DONE]]}}  Outbound marketing
+                - {{[[DONE]]}}  Slides prep
+                - {{[[DONE]]}}  Call for speakers in [[GOGOX]]
+        - #[[Family [[finance]]]]
+            - Plan for productize something 
+        - #[[Family]] & #[[Friends]]
+            - Call [[姑姐]] for update
+            - {{[[DONE]]}} [[Kwong Kin Ming (KM)]] dinner on [[September 16th, 2021]]
+            - {{[[DONE]]}} [[Eason Yim]] lunch on [[September 17th, 2021]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Focus back on [[social commerce]] and how we can help the merchants
+                    - {{[[DONE]]}} Think and write about the implication of selling dog's clothes in new town plaza
+                - Seek advice with [[Steven Lam]] on getting unstuck
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - Curate Tweets for maximum impression (first)
+                    - Think about creating an alter-ego instead.
+                - [[MVP]]
+                    - Rebuild [[[[MVP]] Should I join this startup?]] in a better way
+                        - With [[ethereum]] login maybe?
+                - Reply [[Big Band Academy]] and [[Brian Chan [[Maven.hk]]]]
+                    - {{[[DONE]]}} Decide how to work closer with [[Brian Chan [[Maven.hk]]]]
+                    - {{[[DONE]]}} [[Big Band Academy]] [[Nixon]] Rejection with kindness  
+            - [[Ergon]]
+                - {{[[DONE]]}}  Plans for new backend
+                    - Timebox 10 hours
+            - [[Grantits.io]]
+                - {{[[DONE]]}} Plan to smoothen out the delivery expectation with [[Vlad]]
+                    - Timebox 5 hours

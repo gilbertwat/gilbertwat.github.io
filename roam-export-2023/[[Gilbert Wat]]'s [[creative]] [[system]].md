@@ -1,0 +1,15 @@
+- Ingress
+    - [[to-read]]
+    - Insightful websites
+        - https://wiki.pathmind.com/
+    - [[to-watch]]
+- Synthesizer
+    - [[ideas]]
+    - Test counterintuitive things can be a very effective part of my [[[[Gilbert Wat]]'s [[creative]] [[system]]]]
+    - [[to-write]]
+    - [[Permanent Notes]]
+- Output
+    - [[written]]
+    - [[published]]
+    - [[business]]
+    - [[shipped]]

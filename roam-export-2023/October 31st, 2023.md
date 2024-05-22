@@ -1,0 +1,20 @@
+- #[[04 2023]]
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - New strategy
+        - Franchise management
+        - Publishing (Content)
+    - Tech team
+        - support franchise
+        - support content asset IP
+    - Web3 entity
+        - Share swap
+    - NiTTP
+        - MPF
+        - Education License (Potential)
+        - 2 year experience
+        - 3 referral from nomad
+    - BNI
+        - Need referral
+        - Honor, build relationship
+    - 
+    - 

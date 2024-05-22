@@ -1,0 +1,42 @@
+- https://bou.ke/blog/formulas/ {{[[moved]]}}[*](((dzJRmBWhe)))
+- {{[[DONE]]}}  NFT FAQ {{[[∆]]}}
+- [[1:1]] [[Hema Shah]]
+- [[[[Preface]] [[product]]: Coffee App]]
+    - Next sprint
+        - Change SOP in Workshop to take attendance
+            - Whether if the SOP is on Coffee App 
+        - Coffee App buying cannot earn learning hours
+- 11:30
+    - [[1:1]] [[Tommie Lo]]
+        - Efficiency about external tools [[Hema Shah]]
+        - Next round
+            - Q2
+                - Revenue jump (new product AR/VR block, summer, international tours"intl. sku students")
+                - Gold member analytics
+            - Q3
+                - Fund raise
+                    - New recruitment
+                        - Intl. expansion of internal portal + coffee app
+                    - Recruitment
+        - dinner and learn is an experiment
+            - Why ETH 2.0 
+                - CFO tech-savvy
+            - Smart contract make tech fun 
+        - Make tech fun (new project -> Curriculum -> Revenue) commercial tech
+- 12:30
+    - [[1:1]] [[Jeffrey Chan]]
+        - About ownership of NFT wallet
+            - ideal
+                - Create new entity
+            - {{[[DONE]]}} Sort out the logistics of setting up company wallet.
+- 13:30
+    - [[[[Preface]] [[product]]: website]]
+        - Translation string may failed in build time. It is flaky
+- 17:00
+    - [[1:1]] [[Ronald Kwok]]
+        - The upgradable of the smart contract
+        - [[[[Preface]] [[product]]: Coffee App]] launch plan
+- 18:30
+    - [[nextjs]] actually can rewrite URL to an external URL
+        - #learning
+            - Even me takes time to learn nextjs

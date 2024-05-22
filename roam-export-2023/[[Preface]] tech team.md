@@ -1,0 +1,10 @@
+- Departmental Goal
+    - To build a 10x best digital customer experience for our learners with the latest technology
+    - To provide the best IT solutions to increase the effectiveness of operations in Preface 
+- Departmental KPIs
+    - Project success rate
+        - Project is shipped on time and on budget
+        - 
+    - Deployment per day
+    - Code churn
+    - Hotspot of change

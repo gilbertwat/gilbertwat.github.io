@@ -1,0 +1,35 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #Notes URL https://twitter.com/justinkan/status/1351605388148240386?s=20
+    - Topics
+        - [[market fit]]
+    - [[Excerpts]]
+    - {{[[DONE]]}} Takeaways
+        - Build a customer feedback loop as tight as possible to [[market fit]] as quick as possible.
+    - [[🤔 Questions]]
+        - How can I create a tight feedback loop with my customers?
+        - Who are my customers?
+        - What even is my [[product]]?
+- [[Off-boarding]] [[Victor Lam]] with [[Ben Cheng]]
+- Was thinking about [[cryptocurrency]] [[ideas]] on the bus
+    - has a very good feelings about invoices #instincts
+    - https://invoice.build/
+    - how about bitcoin?
+    - [[🤔 Questions]] How can we represent an invoice in ledger / decentralized way?
+    - Why we need invoice in decentralized world?
+    - What is an invoice?
+    - What does it enabled?
+- #Praise 
+    - Audience: engineers of [[GOGOX]]
+    - If you are not aware, you can now use Payme to place GGD offers in Hong Kong. 🎉🥂 Delivery teammates played a critical role in shipping it. [[Ravic Poon]], [[Henry Tang]], [[Jay Chang]] and [[Jackson Chung]] burnt all our midnight oils to ship this feature in January. We managed to pull it off. It is also the last project [[Victor Lam]] oversaw before he leaves. It is a great success. Without them the feature cannot be shipped. 
+- We deployed and released it on time, with a minimal scope and of highest quality given the time constraint. We can now secure a new marketing budget.
+- Although we succeed in shipping the feature, we are put in an immerse pressure unnecessarily. It is not healthy for engineering team and the company in long term. So team leads and I will prevent this from happening again. 
+- All in all, we are barely able to ship it within deadline and I aim to make this experience the last time we need to endure.
+- Talk to [[Phoenix Lau]] and [[Waikit Kan]], #rage at first at the reaction from [[Phoenix Lau]], I don't feel she understand the magnitude of the problem of misplanning and late communication results in [[unnecessary stress in the team]]. 
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

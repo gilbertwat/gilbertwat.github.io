@@ -1,0 +1,30 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- [[stacks.co]] PoC
+    - I have tried the todos app.
+    - Gaia is the persistance layer.
+        - Slow and throw error easily when eTag is not matched
+        - todo apps is not able to recover gracefully
+        - Gaia API design problem maybe?
+        - [[off-chain]]
+    - Anatomy of a [[dApps]]
+        - [[off-chain]] and [[on-chain]]
+        - [[off-chain]] is for stateful contents that should not be [[on-chain]]
+        - [[on-chain]] data is public and immutable
+        - [[Fungible Token]] is a term in [[cryptocurrency]] about the [[money]] on the chain.
+        - [[Non Fungible Token]] is a term in [[cryptocurrency]] about the asset on the chain.
+        - Components
+            - Auth
+            - [[off-chain]] data components
+                - ipfs 
+            - [[on-chain]] components
+                - if you want to do transactions of assets / money you have to do so in it.
+            - 
+- https://liberapay.com subscription management app.

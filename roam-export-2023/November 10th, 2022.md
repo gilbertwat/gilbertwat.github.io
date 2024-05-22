@@ -1,0 +1,17 @@
+- 09:30
+    - Listen to FTX blow up stories
+- 11:30
+    - Lunch
+- 13:30
+    - Work on {{[[DONE]]}}  #written [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] Finished at 14:18 on [[November 16th, 2022]]
+- 15:00
+    - [[Gemmy Wong]] and [[Anna Yu]] meet up for Phase 3 of [[[[Preface]] [[product]]: Customer Portal]]
+- 16:00
+    - Work on {{[[DONE]]}}  #written [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] Finished at 14:18 on [[November 16th, 2022]]
+- {{[[ARCHIVED]]}}  https://threejs-journey.com/ evaluate if we want to go into the rabbit hole of this
+- https://twitter.com/patticus/status/1590407883019141120?s=46&t=q_G0sa7-jUi3rkJ6Yh3bHg
+- 18:15
+    - Investor DD prep with [[Tommie Lo]]
+    - We are now a Platform Business
+    - Recommender System
+    - Video to become

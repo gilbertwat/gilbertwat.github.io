@@ -1,0 +1,5 @@
+- completed work
+    - {{query: {and: [[DONE]] {between: [[August 2nd, 2020]] [[August 8th, 2020]] }}}}
+- Incompleted work
+    - 
+- 

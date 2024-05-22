@@ -1,0 +1,7 @@
+- [[Android]]
+- [[Ruby on Rails]]
+- [[Java]]
+- [[javascript]]
+- [[Kubernetes]]
+- [[PostgreSQL]]
+- 

@@ -1,0 +1,6 @@
+- [[Kubernetes]]
+    - [[Skaffold]]
+    - Label very important to link different components, e.g pod, svc, endpoint
+- [[Negotiation]]
+    - [[Price]]
+        - Never disclose the bottom-line to the other parties

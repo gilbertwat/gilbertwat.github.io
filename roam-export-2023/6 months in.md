@@ -1,0 +1,3 @@
+- Forever improving
+- Forever curiosity
+- Forever forgiving

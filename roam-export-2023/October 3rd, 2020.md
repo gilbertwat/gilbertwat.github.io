@@ -1,0 +1,27 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - A bit of headache
+- [[Retrospective]] of [[Week 40]]
+    - What went well? 😄
+        - Start taking over some KPIs as [[Delivery Manager]]
+        - Did a {{[[DONE]]}} [[Probation Evaluation]] [[Young]] and be more clear on the requirement of a [[CTO]]
+        - Discovered I am very angry when people waste my time
+        - [[GOGOEnergy]] takeover
+        - [[[[2020]] Q3]] Review
+    - What went wrong? 😞
+        - Chaotic management of energy and focus
+        - No time to read
+        - [[sleep]] very bad
+        - Overwork again
+    - What can I improve? 💪🏻
+        - Start project management on [[Ergon]]
+        - Start managing [[Energy]] and [[focus]]
+        - Start reorganizing this
+        - The planning phase cannot be skipped if you want to balance yourself
+- [[Kwong Kin Ming (KM)]] [[Ergon]] [[Interview]]
+    - 17:00 - 18:19 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

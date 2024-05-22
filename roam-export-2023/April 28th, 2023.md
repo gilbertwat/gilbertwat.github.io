@@ -1,0 +1,11 @@
+- {{[[DONE]]}}  Sort out all bills for [[Preface]] 👏🏼 finished
+- {{[[DONE]]}}  Bug fixes for [[[[Preface]] [[project]]: A.I. Coffee 2.0]] 👏🏼 finished
+- [[1:1]] with [[Jeffy Fung]]
+- [[1:1]] with [[Yoon Kim]]
+- Monthly review with [[Charlie Mak]]
+    - Focus on [[[[Preface]] 2.0: credit system]]
+    - And [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] Happening migration
+    - Scope out
+        - [[[[Preface]] [[project]]: Website Revamp 2023]]
+        - [[[[project]]: [[[[Preface]] [[product]]: Coffee App]] revamp]]
+        - [[[[Preface]] [[product]]: TechBites]] Pro

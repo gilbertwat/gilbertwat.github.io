@@ -1,0 +1,33 @@
+- [[Ambrose]] left [[Preface]]
+- {{[[ARCHIVED]]}}  [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+    - Main problem faced is all in building
+        - react-native-web doesn't support all CSS available on the web / nextjs
+    - {{[[ARCHIVED]]}}  Test out Expo App store 
+- {{[[DONE]]}}  [[[[Preface]][[project]]: Update website for Easter holiday]]
+    - {{[[DONE]]}}  Ensure we are able to track with GA4 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Educate the team on utm support. 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Update meta, need marketing input, [[Darren Yeung]] [[Mandy Ng]] [[Joseph Chan]] 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  remove header of COVID-19 👏🏼 finishe on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Update the hero session to something else, need [[Tommie Lo]] input 👏🏼 finished on [[April 5th, 2023]]
+        - Promote ChatGPT with CTA to Kids and Adults
+    - {{[[DONE]]}}  Navbar update  👏🏼 finished on [[April 5th, 2023]]
+        - to add entry point for Bootcamp-for-kids AI course
+        - Remove data science for adult
+    - {{[[DONE]]}} bootcamp detail page for AI courses
+        - {{[[DONE]]}}  price mismatch 👏🏼 finished on [[April 5th, 2023]]
+        - {{[[DONE]]}}  wording to be decided by [[Mandy Ng]] 👏🏼 finished on [[April 5th, 2023]]
+        - {{[[DONE]]}}  Buy Now button to purchase link?
+    - 
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Update Purchase Link for Easter Holiday]] 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Educate the team on utm support. 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Build an entry point for bootcamp for kids  👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Build the Kid's registration Page 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}} Build the custom bundle buy page
+    - {{[[DONE]]}}  Reuse the confirm page with an integration with a v2/place order API
+    - {{[[DONE]]}}  Update the email to support multiple LineItem 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Update the receipt page to support multiple LineItem 👏🏼 finished on [[April 5th, 2023]]
+    - {{[[DONE]]}}  Migrate to customer for parent email
+    - {{[[DONE]]}}  Update the price to 4000 👏🏼 finished on [[April 5th, 2023]]
+    - 
+- {{[[DONE]]}}  [[[[Preface]] [[[[2023]] Q2]] [[OKR]]s]] 👏🏼 finished on [[April 10th, 2023]]
+- 

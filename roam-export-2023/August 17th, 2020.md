@@ -1,0 +1,145 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{[[DONE]]}} Prepare [[Delivery [[All Hands [[meetings]]]] #4]]
+        - Core Message (30s)
+            - Build a world class app in this world class team
+        - What we have achieved as a team. (2 min)
+            - Better quality:
+                - Less staging bugs / Less Story reopened rate.
+                - Increased code coverage.
+            - More capable platform
+                - JARVIS
+                - Bulk import GGD
+                - Public API
+                - AR 2.0
+            - More regions
+                - GGB VN + TW
+            - More infra to help us
+                - AppBot
+                - Firebase App distribution
+                - Kafka
+        - Next step: world class application
+        - What is a world class app? (3 min)
+            - Answer from all of us
+                - Useful to users
+                - Performant
+                - Smooth transition and animation
+                - Intuitive to use
+                - No surprising UX
+                - Bug / Crash free
+            - What examples from all of us?
+                - Instagram
+                - Forest
+                - Uber
+                - Todoist
+                - Youtube
+                - Netflix
+            - How does Instagram fit the world class definition?
+            - They are all CORRECT.
+            - So from now on, these will be our standard. ༼∵༽ ༼⍨༽ ༼⍢༽ ༼⍤༽
+        - Why YOU need to build a world class app with us? (5 min)
+            - Money
+                - Brian Cha story time. (Gilbert)
+                    - In NMC, build apps in a rush, vendor mode. IT dog.
+                    - No one want to ask me for consulting
+                    - Moment of truth
+                        - NMC
+                        - or somewhere else
+                    - Do great works with teammates
+                    - looks for me to give advice on their apps, with a price.
+                - Fact
+                    - https://www.fullstacklabs.co/blog/2019-software-development-price-guide-and-hourly-rate-comparison
+                    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FDA3-dIkaDC.png?alt=media&token=7d27e09c-1b90-4bf0-8150-7cd974e269c0)
+            - Freedom
+                - More money, more global skill sets
+                - digital nomad
+                    - https://www.linkedin.com/in/bensharman/
+                        - SG / HK price, living in Chiang Mai
+                        - Winning.
+            - Time
+                - You only got 1 life.
+                - everyday you spend 9 hours in your current job.
+                - Why not spend on something truly remarkable?
+                    - What is remarkable from your PoV?
+            - Build an app that is proud
+        - Why we can? (1min)
+            - Because. I believe in us.
+            - Everyone in our 1 on 1 has quite a lot of complains & ideas. Ideas without execution and communication is dream.
+            - Everyone actually know what to do. I am personally responsible for distraction / prevention of us doing a good job.
+        - How we can build a world class app together? (5min)
+            - From today onwards, Our focus will be:
+                - Focus on our customers
+                    - Frontend developers need to UX/UI first.
+                    - Write infra / backend code can be customer focus too. They are your teammates.
+                    - Architect needs to be customer focus too. They are your teammates.
+                    - Your leads / managers' customers are you.
+                - Work as a team to fulfill our customers
+                    - Leverage strength, compensate weakness
+                    - Missing edge cases in UI? Collaborate.
+                    - Designing your components? Collaborate.
+                    - Christano Ronaldo in Real Madrid vs Portugal
+                - Do it well, we are accountable for delivery quality
+                    - Bridge falls, no one will blame PMs.
+                    - Lousy App Performance, no one will blame the QA / PMs.
+                    - Software Craftmanship
+                        - System thinking
+                        - Automate whatever possible
+                    - Team leads will be raising our standard all the time.
+        - Concrete Engineering projects other than product driven one (2min)
+            - Better production quality software
+                - Instabug
+                - Sonarqube
+                - some more??
+            - Test in production
+            - Continue a lot of our initiatives
+                - Continue E2E mobile test maintained by us.
+                - Continue E2E API test maintained by us.
+                - Continue E2E Web test maintained by us.
+                - our deployable user stories.
+                - Unit test in Mobile
+                - Monitoring 
+        - Brace Yourself (1min)
+            - It is 10000000x harder to create than to critique.
+            - There will be a lot of imperfection. 
+            - Haters gonna hate
+                - There will be hardship.
+            - Yes we are David.
+                - 140 mobile engineers in GoJek vs 8 mobile engineers.
+                - Ruthless prioritization
+                - George Washington with < 20K foot soldier vs greatest country in the world (British Empire)
+                    - Win by believing we had to do the right thing, teamming up, cunningness and innovation
+            - We are building second Hong Kong.
+            - Yes it might be in vain.
+                - HK destroyed, We are all sent to concentration camp ...etc. Lebanonization, Xinjiangization...etc.
+                - Possible. In the long run we are all dead.
+                - So it is not an excuse to not treat people good, strive for excellence and do a good job.
+            - But do have fun
+                - Playing video games
+                    - Hours pass by.
+        - Lastly. I only believe future is shaped by our effort x judgement, rather than some fortune tellers say so. (30s)
+            - We have done a great job in Hong Kong. Keep it on.
+            - We are aiming for an aspiring target: build a world class app here.
+            - Everyone can have a different why. But you need to agree on this is the right thing to do for yourself.
+            - 
+            - $$ (1+0.01)^{365} \approx 37.78$$
+            - I believe in us. Maximize each moment.
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Rob Dong]]]]
+        - How do you feel recently?
+            - BAU
+        - How is your {personal project / family }?
+            - BAU
+        - How is your theme / project?
+            - BAU
+        - How is your function?
+        - #CircleBack topics
+            - [[360 Review]] Setup
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

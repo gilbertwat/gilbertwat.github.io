@@ -1,0 +1,2 @@
+- #ideas new form of blog: AI-powered person
+- [[[[Preface]] [[project]]: Website Revamp 2023]]

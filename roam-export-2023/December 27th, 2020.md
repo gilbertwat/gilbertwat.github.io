@@ -1,0 +1,26 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- http://fuel-design.com/publishing/soviet-cities/ #wishlist
+- #[[ideas]] whom should I connect to? What do I have to say?
+- [[Family]] is a thrifty family.
+- {{[[DONE]]}} Send timesheets for [[Ergon]]
+    - 2 hours [[November 23rd, 2020]] Meetings #[[Ergon]] Meeting 1810 - 2040
+    - 1 hours [[November 27th, 2020]] onboarding [[Kwong Kin Ming (KM)]]
+    - 2 hours [[November 30th, 2020]] Onboarding [[Kwong Kin Ming (KM)]]
+    - 2 hours [[December 6th, 2020]] Onboarding [[Kwong Kin Ming (KM)]] and discussion of problems in app
+    - 2 hours [[December 14th, 2020]] onboarding [[Kwong Kin Ming (KM)]]
+    - 2 hours [[December 21st, 2020]] onboarding [[Kwong Kin Ming (KM)]]
+    - 5 hours
+        - Setup Email senders for backend sending Email
+        - Discussion with [[Chris Tsang]] and [[Kwong Kin Ming (KM)]] for backend designs
+    - Total: **16 hours**
+- Research and publish something about data visualization on observablehq #[[ideas]]
+    - 2020 timeline + Roamresearch??
+- [[ideas]] Explore streaming for 3 months
+- Cut my finger again, probably 3x in this year.

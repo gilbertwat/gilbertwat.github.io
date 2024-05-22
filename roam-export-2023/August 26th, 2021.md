@@ -1,0 +1,51 @@
+- 08:00 - 09:15 [[Interview]] for [[beyond.ai]] [[[[Software Engineer]] [[manager]]]]
+    - Upfront worst case scenarios
+    - startup
+    - Seems I misunderstand what the company is doing
+    - ask about achievement
+        - Speak about project completed
+        - Missing the achievement about building the team and [[☝🏻 Leadership]]
+            - I am not sure why I am behaving that way [[🤔 Questions]]
+                - Too early in the morning?
+                - Too prepared in technology side?
+    - Being ask if ok to be an individual contributor #Feeling
+        - Not outright reject from me
+    - Architecture problem
+        - Missing some part but mostly ok 
+    - Feel the interview is not going very well #[[🧘🏻‍♂️ Self Awareness]] #Feeling
+        - One last ditch to ask for direct feedback from VP
+            - Not sure about management experience
+                - [[TeamLeads]] stuff
+                - [[☝🏻 Leadership]]
+                - [[Mentorship]]
+                - Build team with ownership
+                - Build collaboration across functional teams
+                - Build leadership within the team
+    - #Feeling
+        - Not good but I tried my best.
+        - Actually feel pretty good because I break through myself as I am bold enough to ask directly for more, instead of caved in.
+- 10:15 - 11:30 Body check for [[Baby]] and [[Wifey]]
+    - [[nuchal translucency]] test again
+        - ~2.0 - ~2.33mm
+        - Not really a lot
+    - Realization:
+        - [[Baby]] there is nothing you can do to ensure his/her growth
+        - It is a fucking roll of dice
+- 15:00 - 16:00 [[Interview]] [[Sleekflow.io]]
+    - Cyberport is too far away from Home
+    - Peter, Billy and Paul are the current team
+    - Peter is very cocky and arrogant because he is very confident about his technical skills
+    - Very challenging style
+        - One of the question is about the pros and cons of C#
+            - I become defensive or evasive as I don't know how to answer.
+                - #[[🧘🏻‍♂️ Self Awareness]] I am also easily influenced by people
+    - I am able to keep composure and seems the team is less defensive than when I get into the room.
+    - #Feeling I am trying my best to impress, but not very care about the outcome since I seems still cannot woo Peter, who is feared by [[Henson Tsai [[Sleekflow.io]]]]
+- 17:00 - 18:00 [[Interview]] [[[[Backend]] [[software engineer]]]]
+    - Very text book
+    - Not answering 
+- 18:00 - 21:00
+    - [[Dad]] is being cynical and assaulting again when he is stressed by matters
+    - [[十姑婆]] is very troublesome for [[Dad]]
+    - [[姑姐]] is also relying on [[Dad]]
+    - #[[🧘🏻‍♂️ Self Awareness]] I found this is all the doing of [[Dad]] and [[Grandpa]] when they neglect the problem and not keeping in touch with family in the normal days

@@ -1,0 +1,6 @@
+- 09:30
+    - Preparing demo for [[Investor enquiries]]
+- 16:30
+    - [[Investor enquiries]]
+- 18:00
+    - [[[[Preface]] [[project]]: Website Revamp 2023]] sync up with [[Daisy Lee]] and [[Yuki Law]]

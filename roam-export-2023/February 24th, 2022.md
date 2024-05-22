@@ -1,0 +1,5 @@
+- ((agSx-pV4f))
+    - [[Theodore]] will stay in the hospital for 1 more day as he has [[Jaundice]]
+- 16:00
+    - ((agSx-pV4f))
+        - Pick up [[Wifey]]

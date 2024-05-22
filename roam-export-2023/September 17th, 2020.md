@@ -1,0 +1,159 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{[[DONE]]}} Polish [[6 shades of project management tools - Which one should I use?]]
+    - {{[[DONE]]}} [[[[1:1]] with [[Anthony Chan]]]]
+        - How do you feel recently?
+        - How is your {personal project / family}?
+        - How is your theme / project?
+        - How is your function?
+            - Codebase not flexible
+                - OrderList already done
+                - OrderDetail
+                - Pusher Manager
+            - PM & Designer is next step.
+            - Can add feature but cannot PoC
+            - AR 2.0 scattered. (Codebase)
+            - iOS Delivery guarantee is more consistent
+            - Architecture alignment
+        - #CircleBack topics
+    - {{[[DONE]]}} [[[[1:1]] with [[Ivo Wu]]]]
+        - How do you feel recently?
+            - busy
+            - satisfied
+        - How is your {personal project / family}?
+        - How is your theme / project?
+            - Work to much
+                - AR2.0
+                    - [[Ben Cheng]] [[Leslie Lai]] very good collaboration
+                    - Split of work OK.
+                    - Progress update OK.
+                - CI/CD waste time
+                - Retrospective for mobile
+            - [[[[GOGOX]] Driver Experience Theme]] changes slower than [[[[GOGOX]] Client Experience Theme]]
+        - How is your function?
+            - Next lesson: grow Android team
+                - [[Peter Wong]] Planning ++
+        - #CircleBack topics
+    - {{[[DONE]]}}  [[[[GOGOX]] Business Experience Theme]] [[[[GOGOX]] [[[[2020]] Q4]] [[planning]]]]
+        - Q3 retro
+            - Insufficient capacity in the start
+            - [[Hon Chan]] and [[Matthew Ng]] is helping out, [[GOGOX]] GOGODelivery]] backend is "blocked"
+                - Until August in plan
+                - +1 sprint at the reality
+                - Bulk import is on time
+            - [[Mohammad Ahmad]] ++ in Q4
+            - [[Rob Kealey]] and [[Waikit Kan]] will discuss about the combined priority to share web teammates time, if needed
+            - [[Kavin Wong]] is highly regard
+                - Fast
+                - Unblock frontend as a focus for [[Kavin Wong]] ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+                - example:
+                    - API ready before Web
+        - Q4 wishlist
+            - [[Ben Cheng]] can delegate more to [[Kavin Wong]]
+            - Challenges:
+                - Strategic uncertainty
+            - Fulfillment
+            - Learnings:
+                - Diff from CA, currently is just a CA Web version
+                - attire of GGB users is ??????
+                - A new direction from [[Rob Kealey]]
+                - Area to focus on is not certain
+            - Possible Features: (need sync up with [[Vincent Chan]])
+                - Close the gap of custom <--> ODP
+                    - HKTVMalls requirement to GGB
+                - Web B2C entry point 
+                - Improve VN and TW feature set
+                    - Self signup
+                    - invite link
+                - Hub & Spoke ???
+                - Operational Improvement
+                - Standard moving part
+            - Feature TODO
+                - Save address
+                - Monthly Billing
+            - 1 - 1.5 sprints of Engineering work at most
+            - [[[[GOGOX]] Client Experience Theme]] crossover
+                - Pricing Model Verification
+                - Web B2C quoting order (Commited from [[Vincent Chan]])
+                    - Reference: Uber redirect to App to [[Lili Chan]]
+            - [[GOGOX]] GOGODelivery]] talk will be tough
+            - {{[[DONE]]}}  Talk to [[Waikit Kan]] for [[GOGOX]] GOGODelivery]]
+            - 
+        - {{[[DONE]]}} [[[[GOGOX]] Driver Experience Theme]] [[[[2020]] Q4]] [[planning]] discussion
+            - Q3
+                - TW Delivery box
+                    - Scope change 
+                - TW verify driver doc
+                - AR 2.0
+                - Driving mode
+                - Radius Filter
+                    - 90%
+                - SG iteration
+                    - dependency
+                    - pricing experiments
+                - IET no person
+                - [[Victor Lam]] bao factory
+                - A lot of business process inefficiency
+                - Refactoring of App OK 
+                - Android not so stable
+                    - Performance / UX UI
+                - legacy code refactoring done a bit on feature delivery
+                - 85/100
+            - Q4
+                - Outcome KPI as OKRs
+                - Driver rating
+                    - Problem: More care about driver rating
+                    - DEsign sprint????
+                - Driver Subscription (More like Payment)
+                    - depends on Founders
+                    - must charge
+                    - driving mode behind paywall
+                    - PM fit outscope
+                    - feedback mechanism
+                - Customerized surcharge
+                - AR2.0 SG
+                    - decimal place
+                - pricing revamp
+                - Knowledge map
+                    - Location updar\te\\
+                    - dispatch window
+                - Holiday rollover 
+                - Velocity calculation
+                - AUtomation tests
+                - MObile Design system
+                - Tighter Estimation feedback loop
+                - Area 災情 estimation
+                    - Platform
+                    - iOS
+                    - Android
+                - DA order list refactoring
+        - {{{[[DONE]]}}}} [[[[GOGOX]] [[[[2020]] Q4]] [[planning]]]]
+            - 5 days AL per person
+            - iOS
+                - DA Code coverage ~??%
+                - CA code coverage ~??%
+                - Core SDK ~??%
+            - Android
+                - Dexguard reevaluation in DA
+                - DA Code coverage ~50%
+                - Core SDK Code coverage
+                - CA code coverage ~ 
+            - Web
+                - Retire legacy Van booking
+                - Upgrade Core Component (React Router from v3 to v6)
+                    - QA effort is heavy
+            - Platform
+                - Sunset v1 API?
+                    - CS Panel
+                - GGD Public API shipping?
+                - GGD dependency of Van DB remove?
+                - Rails.cache backend switch from in-memory to Redis 
+                - w1/b2b place order API revamp (app_services from `v2` and `c2`) [[[[GOGOX]] Business Experience Theme]]
+                    - QA effort is heavy
+        - 
+- How do you feel when you wind down?
+    - {{slider}}

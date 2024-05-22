@@ -1,0 +1,36 @@
+- 08:24
+    - [[Preface]] management sync up
+        - About Tin Hau VIP list into our customer list and add them to our testflight and android list
+        - [[OKR]] update
+        - New system in my sight
+            - Lock system in 2/F & 5/F in The Sharp
+        - [[[[Preface]] WFH policy]] delivery to People team [[Vegas Ho]]
+        - [[Billy Wong]] change to in charge of [[[[Preface]] membership scheme]], [[Queena]] will be in charge of community operation team
+- 11:00
+    - [[[[Preface]] [[NFT]]]] project management
+    - Reorganized [[January 24th, 2022]] notes
+- 12:00
+    - Meeting with [[Basil]] [[1:1]]
+        - [[Expectation of a [[Preface]] tech team]]
+            - To be more in the ideation stage of projects
+            - Smoothen current website update process as it is toooooo slow
+        - [[Perceived team dynamic]]
+- 14:00
+    - [[1:1]] with [[Queena]]
+        - She is very uncomfortable to admit rooms to improvement (need face). I have to be extra careful in this regards
+        - [[Expectation of a [[Preface]] tech team]]
+            - To automate their teammates so that they can focus on sales.
+            - Trainings
+- 15:00 switch data dashboard to GCP [[->]] [[Alexander Li]]
+    - Topup GCP and AWS credits
+- 16:00
+    - [[1:1]] with [[Ambrose]]
+        - Very happy with the e365 solution as it has a good enough overview of the business as data dashboard
+            - {{[[DONE]]}} How can I build a reliable data dashboard for [[Preface]]?
+        - His staff is even less technical then office staff
+        - [[Perceived team dynamic]]
+            - There is a great difference between [[Tommie Lo]] and [[Ambrose]] on the e365
+        - [[Expectation of a [[Preface]] tech team]]
+            - Innovate with new hardware and interface such as Alexa
+            - Training to his staff about technology
+                - Suddenly found some [[[[Preface]] references of innovation]] https://www.edapp.com/

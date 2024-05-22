@@ -1,0 +1,53 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[1:1]] with [[Young]]
+    - Make our team flexible
+    - [[Ben Lin]]
+    - Profitability Plan
+- #Notes http://paulgraham.com/taste.html
+    - [[Excerpts]]
+        - Most of us are encouraged, as children, to leave this tangle unexamined. If you make fun of your little brother for coloring people green in his coloring book, your mother is likely to tell you something like "you like to do it your way and he likes to do it his way."
+        - Saying that taste is just personal preference is a good way to prevent disputes. The trouble is, it's not true. You feel this when you start to design things.
+        - **Good design is simple.**
+            - When you're forced to be simple, you're forced to face the real problem. When you can't deliver ornament, you have to deliver substance.
+        - **Good design is timeless**
+            - Aiming at timelessness is also a way to evade the grip of fashion. Fashions almost by definition change with time, so if you can make something that will still look good far into the future, then its appeal must derive more from merit and less from fashion.
+        - **Good design solves the right problem.**
+            - A lot of bad design is industrious, but misguided.
+        - **Good design is suggestive.**
+            - Jane Austen's novels contain almost no description; instead of telling you how everything looks, she tells her story so well that you envision the scene for yourself. Likewise, a painting that suggests is usually more engaging than one that tells. Everyone makes up their own story about the Mona Lisa.
+        - **Good design is often slightly funny.**
+            - I think it's because humor is related to strength. To have a sense of humor is to be strong: to keep one's sense of humor is to shrug off misfortunes, and to lose one's sense of humor is to be wounded by them.
+        - **Good design is hard.**
+            - When Bauhaus designers adopted Sullivan's "form follows function," what they meant was, form __should__ follow function. And if function is hard enough, form is forced to follow it, because there is no effort to spare for error. Wild animals are beautiful because they have hard lives.
+        - **Good design looks easy.**
+        - **Good design uses symmetry.**
+        - **Good design resembles nature.**
+        - **Good design is redesign.**
+            - It takes confidence to throw work away. You have to be able to think, __there's more where that came from.__ When people first start drawing, for example, they're often reluctant to redo parts that aren't right; they feel they've been lucky to get that far, and if they try to redo something, it will turn out worse. Instead they convince themselves that the drawing is not that bad, really-- in fact, maybe they meant it to look that way.
+        - **Good design can copy.**
+        - **Good design is often strange.**
+        - **Good design happens in chunks.**
+            - Something was happening in Florence in the fifteenth century. And it can't have been heredity, because it isn't happening now. You have to assume that whatever inborn ability Leonardo and Michelangelo had, there were people born in Milan with just as much. What happened to the Milanese Leonardo?
+        - **Good design is often daring.**
+            - At every period of history, people have believed things that were just ridiculous, and believed them so strongly that you risked ostracism or even violence by saying otherwise.
+    - {{[[DONE]]}} Takeaways
+        - Good design is simple.
+        - Good design is timeless.
+        - Good design solves the right problem.
+        - Good design is suggestive.
+        - Good design is often slightly funny.
+        - Good design is hard.
+        - Good design looks easy.
+        - Good design uses symmetry.
+        - Good design resembles nature.
+        - Good design is redesign.
+        - Good design can copy.
+        - Good design is often strange.
+        - Good design happens in chunks. Only happened in community.
+        - Good design is often daring.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

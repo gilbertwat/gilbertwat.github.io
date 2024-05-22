@@ -1,0 +1,9 @@
+- #[[04 2023]]
+- [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - The content production
+    - Tracking
+        - logrocket
+- [[[[Preface]] [[product]]: A.I. Coffee 2.0]] Documentation update
+    - Email Template set up
+    - Deploying support module
+    - 

@@ -1,0 +1,16 @@
+- [[[[2022]] Week 46]] review
+    - Projects
+        - Customer Portal: **On track**
+            - We are integrating recommendation engine to our customer portal now.
+        - Coffee App: **Delayed, catching up**
+            - We are in contact with a new contractor called James, whom Ben and I have worked with in [[GOGOX]] . We are in negotiation of scope and price.
+        - Recommendation Engine: **On track**
+            - We have deployed our first version already on customer portal. Alex will share more detail next week.
+        - Hubspot issue: **On track**
+            - We finalize the strategy we will be approaching the data collection of leads. TL,DR; will be we will collect everyone's lead into a single source, but everyone can still create their ways to collect data. But we will have a very clear expectation communicated what are we collecting for leads. Yoon will share more detail in the all-hands for this this week.
+        - BUD application for development: **on track**
+            - We are in contact with Vincent So from Inspect Element and James. We are in parallel negotiation of scope and price.
+    - Team matters
+        - Good news we have some trusted potential contributors in Coffee App and possible credit system.
+    - Bottleneck
+        - Me to plan ahead and do all negotiation now.

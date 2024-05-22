@@ -1,0 +1,148 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+    - A bit rush
+    - No back spasm unless pulled
+- [[Plan [[2021]]]] problems #[[Top of my mind]]
+    - As [[2021]] comes [[Kingson Kwan]] will be asking me to be his [[CTO]] again.
+        - Where is the hesitation of working alongside with [[Kingson Kwan]]?
+        - Where is the pros of working full time in [[Ergon]]
+        - What is the opportunities I am letting go?
+    - As [[2021]] comes [[Ben Cheng]] wants to become team lead of platform?
+        - What is the strength of [[Ben Cheng]]?
+        - What is the natural tendency of [[Ben Cheng]]?
+    - [[Keith Chan]] doesn't want naturally as a leader, more like a principal engineers in iOS, but he is consider a mobile lead now.
+    - As [[2021]] comes [[GOGOX]] want to expand and build a new [[[[GOGOX]] Project Flywheel]] in [[🏴Hong Kong]]
+    - As [[2021]] comes [[[[GOGOX]] Driver Experience Theme]] and [[Tom Lui]] needs a serious upgrade in building an effective team
+- Gallup 34 strengths #[[🧘🏻‍♂️ Self Awareness]] #[[☝🏻 Leadership]] [[How to find strengths and weaknesses in your teammates]]
+    - **Relation Building (I)**
+        - Communication
+        - Empathy
+        - Harmony
+        - Inclusiveness
+        - Individualization 
+            - [[Myself]]'s Top 10
+            - People exceptionally talented in the Individualization theme are intrigued with the unique qualities of each person. They have a gift for figuring out how different people can work together productively.
+        - Relator
+            - People exceptionally talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
+            - [[Myself]]'s Top 5
+            - How I understand people is not through Empathy, but through my understanding and thoughtfulness in my friends or colleagues
+            - I want to do a deep relationship
+            - Mature Relator: 
+        - Responsibility
+    - **Executing (III)**
+        - Achiever
+        - Adaptability
+        - Belief
+        - Discipline
+        - Focus
+        - Restorative
+    - **Influencing (II)**
+        - Significance
+            - People exceptionally talented in the Significance theme want to make a big impact. They are independent and prioritize projects based on how much influence they will have on their organization or people around them.
+            - [[Myself]]'s Top 10
+        - Self-assurance
+            - People exceptionally talented in the Self-Assurance theme feel confident in their ability to take risks and manage their own lives. They have an inner compass that gives them certainty in their decisions.
+            - [[Myself]]'s Top 5
+        - Command
+        - Competition
+        - Developer
+            - People exceptionally talented in the Developer theme recognize and cultivate the potential in others. They spot the signs of each small improvement and derive satisfaction from evidence of progress.
+            - [[Myself]]'s Top 10
+        - Maximizer
+        - Positivity
+            - People exceptionally talented in the Positivity theme have contagious enthusiasm. They are upbeat and can get others excited about what they are going to do.
+            - [[Myself]]'s Top 10
+        - Woo
+    - **Strategic Thinking (IV)**
+        - Activator
+            - People exceptionally talented in the Activator theme can make things happen by turning thoughts into action. They want to do things now, rather than simply talk about them.
+            - [[Myself]]'s Top 5
+        - Analytical
+        - Arranger
+        - Connectedness
+        - Consistency
+        - Context
+        - Deliberative
+        - Futuristic
+            - People exceptionally talented in the Futuristic theme are inspired by the future and what could be. They energize others with their visions of the future.
+            - [[Myself]]'s Top 5
+        - Ideation
+            - People exceptionally talented in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena
+            - [[Myself]]'s Top 10
+        - Input
+        - Intellection
+        - Learner
+        - Strategic
+            - People exceptionally talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant 
+- patterns and issues.
+    - [[Myself]]'s Top 5
+- #Notes URL https://news.gallup.com/businessjournal/113341/what-strong-teams-common.aspx 
+    - [[Topics]]
+        - [[☝🏻 Leadership]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - **1. Conflict doesn't destroy strong teams because strong teams focus on results.**
+        - **2. Strong teams prioritize what's best for the organization, then move forward.**
+        - **3. Members of strong teams are as committed to their personal lives as they are to their work.**
+        - **4. Strong teams embrace diversity.**
+        - **5. Strong teams are magnets for talent.**
+    - {{[[DONE]]}} Takeaways
+        - A strong team focus on results.
+        - A strong team put organization first, and act on them.
+        - A strong team committed to their work and personal lives equally and intensely.
+        - A strong team embrace diversity.
+        - A strong team are magnets for talent.
+    - 
+- [[1:1]] with [[Victor Lam]]
+    - 1/31 last day
+        - {{[[DONE]]}} Resignation letter 
+    - Follow up work
+        - [[Victor Lam]] will prepare stories
+        - [[Myself]] will prepare KPIs and performance review.
+- 
+- [[GOGOEnergy]] for [[JIRA]], deployment or local
+- #GOGOEnergy Need to help [[Joseph Cheng]] to document the critical information for new joiners.
+- #GOGOEnergy [[Victor Lam]] and [[Rob Dong]] idea to let demotivated engineers to takeover GGE projects.
+- Recap in [[2020]]
+- [[1:1]] with [[Jim Wong]]
+    - Ajay
+        - Not a person who is careless.
+    - So far so good 
+    - Marry next year April
+        - Married to a christian
+    - Communicate more with other teammates
+        - WFH need more communication
+    - Chat
+- [[resources]] https://github.com/sindresorhus/css-in-readme-like-wat
+- [[1:1]] with [[Ka Kui Tsang]]
+    - 0 coachability
+    - A very very non team player, doesn't understand  
+    - Doesn't want to improve anything
+    - very disengaged
+    - Shy away from responsibilities
+    - Just want to do its own thing, shy away from failures
+    - I think it is a upbringing thing, we can do nothing about it.
+- [[1:1]] with [[Jay Chang]]
+    - Reading Radical Candor
+        - Finished Chapter 1 - 2
+        - Easier said than done
+        - [[Myself]] and [[Jay Chang]] may want to discuss more in the following weeks
+    - Discuss about the importance of non-technical skills
+        - It is vast, [[Jay Chang]] may want to prioritize
+            - Writing?
+            - Public Speaking?
+            - Group discussion?
+            - 1 on 1 discussion?
+- [[1:1]] with [[Jackson Chung]]
+    - iOS teammates
+        - Performance is good
+        - Engagement is low for a few members
+            - [[Karl Tai]]
+            - [[Ka Kui Tsang]]
+    - Grateful about [[WFH]] policy
+- [[How do you feel when you wind down?]]
+    - {{slider}}

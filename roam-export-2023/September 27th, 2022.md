@@ -1,0 +1,184 @@
+- [[[[2022]] Week 39]] [[goals]]
+    - [[[[2022]] Week 38]] [[goals]] Carry over
+        - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+    - {{[[DONE]]}} Ability to receive email for preface.ai #shipped Finished at 08:08 [[September 29th, 2022]]
+    - {{[[DONE]]}}  #decided how to proceed with nomad payment Finished at 09:44 [[September 28th, 2022]]
+        - Related to {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]]
+        - [[Vegas Ho]] and [[Ellen Lau]] agree on the Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]] solution to delay to [[[[2023]] Q1]]
+        - {{[[DONE]]}}  Reply the decision to [[Vegas Ho]] Finished at 09:55 [[September 28th, 2022]]
+    - Share [[[[Preface]] [[product]]: Customer Portal]] MVP scope on [[All Hands [[meetings]]]]
+        - Delayed to [[October 12th, 2022]] [[[[2022]] Week 41]]
+    - 
+    - 
+    - {{[[DONE]]}}  #written 5E Evaluation for https://docs.google.com/presentation/d/1vqwyOYLifx0MkqlmpnhBRZKrU19XZdIZTmX8ShYHF6E/edit#slide=id.g1360d0d603c_0_1 Finished
+        - {{[[DONE]]}} #written [[Alexander Li]] Finished
+        - {{[[DONE]]}}  #written [[Ehsan Ayaz]] Finished
+        - {{[[DONE]]}}  #written [[Anna Yu]] Finished
+        - {{[[DONE]]}}  #written [[Cheryl Lai]] Finished 
+        - {{[[DONE]]}} #written [[Ben Cheng]] Finished
+        - {{[[DONE]]}}  #written [[Moses Ngan]] Finished
+        - {{[[DONE]]}}  #written [[Jeffy Fung]] Finished
+        - {{[[DONE]]}}  #written [[Yoon Kim]] Finished
+        - {{[[DONE]]}}  #written [[Ken Chow]] Finished at 14:00 
+    - {{[[DONE]]}} Complete UX with [[Gemmy Wong]] on [[[[Preface]] [[product]]: Customer Portal]] Phase 1 Finished at 14:42 [[October 3rd, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - Wake up at 5:45 for [[Theodore]]
+- 08:30
+    - [[[[Preface]] leadership team]] offsite
+        - Promotion discussion
+            - Through the case of [[Larry]] we are forming a consensus on the standard of promotion
+                - Communication
+                - Technical Skills
+                - Culture fit
+                    - Devotion is a must to the company
+        - TKI [[conflict]] Model
+            - Two axis
+                - Assertiveness
+                - Coorperativeness
+            - [[conflict]] is any situation in which your concerns or desires differ from those of another person
+            - Competing
+                - High, Low
+                - Good for
+                    - Making important but unpopular decisions
+                    - Prioritising the bigger or longer term good
+                    - A quick decision is needed
+                    - To combat groupthink
+                - Symptoms of overuse
+                    - Constant tension
+                    - Power wins
+                    - Surrounded by “yes people”
+                    - Some voices might be lost
+                - Symptoms of underuse
+                    - Indecisiveness
+                    - Delayed action
+                    - Low accountability
+                    - Unwilling to stand firm on what’s right
+            - Collaborating
+                - Good for
+                    - If timing allows… always useful
+                    - When buy-in is required
+                - Symptoms of overuse
+                    - Too much time on trivial matters
+                    - Diffused responsibility
+                    - People who take advantage
+                    - Work overload
+                    - Hard to make a decision
+                - Symptoms of underuse
+                    - Mutual gains deprivation
+                    - Lack of commitment
+                    - Low empowerment
+                    - Loss of innovation
+            - Compromising
+                - Good for
+                    - When the situation is stuck (no one’s backing down or pushing forward)
+                    - When it’s a simple situation that can have a middle ground
+                - Symptoms of overuse
+                    - Loss of big-picture perspective
+                    - Partially satisfying each person means no one is fully satisfied
+                    - Cynical climate
+                - Symptoms of underuse
+                    - Unnecessary confrontations
+                    - Frequent power struggles
+                    - Inability to negotiate effectively
+            - Accomodating
+                - Good for
+                    - When the issue is not important to you but is to the other person
+                    - When preserving harmony is a priority
+                - Symptoms of overuse
+                    - Overlooked ideas
+                    - Loss of contribution
+                    - Loss of discipline or accountability
+                - Symptoms of underuse
+                    - Lack of rapport
+                    - Low morale
+                    - By-the book reputation
+                    - Inability to yield
+            - Avoiding
+                - Good for
+                    - Not worth the time
+                    - Not the right place or time
+                    - When dealing with a hot-headed person
+                    - You are too emotionally involved or not the best person to solve the conflict
+                - Symptoms of overuse
+                    - Festering issues
+                    - Turning a blindeye on problem
+                    - Decisions made by default
+                    - Climate of caution
+                - Symptoms of underuse
+                    - Hostility/hurts feelings
+                    - Work overload - too many causes
+                    - Lack of prioritization/delegation
+        - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] discussion
+            - Context
+                - Potential round of funding in [[[[2022]] Q4]] and [[[[2023]] Q2]]
+                - our [[EBITDA]] is ~+/- HKD0
+            - Revenue
+                - 12m this quarter
+            - Multiplier for fund raising
+                - Global expansion
+                - Tech
+                    - 
+                    - Profession Services Business Valuation is 6-8x [[ARR]], but it is easier to break even
+                    - Platform Business Valuation is 15-20x [[ARR]]
+                    - [[SaaS]] / [[web3]] is 20-50x [[ARR]]
+                    - [[[[Preface]] tech team]] need to transform from Profession Services Business Valuation is 6-8x [[ARR]], but it is easier to break even to Platform Business Valuation is 15-20x [[ARR]] or even [[SaaS]] / [[web3]] is 20-50x [[ARR]]
+        - sidenotes 
+            - [[[[Preface]] [[product]]: Customer Portal]] signal
+                - B2B customers are keen to learn about the profile of nomads in their sessions.
+            - [[Data]] in [[Preface]] signal
+                - [[Tommie Lo]] wants to increase the visibility of OKRs
+- 15:00
+    - [[Vincent Lau]] meetup
+        - Ideas of a bootcamp for web3
+        - Frustrated about the lack of support from his friends
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - What is your top of your mind since our last 1:1?
+            - None
+        - What is my top of my mind since our last 1:1?
+            - Q3 Performance evaluation
+                - Execution is up to standard, can be even better
+                - Discovered the best learning style so far is visually
+                - Focus on execution and add ways to energize and be engaged
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+        - What is your top of your mind since our last 1:1?
+            - How to use [[1:1]] with [[Gilbert Wat]] better?
+                - Running topic to discuss
+                - Gossip / Rumor clarification
+                - Performance feedback
+                - Technology topics
+                - technical opinion sharing
+                - hobby sharing
+                - ...etc.
+        - What is my top of my mind since our last 1:1?
+            - Q3 Performance evaluation
+                - Very good in execution and envision
+                - Keep focus on execution and start to gain more on engagement, enabling and energizing
+- 18:00
+    - Asked [[Anna Yu]] [[Moses Ngan]] and [[Alexander Li]] to give love to [[Ehsan Ayaz]]
+- 18:30
+    - [[Vegas Ho]] and [[Ellen Lau]] agree on the Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]] solution to delay to [[[[2023]] Q1]]
+    - Pending [[Ben Cheng]] for final consultation
+- 19:30
+    - {{[[DONE]]}} Read [[Bible]] to [[Theodore]]
+- 21:00
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[high-grade [[emotions]]]] 
+        - Do I find out what's trigger the [[high-grade [[emotions]]]] of oneself?
+            - [[Moses Ngan]] should have some of this about got unfairly blamed for mistakes.
+            - [[Gilbert Wat]] should have some [[high-grade [[emotions]]]] on being disrespected.
+            - [[Ben Cheng]] should have some [[high-grade [[emotions]]]] about unfair treatment.
+- [[day end evaluation]]
+    - {{[[DONE]]}}  Mark #decided and #progress and [[nature of [[progress]] and [[achievements]]]] 
+    - #Energy
+        - Totally exhausted
+    - [[Theodore]] growth milestone
+        - Single hand assisted standing
+        - pointing direction
+        - Squating
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - 3 hrs 

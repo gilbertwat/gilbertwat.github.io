@@ -1,0 +1,1 @@
+- Logistics industry is a very entrenched industry, as least around [[south-east Asia]]

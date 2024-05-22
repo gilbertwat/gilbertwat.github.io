@@ -1,0 +1,14 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Looping  [Let's fight from 鄭伊健 and digimon](https://www.youtube.com/watch?v=2zx-wdO0L20)
+- Start the day **strong**!
+- 
+- {{[[DONE]]}}  Let [[Young]] knows about the HSBC project with [[[[GOGOX]] GOGODelivery Theme]] and [[[[GOGOX]] Payment Theme]] and [[[[GOGOX]] [[Marketing Team]]]]
+    - Ask for support from [[Young]] seems good approach to closer relationship
+- [[[[[[2021]] Q1]] [[GOGOX]] project list]]
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

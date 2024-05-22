@@ -1,0 +1,33 @@
+- {{[[DONE]]}}  Reorganize [[management]] page
+- {{[[DONE]]}}  Reorganize notes from [[Henry Lee]] onboard to Today
+- {{[[DONE]]}} Write about [[[[ideas]] Journey in [[GOGOX]]]] 
+- {{[[DONE]]}} 12:30 [[Interview]] with [[software engineer]]
+    - - OOP
+    - - Didn't state assumption
+    - - Extra unnecessary abstractions
+    - - Naming convention is not following java convention 
+        - AB extends B: eg ArrayList implement List
+    - + know something about concurrency
+    - Questions:
+        - int vs Integer
+            - good 
+        - Why HashSet
+            - good
+        - Why do <> in the implementation?
+            - good
+        - Why ArrayList in Friends?
+            - good
+        - How to test about performance gain or loss in primitive and boxed type?
+            - + loop
+            - - not knowing JMeter / JProfiler
+    - Like to discuss about ideas
+    - less hands off
+    - don't like ambiguous requirement 
+        - Figure out on the way
+    - Code Review
+        - git-diff
+    - Strong domain knowledge
+    - a lot of old system to maintain
+    - senior pass unwanted task to him
+    - senior pass ambiguous talks to him
+- {{[[DONE]]}} 18:00 Chat with [[Vegas Ho]] [[Preface Coding]]

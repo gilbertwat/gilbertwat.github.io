@@ -1,0 +1,52 @@
+- 09:00 Meeting with [[Tommie Lo]] [[Vegas Ho]] [[Carmen Yeung]] [[Ellen Lau]] 
+    - Some recap for today's meeting. Best of my memory and feel free to further discuss
+        - We are going to transform from *loving* to *mutual respect*.
+        - Our culture is that trust is granted until it is not.
+        - Execution speed of our projects are slow to market, Hotdog project(3 months), membership project(9 months), coffee app (9 months and counting).
+        - Need to instill sense of urgency without breaking the culture of respect.
+        - Hence, OK to share the burn rate of the company ($100,000 HKD / day regardless of holidays).
+        - Explore the balance between policing with human or process, tools or culture.
+        - Ongoing piloting new ways to push projects forwards.
+        - Use WFH policy as an opportunity of communicating our sense of urgency.
+            - Shared [[[[Preface]] WFH policy]]
+- 11:35 [[Week 6]] review
+    - References
+        - In [[Week 6]], I plan to ...
+            - Complete [[2022 Tech Plan [[Preface]]: High level]] and its presentation
+            - On [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]], understand the database model
+            - On [[[[Preface]] [[product]]: Coffee App]], understand the database model and data flow
+            - On [[[[Preface]] data [[architecture]]]], understand exactly how to the data report is doing now.
+            - [[Pull [[exercise]]]] x 2 for 45 min each
+            - [[Push]] x 2 for 45 min each 
+            - [[Run]] x 2 for 1 hour each
+            - [[Diary]] x 3 for 0.5 hour each
+            - [[Meditation]] x 6 for 0.5 hour each
+        - {{query: {and: [[DONE]] {between: [[January 31st, 2022]] [[February 7th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that tech team have to focus on the problem of
+            - {{[[DONE]]}} [[Preface]] How to make sure the credit is burned in the right time without human intervention?
+        - Routines
+            - [[Pull [[exercise]]]] x1
+            - [[Push]] x1
+    - How did you #feel this week?
+        - I felt less overwhelmed. With 3 days of our last holiday that we can [[sleep]] I prioritize that.
+    - What is the plan for next week?
+        - In [[Week 7]], I plan to ...
+            - For tech team Egress
+                -  [[2022 Tech Plan [[Preface]]: High level]] 
+                    - [[Launch Plan for [[[[Preface]] [[product]]: Coffee App]]]]
+                    - [[[[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] next phase update]] 
+                - [[[[[[Preface]] [[NFT]]]] initial launch]]
+            - For routines
+- 13:00
+    - blog.preface.ai is down
+        - {{[[DONE]]}} [[->]] [[Anna Yu]] to help 
+- 16:00
+    - [[Pairing]] [[Ehsan Ayaz]]
+        - Understand the Content Recommender System of [[[[Preface]] data [[architecture]]]]
+            - It is in 2 phase, recommend subject and recommend actual content
+                - Actual content part is [[Ehsan Ayaz]] manually do it.
+        - Understand the [[nextjs]] understanding of [[Ehsan Ayaz]]
+            - #decided
+                - To start [[[[[[Preface]] [[product]]: website]] migration]]
+                    - [[->]] [[Ehsan Ayaz]] First step is create a vercel app on public website repo and see what is missing

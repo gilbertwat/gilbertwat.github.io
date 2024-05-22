@@ -1,0 +1,14 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[[[Ergon]] weekly sync up]]
+- [[1:1]] with [[Rob Dong]]
+- [[1:1]] with [[Gemmy Wong]]
+- [[Onboarding]] [[Victor Lam]]
+- 

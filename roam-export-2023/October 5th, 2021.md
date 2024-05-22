@@ -1,0 +1,6 @@
+- 14:30 [[Interview]]
+    - Microservices
+    - Very proud of a 1 man project
+    - Very engineer proud
+- 16:00 [[Interview]]
+    - A business development background

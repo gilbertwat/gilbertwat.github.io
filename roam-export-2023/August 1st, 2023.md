@@ -1,0 +1,9 @@
+- {{[[DONE]]}}  [[[[[[Preface]] tech team]] [[weekly [[report]]]] [[August 1st, 2023]]]]
+- [[[[Preface]] [[product]]: Coffee App]]
+- [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+- [[[[Preface]] [[product]]: Customer Portal]]
+    - {{[[ARCHIVED]]}}  What is the next step for the upselling flow on TechBites?
+    - https://bitmovin.com/ for the video players.
+- [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+- [[[[Preface]] [[product]]: data ecosystem]]
+- [[[[Preface]] [[product]]: website]]

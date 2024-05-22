@@ -1,0 +1,2 @@
+- [[[[GOGOEnergy]] 2022 Tech Plan]] completed
+- Farewell to [[GOGOX]]

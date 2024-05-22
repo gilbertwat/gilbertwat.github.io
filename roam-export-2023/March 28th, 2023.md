@@ -1,0 +1,19 @@
+- {{[[DONE]]}}  Follow up with [[Anna Yu]] on hand over 👏🏼 finished on [[April 5th, 2023]]
+- {{[[ARCHIVED]]}}  [[Sync up for SyncTree]]
+- {{[[ARCHIVED]]}}  Read https://github.com/databrickslabs/dolly
+- {{[[DONE]]}}  Culture transition for [[2023 Q2]] in [[Preface]] 👏🏼 finished
+    - Phase 1
+        - Product
+            - Learning / Understanding
+        - Market
+            - Internal
+        - Domain
+            - Static
+    - Phase 2
+        - Product
+            - Action / Experiment
+        - Market
+            - Persona
+        - Domain
+            - Unknown
+- 

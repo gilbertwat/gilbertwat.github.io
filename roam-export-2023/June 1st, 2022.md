@@ -1,0 +1,40 @@
+- How can product and the code be synchronous for the async communication trigger of [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] notification #decided
+    - Clickup?
+        - We can use a tag on clickup to indicate them for easy query?
+            - Still depends on human, not dev friendly
+    - Document?
+        - Depends on human, not dev friendly cause easy to forget, not on the critical path
+    - Excel?
+        - Depends on human, not dev friendly
+    - [[decided]] email notification provider / feature flag ✅
+        - Seems a good solution
+        - on Feature flags framework
+        - OR Template platform for SMS / Whatsapp / Email
+    - How to make sure the [[documentation]] is up-to-date?
+        - Put the [[documentation]] such as [[solution documents]] in the critical path of the software in 1 place.
+            - For example: How to know the list of email system is sending? Go to the Email Template software and the Email log software (Usually the same)
+            - Or Feature flag 
+            - Single source of truth
+- [[Business Ideas]]
+    - minimal architecture for non-tech founders
+    - TA: non-tech founders who find a lot of inefficiency creeped in
+        - Where is the data?
+        - Who is responsible?
+        - Too many hands off between teammates
+    - minarch.co
+    - Front page
+        - Title
+            - Help you make the right decision on tech, even if you are not a CTO.
+        - Subtitle:
+            - Do you find your process is too complicated already? You cannot make sense of where your data flowing for your growing business?
+        - Case Study
+            - Ride Hailing App
+            - Education Class Scheduling App
+            - A task management App
+            - Notes App
+            - Wiki
+            - Blog
+            - Ecommerce Site
+        - Blog
+        - IG?
+        - Testimonial if genuine

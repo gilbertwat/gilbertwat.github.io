@@ -1,0 +1,5 @@
+- 
+- #[[11 2023]]
+- {{[[DONE]]}}  [[Preface]] Weekly
+- [[Tech x Content weekly meeting [[Preface]]]]
+- 

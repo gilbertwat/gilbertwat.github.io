@@ -1,0 +1,34 @@
+- Finished [[[[Preface]] source new wordpress blog hosting provider]] Procurement
+    - Criteria of comparison (Sort by importance)
+        - Support
+            - Very important when problem arises
+        - Backup
+            - Very important for reliability and recovery
+        - Storage
+            - Cost in accumulation of contents
+        - Security
+            - Very important as Wordpress is plague with malware and hacks
+        - Other goodies
+            - Plugins, Privacy ...etc.
+        - Estimated Setup Cost (Man Day)
+            - Effort of switching is an investment to the new hosting provider
+        - Uptime Guarantee
+            - Very important -ish for reliability
+        - Staging Area
+            - Cost of experimentation
+        - Traffic
+            - Some platforms have a limited traffic as it directly co-relate its cloud infrastructure cost to their customers
+                - Not a very smart move
+                    - [[pricing]] lesson over here:
+                        - You can average out the usage from all users to provide an "unlimited" plan to better market yourself.
+        - Number of Admin
+            - Cost in scaling the team
+        - Number of Visitors
+            - Here I find the [[pricing]] is very obscure and unclear, not instill a lot of confidence to me. What if I go over it?
+        - Number of Sites
+            - Cost in scaling the product line
+        - Admin Panel
+            - Cost in effort of switching
+    - Subscription (USD/month)
+    - Billing
+        - Cash flow

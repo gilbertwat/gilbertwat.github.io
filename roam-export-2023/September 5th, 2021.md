@@ -1,0 +1,73 @@
+- Retrospective of Week 35
+    - Link to last week 23:50 Retrospective of Week 34
+    - What went well?
+        - #[[health]]
+            - Put more effort in [[💦 Workout]]
+                - 2x [[Pull [[💦 Workout]]]] 
+                - 1x [[Push [[💦 Workout]]]]
+            - Bought a 
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Resume [[🚴🏼‍♂️ Cycling]]
+            - Finished [[Jordan B. Peterson]]
+        - #[[Family [[finance]]]]
+            - Bought USD 1000 in [[ethereum]]
+            - Bought USD 300 in [[bitcoin]]
+            - Investigating the [[NFT]] craze
+            - [[Grantits.io]] invoice sent
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - IPO news released
+            - [[Ergon]]
+            - [[Grantits.io]]
+                - Closing 1 QA Engineer
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - 1.1k Impression
+                    - 1 meme is more engagement (8 Retweet, 13 likes and counting) 🥳
+    - What went wrong?
+        - #[[health]]
+            - Mouth has [[canker sore]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Go completely bonkers on [[NFT]] and [[Twitter]] and [[Instagram]] 
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+            - Forgot to call [[姑姐]]
+            - Got into a fight with [[Dad]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Totally out of motivation in the [[[[GOGOX]] Project Flywheel]]
+                - Helping the local team to debug team issues
+                    - [[Keith Chan]]
+                    - [[Lili Chan]]
+            - [[Ergon]]
+                - [[Kingson Kwan]] has new ideas again.
+            - [[Grantits.io]]
+            - [[Distribution channels]]
+                - [[Twitter]]
+                - [[MVP]]
+                    - Cannot finish [[[[MVP]] Should I join this startup?]]
+    - What can be done next week 36?
+        - #[[health]]
+            - Write back diary 
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - write a post on it for the implication of [[Jordan B. Peterson]] on my #[[🧘🏻‍♂️ Self Awareness]] and [[✝️ Faith]]
+        - #[[Family [[finance]]]] & #[[Friends]]
+        - #[[Family]]
+            - Contact [[姑姐]] for follow up
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Get myself into focus more on [[[[GOGOX]] Project Flywheel]]
+                - Continue the discussion on how to improve the team together with all stakeholders.
+            - [[Ergon]]
+                - {{[[DONE]]}} Follow up with [[Kingson Kwan]] on [[September 10th, 2021]]
+            - [[Grantits.io]]
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - Keep the momentum
+                    - Original Content
+                        - {{[[DONE]]}}  Tweet 1
+                        - {{[[DONE]]}}  Tweet 2
+                        - {{[[DONE]]}} Tweet 3
+                - [[MVP]]
+                    - {{[[DONE]]}}  Complete the [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]

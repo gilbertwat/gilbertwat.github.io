@@ -1,0 +1,33 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Got a feedback on the need of transparency on the [[[[Preface]] tag-based courses [[recommender]] system]] and [[[[Preface]] project [[recommender]] in 1 on 1 courses]]
+            - Yes it is valid as [[Vegas Ho]] [[Alfred Tse]] and [[Ellen Lau]] wants to know more about the direction and progress of it
+                - {{[[DONE]]}}  #to-solve Need to think about the way to make our team more transparent on the progress Finished at [[December 14th, 2022]]
+        - {{[[ARCHIVED]]}} #ideas What kind of business model can we think of using [[large language model]]?
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+        - 
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+- 12:00
+    - [[Family [[finance]]]] 
+- 14:00
+    - Lunch
+- 14:30
+    - Working on {{[[DONE]]}}  [[[[Preface]] 2023 1H [[plan]]ning]] 👏🏼 finished on [[April 10th, 2023]]
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - OK
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - OK
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:30
+    - Continue {{[[DONE]]}}  [[[[Preface]] 2023 1H [[plan]]ning]] 👏🏼 finished on [[April 10th, 2023]]

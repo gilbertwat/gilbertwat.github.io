@@ -1,0 +1,39 @@
+- [[Ergon]] Performance issues
+    - Write from App
+        - Job related
+            - Apply
+            - Schedule calls
+            - Not interested
+            - Star
+        - Profile
+            - Edit Profile
+                - Openness
+                - MBTI
+                - CV
+                    - Upload CV PDF
+                    - Edit 
+- [[Ergon]] [[Interview]] [[Foster]]
+    - TVB
+        - React
+            - TV based
+                - Chrome 4X
+                    - Google very hard
+                    - 3th party library
+                    - library from Google
+                        - Live streaming will freeze
+            - Performance 
+                - rerender
+                - TV CPU very 
+        - React Native
+        - Flutter
+        - React + NodeJs for image hosting
+        - Vue.js
+        - Comparison between Flutter + React Native
+            - Flutter has no jump to ListView item on index()
+            - Flutter verbose
+                - Component arguments too much
+        - Closure
+            - let vs var
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FwyHyyNW88i.png?alt=media&token=4af18c66-c98c-4cea-8906-497277b913c8)
+    - Flexible
+    - Not much big opinion actually

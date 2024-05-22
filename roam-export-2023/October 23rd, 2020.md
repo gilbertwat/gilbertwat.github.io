@@ -1,0 +1,26 @@
+- Radiate your gratitude and good vibe; Focus; Pace yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- One of the #[[🧘🏻‍♂️ Self Awareness]] discoveries recently is that I am a very goal oriented person. All of my brain is about doing certain things. Achieving something. Progressing on something. Less so on human
+- {{[[DONE]]}}  [[Keith Chan]] is recently very agitated and very rush. 
+    - Why? I need to figure it out. But how?
+        - Ask What kind of questions maybe beneficial?
+        - What if the reason is outside of my current control, as a manager how can I mitigate and escalate?[]()
+- {{[[DONE]]}}  How to bring [[budget]] to the PMs
+- Weekly manager meeting with [[Hubert Chan]] [[Young]] [[Ben Lin]] [[Paul Leung]]
+    - Share about business and investors relationship in [[GOGOX]]
+- Actually it is a huge failure for me to unable to ship new CA on time, in the perspective of business. #[[GOGOX]]
+    - Original budget is 6 months
+    - Actual budget is 12 months
+    - 2x cost lost + 6 months opportunity costs
+    - 😞
+- [[GOGOEnergy]] sync up with [[Young]] [[Joseph Cheng]] [[Tony Lee]] [[Rob Dong]]
+    - Set deadline
+        - Help [[Joseph Cheng]] to prioritize
+        - Help [[Joseph Cheng]] to understand the benefit of prioritization.
+    - Eyes on the most crucial work needs to be done. The documentation.
+    - How can you be persuasive when you don't have the title to help you? #[[🤔 Questions]]
+- [[How do you feel when you wind down?]]
+    - {{slider}}

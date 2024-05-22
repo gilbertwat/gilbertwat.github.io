@@ -1,0 +1,80 @@
+- [[[[2022]] Week 47]] #goals
+    - Mind
+        - {{[[ARCHIVED]]}}  [[[[books]]: The unbearable lightness of being]] #to-write 
+        - {{[[DONE]]}}  #fixed iPhone back glasses Finished at 14:38 [[November 30th, 2022]]
+    - Body
+    - Friends & Family
+        - {{[[DONE]]}} Plan for [[Mum]]'s operation visiting from [[December 6th, 2022]] 
+    - Financial
+        - {{[[ARCHIVED]]}} #to-audit current liquid assets #finance
+    - Career
+        - {{[[ARCHIVED]]}}  Found my contribution in OSS may be happening in https://github.com/mermaid-js/mermaid-live-editor/pulls unable to output double direction in flow chart
+        - {{[[DONE]]}}  #read [[[[books]]: The AI-First Company]] Finished at [[December 12th, 2022]]
+        - Preface
+            - {{[[DONE]]}} Pimp the documents we have to increase the fun in our documents
+            - {{[[ARCHIVED]]}}  #to-write [[[[Ehsan Ayaz]] [[post mortem]]]]
+            - {{[[DONE]]}}  Wrap up SG trip for [[Anna Yu]] on [[November 23rd, 2022]] -> [[November 28th, 2022]] Finished at 12:05 [[November 28th, 2022]]
+            - [[[[Preface]] [[product]]: Coffee App]]
+                - {{[[DONE]]}}  #shared updated coffee app related document for [[James Cheuk]] Finished at 15:46 [[November 22nd, 2022]]
+            - [[[[[[Preface]] [[product]]: Customer Portal]] MVP]]
+                - {{[[DONE]]}}  #written Phase 4 [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] on [[November 25th, 2022]] -> [[December 9th, 2022]]
+                - {{[[DONE]]}}  #to-finalize Phase 3 [[[[[[Preface]] [[product]]: Customer Portal]] MVP]] design Finished at 15:04 [[November 24th, 2022]]
+            - [[[[Preface]] tag-based courses [[recommender]] system]]
+                - {{[[DONE]]}}  Model retraining cadence decision for [[[[Preface]] tag-based courses [[recommender]] system]] -> [[January 14th, 2023]] Finished at [[December 12th, 2022]]
+            - [[[[Hubspot]] migration plan]]
+                - {{[[DONE]]}}  Presentation in all-hands for [[Yoon Kim]] on [[November 23rd, 2022]] Finished at 18:00 [[November 23rd, 2022]]
+            - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+                - {{[[ARCHIVED]]}}  Upgrade [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] to fix the budget on [[November 24th, 2022]] -> [[December 1st, 2022]]
+- 08:42
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - B2C marketing strategy
+            - EDM
+                - Set up caedence?
+            - Flyers
+            - No facebook currently
+            - [[[[Preface]] [[product]]: Customer Portal]] will need to be update periodically when it is all ready
+            - {{[[ARCHIVED]]}}  Get the Wix timeline from ops team
+            - Flexi hour be considerate to PCW staff
+        - World cup
+            - 12000 minimum. "Yes we can check."
+        - {{[[ARCHIVED]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] resolve how to migrate from passkit to PCW App.
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+- 12:15
+    - Lunch
+- 13:15
+    - Fix phone
+- 13:30
+    - Fix nvim setting
+- 14:15
+    - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+- 15:00
+    - {{[[DONE]]}}  #shared updated coffee app related document for [[James Cheuk]] Finished at 15:46 [[November 22nd, 2022]]
+        - {{[[ARCHIVED]]}}  Found my contribution in OSS may be happening in https://github.com/mermaid-js/mermaid-live-editor/pulls unable to output double direction in flow chart
+- 15:30
+    - fixed daily routine in here
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Harder tasks
+        - What is our recurring topics?
+            - Shared about filtering, currying, piping and partial functions
+            - Shared https://www.digitalocean.com/community/tutorials/javascript-functional-programming-explained-partial-application-and-currying
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:30
+    - [[1:1]] [[Jeffy Fung]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - OK
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:45
+    - Read about https://asteriskmag.com/issues/1/is-wine-fake
+    - Read about https://asteriskmag.com/issues/1/china-s-silicon-future
+- 18:23
+    - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+- {{[[DONE]]}}  [[Ehsan Ayaz]] check up Finished at 15:24 [[November 27th, 2022]]
+- Daily questions: Do I find out what's trigger the [[high-grade [[emotions]]]] of oneself?

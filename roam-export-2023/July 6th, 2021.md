@@ -1,0 +1,6 @@
+- [[Steven Lam]]'s OS
+    - Why I need to do this?
+        - I need to do this to figure out a way to work together with him.
+    - What is the underlying OS?
+        - Economic
+        - Conversational

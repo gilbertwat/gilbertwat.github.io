@@ -1,0 +1,14 @@
+- [[ideas]] Use https://coder.com/ as teach and learn platform.
+- Working on [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - Start with the [[ideas]] of helping people to make sense of 
+- {{[[DONE]]}}  Payment Request & Budget Request
+- {{[[DONE]]}}  Update website
+    - {{[[DONE]]}}  isp.preface.ai redirection
+    - {{[[DONE]]}}  [[[[Preface]] Coffee & Wine]] update
+- Meeting with [[Marco @ [[Big Jump SEO]]]]
+    - {{[[DONE]]}}  redirection map
+- {{[[DONE]]}}  [[project]] [[Ben Cheng]] on [[[[Preface]] [[project]]: Nomad bonus scheme]]
+- [[gratitude dairy]]
+    - I am able to do Working From Home.
+    - The brain fog doesn't kills me.
+    - [[Theodore]] is playful with me on running a business.

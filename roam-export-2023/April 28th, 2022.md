@@ -1,0 +1,31 @@
+- 14:30
+    - Metrics Gathering with [[Edwin Chiu]] [[Alexander Li]] [[Ben Cheng]] for [[[[Preface]] data [[architecture]]]]
+        - {{[[DONE]]}} Gather enough metrics from all levels and departments to construct an actionable company dashboard
+        - {{[[DONE]]}} [[Leadership]] team needs to know 
+            - [[Edwin Chiu]] has a OKR of Revenue
+                - but there is no visibility of revenue to him
+                - The definition of revenue is murky at best
+                - need another definition for cash in and not ultilization
+        - cannot attribute which channel can convert
+            - Internal portal has a field but not very useful
+        - Sleekflow
+            - 5-10 columns to report the data required to complete the sales
+        - Sales co owned
+            - CAC by channels
+            - CAC by products
+        - Sales to close deals
+        - Impressions (easy to automate)
+        - Number of leads generated
+        - CPL by channels
+        - CPL by products
+        - Conversions of unique students
+        - Tried https://supermetrics.com/product/api
+            - how to categorize Ads is hard
+        - categorization of lead by product is a human judgement based on conversation, channel in ...etc.
+    - Conversion
+    - Hubspot + Sleekflow is the main tools
+    - weekly metric will spend Edwin half a day each week
+    - data tracking / collection is the most problematic
+    - GA4 ecommerce is not very useful
+        - User journey cannot be tracked as there is some engineering gap
+    - CAC by channel is the worst 

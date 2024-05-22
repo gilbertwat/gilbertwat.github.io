@@ -1,0 +1,39 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - AL
+- meditation
+    - I have meditated for > 1hours 
+        - Very serious
+- [[Ergon]] Search
+    - Remove MongoDB search
+    - Do a transformation of job to MySQL for essential fields + Job ID
+        - Hashtag (skills & criteria)
+        - Keyword
+        - Industry
+        - Location
+        - Salary Range
+    - Do search **only** in MySQL
+    - Image uploaded to S3 already
+        - Need [[Tony Fung]] help on sending only jpg to server
+        - Server image compression [[Myself]] research
+    - Show Company Info
+        - Only in Job Detail API
+        - Use a new JobMatch Collection with
+            - signedNDA?
+            - smartMatched?
+            - to be determined
+- [[[[🔮 Bets]] 2021]]
+    - Buy signal experiment
+        - Observe people buying stuff.
+            - Ask why?
+                - How I can know who is willing to pay a premium to buy.
+    - What I really want to do in leisure time?
+        - Do I want to read?
+        - Do I 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

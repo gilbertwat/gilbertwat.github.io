@@ -1,0 +1,48 @@
+- 5 years from now what do I want to be? 
+    - 2027
+    - 5 year old son
+    - ?? one more kids?? (0-4 years old)
+    - 40 year old me
+    - 43 year old [[Wifey]]
+    - Anywhere in the world with good internet connections and interesting opportunities
+        - [[🏴Hong Kong]] if things are not too bad
+        - [[🇬🇧United Kingdom]] if things are hell in [[🏴Hong Kong]]
+        - [[🇺🇸United States of America]] if opportunities arise
+- https://www.youtube.com/watch?v=9nL1rEk8wjo
+- Ideal situation
+    - am a [[business]] owner with maximum autonomy and am handling 100 customers with 100K USD ARR.
+        - if we can get consistently 10,000 HKD per month in 2022, and we can grow my income in a rate of 50% per year in 6 years, we can reach 100K USD ARR.
+    - [[🤔 Questions]] [[Top of my mind]]
+        - What kind of [[business]] you want to be in?
+- Worst situation
+    - Stuck in [[GOGOX]] with no prospect
+    - Income cannot sustain the basic lifestyle of 
+    - Failed to [[Prepare for War]] and war hit us.
+    - Fired by [[GOGOX]] and go 
+- Things I cannot control
+    - Where I am stationing
+    - [[🏴Hong Kong]] situation
+        - HKD still a worthy currency?
+        - USD still a worthy currency?
+    - [[GOGOX]] situation
+    - What other people view myself
+- Things I no longer care about
+    - [[GOGOX]] situation
+    - [[🏴Hong Kong]] government
+- Things I enjoy doing [[🚴🏻‍♂️ Hobbies]]
+    - Cycling
+    - Walking
+    - Exploring different neighborhoods
+    - 
+- Goals
+    - [[Family]]
+        - Live comfortably
+        - My offspring is brave, bold and creative.
+    - [[Friends]]
+    - [[Professional]]
+    - [[🚴🏻‍♂️ Hobbies]]
+        - 15% body fat
+        - A visible 6 pack
+- Motivation
+- 
+- Process

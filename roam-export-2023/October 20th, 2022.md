@@ -1,0 +1,63 @@
+- [[[[2022]] Week 42]] #goals
+    - {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - {{[[DONE]]}}  Decide filter logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+        - {{[[DONE]]}}  Decide adult courses logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+    - [[[[2022]] Week 41]] carry over
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+- 
+- 11:00
+    - {{[[DONE]]}}  #read https://twitter.com/johncutlefish/status/1582816746716553216/photo/1 Finished at 11:13 
+        - How to write a good [[plan]]?
+            - Brief mission statement and vision for your team
+            - Diagnosis statement of the problem this plan is aiming to solve
+                - Key problems that we are going to solve
+            - Two single sentence focus statement
+                - In 3 months, ...
+                - In 12 months, ...
+            - listing all workstreams
+                - Why
+                - Who
+                - What
+                - NOT How
+                - Could be opportunities focus
+                - Could be problem focus
+                - Must have metrics / measures
+            - 12 month initiative roadmap
+            - Upcoming key milestone
+            - Key dependecies and partners
+            - A list of non-goals
+            - A list of key assumptions
+            - A list of risk project initiator is managing.
+- {{[[DONE]]}}  [[exercise]] for 30 minutes Finished at 08:56 
+    -  [[Leg [[exercise]]]] + [[core [[exercise]]]]
+- 14:00
+    - Find out the metabolic rate is the same as a person without exercise by comparing the 2 week moving average of weight with the 14 day moving average of the calories intake
+        - https://docs.google.com/spreadsheets/d/1IlCU7t-92U63E_4Nh8tAD8BP-4gcJmrugkX8FsgY__Q/edit#gid=1676092952
+        - [[moving average]] can smoothen out the value and allow human judgement to see similarity or difference.
+- 14:45
+    - {{[[DONE]]}}  Add 1-3 permanent notes from [[Doris Ng]] Finished at 14:47 
+- 14:50
+    - Reorganizing daily notes 
+- 15:00
+    - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+        - {{[[DONE]]}} Write [[[[job description]] for upwork on [[[[Preface]] [[product]]: Coffee App]]]] Finished at 17:00 [[October 20th, 2022]]
+- 17:00
+- 18:00
+    - {{[[DONE]]}}  Answer Esquel Venture [[due diligence]] Finished at 16:51 [[October 21st, 2022]]
+- 21:30
+    - Work on {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+        - Assume nomad teaching style and quality is irrelevant OR constant.
+        - Assume NPS is the sole metric for measuring the learning quality.
+        - Assume learning quality with learning satisfaction is the same thing.
+        - Assume better learning quality results in repurchase and longer LTV.
+        - Assume there is a best path of learning for our curricula.
+        - Assume we provide the best path of learning a certain topic for our curricula.
+        - We are testing the teaching quality will be positively influenced if we are providing the right topic of contents.

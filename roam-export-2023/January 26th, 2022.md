@@ -1,0 +1,13 @@
+- 09:30
+    - [[1:1]] with [[Tommie Lo]]
+        - Confirm [[[[Preface]] [[NFT]]]] projects details
+- 10:15
+    - [[[[Preface]] [[post mortem]] 1]]
+- 12:00
+    - Meet with [[Ben Cheng]]
+        - Want to wait a bit on [[GOGOX]] [[esop]] offering
+- 14:00
+    - [[AirWallex]] meeting
+- [[1:1]] with [[Alexander Li]]
+    - Set up [[OKR]]
+    - Seems very driven to make changes

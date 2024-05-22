@@ -1,0 +1,13 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Ergon]] sync up
+    - critical moment for [[Kingson Kwan]] and [[Kwong Kin Ming (KM)]] whether they are going to work along well in the coming months.
+        - [[Kingson Kwan]] is being hostile to [[Kwong Kin Ming (KM)]] and [[Kwong Kin Ming (KM)]] can sense that he is going to fire him.
+        - I am being told that [[Kingson Kwan]] does what to terminate 

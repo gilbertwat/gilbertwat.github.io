@@ -1,0 +1,43 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Once again the fix is not there.
+            - I am really pissed
+            - Why did I choose to go to bed last night?
+- Post-mortem of Incident with [[Tom Lui]] [[Young]] [[Vincent Chan]] [[Jackie Yam]] [[Ming Tse]] [[Nicole Tse]] [[Brian Chen]] [[Victor Lam]] [[Vincent Ngai]]
+    - Reiterate it is a bug.
+        - Better design might have prevent it.
+        - Better alert through right channel of #fire-fighting might have damage control better
+        - Might want to reference how TW ops team mitigate via mass update feature in admin panel
+    - Operation received enormous calls about updating documents in these 2 days
+        - Maybe this is the silver lining.
+    - Impact analysis 
+        - Main concern on [[Vincent Chan]] and [[Tom Lui]] is how to do it without an overkill
+        - [[Jackie Yam]] and [[Ming Tse]] has an expectation on it to allow them to be able to anticipate 
+        - Expectation aligned with everyone: **It is an experiment and will iterate accordingly**
+    - Different opinion on where to focus on:
+        - Prevention OR detection
+            - Engineers will tend to focus on prevention and **automatic detection and recovery**
+            - Ops and CS will tend to focus on detection and mitigation
+        - A continuous dialogue on this 2 front
+    - Ops team stressed the departmental OKRs as a part of company strategy
+        - cost reduction
+        - maintain completion rate
+    - Action Items:
+        - [[Myself]] [[Victor Lam]] update software development process and governance to enhance prevention
+        - [[Myself]] [[Victor Lam]] update hot-fix process and governance
+        - [[Jackie Yam]] [[Ming Tse]] feedback on information given out by tech team useful or not
+        - [[Jackie Yam]] [[Ming Tse]] help standardize channel to raise alarm to tech team with Ops teammates
+        - [[Myself]] [[Victor Lam]] monitor Expire driver scheduled routine for a short period of time.
+        - [[Brian Chen]] need to think about what to do to better detect abnormality and prevention.
+        - [[Ming Tse]] [[Tom Lui]] agree on the timeline on expiring support for previous version of driver app.
+- [[Ergon]] sync up
+    - #[[Quick Capture]]
+        - job match 
+- mailer api Gilbert Wat
+- [[How do you feel when you wind down?]]
+    - {{slider}}

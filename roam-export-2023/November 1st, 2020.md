@@ -1,0 +1,28 @@
+- Always radiate your gratitude and good vibe.
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Sunday baby
+- https://clarity-lang.org/ #Cryptocurrency #Research
+- #Notes URL https://us11.campaign-archive.com/?u=1aa0f43522f6d9ef96d1c5d6f&id=5a01bbd959&e=d73f8958a1 s
+    - Topics
+        - #[[Software quality]] [[Software Performance]]
+    - [[Excerpts]]
+        - **Be full-stack and user-first.**
+        - **Never underestimate developers.**
+        - **Performance requirements always exist.**
+        - **Optimization without measurement is premature.**
+        - **Measurement is worthless without context.**
+        - **Simple and fast are complements, not mutually exclusive.**
+        - **Experimentation over best practice**
+    - {{[[DONE]]}} Takeaways
+        - Measurement is always context based
+        - Measurement before optimization.
+- [[How do you feel when you wind down?]]
+    - {{slider}}
+- #[[Quick Capture]]
+    - hartwell towel

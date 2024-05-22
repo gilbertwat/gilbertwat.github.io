@@ -1,0 +1,26 @@
+- 08:30
+    - Leadership meeting
+        - Questions to be answered
+            - {{[[DONE]]}} data definition: What is **prospect**?
+            - {{[[DONE]]}} data definition: What is **lead**?
+            - {{[[DONE]]}} data definition: What is **sales**?
+        - Questions to be answered
+            - {{[[DONE]]}} data definition: What is **quality** of nomad?
+        - [[April 17th, 2022]] hackathon on [[Temi]]
+        - Q2 main focus
+            - Cash 15m HKD with 9m HKD of revenue
+        - Q3 Series B
+            - [[[[Preface]] Pre-Series B plan]]
+- {{[[DONE]]}} Learning budget for the team 
+- 14:30
+    - [[1:1]] [[Moses Ngan]]
+        - Mob programming is very stressed
+        - Single dependency
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - [[Hema Shah]] collaboration
+            - Be proactive and to a forefront
+                - Effective so far
+- 16:30
+    - [[1:1]] [[Ben Cheng]]
+        - Hire a junior engineer to spice up the team

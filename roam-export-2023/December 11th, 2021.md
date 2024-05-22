@@ -1,0 +1,29 @@
+- How to deal with the current [[[[Preface]] Coding]] contract
+    - [[decided]] to delay a bit on the contract signing as ESOP is not ready yet. Pushed a bit on [[Vegas Ho]] side
+        - I don't want to get "scammed" again.
+        - I don't want to give an impression of signing up on something not concrete.
+- 09:00 - 12:00 [[[[Preface]] Coffee & Wine]] grand opening
+    - [[[[Preface]] Coding]] culture
+        - A very very strong branding
+        - The engineering team is very exciting to see me join.
+        - A very open culture
+            - Improvement: I need to ask hard questions without holding up.
+        - People
+            - [[Alexander Li]] Data scientist
+            - [[Ken Chow]] UI/UX designers in [[MPayme]]
+            - [[Larry]] Programmer
+            - [[Moses Ngan]] Programmer
+            - [[Ronald Kwok]] Programmer
+        - Challenges
+            - Morale of the tech team is a bit low
+            - A lot of request on talents joining
+                - QA
+                - Senior engineers and data analyst
+                - need to get creative and maintain an open culture.
+            - Very messy product prioritization
+            - Some personal feud on working style from Scrum master with the team
+                - Slow to catch up the collaborative speed of the team
+                - {{[[DONE]]}} Is that true that Scrum master is not adding value to the team iteration speed?
+                    - Underwork? Fear of losing job?
+            - No organizational structure
+            - [[Hunch]] [[To be validated]] Need a lot of warmth and human touch to get things done

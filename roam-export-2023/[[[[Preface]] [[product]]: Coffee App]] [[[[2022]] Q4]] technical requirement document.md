@@ -1,0 +1,4 @@
+- Related to [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]]
+- To be shared with vendors
+- Technical requirement
+- Talent needed

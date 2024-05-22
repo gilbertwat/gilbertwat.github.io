@@ -1,0 +1,12 @@
+- Birthday
+- Anniversary
+- Sentiment to me
+    - Good
+- Super strength (With examples)
+    - Smart
+        - Know how to support his boss (me) 💪🏻 I don't need to spell out the 
+    - Diligent
+- Core weakness (With examples)
+    - Exposure
+- [[💪🏻 Commitments]]
+- [[Help!!!]]

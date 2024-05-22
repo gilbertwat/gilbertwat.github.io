@@ -1,0 +1,11 @@
+- #Praise [[Delivery Manager]]
+    - It is the start of 2021, and I am sure everyone had a memorable year. During this year of pandemic, we still shipped business critical features such as premium service, partner wallet, additional requirement 2.0, public APIs, bulk import delivery order APIs, driving mode and other iterations and new features. 
+- #Praise [[Victor Lam]]
+    - Shipping those features are not easy. It requires everyone in the company to make them impactful and platform team is playing a critical part. Victor and his team managed to ship platform related components timely and reliably. Without them, our customers and colleagues cannot enjoy those new features.
+    - Besides developing new features, our platform team is also crucial to our business continuity. We achieved 99.9% uptime for 11/12 months in 2020.  Although we do have a few incidents, Victor and his team handle the incidents well during the firefighting, and written up some post-mortem to learn from the experience.
+    - Other than keeping the lights on for ad-hoc and on-demand pro customers, we also upgrade a lot on improving the efficiency of our software development. We migrated from our 7-year-old infrastructure to a more scalable, flexible and extendable infrastructure. Victor and his team need to work together with infrastructure team to make that happen. We also separate backend deployment from mobile apps so we can ship faster with same quality of service.
+    - All in all, without Victor and his team tirelessly working with other team in engineering and product team, we are not able to make those happen.
+- #Praise [[Keith Chan]]
+    - Besides Victor, our mobile team led by Keith is also crucial to shipping new features and improvement for client app and driver app users, they have to be closely working with designers to make sure.
+- #Praise [[Rob Dong]]
+- #Praise [[Ben Cheng]] & [[Ivo Wu]]

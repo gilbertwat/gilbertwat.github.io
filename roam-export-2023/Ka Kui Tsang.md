@@ -1,0 +1,11 @@
+- Not very good at communicating difficulties
+- More comfortable in working alone
+    - I think he doesn't feel treasured in the team
+- Bad at executing
+- Worked with [[GOGOX]] from [[2018 Q2]] to [[[[2021]] Q2]]
+- [[💪🏻 Commitments]]
+    - {{{[[DONE]]}}}} Ask about his well-being & raise awareness of agile process [[June 22nd, 2020]]
+- [[Help!!!]]
+    - How can we help [[Ka Kui Tsang]] to gain back momentum?
+- [[Off-boarding]]
+    - Reason: I don't think KK understands he need to communicate with a wide range of teammates with different expertises and 

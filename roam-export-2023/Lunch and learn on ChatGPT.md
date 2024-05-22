@@ -1,0 +1,48 @@
+- Who is the audience?
+    - [[Preface]] colleague. Basic ChatGPT knowledge.
+- What is my intent?
+    - To share some in-depth GPT-3 / ChatGPT capabilities.
+    - To demo the workflow of me
+- Pace
+    - Slow
+- Tone
+    - Friendly, inspiring chatty, interesting, funny a bit
+- Content
+    - The story plot
+    - Basic introduction
+        - 5 min
+            - What is ChatGPT / OpenAI
+        - Why
+            - World first
+    - 2 use cases
+        - Research
+            - Data Engineering
+                - {{[[video]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FSG8cLC3oNG.20.02.mov?alt=media&token=89fd08cd-6caf-426d-a0b3-d9d23d3cf880}}
+            - By department
+        - Development (Delivery)
+            - Write some updates for Tommie
+            - By department
+    - Strength:
+        - High level overview
+        - Super specific and "simple" task
+        - Timeless stuff
+    - Weakness:
+        - When the operators are unclear about what he/she wants.
+    - How to affect our company
+        - Sales pitch
+        - Operation
+    - How to install?
+        - Loom
+    - Engagement
+        - Nudge point to consolidate learning / up-cross sell
+- Bonus: Help your son/daughter do homework
+    - https://topick.hket.com/feature/sspa/english.html?mtc=t001_0013
+    - Chinese
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FXhA_PMl-5i.pdf?alt=media&token=eb2884fc-8594-425e-801c-0a3470a63132}}
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2F7ObeQ5OSof.54.51.png?alt=media&token=29424de3-4a66-4a69-b4cd-59032e845ab1)
+    - English
+        - {{[[pdf]]: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FNXRYpPHHQq.pdf?alt=media&token=62356b69-4032-4e5e-8a07-a0bca9c48e17}}
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FvDOUiGzHiD.18.25.png?alt=media&token=9d1cf596-fcde-4143-93da-80ca9317f470)
+    - Maths
+- #learning create a talk is hard
+- {{[[DONE]]}}  [[January 20th, 2023]] Slides ready for [[Lunch and learn on ChatGPT]]

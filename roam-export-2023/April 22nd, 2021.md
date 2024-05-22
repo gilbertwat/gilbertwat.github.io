@@ -1,0 +1,18 @@
+- [[Interview]]
+    - Why leave because too chur
+    - Why leave because too little pay
+    - human
+    - legacy system
+    - goals 
+    - Candid
+    - Next Media
+        - Internal Tools (Offline)
+        - Online
+            - dev-workflow (big company)
+    - Wa fu
+    - Change Data Capture
+    - Kafka
+    - Redis
+    - 1 min delay websocket
+    - work on product
+    - technical

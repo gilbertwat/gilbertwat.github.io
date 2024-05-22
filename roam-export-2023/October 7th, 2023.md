@@ -1,0 +1,14 @@
+- #SmartBlock project summary
+    - PIC: 
+    - Project size: 
+    - Goal in One-liner: 
+    - Expected Result:
+- Work on [[[[Preface]] [[[[2023]] Q4]] [[OKR]]s]]
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- Body
+    - {{[[DONE]]}}  #exercise 15 minutes
+- Mind
+    - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+- [[career]]

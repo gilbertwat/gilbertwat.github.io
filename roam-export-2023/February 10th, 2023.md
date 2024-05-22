@@ -1,0 +1,45 @@
+- #[[12 2023]]
+- 09:30
+    - Working on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  Migrate `login.js` logics from `pages` to `packages/app/screen` 👏🏼 finished on [[February 10th, 2023]]
+- 10:00
+    - Interview with [[[[product]] manager]] with [[Anna Yu]] and [[Ben Cheng]]
+        - {{[[DONE]]}}  Add comment 👏🏼 finished on [[February 13th, 2023]]
+            - Pros
+                - Has personal insight in online learning
+                - Buy in into our taste
+                - Online offline experience is very relevant to us.
+            - Cons
+                - Maybe strong opinion
+                - Maybe not as flexible and experienced in experimentation
+- 11:00
+    - Debriefing with Interview with [[[[product]] manager]] with [[Anna Yu]] and [[Ben Cheng]] also with [[Vegas Ho]]
+        - {{[[DONE]]}}  Add comment 👏🏼 finished on [[February 13th, 2023]]
+            - Strategic choice to choose between Boris and Abigail
+- 12:00
+    - Lunch
+- 12:45
+    - Short Convo with [[Tommie Lo]]
+        - {{[[DONE]]}}  Add comment 👏🏼 finished on [[February 13th, 2023]]
+            - Swap with Fund raising
+- 13:00
+    - Working on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  Migrate `login.js` logics from `pages` to `packages/app/screen` 👏🏼 finished on [[February 10th, 2023]]
+- 14:30
+    - Interview UI/UX designer with [[Joseph Chan]]
+        - {{[[DONE]]}}  comment 👏🏼 finished on [[February 13th, 2023]]
+            - Too junior.
+            - All UI and UX aspect has only vague description.
+- 15:30
+- 16:45
+    - Start the conversation with [[Silvia Wong]] on B2B integration
+        - Answered {{[[DONE]]}}  What is the content for B2B? 👏🏼 finished on [[February 14th, 2023]]
+            - It is from B2B team solely.
+        - {{[[DONE]]}}  Add comment 👏🏼 finished on [[February 14th, 2023]]
+            - Cannot find angle to sell [[[[Preface]] [[product]]: Coffee App]]
+            - {{[[DONE]]}}  Will share the selling flow of B2B before [[February 17th, 2023]] 👏🏼 finished on [[February 23rd, 2023]]
+- 17:30
+    - {{[[DONE]]}}  App Inventor reset password for [[Carmen Yeung]] and [[Connie Sze]] 👏🏼 finished on [[February 10th, 2023]]
+- 18:00
+    - Crazy prediction of idea: Analyze your codebase and add code to make that feature. with [[Charlie Mak]]
+- [[Preface]] idea for B2C / B2B : cohort learning for adult

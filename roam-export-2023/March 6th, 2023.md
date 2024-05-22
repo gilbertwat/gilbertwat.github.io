@@ -1,0 +1,37 @@
+- 09:00
+    - Photo shooting
+- 09:15
+    - [[Tommie Lo]] [[1:1]]
+        - On Abigail
+            - Potentially to share with Content Product
+        - On [[Joseph Chan]]
+            - Potentially on UI/UX Product
+        - On 6/2/2 separation of budget in credit system, content delivery, classroom experience for [[[[Preface]] [[product]]: Customer Portal]]
+- 10:00
+    - Sync up with [[Ben Cheng]] on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- 10:30
+    - [Tech team budget](https://docs.google.com/spreadsheets/d/1kNqtsX9GLFMpRz-K9JgywI8kwy1PanDwoIRKxMwRjvQ/edit#gid=378192138)
+- 11:40
+    - [[1:1]] with [[Ben Cheng]]
+        - Frustration of unclear direction
+            - I think the why and vision doesn't change but the how is
+                - We are still looking for PMF for Techbites and the tuition school business model is coming to an end
+            - We are under disruption of AI generation
+            - 
+        - I think we need to find the new way out together
+        - No confidence in the current approach to test the market on techbites
+            - Key question is the lack of wins in the current team [[things that can only be solve without saying]]
+                - {{[[DONE]]}}  Find quick wins for [[Preface]] 👏🏼 finished on [[April 5th, 2023]]
+- 13:30
+    - Go Back Home
+- 14:00
+    - Lunch
+- 14:50
+    - Work
+- 15:15
+    - Go out with [[Theodore]]
+- 16:00
+    - Work
+        - Cannot stop thinking about the conversation with [[Ben Cheng]]
+            - Survival mode kicks in.
+        - I think I will focus on {{[[DONE]]}}  Find quick wins for [[Preface]] 👏🏼 finished on [[April 5th, 2023]]

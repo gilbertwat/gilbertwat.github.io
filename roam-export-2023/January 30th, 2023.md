@@ -1,0 +1,32 @@
+- #[[05 2023]]
+- 09:30
+    - {{[[DONE]]}}  [[Akash]] recommendation letter
+    - {{[[DONE]]}} [[[[Preface]] [[product]]: Blog]] restoration
+        - Another time the backup cannot be founded.
+    - {{[[DONE]]}}  Resume screening for [[[[product]] manager]] and [[UX designer]]
+    - {{[[DONE]]}}  Handle [[Adrian Chan]] request for switching team
+        - With the same situation with [[Anne Rommero]]
+- 11:00
+    - Assist [[Theodore]] to [[sleep]]
+- 11:40
+    - Continue on {{[[DONE]]}} [[[[Preface]] [[product]]: Blog]] restoration and {{[[DONE]]}}  Resume screening for [[[[product]] manager]] and [[UX designer]]
+- 12:45
+    - Lunch
+- 13:06
+    - {{[[DONE]]}}  Weekly planning
+        - {{[[DONE]]}}  Set up [[1:1]] with my teammates
+- 14:00
+    - [[Charlie Mak]] [[Vincent So]] [[Ben Cheng]] sync up on [[[[Preface]] [[project]]: Credit System MVP]]
+        - Proof of Payment module
+        - Exchange rate difference
+        - {{[[DONE]]}}  Work with [[Ben Cheng]] on the system requirement 👏🏼 finished on [[February 14th, 2023]]
+- 14:30
+    - Continue {{[[DONE]]}}  Weekly planning
+    - {{[[DONE]]}}  preparation for [[January 31st, 2023]] leadership meeting on [[[[Preface]] [[strategy]]: product metrics]]
+- 15:45
+    - [[Theodore]] and market buying 
+- 16:45
+    - Continue {{[[DONE]]}}  Weekly planning and {{[[DONE]]}}  preparation for [[January 31st, 2023]] leadership meeting on [[[[Preface]] [[strategy]]: product metrics]]
+- 18:19
+    - [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- {{[[ARCHIVED]]}}  Study on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]

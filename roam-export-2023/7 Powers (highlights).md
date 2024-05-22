@@ -1,0 +1,10 @@
+- Author:: [[Hamilton Helmer]]
+- Full Title:: 7 Powers
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/410p-N1neLL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - Strategy: the study of the fundamental determinants of potential business value ([Location 186](https://readwise.io/to_kindle?action=open&asin=B01MRLFFQ7&location=186))
+    - Statics—i.e. “Being There”: what makes Intel’s microprocessor business so durably valuable? Dynamics—i.e. “Getting There”: what developments yielded this attractive state of affairs in the first place? ([Location 189](https://readwise.io/to_kindle?action=open&asin=B01MRLFFQ7&location=189))
+        - **Note**: Quite similar in principle with architecture
+    - Intel’s great leadership, their superb business practices—none of it could offer any refuge. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B01MRLFFQ7&location=204))
+    - strategy: a route to continuing Power in significant markets ([Location 219](https://readwise.io/to_kindle?action=open&asin=B01MRLFFQ7&location=219))

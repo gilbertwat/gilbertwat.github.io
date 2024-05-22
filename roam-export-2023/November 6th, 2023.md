@@ -1,0 +1,11 @@
+- 
+- #[[11 2023]]
+- Week 45
+    - Focus is fixing my health
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+- https://www.chocloud.cn/function.html reference for another franchise to use for tech education for kids

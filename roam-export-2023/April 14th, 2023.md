@@ -1,0 +1,4 @@
+- [[[[Preface]] [[project]]: Techbite Pro]]
+    - Sequence Diagram from Actor POV
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FiHAJQe86kW.jpeg?alt=media&token=95dc5f54-ff40-49e4-a22d-f15fcec3c890)
+- {{[[ARCHIVED]]}} https://twitter.com/itakgol/status/1634590622286741504?s=46&t=uxArM9ACRONWpV4tjI3W8g hacking up

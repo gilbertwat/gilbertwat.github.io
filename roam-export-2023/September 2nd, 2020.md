@@ -1,0 +1,23 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - super tired
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} coding on [[GOGOX]] [[HK Taxi]] Map API
+        - #[[🔢 Software Development]]
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Tom Lui]]]]
+        - #Management
+        - TW is reluctant to ship the current delivery box as is. They want MOAR. They want to be able to charge. And this is the same as Dynamic Additional Requirement.
+        - It creates quite some frustration and we can foresee the frustration will cascade to engineers, if they start to care more about the impact of their works. And it is not the first time. It is the same story about difference between local team and global team whether we can release some already implemented feature or not, scope change and stuff. 
+        - My suggestion:
+            - We are not implementing the said change for TW (it can be covered by Dynamic Additional Requirement which we will ship soon).
+            - Try to think on stakeholder point of view. In this case, the delivery box is a compliance issue, we can find the legal cost if we don’t comply and try to influence stakeholder to ship delivery box as is, and replace it with Dynamic Additional Requirement . Although the narrative on business side might be tricky.
+            - Not pick the battle with reluctant local teams and focus on regions(SG/VN??) that we can influence and provide results. Results will convince everyone.
+            - Try to understand why local team is reluctant to release new stuff. AGAIN. (for real, maybe is afraid to take risk of their work? maybe is afraid of letting down the customers? maybe is too much calls and overload our ops staff?) see if we can bridge the gap. We can strategize together after we understand / empathize for real.
+        - Goals:
+            - Less frustration for Tom
+            - Focus team effort to get results for DET
+- How do you feel when you wind down?
+    - {{slider}}
+        - Exhausted

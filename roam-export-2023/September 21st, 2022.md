@@ -1,0 +1,84 @@
+- [[[[2022]] Week 38]] [[goals]]
+    - [[Preface]]
+        - [[team building]]
+            - {{[[DONE]]}}  Celebrate with tech team on MVP launch for buy link on [[September 21st, 2022]]
+        - shipping
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 1 Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+            - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+        - #hiring
+            - {{[[DONE]]}}  [[Gemmy Wong]] follow up Finished at [[September 24th, 2022]]
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]]
+- 09:30
+    - [[Preface data strategy from 2022 Q4 onwards]]
+        - [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Reboot : [[[[Preface]] tag-based courses [[recommender]] system]]
+            - Why we need a reboot?
+                - A lot of effort in operation for our data collection, making sure data is accurate
+                - with [[[[Preface]] [[product]]: Customer Portal]] we can be better in data collection
+            - Goal:
+                - Expand our scope to recommend the next experience instead of the next knowledge point
+                - In [[business]], increase [[LTV]] and [[retention rate]] across cohorts
+                - In [[product]], increase [[NPS]]
+                - In [[Education]], also increase [[NPS]]
+                    - For [[Preface]], the philosophy of [[Education]] is we don't believe in [[standardized test]]s.
+                        - But what is the alternative? Could be an item for [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+            - Roadmap
+                - Design, implement and deploy
+                    - Data schema
+                    - data pipeline
+                    - feedback loop integration with our product(s)
+                    - Null model
+                    - Customer segments
+                    - A/B testing infrastructure in product
+                - Experimentation v1 for baseline model
+            - 
+- 11:30
+    - [[[[Preface]] [[product]]: Customer Portal]] Q4 MVP planning #progress
+        - [[September 23rd, 2022]]
+            - Individual bootcamp
+        - [[October 7th, 2022]]
+            - {{[[DONE]]}} Discount code for [[[[Preface]] Annual Pass]] should be shipped Finished at 09:44 [[October 10th, 2022]]
+        - [[October 21st, 2022]]
+        - [[November 4th, 2022]]
+        - [[November 18th, 2022]] #OneWeekSprint
+        - [[December 2nd, 2022]]
+        - [[December 16th, 2022]]
+        - [[December 30th, 2022]] #OneWeekSprint
+- 12:30
+    - {{[[DONE]]}}  Celebrate with tech team on MVP launch for buy link on [[September 21st, 2022]]
+- 15:00
+    - [[1:1]] [[Moses Ngan]]
+        - What is your top of your mind since our last 1:1?
+            - Talk about [[work ethics]]
+        - What is my top of my mind since our last 1:1?
+            - Morale checking
+- 16:45
+    - [[1:1]] [[Anna Yu]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Morale checking
+                - If too busy?
+                - If too vague?
+- 17:00
+    - [[1:1]] [[Alexander Li]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Continue to talk about [[[[Preface]] tag-based courses [[recommender]] system]]
+                - It should be a [[offline]] [[data pipeline]]
+                - We can start with a daily refresh of the null algorithm
+- 18:00
+    - [[1:1]] [[Ben Cheng]]
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Morale update
+                - Very good
+- [[day end evaluation]]
+    - #Energy
+        - Very exhausted throughout the day but a bit excited as all the planning is done
+    - [[Theodore]] growth milestone
+        - Crawling super fast
+        - vaccinated in private clinic, no reaction
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - ~75min

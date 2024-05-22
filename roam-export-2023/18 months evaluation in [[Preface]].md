@@ -1,0 +1,26 @@
+- Definitely very hectic and many directional changes and personal changes
+    - Some are situational
+        - COVID
+    - Some are team
+        - Leadership team has only 3 outside founders' aquicnance
+            - Hema, Me, Vegas
+        - Leadership team has 6 outside founding team
+            - Fei, Joseph, Hema, Viktor, Vegas, Me
+        - Leadership team has a lot of changes
+            - Billy, Queena, Basil, Ambrose, Jeffrey, Kenneth
+        - Current team
+            - Tommie, Carmen, Ellen, Tse sir, Viktor, Joseph, Vegas, Hema, Me
+    - Some are business
+        - Preface 2.0 has a lot of ideas
+        - Recommendation Engine is actually not a viable system without a lot of content
+        - Online Learning bridge offline learning bridge F&B
+    - Some are personal
+        - COVID
+        - Baby
+        - Mood Swing
+        - Responsibilities shifting
+- Try hard to bring cohesion and synergy based on the OKRs in the perspective of technology
+    - Preface 2.0 to provide scalability
+        - Limited success
+            - Operation efficiency is improved via digitalization
+            - Not 

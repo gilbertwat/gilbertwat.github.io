@@ -1,0 +1,6 @@
+- [[COVID-19]] [[vaccination]] day 1
+    - arm sore
+    - Light-headed
+    - slow down of non-essential stuff
+        - micro control
+        - speech

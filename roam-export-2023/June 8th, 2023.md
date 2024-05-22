@@ -1,0 +1,14 @@
+- 09:45
+    - [[[[Preface]] tech team]] sharing
+- 11:00
+    - [[[[product]] Analytics]]
+        - A lot of missing parts
+- {{[[DONE]]}}  Handling Finance of [[Preface]] Finished on [[June 9th, 2023]]
+- 12:00
+    - [[[[Preface]] tech team]] lunch
+- 14:30
+    - {{[[DONE]]}}  Handling Finance of [[Preface]] Finished on [[June 9th, 2023]] with [[Yannis Yuen]]
+- 16:30
+    - Interview
+        - Not very good, there is a lot of mental barrier to innovate for local students
+- All hands

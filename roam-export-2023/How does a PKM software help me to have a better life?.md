@@ -1,0 +1,15 @@
+- Visit: 
+    - [[December 1st, 2021]]
+- Criteria
+    - To remember little stuff of the [[people]] that I am interacting with so that they can [[Feeling]] [[treasured]].
+    - To think rationally and clearly so that I can [[Making the right enough [[decision]]]]
+    - To process my negative [[emotions]] without acting on it, create situations that I am going to regret
+- Requirements on user ergonmics
+    - Quickly link to different pages and part of the pages.
+    - Quickly publish as markdown to my blog.
+    - Quickly publish to twitter.
+    - Quickly import from Kindle highlight and notes.
+- Nice to have
+    - Integration with diagram drawing so I can create slides with ease.
+    - Mobile access
+    - Owning my data

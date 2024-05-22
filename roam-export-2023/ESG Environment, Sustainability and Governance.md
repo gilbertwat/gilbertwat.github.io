@@ -1,0 +1,1 @@
+- https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp

@@ -1,0 +1,8 @@
+- 
+- #[[18 2023]]
+    - #health
+        - Rest
+            - {{[[DONE]]}}  [[sleep]] 7 hours
+            - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- {{[[DONE]]}}  Prepare [[November 16th, 2023]] Tencent meetup with [[Daisy Lee]]
+- {{[[DONE]]}}  Set up Llama and GPTs in the local machine

@@ -1,0 +1,12 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #PoC https://github.com/salsify/avro-builder
+- {{[[DONE]]}} Think about opportunities I want to pursue 
+    - interesting project? wonderful colleagues?

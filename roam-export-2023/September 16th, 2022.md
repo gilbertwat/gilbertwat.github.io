@@ -1,0 +1,40 @@
+- [[[[2022]] Week 37]] Goals
+    - [[Preface]]
+        - shipping
+            - {{[[DONE]]}} [[Alexander Li]] will ship v1 first on [[September 9th, 2022]] -> [[September 16th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+        - #hiring
+            - {{[[DONE]]}} Get the #design [[[[UI]]/[[UX]]]] gap close in [[Preface]]
+                - {{[[DONE]]}}  Pickup and form a new process with [[Carmen Yeung]] [[Anna Yu]] and [[Ben Cheng]]
+                - {{[[DONE]]}} Find a talent to contribute
+        - [[ideas]]
+            - {{[[DONE]]}}  Brainstorm [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+    - [[Gilbert Wat]]
+        - [[ideas]]
+            - {{[[DONE]]}}  #investment ideas
+                - [[網上打小人]]
+- Work on {{[[DONE]]}} comments on RTH-RC on [[September 16th, 2022]]
+- 11:00
+    - [[weekly meeting on [[Preface]] research on AI]]
+        - {{[[DONE]]}}  Set up data measurement needed for the whole company Finished at 11:21 [[November 17th, 2022]]
+- 12:30
+    - [[1:1]] [[Tommie Lo]]
+        - {{[[DONE]]}}  Brainstorm [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+        - Coffee App
+        - Customer Portal
+        - Credit System
+        - Data tracking
+        - Recommender
+- 13:00
+    - [[[[Preface]] [[product]]: TechBites]] test run
+        - create controversy
+        - Hottake
+        - Helpful
+- 16:00
+    - [[Yoon Kim]] [[1:1]]
+        - [[[[Preface]] project [[recommender]] in 1 on 1 courses]] of [[Preface]] revive plan
+            - automated MLOps
+            - it is recommending "topics", eg finance, health ...etc.
+            - currently it is very focus on 2 curriculum: Data science
+            - {{[[DONE]]}} Gilbert to sort out the transition to satisfy everyone. Finished at 15:00 [[October 3rd, 2022]]
+        - {{[[DONE]]}} Working on forcasting 1 on 1 student credit usage. Finished at 15:00 [[October 3rd, 2022]]
+        - 

@@ -1,0 +1,7 @@
+- {{[[ARCHIVED]]}}  [[[[Preface]] Q2 Tech Roadmap]] Deadline [[March 15th, 2023]]
+- 09:30
+    - Preparing demo for [[March 2nd, 2023]] [[Investor enquiries]]
+- #ideas
+    - verification marketplace or aaS
+        - Verification needed
+        - Consultant / Expert need market insights.

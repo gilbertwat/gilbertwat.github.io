@@ -1,0 +1,44 @@
+- **Symptoms**
+    - I cannot come up with actionable items to fix some problems
+        - [[Am I going to leave Hong Kong?]]
+        - [[GOGOX]]
+        - [[Ergon]]
+    - I cannot focus on making decision at work
+    - I cannot focus on following up as project management
+        - It is never something I enjoy doing
+    - I am functioning minimally
+    - There are too much fear and uncertainty I am not able to act on the information
+        - Information and scenarios overflown
+    - I cannot write or think properly
+    - I resorted to junk to read and watch and listen
+        - Twitch
+        - Twitter
+        - Youtube
+    - I am not able to keep myself not entertained and stimulated visually and acoustically.
+    - I cannot keep my spirit productive
+        - Unproductive thoughts are clouding my judgement
+        - I cannot focus on anything. Literally anything.
+- **Fixes**
+    - Walk
+        - My back is still not fixed. can only do minimum.
+    - Workout
+        - My back is still not fixed. I am afraid of movement
+    - Stretching
+    - Reading
+        - I am very [[sleep]]y even if I read a bit.
+    - Detoxing from internet and social media.
+    - Meditation
+    - Figure out the goal of 2021 and 2022 and go for it.
+    - in [[2021]], I tried [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=429813732)
+        - Projects
+        - Reading
+        - Exercising
+        - Jouraling
+        - Meditating
+    - Install Clubhouse
+    - Play ringfit
+- **Back on feet behaviors**
+    - Can focus on 1 topic for 1 hour
+    - Not very [[sleep]]y in Saturdays
+    - Can engage meaningful exchange with friends and families.
+    - Can make up my mind on leaving or not

@@ -1,0 +1,43 @@
+- Coffee App
+- project scope of support B2B growth
+- Status: proposing
+- Last updated: Oct 7, 2022
+- Summary
+    - We have developed an app with **code for your menu feature** to support our Preface Coffee & Wine business. We would like to add new features to enable a new F&B package for our corporate customers. After the upgrade, our corporate customers can use credit to enjoy food and beverages in Preface Coffee & Wine, also able to experience coding in a light and fun way.
+- Phase 1
+    - In phase 1 we need to enable non-Preface crew to recharge credits. Credit is only for Preface Staff for now, we need to enable it for the customers’ assigned users.
+    - Detailed product requirements can be as follow:
+        - A new user type of “staff of customers”, can be created by Preface staff with direct access to DB.
+        - App header in our Preface Coffee App can be changed according to the company of the “staff of customers” through direct access to DB.
+        - Credit used by the Preface crew can be separated from credit used by our “staff of customers” in our POS.
+        - Hide QR Scanner for staff of customers.
+        - Staff of customers can login to our App.
+        - Hide Coupon tab for staff of customers.
+        - Update Terms & conditions.
+        - Update documentation of how to onboard new B2B customers.
+- Phase 2
+    - In phase 2, we are aiming to create an easy abstraction for getting data from an external HTTP API with a JSON response. Using this JSON response, we can easily create a filter and alter a saved recipe. We can reference the __when block__ in Scratch.
+    - To test out the abstraction, we will integrate a common weather API for our Preface Staff.
+    - ![](https://lh4.googleusercontent.com/Ycx4ouPDOn_o5Uds1c1QbQF5ZSeKc8oH038xKHoiZu5wHczQXiUSUhD45YqsYitZW0ThZ2meJNgTttjt2FGIEHfgSSLZrAgT4sTQ5fReOleo0JF2OJH3rnMzgvTQ4GIh_EImImkEpaUVHohcgYJPwTjfjfTP-AFzMV0pzJrDOnekrVnCRQt2j_k0Kg)
+    - Detailed product requirements will be as follow:
+        - A way to easily implement API integration with external data source using our current infrastructure and tools(Github / Retool)
+        - Integrate with a weather API.
+        - Users can use the “when” logic block in scripting their recipe in our items.
+        - Users can put a custom conditional block into the “when” logic block.
+        - The conditional block can have simple conditional operators such as greater than, less than, equals, not equals, equal or greater than, equal or less than.
+        - The scripting part is displaying the when logic.
+- Some other possible features
+    - Since the goal of this project is to introduce coding to non-tech people in a fun and not intimidating way, and also convert our PCW customers into Preface Coding customers, we can have a lot of features to be implemented, including but not limited to:
+        - if-then-else logic in scripting our items.
+        - AND logic
+        - OR logic
+        - Integrate with private APIs.
+        - Customers can manage their crews on an admin panel.
+        - Easier guide UX for applying coded items.
+        - Fun feature: Camel case with underscore.
+        - API on crew’s self integration such as Apple Health integration and Android Health integration.
+- Minimal talents needed
+    - A full stack developer with Flutter and nodejs experience. MongoDB experience welcome. Devops experience is also welcome.
+    - A UI/UX designer with experience in building block based coding environments.
+- Scoped timeline
+    - Ship every 2 weeks, Completion of phase 1 and deployment to production in 2023 Q1.

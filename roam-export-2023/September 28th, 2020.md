@@ -1,0 +1,88 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - raise up ok
+- {{[[DONE]]}} [[Probation Evaluation]] [[Young]]
+    - #Management
+        - Requirements of a CTO in [[GOGOX]] from our understanding
+            - Ask [[Steven Lam]]?
+            - Takeover technology and managerial leadership in [[GOGOX]]
+                - As he is now CTO, I hold higher standard on technology side
+            - Simplified: 2 directions
+                - Technology Leadership
+                    - TLDR: It is not shown to us yet.
+                    - Technology Roadmap
+                        - Not sure
+                            - Not much suggestion, discussion and comments about technology roadmap shared
+                                - Perhaps still need discussion with SMT?
+                                - We are the practitioners, we need to at least be informed about the possible scenarios so we can be prepared?
+                    - Best practices
+                        - Not much suggestion, discussion and comments about best practices shared
+                            - Devops?? QA?? Data Pipeline??
+                        - Not much plans on QA automation and Data Engineering shared
+                            - Both of the sections lack leadership now
+                            - Solution maybe: hire new managers?
+                    - Technological innovation
+                        - Not much suggestion, discussion and comments about best practices shared
+                            - AI?? New Hardware??
+                - Managerial Leadership
+                    - TLDR: hit & miss, I am not sure I can follow his thought
+                    - Good
+                        - 1:1 with everyone
+                        - 1:1 frequently even with leads.
+                        - Willing to take effort in leading discussion in meeting
+                        - Willing to understand and help other departments
+                        - Willing to take QA to engineering
+                        - Willing to do reorganization effort
+                    - Bad
+                        - I am not sure if we are doing a good job or not.
+                        - Not much planning I can see.
+                        - [[GOGOEnergy]] increase the responsibilities of me and web team
+                            - Not sure a lot of expectation set with [[GOGOEnergy]] teammates
+                            - Not an easy tasks
+                            - Basketball court and Airplane analogy again.
+                        - Not much sharing on Taiwan Teams
+                        - Not much sharing on data manager (Patrick Replacement)
+                            - I am still looking for ways to interact
+        - Verdict
+            - Not sure if we can look up to him as CTO
+            - The trust is still low with some of us.
+            - Need to hire more technologists to assist
+- {{[[DONE]]}} [[SLA]] discussion
+    - [[Brian Chen]] is late
+    - Error Rate Discussion for [[[[2020]] Q4]] [[planning]]
+- {{[[DONE]]}} [[1:1]] with [[Gemmy Wong]]
+    - [[[[2020]] Q3]]
+        - Not a success
+    - [[[[2020]] Q4]]
+        - Mobile Design System
+            - X UI component according to Design dept. and Mobile dept 
+        - Web Design System
+            - X UI component according to web dept.
+        - Unify naming
+            - Old
+                - Build trust
+            - New feature
+                - [[Gemmy Wong]] will demonstrate once in one of the project
+        - Feature metric tracking
+            - need to make it clear for developers
+        - Productionize Instabug
+        - [[Ka Kui Tsang]] good 5x
+            - In-app chat
+        - [[Jackson Chung]]
+            - More proactive
+        - [[Ben Cheng]]
+            - Give Design-wise ge feedback
+            - Patience to explain
+        - [[Nathan Ng]]
+            - William Cheung 2.0
+            - Slack
+        - 
+- {{[[DONE]]}}  [[GOGOEnergy]] [[Handover]]
+    - Many technical debt
+    - 
+- [[[[2020]] [[[[Performance]] Review]] [[Victor Lam]]]]
+- [[How do you feel when you wind down?]]
+    - {{slider}}

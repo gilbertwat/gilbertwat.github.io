@@ -1,0 +1,105 @@
+- Radiate your gratitude and energy; Focus; Pace yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[World in 2030]]
+    - #[[🧘🏻‍♂️ Self Awareness]]
+- #Notes Read https://lethain.com/managing-technical-quality/ 
+    - Topics
+        - [[🔢 Software Development]] [[management]]
+    - Excerpt
+        - Rather than a failure, closing the gap between your current and target 
+- technical quality is a routine, essential part of effective engineering 
+- leadership.
+    - Just as your company’s technical quality bar will shift over time, your approach to managing technical quality will evolve in tandem:
+        - fix the **hot spots** that are causing immediate problems
+        - adopt **best practices** that are known to improve quality
+        - prioritize **leverage points** that preserve quality as your software changes
+        - align **technical vectors** in how your organization changes software
+        - **measure technical quality** to guide deeper investment
+        - spin up a **technical quality team** to create systems and tools for quality
+        - run a **quality program** to measure, track and create accountability
+    - Don't abandon the ease, joy, and innocence of early organizations for the perils of enterprise-scale coordination without proper need.
+    - I once worked at a company that didn't have a team planning process. Over time the head of engineering was increasingly frustrated with the inability to project target dates and mandated that we use [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development). After the mandate, a manager wrote the Scrum process on a wiki. There was an announcement that we were using Scrum. Managers told their teams to use Scrum. Mission accomplished!
+    - Of course, no one started to use Scrum. Everyone kept doing what they'd done before. It's awkward to acknowledge mistakes, so the head of engineering declared adoption a major win, and no one had the heart to say differently.
+    - I call those quality leverage points, and the three most impactful points are interfaces, stateful systems, and data models.
+    - My experience is that it __is__ possible to usefully measure codebase quality, and it comes down to developing an extremely precise definition of quality. The more detailed you can get your definition of quality, the more useful it becomes to measure a codebase, and the more instructive it becomes to folks hoping to improve the quality of the area they’re working on.
+    - Some questions:
+        - How many functions have dangerous read-after-write behavior? Or perform unnecessary reads against the primary database instance?
+        - How many endpoints perform all state mutation within a single transaction?
+        - How many functions acquire low-granularity locks?
+        - How many hot files exist which are changed in more than half of pull requests?
+    - A __technical quality team __is a software engineering team 
+- dedicated to creating quality in your codebase. You might call this team
+    - Developer Productivity, Developer Tools, or Product Infrastructure. In 
+- any case, the team’s goal is to create and preserve quality across your 
+- company’s software.
+    - This is not what’s sometimes called a quality assurance team. 
+- Although both teams make investments into tests, the technical quality 
+- team has a broader remit from workflow to build to test to interface 
+- design.
+    - There’s no perfect answer here, but it’s important to establish a thoughtful approach that [balances the benefits of exploration against the benefits of standardization](http://lethain.com/magnitudes-of-exploration/).
+    - Even if you’re quite successful, you’ll always have a backlog of high-impact work that you want to take on but don’t have the bandwidth to complete. Organizations don’t make purely rational team resourcing decisions, and you may find that you lack the bandwidth to complete important projects and likewise can’t get approval to hire additional folks onto your team.
+    - A __quality program__ isn’t computer code at all, but rather an initiative led by a dedicated team to maintain technical quality across an organization.
+    - **Identify a program sponsor.** 
+    - **Generate sustainable, reproducible metrics.** 
+    - **Identify program goals for every impacted team and a clear path for them to accomplish those goals.** 
+    - **Build the tools and documentation to support teams towards their goals. **
+    - **Create a goal dashboard and share it widely.** 
+    - There are three distinct zoom-levels that your dashboard should support. The fully zoomed-out level helps you evaluate your program’s impact. The fully zoomed-in level helps an individual team understand their remaining work. A third level between the two helps organizational leaders hold their teams accountable (and to support your program sponsor in making concrete, specific asks to hold those leaders accountable).
+    - **Send programmatic nudges for folks behind on their goals. **
+    - **Periodically review program status with your sponsor.**
+    - {{[[DONE]]}} Takeaways
+        - As we move up the market, we need to provide more quality to some more demanding customers.
+        - Software development supposes to be fun, easy and joyful.
+        - To increase the quality of a piece of software, there are different levels of solutions, require different level of alignment and efforts, with different impacts. Choose your weapon wisely.
+            - Hotspots fixing
+            - Introduce best practices to solve quality issues, one at a time.
+        - Best practices is an evolution
+        - Leverage points are key to be impactful in improving quality of the software
+            - This article suggest 3 leverage points: data models, stateful systems, interface.
+            - Those are the place where we can make sure the software is evolving in a healthy state
+        - After leverage points are up to standard, we need to align our technical vectors, aka architect
+            - Give direct feedback
+            - Articulate vision and strategies
+            - Encapsulate your approach in your workflows and toolings
+            - Train new team members during their onboarding
+            - Use Conway's Law
+            - Curate technology changes using architecture reviews, investment strategies, structured process for adopting new tools
+        - Measuring technical quality
+            - It needs to be very specific in our definition of quality.
+            - It also need to be very precise.
+        - Setting up a dedicated technical quality team
+            - **Trust metrics over intuition.**
+            - **Keep your intuition fresh.** keep up-to-date with the reality.
+            - **Listen to, and learn from, your users.**
+            - **Do fewer things, but do them better.**
+            - **Don’t horde impact.** There’s a fundamental tension between centralized quality teams and the teams that they support. It’s often the case that there’s a globally optimal approach preferred by the centralized team which grates heavily on a subset of teams that work on atypical domains or workloads.
+    - [[🤔 Questions]]
+- #Notes Read https://hbr.org/2020/08/whats-your-leadership-origin-story 
+    - Topics
+        - #[[☝🏻 Leadership]] #[[Story Telling]]
+    - Excerpt
+        - Being
+            - The leaders who adopted this lens suggested that they have “always thought of themselves as leaders.”
+        - Engaging
+            - Leaders who used this lens highlighted the successful facilitation of others and activities. They believed their leadership originated when they were compelled to address an urgent need.
+        - Performing
+            - Do you feel a sense of duty to the organization? Or perhaps you often feel protective of your team, which you might sometimes refer to as “my people”? Leaders who adopted this lens often recounted their leadership as emerging from the achievement of a particular position.
+        - Accepting
+            - Those who used this lens didn’t think of themselves as leaders until they realized that others were __following__ them. They recalled suddenly noticing that people were coming to them for answers, guidance, and support.
+        - Experiment with different origin stories that draw on different past experiences and memories of your leadership. Consider when you saw yourself stepping up during adversity to help others take action, or consider when others looked to you for support, advice, or guidance.
+    - {{[[DONE]]}}  Takeaways
+        - Stories should be in #[[🧘🏻‍♂️ Self Awareness]]
+            - I am born as a leader, being the elder brother, I need to be responsible and set up a good example for younger brother
+                - So this is a performing story lol
+            - I organize Chinese Orchestra
+                - Entrepreneurial
+            - As Founding Engineer...
+            - As Senior Software Engineer...
+            - As Delivery Manager...
+            - As co-founder in Code4HK...
+- Reorganize #Notes https://hbr.org/2020/06/you-might-not-be-hearing-your-teams-best-ideas
+- [[How do you feel when you wind down?]]
+    - {{slider}}

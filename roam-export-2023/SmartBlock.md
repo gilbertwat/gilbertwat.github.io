@@ -1,0 +1,50 @@
+- #SmartBlock meeting review
+    - Is this meeting about revenue generating?
+    - Is this meeting related to the system of value creation?
+    - Is this meeting related to our customers?
+- #SmartBlock team update
+    - Shipped
+        - Quality of Life
+        - Customer Experience
+    - Metrics
+    - Up Next
+- #SmartBlock daily
+    - #health
+        - Rest
+            - {{[[TODO]]}}  #sleep 7 hours
+            - {{[[TODO]]}}  Accompany [[Wifey]] for 30 minutes
+        - Body
+            - {{[[TODO]]}}  #exercise 20 minutes
+        - Mind
+            - {{[[TODO]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+    - Choose one to invest in my #career
+        - {{[[TODO]]}}  Reply online for 30 minutes on Linkedin or Twitter.
+        - {{[[TODO]]}}  30 minutes of any one of
+            - #writings
+            - #coding
+            - #Branding
+            - #Investing
+        - {{[[TODO]]}}  30 minutes of any one of
+            - Reading #books
+            - Reading [[Financial Report]] from Companies
+            - Reading [[open source codes]]
+            - Reading [[research papers]]
+- #SmartBlock weekly
+    - [[How did my last week go?]]
+        - Let's go through the checklist and put down reviews
+    - [[What does winning this week look like to me?]]
+        - Let's go through the goals and put down how to move the needles
+- #SmartBlock monthly
+    - #monthly #plan and #review
+    - Routine audits
+        - What kind of routines we have picked up and how well it is going?
+    - Go through the daily notes in the month to find patterns and insights to improve.
+    - Go through an emotion audit and find out the blocker of growth 
+- #SmartBlock yearly
+    - Investments
+        - Let's dive into the investment decisions I have made and see the result and devise if we need to move now
+    - #career
+        - Let's dive into the #career decisions I have made
+    - #health
+        - Let's dive into the #health issues I have and see if the trend is bad.
+    - #Family and #[[Friends]]

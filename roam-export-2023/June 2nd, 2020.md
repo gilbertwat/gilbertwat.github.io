@@ -1,0 +1,60 @@
+- [[1:1]] with [[Victor Lam]]
+    - What is a high performing team?
+        - KPIs
+            - Unit test coverage
+                - Platform
+                    - 75%
+                - Delivery Platform
+                    - 75%
+            - Error rate
+                - Platform
+                    - 0.2
+                - Delivery Platform
+                    - 0.2
+        - OKRs
+            - Response time
+            - CI/CD execution time
+            - Number of new capabilities
+            - Count of stories shipped
+    - We also talk about the collaboration with [[Infrastructure team]]. The problem is a lack of SOP for people to work with them individually. If the current process continue, people will have a hard time adjusting their style and it will be single point of failue.
+    - What is the SLO of our services?
+        - [[Ben Lin]] said we are going to do so [[[[2020]] Q3]]
+    - We also talk about How to improve team morale?
+        - We need to praise more.  
+    - We also talk about [[Keith Chan]]. We do think the bonding of his team is less than what we expected. 
+        - We need to help, but how?
+- Sit-in [[[[[[GOGOX]] Platform]] design and sharing session]]
+    - #[[meetings]]
+    - [[Victor Lam]] 
+        - is too detailed in his tasks #challenges
+    - Email has a very slow iteration speed #challenges
+        - Test is very difficult
+    - [[Ben Cheng]] 
+        - is too detailed in his tasks too #challenges
+    - Meta thought [[RoamResearch]]
+        - I am kinda put off to use block ref as it is very clumsy to use.
+    - I need to see what [[Belda Chan]] thinks
+    - [[Remote teammates]] are very quiet #challenges
+    - [[Roger Ho]] 
+        - is a bit too detailed too #challenges
+        - But there is interaction with everyone
+    - {{{[[DONE]]}}}} A template script for platform design and sharing
+    - [[Ravic Poon]]
+        - Task is clearer
+        - [[Belda Chan]] seems to be able to understand
+        - Websocket is not supported well in Web GGB #challenges
+        - Engaged
+    - [[Henry Tang]]
+        - is too detailed in his tasks
+    - Everyone actually has not enough time to prepare
+- How do you feel when you wake up?
+    - I got DQed from functional constituency
+    - I am furious but I am kinda expected
+    - I need to find out why
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FkysTE1E9zu.jpg?alt=media&token=ae978ea8-3a49-42b7-a01e-1bf065c95d7c)
+    - This is the second time I am personally [[oppressed]] by the regime
+- [[How do you run effective meeting?]]
+    - Easier done than said
+    - Align the meeting objective(s)
+    - Align house rule(s)
+    - Get timer

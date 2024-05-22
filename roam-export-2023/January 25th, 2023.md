@@ -1,0 +1,4 @@
+- #[[29 2023]]
+- [[gratitude dairy]]
+    - [[Theodore]] Say mama the first time
+    - [[Theodore]]  Finger pointing skill unlocked

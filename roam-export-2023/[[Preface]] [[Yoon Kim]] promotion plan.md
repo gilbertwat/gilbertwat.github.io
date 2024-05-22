@@ -1,0 +1,33 @@
+- [Promotion Request](https://docs.google.com/document/d/1sVyz8Ai8rf_UihiGAFsGAXJuJ26myfueSBp0iPPc4Uk/edit)
+- **Promotion Request Draft**
+- Yoon Hwan KIM
+- After successfully switching from the curriculum team (now content team) to the tech team’s Data & AI in May 2022, I have fully integrated and contributed to both within the team and Preface as a whole. I am confident that I can shed the title of **AI & Data associate** and have a new position as a **Data Engineer** within the company to reflect my accomplishments.
+- The following are some of the achievements I have completed over the past several months:
+    - Create and maintain data dashboards for analytical and operational use, for example:
+        - Performance dashboard for the leadership team to review B2C performance.
+        - Various classes and schedules dashboard for the community operations team to keep track of student & class-related data more easily.
+        - Teacher matching tables for the Nomad team to alleviate the manual nomad matching process.
+        - Collection of abnormal data in Portal data to fix for the tech team.
+        - Weekly new student aggregate for Sales team.
+        - Overall up to 30 + dashboards in **Google Looker Studio** and **Metabase** were created over the past 7~ months
+    - Create, maintain, and update several data pipelines for the in-house Data Warehouse created for Preface.
+    - Helped create data automation for various teams in the company
+        - Changed parts of the Content Recommendation System 1.0 system to be fully automated.
+        - Created google sheets that update on an hourly to daily basis that assists operational needs, including:
+            - Student roster sheets
+            - Generating and sending learning reports to customers
+            - Managing teacher sign-ups
+            - Keeping track of follow-up communication with customers for Sales
+        - Around 10+ automated systems created
+    - Helped building, documenting, and giving feedback for a new contact/lead-journey system for the marketing team’s CRM purposes
+        - Consolidated data from events to create preliminary reports on attendance, conversion rates, and other metrics.
+- For the future I have the following goals in mind for personal and company growth:
+    - Keep assisting in digital/data transformation for Preface
+        - Help operational and analytical work
+        - Prepare a solid data foundation for continual growth in the future.
+    - Integrate machine learning into certain data pipeline to help pain points for other teams
+        - E.g. Adding text validation and generation for student reviews, where currently many of the processes are too manual.
+    - Start path to becoming a full stack developer and help contribute to the software engineering team.
+    - Open possibilities for non-tech members to use the established data warehouse without data team assistance.
+    - Take on a consultant role for data collection spearheaded by other team members.
+- I believe with my accomplishments and goals set for the future I am ready for the new position in Preface for bigger responsibilities and compensation.

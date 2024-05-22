@@ -1,0 +1,49 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #meditation log 11:03
+    - spent almost 1 hour to reach tranquility.
+    - The brain is full of random pic
+    - The body is very tight
+    - nose is blocked #[[health]]
+    - https://os.me/mental-images-difficulties-in-meditation/ seems it is normal but negative
+    - https://selfdevelopmentjourney.com/random-images-while-meditating/ seems it is normal but positive
+    - touching my [[Wifey]] give me calm and notice The body is very tight
+- {{[[DONE]]}} 22:13 - 22:56 [[Ergon]] testing briefing with [[Kwong Kin Ming (KM)]]
+    - What ought to be tested? 
+        - Need to confirm with [[Kingson Kwan]] new features for new build
+        - Confirm tomorrow? Some basic Ideas:
+            - app start time
+            - save cv time
+            - edit cv time
+            - export cv email
+            - login with different ways
+    - Who shall be involved?
+        - All Ergoners
+    - How shall it be done?
+        - preparation
+            - sanity test our app
+            - scripts ???
+        - gather everyone
+        - follow the script to test
+            - the script prep by us
+        - and then random test for 30 min
+        - record all bugs
+            - when?
+            - steps to reproduce
+            - which devices
+        - wrap up, thanks everyone and share the bug list with [[Tony Fung]] and [[Chris Tsang]]
+- [[GOGOX]] fire fighting again #disappointed
+    - iOS DA courier unable to complete orders.
+- https://monthly.hkej.com/monthly/article/id/2672989/%E8%81%AF%E7%B9%AB%E6%BB%99%E7%8E%87%E5%88%B6%E5%BA%A6%E5%8D%B1%E5%A6%82%E7%B4%AF%E5%8D%B5?fbclid=IwAR1gQa8GZNvzMm6ZbWURwlFXtfGxzB7Jo95ZBgGOzTQrTUc9TexKOoNO-dc great reset
+- [[ideas]] [[blogs]] De-risk your digital transformation #Enterprise #Consultant
+- [[Enjoying life]]: use good stuff up before it is ruinned
+    - [[Brag document]]: First Dior Perfume, after 2 years it is 
+    - [[Brag document]]: First good teas from Kerry Hotel, after 2 years it is less enjoyable.
+- [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]] clean up
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)! 

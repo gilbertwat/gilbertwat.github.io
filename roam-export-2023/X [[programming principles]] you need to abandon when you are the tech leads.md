@@ -1,0 +1,29 @@
+- [[Facebook]] meetup @ [[October 22nd, 2021]]
+- Thank you [[Ben Lin]] for inviting.
+- Who am I?
+    - I am Gilbert.
+    - Worked as a developer in various sizes of companies, from NMC to seed stage startups.
+    - Founded a company once, failed.
+    - Now working as an engineering manager @ [[GOGOX]].
+- A sharing about my introspection in the journey from designing and implementing products to helping people do the same.
+- Questions for the audience:
+    - What [[programming principles]] do you know?
+- First principle
+    - Do not repeat yourself
+    - Yes you are not talking to a computer
+    - Human are forgetting non-essential stuff everyday.
+    - Human has a different priority everyday.
+    - Human has a different cognitive capacity everyday.
+    - Storytime: 
+- Second principle
+    - You ain't gonna need it.
+        - Yes you will need it.
+    - Storytime: Documentation over 
+- Third principle
+    - Convention over configuration
+    - Storytime:
+        - Discussion about wallet
+- One principle I do recommend keeping:
+    - Decoupling with Context Switching
+- Q&A
+- https://docs.google.com/presentation/d/1o_dAw3ShgOpizIZMqBt-wS_6J-km8s5UWqBaY1GymVg/edit#slide=id.p

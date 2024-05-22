@@ -1,0 +1,13 @@
+- [[[[Preface]] [[product]]: website]] has [[[[Preface]] [[product]]: TechBites]] now
+- Criteria of experimentation of [[[[Preface]] [[product]]: TechBites]]
+    - Brand awareness and lead generation
+    - Generative AI related
+    - User can experience the generative AI / revolutionize education in < 5 minutes
+- Work on 
+    - [[[[Preface]] [[project]]: Techbites MVP]] preview ready
+        - Final touch
+            - {{[[DONE]]}}  Update SEO 👏🏼 finished on [[March 24th, 2023]]
+            - {{[[DONE]]}}  Add description 👏🏼 finished on [[March 24th, 2023]]
+            - {{[[DONE]]}}  Add product analytics 👏🏼 finished on [[March 24th, 2023]]
+- Discussion with [[Vegas Ho]] on the handling of [[Anna Yu]] [[Moses Ngan]] and [[Joseph Chan]]
+    - {{[[DONE]]}}  What is tech team focus in the coming quarters based on the AI explosion? 👏🏼 finished on [[April 5th, 2023]]

@@ -1,0 +1,10 @@
+- #[[🧘🏻‍♂️ Self Awareness]]
+    - I always
+        - stop working at 10pm, do not work on Saturday and Sunday.
+        - wake up at 0645 on weekday.
+        - have a high sense of urgency.
+        - work out every day for 30 minutes.
+    - I never
+        - drink alcohol
+        - lie to family and bros.
+- [[Double click on it]]

@@ -1,0 +1,12 @@
+- 🤝 Family & Friends
+    - #[[GOGOX]] #[[software engineer]] #[[[[Android]] Engineer]]
+- *Birthday**
+- *Sentiment**
+- *Super strength**
+- *Core weakness**
+- **Topic he/she cares**
+    - How can I help [[Ivo Wu]] to promote into Android tech lead?
+        - Why does it matter?
+        - Resources
+        - Scope
+        - Archives

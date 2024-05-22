@@ -1,0 +1,8 @@
+- Author:: [[Gergely Orosz]]
+- Full Title:: Measuring Developer Productivity? A Response to McKinsey
+- Category:: #articles
+- URL:: https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpub_roPoHab.png)
+- ### Highlights first synced by #Readwise [[September 1st, 2023]]
+    - Before we jump to our solution, let’s set some context. How does software engineering create value? Take the typical example of building a feature, then launching it to customers, and iterating on it. What does this cycle look like? Say we’re talking about a pretty autonomous and empowered software engineering team working at a startup, who are in tune with customers: ([View Highlight](https://read.readwise.io/read/01h97ttmmx0t91733hrwdjy9x7))
+    - This is such an important question to start with. The answer will differ dramatically, depending on who’s asking, and what the goal of the question is. ([View Highlight](https://read.readwise.io/read/01h97tv13en2x5x4wgjmhkfwkx))

@@ -1,0 +1,93 @@
+- 12:30 - 13:30 [[Ergon]] sync up
+    - {{[[DONE]]}} Map out current architecture @Gilbert Wat
+    - {{[[DONE]]}} Map out potential scenarios for architecture evolvement + Pros&Cons / SWOP analysis. @Gilbert Wat
+    - {{[[DONE]]}} PoC on different data analytics tools with the data source of an CSV @Jennifer Law
+    - {{[[DONE]]}} ask TP about work historiy @Chinna Rae Roque
+    - {{[[DONE]]}} @Chinna Rae Roque needs to come up a requirement of the data visualizations to the team
+        - {{[[DONE]]}} @Gilbert Wat can help in requirements templates
+    - {{[[DONE]]}} @Chinna Rae Roque get the daxtra to share about their functionalities and do a mapping
+    - {{[[DONE]]}}  @Jennifer Law can Proxycurl
+        - {{[[DONE]]}} do scrapping for linkedin recruiter UI?
+        - {{[[DONE]]}}  do scrapping for non-3rd degree profiles
+    - {{[[DONE]]}}  @Chinna Rae Roque talk to linkedIN representatives
+    - {{[[DONE]]}}  @Jennifer Law Refine talent outreach flow in [here](https://miro.com/app/board/o9J_lvOGSko=/)
+    - {{[[DONE]]}}  @Jennifer Law shadow 1 TP
+    - {{[[DONE]]}} @Jennifer Law @Chinna Rae Roque make a draft of job code for iterations forward.
+- {{[[DONE]]}} #Notes Read https://open.spotify.com/episode/3No1oQ4Hg64ilSTAiy8HUW?si=6c7ac08233fc45e6 
+    - Why are you reading this?
+        - I want to [[Making the right enough [[decision]]]]
+    - Topics
+        - [[decision]]
+    - Excerpts from the article and some scribbles
+        - [[Todd Simkin]] was a trader in investment bank, he is now training junior traders.
+        - Trading is very fast decision making jobs.
+        - How to increase probability of making the right decisions?
+            - Difficulties in making the right decision
+                - information asymmetry
+                - Biases in the decision makers
+                    - [[Daniel Kahneman]] theories in biases
+                        - have stake in a particular version of future leads to bias
+                        - tribalism 
+        - Rules are to unload cognitive load
+            - For example: "I don't eat desert." is better than "I only eat desert on Friday."
+        - How to cultivate better decision making culture
+            - Go against the tribe is hard
+            - Say no on call out culture
+            - Talk about how a decision is made is a routine in training junior traders.
+                - Anchoring information is usually invisible for decisions
+                - Cultivate a truth finding culture
+                - Maintain growth mindset to learn make best decisions 
+                - Trading is asset allocation with not perfect information
+                - Junior need a support from scaffolding to make their own decision
+                    - sharing information is dependent on the person's own expertise
+                    - The scaffolding has to be coming from field that is adjacent to their mastery
+                    - result doesn't matter, process does.
+                    - experience, reflection, action to the next
+                - Every time it is about "it depends"
+                - Star junior is someone who enjoy the search of answer
+            - Repetitions on predictions and decisions
+                - It works best to take the responsibility 
+                - It doesn't work with no accountability 
+            - Reflection on decision making process with all teammates in the trading team. about data quantitatively, decision process too
+            - Openess of feedback is crucial too
+        - How to deal with noisy outcomes?
+            - Use Bayes theorem to seek the truth
+            - Talk more about future probabilitistically.
+            - Talk more about failure model
+            - Example: Playing poker
+        - How to encourage feedback?
+            - Encourage constructive ways of thinking
+                - allows talking of shortcoming
+                - act on feedback
+                - Asking questions that supplement the decsion makers.
+                    - For example "have you thought about X"?
+                    - Thoughts: In a situation of [[Managing up]]. "**what** do you think about X?" seems can be improved by "**how** do you think about X?" as it can reveal the thinking process of a leader.
+            - Repeat the complaining person when listening
+            - Ask "what do you feel about X?" as a starter to quickly aligned among people in the conversation
+            - When someone is saying something, he/she is coming from a sound ground
+            - Treat negotiation as a collaboration, need to be winning for all parties involved
+            - Best outcome is a collaboration.
+        - Stories about father questions the decision of quitting Lacrosse.
+            - He is studying in a school with very strong lacrosse team, one of the best in the US.
+            - His father is upset when he suddenly learned his son want to quit lacrosse one night.
+            - But in the next morning instead of stopping his son to do so, he asked instead,
+                - I really want to support you but I don't understand why.
+                - how do you better of with the extra time
+                - As long as it is a consistent decisions it is fine.
+            - Forming alignment between father and son.
+        - Talking about mental hygiene
+            - yearly checkup with psychologist.
+        - Talking about Jeopardy
+            - Even if he get all the questions right, it doesn't matter if he screw up the bidding part.
+            - Connecting strongly with his day job on trading.
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+        - To [[Making the right enough [[decision]]]], repetition, reflection and further actions are vital. [[feedback loops]]
+        - [[Habits]] & [[Rules]] are to reduce [[cognitive load]].
+        - Making [[decision]] increase [[cognitive load]].
+    - Further [[🤔 Questions]] to think about
+- [[Interview]]
+    - Testing
+    - Deployment
+- {{[[ARCHIVED]]}} Read up https://distinct-freighter-c07.notion.site/Architecture-proposal-Sheets-Vercel-a23ccb83ea164e92bd7e85fb840403cc for [[Maven.hk]]
+- {{[[ARCHIVED]]}} Read up https://github.com/fhashim/time_series_test/blob/main/mvn_historical_drawdowns.py for [[Maven.hk]]
+- {{[[DONE]]}} Read up https://github.com/bridgelancer/gogox-lottery for [[GOGOX]] before [[September 29th, 2021]] and discuss with [[Ben Cheng]]

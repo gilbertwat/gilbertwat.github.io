@@ -1,0 +1,61 @@
+- # Coffee app release SOP
+- # 1.Code freeze
+    - When code freeze, please run the following command with the target version:
+    - fastlane code_freeze version:{version number}
+    - E.g. fastlane code_freeze version:1.3.0
+    - The above will
+        - Checkout develop branch
+        - Pull the latest version
+        - Update version number in corresponding file
+        - Create release branch and commit changes
+    - Please
+        - Visit file fastlane/Fastfile for more information
+        - Manually do the above steps if not using command line or any error occurs
+    - Double check the commit to ensure the changes are correct, push it if it’s verified.
+- # 2. Release app build
+    - After pushing the release branch, Code Magic will auto detect and start building related release builds. For auto build details, please visit section [Code Magic](https://docs.google.com/document/d/1teuyyeihSNUTDiBocmQe1A2oQ8ARRGEecZXqr6q-amo/edit#heading=h.agvki3oqcp00).
+        - Release build linked to development and production environment will send to slack channel [#preface-app-release](https://prefaceeducation.slack.com/archives/C02PRBUP1EE) correspondingly.
+        - Production env iOS and Android builds will send to [App Store Connect](http://appstoreconnect.apple.com) and [Google play console](https://play.google.com/console/) correspondingly.
+    - Please contact QA with the corresponding build to start the release regression test.
+- # 
+- # 3. Release material
+    - Contect Branding team for getting release material.
+- ### workflow for branding team to submit material
+- # 4. Submit for app review
+    - After updating the material, please FIRST submit the iOS app for review as it may take 3-4 days for receiving review response.
+    - Please be noted that
+        - Select MANUAL RELEASE after review
+        - DO NOT reset the rating
+    - Once approved from the app store, start the “7-day phase release” (discuss with manager on whether full launch is needed).
+    - For Android, after iOS is released, please go to google play console →  Preface app →  Testing → Close testing → Alpha → corresponding app version → Promote release → Production
+    - ![](https://lh3.googleusercontent.com/k3meWxjsySzOJTK7sGyLjBXHl9rvl00FOo-DLVmK4LFnTASDhJNRCz2NkfejC3UHDzvXTf29qrj5atSTdJlamSkaUZOKUq_Co23OI6RLbwM7GQBlTGe-Mt8TzDaabyzkuONzSL6L2u0Te9S0-kFsv2tbkPyHhesXhyr_cPjtbVDIPbIm0qtN8oXE)
+    - Fill in the correct information and submit for review.
+- # 5. Post-release
+    - After app release, please send a PR from the release branch to master.
+    - Once merged, add a tag in github with corresponding version name on the above commit.
+    - Please use the [standard-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/standard-changelog#readme) for generating the changelog, upload the changelog to the [coffee app repo](https://github.com/preface-ai/preface_app/releases) with the correct version tag.
+    - Send the 2nd PR for merging the master branch to develop branch.
+    - And everything is done~~
+- # Code Magic
+    - There are 2 workflows in code magic for the release process.
+        - Release workflow
+        - Release dev build
+    - Release workflow
+        - Workflow for uploading iOS and Android build to related app stores
+        - Needs to update the build number in **Build arguments **before push the release branch
+        - Update the certificate in there if needed
+    - Release dev build
+        - Workflow for building release build in dev environment for QA to kick start the verification process.
+- # Suggestions for release enhancement
+    - Switch to use YAML configuration for code magic auto build
+    - Enhance build number with version info included
+        - E.g. build 110090034
+        - Read the number with different digit with different meaning
+        - → 1 10 09 0034
+        - 1 → major version number
+        - 10 → minor version number
+        - 09 → patch version number
+        - 0034 → build number in code magic
+        - With the above build number means the build is Version 1.10.9 with build 34
+    - Auto update build number
+    - Auto upload change log

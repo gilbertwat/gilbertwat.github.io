@@ -1,0 +1,7 @@
+- [[Preface]] LMS competitor
+    - https://www.valamis.com/
+    - https://www.watermarkinsights.com/resources/blog/what-is-a-course-evaluation
+- {{[[DONE]]}}  [[All Hands [[meetings]]]] in [[Preface]] [[August 17th, 2023]]
+- [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]]
+    - https://en.wikipedia.org/wiki/Wikipedia:Verifiability
+    - https://iu.pressbooks.pub/online2020/chapter/instructional-materials/

@@ -1,0 +1,30 @@
+- 09:30
+    - weekly planning #[[foundation activity]]
+- 10:00
+    - [[Theodore]] suddenly want a nap #[[foundation activity]]
+- 10:30
+    - {{[[DONE]]}} Decide with [[Vegas Ho]] on Lok's answer #[[transformative activity]]
+        - consulted [[Ben Cheng]] on Lok's concern
+            - mainly budget concerns
+- 11:15
+    - {{[[DONE]]}} Share FE test for the candidate
+- 11:30
+    - [[[[Preface]] Seamless Buy Link]] weekly meeting
+        - {{[[DONE]]}} ComOps team have to test what we have worked on. [[Hema Shah]]
+            - {{[[DONE]]}}  [[Moses Ngan]] has to update [[Hema Shah]] on the portal update
+- 12:00
+    - Work on {{[[DONE]]}} Share FE test for the candidate
+        - {{[[DONE]]}}  Create Figma for the test. [Link here](https://www.figma.com/file/KQlUGGYctL1lx0JKqVVAlm/Preface-frontend-challenge?node-id=0%3A1)
+        - {{[[DONE]]}}  Create Replit for the test. [Link here](https://replit.com/@gilbertwat/Preface-coding-challenge-FE?v=1)
+- 16:00
+    - [[Theodore]] walk #[[restive activity]]
+        - Almost fall from our bed 🙀
+        - Very [[sleep]]y as last night seems to be waking up quite often
+- 17:30
+    - [[Theodore]] bath, eat and play
+        - teething in the feed seems very challenging and need a lot of distraction to properly eat the rice cereal
+- 21:00q
+    - Finish {{[[DONE]]}} Share FE test for the candidate
+    - Read #AI paper
+        - https://arxiv.org/pdf/2208.09619.pdf seems to be a good overview of how to deal with [[imbalanced data]] in [[classification]] problem
+    - Checked out [[[[product]] design]]

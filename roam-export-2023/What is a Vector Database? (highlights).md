@@ -1,0 +1,7 @@
+- Author:: [[Frank Liu]]
+- Full Title:: What is a Vector Database?
+- Category:: #articles
+- URL:: https://zilliz.com/learn/what-is-vector-database
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/20230506_110634_1579ca0d84.png)
+- ### Highlights first synced by #Readwise [[August 29th, 2023]]
+    - A vector database is a fully managed, no-frills solution for storing, indexing and searching across a massive dataset of unstructured data that leverages the power of embeddings from machine learning models. ([View Highlight](https://read.readwise.io/read/01h902b0mrmc3791zh4rnf6kdf))

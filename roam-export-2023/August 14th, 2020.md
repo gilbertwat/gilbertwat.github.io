@@ -1,0 +1,35 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Keith Chan]]]]
+        - Feedback loop (Faster)
+        - [[PISD process]] low cost containment
+        - Focus
+            - Our E2E Tests #CircleBack
+            - Instabug success #CircleBack
+        - UI/UX is a trust problem 
+            - implement UI/UX a trust
+        - Platform Config API
+        - Core architecture.
+            - Core status
+    - {{{[[DONE]]}}}} [[1:1]] with [[Victor Lam]]
+        - API test with QA
+            - No knowledge from QA
+            - Alignment: Long term is Dev develop E2E Test
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Kavin Wong]]]]
+        - How do you feel recently?
+        - How is your {personal project / family }?
+        - How is your theme / project?
+            - Too many meetings
+                - Not used to standup
+        - How is your function?
+        - #CircleBack topics
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

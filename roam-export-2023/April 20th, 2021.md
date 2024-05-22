@@ -1,0 +1,115 @@
+- {{[[DONE]]}} Check Sanzhar's repo
+    - + 
+        - Run the repo right.
+        - Correct interpret of the questions
+        - Asking good questions
+        - Deployed on the cloud
+        - Have tests
+    - -
+        - The app is flicky as there is 400 and 500 after a few try
+            - Type error
+                - JS error
+    - Verdict
+        - GO from me, waiting for [[Ben Cheng]]'s comment
+- [[Interview]] Kit
+    - Startup environment
+        - Fast growing
+        - See impact
+        - creative
+        - Backend
+        - React + Redux => 
+            - Bill management list of options
+                - data from redux
+        - Try more about different duties
+            - more language and technology
+            - devops
+            - tasks and roles BD and CS
+        - cheerful
+        - reserved
+            - find codebase as references
+            - stackoverflow
+            - always refer to experience
+    - Good leadership drive and communication
+        - 
+    - Good communication skill
+        - always tell why
+- {{[[DONE]]}} #Notes Read https://www.facebook.com/HKUMBA01/videos/335625927810025 
+    - Topics
+        - [[Entrepeneurship]]
+    - Excerpt
+        - [[Entrepeneurship]] is a problem solving journey
+        - [[Motivation]] is what get you up in 7am.
+        - [[Accounting]] needs to be clean.
+        - Timing and preparation is key to success
+        - No me 2 feature
+        - I cannot stand things to be like that.
+        - Think big, be the motivation of the company
+        - Always think in worst case scenarios
+        - Why do you want to start a business
+        - What do you want to gain from "running your own business?
+        - If it is a good business, competitor will come.
+        - big guys has a lot of constraint
+        - sacrifice your time to succeed
+        - Wrong partner kills company
+            - Different skill set
+            - Same value
+        - Problem solver = good entrepreneurs
+        - #[[🧘🏻‍♂️ Self Awareness]] [[🤔 Questions]] What is a good problem that excites me?
+        - Help me to solve a problem?
+        - No work life balance
+        - Culture and execution is what we cannot copy.
+        - Investor
+            - Hope
+            - Exits
+            - Hire good talents
+        - [[🧘🏻‍♂️ Self Awareness]] [[🤔 Questions]]Why do people want to follow you?
+        - Keep changing the world, changing the job.
+        - Have to go global
+        - Culture is elite team by firing the bottom 5%.
+        - The team is more important than the family.
+        - Leadership 
+            - Think for the team.
+                - Treat them as a sons/daughters.
+            - First to battlefield, last to leave.
+        - Transparency
+        - shortened the communication distance
+        - managers need to be "monitored".
+        - Organization flat.
+        - Solve the problems instead of who is responsible.
+        - Don't trust plan trust execution.
+            - LOL that's why software is sooo bad.
+        - customer behavior is transparent for our partners.
+        - Growing with pressure. Unreasonable target for the team.
+        - If people want to work hard.
+            - Good pay
+            - Something unique in this company.
+        - Always clean
+        - If not clean, fire.
+        - Don't care if they are demotivated or not, not care the high performers.
+        - Focus on 1 business.
+        - Do things in the fundamental way.
+        - Do things in hard ways.
+    - Takeaways [[Permanent Notes]]
+        - [[Entrepeneurship]] is a problem solving journey.
+        - [[Motivation]] is what get you up in 7am.
+        - [[Accounting]] needs to be clean.
+        - [[Communication]] distance must be as short as possible.
+        - [[Sacrifice]] is gaining [[prestige]].
+        - Good pay is a good way to [[motivating people]].
+        - Something unique in this company is a good way to [[motivating people]].
+        - First to battle, last to leave is a key [[☝🏻 Leadership]] trait.
+        - Virtue and honesty is a must in [[hiring]].
+        - [[Pressure]] leads to [[Growth]].
+        - Timing and preparation is key to success.
+    - [[🤔 Questions]]
+        - [[business]] [[ideas]] Based on Timing and preparation is key to success., what is 
+            - inevitable in the future?
+            - 10-100x our investment?
+            - we can get prepared?
+- {{[[DONE]]}} https://basecamp.com/handbook/appendix-05-titles-for-programmers Update our JD with this clarity
+- {{[[DONE]]}} Read and understand more about the tokenomics of https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf 
+- {{[[DONE]]}}  [[QA team]] [[1:1]] first round writeup
+    - Some gem collected from team members which aligned with the current 
+    - For the topic
+        - {{[[DONE]]}} [[[[QA team]] Write up]]
+- {{[[DONE]]}} QA by weekly

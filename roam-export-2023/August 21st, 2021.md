@@ -1,0 +1,3 @@
+- 10:00 - 12:00 [[[[MVP]] Should I join this startup?]]
+- #[[🧘🏻‍♂️ Self Awareness]] being called uncle when helping out
+    - [[Responsibilities]] brings [[maturity]]

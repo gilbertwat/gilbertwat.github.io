@@ -1,0 +1,69 @@
+- 08:00
+    - {{[[DONE]]}}  Confirm with [[Ivan Chan]] 
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]] #[[foundation activity]]
+        - [[September 10th, 2022]] very important deadline for summer fiesta
+        - #progress in showcasing managerial capabilities
+- 10:00
+    - [[[[Preface]] Seamless Buy Link]] [[[[UI]]/[[UX]]]] design sync up with [[Ken Chow]] (and partly [[Anna Yu]]) #progress #[[draining activity]]
+        - We have concluded that the modal style is not applicable to mobile for the bad scrolling UX as per [[Gemmy Wong]] on design critique #[[transformative activity]] session
+        - We need to update the visual for the list of course to be more integrated and visually condensed.
+        - We need to increase the legibility on the fonts for the list of timeslot.
+        - We need to change ">" in list to something else as the convention is "Go to detail"
+        - We need to improve the secondary button for invoice overview so that
+            - It is more appeal to the Z pattern of reading in human convention
+            - It indicates the progress of our users in the form
+        - text alignment in the whole design has to be properly set
+        - text rhythm and grouping in all pages has to be rational.
+        - will be revisiting the design on [[August 24th, 2022]] at 16:30
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]] #progress #[[foundation activity]]
+        - We will scope down the delivery of Seamless Buy Link to meet [[September 10th, 2022]] very important deadline for summer fiesta
+- 12:30
+    - Lunch with [[Ivan Chan]] [[GOGOX]] GM in HK B2B #[[transformative activity]]
+        - Vendor management advice made
+        - #progress in building relationship
+- 15:30
+    - [[Alexander Li]] on [[Preface data strategy from 2022 Q4 onwards]] #[[foundation activity]]
+        - #progress
+        - Data Access Principles 
+            - General Principles
+                - Must have clear records of data access rights
+                - Ensure ability to identify and narrow down source of leak 
+                - Educate staff on responsibility to safeguard data
+                - Principle of Least Privilege
+                - SOP for data access request
+                    - eg. Must go through team heads, and access allowed only by data team
+            - Ideal Future
+                - Ticketing system for data access requests
+                - Master table of access controls (proposed accessible only by [[Gilbert Wat]], [[Tommie Lo]], [[Alexander Li]])
+                - Fine grained access control
+                    - Up to row-wise control
+                    - Limitations on time wise access
+                        - eg. Only possible to view schedules 6 months prior or 6 months in the future
+                    - Well documented and defined access scopes by team and role
+            - Current Realistic Implementations
+                - General principles
+                    - Allow line item and schedule access to relevant Ops teams 
+                    - Up to column-wise access restrictions for now
+        - Operational / Analytical Data 
+            - Current Working Definition
+                - Operational Data: Data without aggregations and business logic 
+                - Analytical Data: Data with aggregations or business logic
+                    -  eg. sum of revenue, average nomad review ratings, churn
+        - Architecture Changes
+            - Use old `Warehouse` codebase as an operational store
+            - Increase frequency of Portal backups (multiple times a day or hourly) to facilitate operational data reporting
+            - Convert old `Warehouse` code to access Portal backups 
+                - Minimal anticipated code change required - should mostly be a query source change
+                - Migrate any analytical elements to be used in [[[[Preface]] [[data warehouse]]]] instead
+                - Eventual integration of additional validation [greatexpectations](https://greatexpectations.io/) in operational data pipelines
+- 16:30
+    - [[1:1]] with [[Ehsan Ayaz]] #[[foundation activity]] #[[transformative activity]]
+        - Follow up with Shared a [[[[books]]: The design of everyday things]] to him
+            - He hasn't started that and doing another book [[[[books]]: Hooked]]
+        - Asked him to find 1 advice he heard or read and his application of it in his life
+- #decided
+- #Energy
+    - Depleted
+    - [[Theodore]] is a bit high temperature today. [[Wifey]] and [[Wifey mum]] is very concerned.

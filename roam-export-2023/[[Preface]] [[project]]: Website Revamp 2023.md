@@ -1,0 +1,130 @@
+- [[[[Preface]] [[project]]: Website Revamp 2023]]
+- Previously on [[March 1st, 2023]]
+    - Overall Goal:
+        - To enable online only conversion
+        - Brand awareness
+            - To increase the FOMO of our potential clients on the advancement of technology
+                - Parent
+                - Corporate L&D
+            - To share the result of our education
+                - Happy and developing kids
+                - Productivity increase in workforce
+            - To showcase how robust our product can be.
+                - 4 streams
+                - campaigns
+                - 1 to 1 curriculum
+        - Lead generation
+            - To trigger the need to purchase from our contents.
+        - Conversion
+            - To have a very easy search for our courses based on our clients' criteria
+            - To inform how our courses can meet their need in education.
+        - Easy to update and operate
+        - Pre-requitsite
+            - Brand Message is clear.
+            - A clear product definition
+    - References:
+        - https://docs.google.com/presentation/d/1UUrDJ80DD5h5L20nrI_3lw-YCI9kSVLZZ7ICeZPtrqM/edit#slide=id.g1199d91cd27_2_176
+    - Proposed sitemap and To Dos:
+        - preface.ai will be a simple static page for visitors to understand our group mission and visions.
+            - {{[[ARCHIVED]]}}  Design
+                - Navbar
+                    - Kids
+                    - Adults
+                    - Corporates
+                - Footer
+                    - PCW
+                    - B2G
+                    - Join Us
+                    - About Us
+                    - Investor Relations
+            - {{[[ARCHIVED]]}}  Visuals
+            - {{[[ARCHIVED]]}}  Text
+            - `/kids`
+Visitor will be convinced by the USP of our kids and know the latest campaign(s) and offering(s)
+                - {{[[ARCHIVED]]}}  Design
+                - {{[[ARCHIVED]]}}  Visuals
+                - {{[[ARCHIVED]]}}  Text
+                - `course-group/` Group of courses 
+Visitors can understand our vast offering in a logical grouping based on their needs. Concrete examples are such as by campaigns such as `summer-2023/` OR by stream `engineering-and-robotics/` OR by topics`scratch/` 
+                    - {{[[ARCHIVED]]}}  List of course groups in the MVP
+                        - programming/
+                            - {{[[ARCHIVED]]}}  Visuals
+                            - {{[[ARCHIVED]]}}  Design
+                            - {{[[ARCHIVED]]}}  Text
+                            - Link to 1 to 1 scheduling
+                        - ai/
+                            - {{[[ARCHIVED]]}}  Design
+                            - {{[[ARCHIVED]]}}  Visuals
+                            - {{[[ARCHIVED]]}}  Text
+                            - Link to 1 to 1 scheduling
+                        - creative-design/
+                            - {{[[ARCHIVED]]}}  Design
+                            - {{[[ARCHIVED]]}}  Visuals
+                            - {{[[ARCHIVED]]}}  Text
+                            - Link to 1 to 1 scheduling
+                        - engineering/
+                            - {{[[ARCHIVED]]}}  Design
+                            - {{[[ARCHIVED]]}}  Visuals
+                            - {{[[ARCHIVED]]}}  Text
+                            - Link to 1 to 1 scheduling
+                    - {{[[ARCHIVED]]}}  Design
+                    - {{[[ARCHIVED]]}}  Visuals
+                    - {{[[ARCHIVED]]}}  Text
+                    - Course Details (Content)
+                        - {{[[ARCHIVED]]}}  Design
+                        - {{[[ARCHIVED]]}}  Visuals
+                        - Link to Buy / Into Shopping Cart
+                        - Link to 1 to 1 scheduling
+                - {{[[ARCHIVED]]}}  1 to 1 Scheduling 
+            - Adults
+                - Techbites (Digital Product team)
+                    - Link to Corporate Enquiry form 
+                    - Link to 1 to 1 Scheduling
+                - Campaigns **Group of courses** (Digital Product team)
+                    - Course Details (Content)
+                - {{[[ARCHIVED]]}}  1 to 1 Scheduling 
+            - Corporates (Partnership team)
+                - Corporate Enquiry Form (Partnership team)
+                    - {{[[ARCHIVED]]}}  Design
+                    - {{[[ARCHIVED]]}}  Content
+                    - {{[[ARCHIVED]]}}  Text
+            - Schools
+                - School Enquiry Form (BR team)
+                    - {{[[ARCHIVED]]}}  Design
+                    - {{[[ARCHIVED]]}}  Content
+                    - {{[[ARCHIVED]]}}  Text
+            - B2G
+                - RTTP Enquiry Form (BR team / Cliff)
+                    - {{[[ARCHIVED]]}}  Design
+                    - {{[[ARCHIVED]]}}  Content
+                    - {{[[ARCHIVED]]}}  Text
+            - PCW
+                - Venue Rental Form (Partnership team)
+                    - {{[[ARCHIVED]]}}  Design
+                    - {{[[ARCHIVED]]}}  Content
+                    - {{[[ARCHIVED]]}}  Text
+            - Blogs
+Links to where ever we see fit
+                - {{[[ARCHIVED]]}}  Design
+                - {{[[ARCHIVED]]}}  Content
+                - {{[[ARCHIVED]]}}  Text
+            - Investor Relations
+                - {{[[ARCHIVED]]}}  Design
+                - {{[[ARCHIVED]]}}  Content
+                - {{[[ARCHIVED]]}}  Text
+            - Join Us
+                - To Bamboo
+            - About Us (Brand Experience)
+                - {{[[ARCHIVED]]}}  Design
+                - {{[[ARCHIVED]]}}  Text
+                - {{[[ARCHIVED]]}}  Content
+- #learning
+    - Never throw in idea without understanding the business.
+        - The solution of a webflow / no-code / low code tools doesn't solve to the problem of organization and communication.
+    - Ideal user journey:
+        - Corporate clients
+        - Individual clients
+        - Investors
+- [[comments]]
+    - [[May 10th, 2023]]
+        - [[Gilbert Wat]]

@@ -1,0 +1,96 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - Wake up a bit early
+- ((22yK4qEt6))
+    - 
+    - {{{[[DONE]]}}}} Read [[[[books]]: Accelerate the science of lean software and devops]] Chapter 3
+        - Measuring and changing culture
+            - Organizational culture
+                - basic assumptions
+                    - common sense??
+                - values
+                    - a lens to interpret relationships, events and activities around them 
+                - artifacts
+                    - Written mission statements / creeds, technology, formal procedures, heroes and ritualss
+            - Devops is value
+            - Typology
+                - {{table}}
+                    - Pathological (power-oriented)
+                        - Fear and Threat
+                            - Low cooperation
+                                - Messenger "shot"
+                                    - Responsibilities shirked
+                                        - Bridging discouraged
+                                            - Failure leads to scapegoating
+                                                - Novelty crushed
+                    - Bureaucratic (rule-oriented)
+                        - protect department
+                            - Medium cooperation
+                                - Messenger neglected
+                                    - Narrow Responsibilities
+                                        - Bridging tolerated
+                                            - Failure leads to justice
+                                                - Novelty leads to problems
+                    - Generative (performance-oriented)
+                        - Focus on mission
+                            - High cooperation
+                                - Messenger trained
+                                    - Responsibilities are shared
+                                        - Bridging encouraged
+                                            - Failure leads to inquiry
+                                                - Novelty implemented
+            - Good information
+                - Provides answer to the questions, timely, effectively used by the receiver.
+                - Crucial to High-tempo and high-consequence environments
+            - Culture Performance Loop
+                - {{mermaid}}
+                    - graph LR
+                        - cd[Continuous Delivery]
+                        - lm[Lean Management]
+                        - cp[Westrum Organization Culture]
+                        - sdp[Software Delivery Performance]
+                        - op[Organizational Performance]
+                        - cp --> sdp
+                        - cp --> op
+                        - cd --> cp
+                        - lm --> cp
+    - {{{[[DONE]]}}}} https://www.youtube.com/watch?v=2V1FtfBDsLU
+        - #[[🔢 Software Development]]
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Fyblh1P3JN3.png?alt=media&token=a1369515-5b26-4aea-b2e3-729b9c6dc33b) 
+    - {{{[[DONE]]}}}}[[[[1:1]] with [[Ivo Wu]]]]
+        - Focus
+            - Mentor teammates to fill the communication gap for us to ship the feature to customers.
+        - Depiroritize
+            - CI/CD to fit QA needs perfectly 
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Henry Tang]]]]
+        - Platform release cycle
+            - Not sure about QA concerns #[[CircleBack]]
+        - Theme
+            - Better commitment
+            - Not sure about QA role
+                - QA think about test cases??
+                    - Try to talk to Shamiya 
+    - {{{[[DONE]]}}}}[[[[1:1]] with [[Anthony Chan]]]]
+        - Success
+            - Little bugs
+            - Stable
+            - Software Engineering Technique
+            - Impactful implementation
+                - app-review channel
+                - easy to modify modules
+                - See user use [[Anthony Chan]]'s work
+        - API doc is not sufficient to complete E2E flow
+            - Small case, Do it better next time.
+        - #CircleBack Under-pay
+            - Technical and individual ability is not a blocker of your growth
+            - suggested to have success stories about shipping feature smoothly with agile teammates.
+        - #CircleBack Can we incrementally adopt flutter?
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

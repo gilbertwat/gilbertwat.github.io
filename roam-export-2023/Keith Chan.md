@@ -1,0 +1,15 @@
+- #[[software engineer]] #TeamLeads #Web #Colleagues
+- ((f1B7I83xi))
+- ((yj59zvJoz))
+    - Trusted
+- ((6PmkX_ctN)) 
+    - Technical
+    - Very proficient in iOS
+    - With a big picture
+    - outcome driven
+- 
+    - Lack of empathy
+    - Lack of security
+- [[💪🏻 Commitments]]
+    - 
+    - {{[[DONE]]}} Make sure he is capable to build relationship with his team.

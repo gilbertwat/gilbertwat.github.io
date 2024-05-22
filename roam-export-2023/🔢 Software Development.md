@@ -1,0 +1,7 @@
+- [[Designing & evaluating solutions]]
+- [[Estimating how long it takes]]
+- [[Managing projects]]
+- [[Optimizing benchmarks]]
+- [[Automating manual work]]
+- [[Distributing computation workload]]
+- [[maintaining [[Software quality]]]]

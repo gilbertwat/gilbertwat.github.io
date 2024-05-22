@@ -1,0 +1,11 @@
+- #[[28 2023]]
+- [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - https://medium.com/@quangtqag/background-audio-player-sync-control-center-516243c2cdd1
+    - https://www.kodeco.com/books/swiftui-cookbook/v1.0/chapters/4-playing-audio-video-in-the-background-in-swiftui
+- [[[[Preface]] [[project]]: #sourcing CRM]] Demo with [[Hema Shah]] [[Darren Yeung]] [[Nancy Kwan]] [[Jennifer Ling]] [[Darren Yeung]]
+    - Some fields are not very extendible
+        - We might need to find a way to capture the `touch point` and `interested in product` and `learning path`
+        - Deals usage?
+        - https://app.hubspot.com/contacts/5859596/objects/0-3/views/all/list
+    - I feel like there are some push back from the team other than [[Jennifer Ling]]
+        - But I believe it will be good for the team and we will take a harder approach to enforce the usage of [[Hubspot]]

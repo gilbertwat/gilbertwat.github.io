@@ -1,0 +1,39 @@
+- 09:30 Discuss about the [[Anna Yu]] division of labor problem
+    - She has separate project management duty now for [[[[Preface]] [[NFT]]]] and new initiative [[[[Preface]] 2.0: credit system]], which is an umbrella initiative for [[[[Preface]] [[NFT]]]] and [[[[Preface]] [[product]]: Coffee App]]
+    - #decided
+        - Product Owner duty of [[Anna Yu]] will be diminished, there will be no product discovery, stakeholder management, and product strategy for [[[[Preface]] [[product]]: Coffee App]]
+        - The goal is to ship the [[[[Preface]] [[product]]: Coffee App]] to customers in batch in the coming months
+- 10:30 [[Ehsan Ayaz]] #Pairing
+    - [[->]] [[Ehsan Ayaz]] API route in [[nextjs]] 
+    - {{[[DONE]]}} [[->]] [[Ehsan Ayaz]] First step is create a vercel app on public website repo and see what is missing
+- 11:00 
+    - {{[[DONE]]}} Generation of artwork for [[[[Preface]] [[NFT]]]] from [[Carmen Yeung]]
+- 11:30 
+    - [[Hema Shah]]
+        - Discussion on [[[[Preface]] [[product]]: Coffee App]] sprint goal
+            - It is not clear enough for [[Hema Shah]]
+- 12:00 
+    - {{[[DONE]]}} Generation of artwork for [[[[Preface]] [[NFT]]]] from [[Carmen Yeung]]
+        - Introduced [[replit.com]] again to [[Carmen Yeung]]
+            - Discovered that they have tried that before.
+- 14:00
+    - Understand more about two problems in information flow and release process in [[[[Preface]] data [[architecture]]]] and [[[[Preface]] [[product]]: Coffee App]] and [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]], particular in the role of [[Hema Shah]]
+- 15:30 [[[[Preface]] [[product]]: Coffee App]] backend release strategy
+    - #decided on [[[[Preface]] [[product]]: Coffee App]] backend
+        - Build is automatically uploaded when we merge to main branch
+        - API versioning in code level instead of infrastructure level (canary build and deployment) for now
+- 15:45 [[Alexander Li]] [[1:1]]
+    - Datawarehousing effort is there.
+    - #decided on [[[[Preface]] data [[architecture]]]]
+        - To enhance the data warehouse capabilities
+        - To migrate reports from ad-hoc queries to different data source to data warehouse
+- 16:30 [[Carmen Yeung]]
+    - [[[[Preface]] [[NFT]]]] stage 2 ideas
+        - by invitation
+        - public mint
+    - #observation [[Carmen Yeung]] is being freaked out by the sudden change of scope without thinking that the sudden influx of input, even from [[Tommie Lo]], should not affect the [[[[[[Preface]] [[NFT]]]] initial launch]]
+- 17:00
+    - [[All Hands [[meetings]]]]
+        - #decided
+            - {{[[DONE]]}} I am the project leader of [[[[Preface]] [[NFT]]]] and [[[[Preface]] [[product]]: Coffee App]] now, for some reason
+- {{[[DONE]]}} [[Pull [[exercise]]]] 1 {{[[∆]]}}

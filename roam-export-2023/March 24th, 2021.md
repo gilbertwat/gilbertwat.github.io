@@ -1,0 +1,48 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[1:1]] with [[Ravic Poon]]
+    - A lot of discussion on the fallout between [[Lung Ho]], [[Terry Pang]] and me.
+        - He told me [[Lung Ho]] is working happily in [[crypto.com]] and even help recruiting people for them.
+        - And he is poached by [[Sam Lin]].
+        - Both of them don't come to me. But [[James Cheuk]] did. It reflects the relationship between them and me.
+        - He also think we didn't treat our colleagues well.
+            - To be honest, I feel confused at first. I am not so sure why. And I feel ashamed and defeated. I feel like [[the dark side]] has get the better of me and now I am suffering from it.
+        - To be honest, I don't think I should show my detest to them publicly. It is a #Failures of me in my managerial career.
+        - Our culture in [[GOGOX]] is about [[being a good man]] in [[Victor Lam]]'s word.
+            - Never fire people is one of the most epic example.
+            - Doesn't want to be dislike.
+        - Now reflect back the whole episode I don't think I am doing any wrong to classify they are underperforming.
+            - My wrongdoing is not handling it gracefully and firing them fast enough and let our relationship go ever more sour.
+            - Especially [[Terry Pang]] is a very influential figure and he is toxic as fuck.
+            - If I have fired them quick enough, it may be tough for them in short term, but they will eventually find a better place for them.
+            - And if I can deliver the message straight, no hard feeling, the things should stop and I should gain the respect.
+            - The main point here is that I am not getting the priority straight.
+                - My priority is as a manager
+                    - don't let the situation fester.
+                    - If it festers, deal with it, esculate.
+                    - If not solved with escalation, deal with it with emotion out of the equations and focus on the objectives.
+                - Rather, my priority is not professional at all, I am thinking [[Terry Pang]] architecture is *not* right. [[Lung Ho]] is *not* proactive at all. It became personal and unconvincing.
+                    - I am wrong. I should think about the mismatch.
+                        - [[Terry Pang]] is a mismatch to be a mobile architect as his architectural decision is harming the team's productivity.
+                        - [[Lung Ho]] is a mismatch in the team as we are looking for teammates who can sort their tasks out and design our systems with us.
+                    - I should also focus on the mismatch of expectation. [[Ben Cheng]] mentioned in his [[1:1]] with me.
+                        - [[Terry Pang]] seeks statuses and authority, which I cannot give to him because of meritocracy and culture mismatch. (Authority vs autonomy)
+                        - [[Lung Ho]] seeks routine, stability and predictability in his day job, with little string attached. which the company (AKA I) cannot provide. and it is a culture mismatch. (routines vs creativity, work-life separation vs work-life integration, Shelter vs Ownership)
+                        - Even [[Kavin Wong]] and [[Belda Chan]] I guess the case is the same.
+                    - Of course the pay is a P0 factors. If our pay is better we are able to attract better talents and we are more capable to build the team with people we want to work with.
+    - [[Ravic Poon]] is staying in the company because he wants. That's a strong one.
+    - {{[[DONE]]}} Reference Letter for CA govt.
+    - {{[[DONE]]}} Change of title 
+- [[Interview]]
+    - Role: Intermediate backend engineers
+    - Questions:
+        - Proficiency of his current tools
+        - Basic abstraction and domain design in designing wallet system (backend only)
+        - Testing
+- Deadlock about `ActiveRecord::Callback` #[[Ruby on Rails]]
+    - {{mermaid}}
+        - graph LR;
+            - A --after_commit edit and save--> B;
+            - B --after_commit edit and save -->A;
+- 

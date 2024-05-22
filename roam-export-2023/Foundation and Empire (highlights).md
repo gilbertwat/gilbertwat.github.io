@@ -1,0 +1,28 @@
+- Author:: [[Isaac Asimov]]
+- Full Title:: Foundation and Empire
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51e5LnbBONL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 12th, 2023]]
+    - Psychohistory dealt not with man, but man-masses. It was the science of mobs; mobs in their billions. It could forecast reactions to stimuli with something of the accuracy that a lesser science could bring to the forecast of a rebound of a billiard ball. The reaction of one man could be forecast by no known mathematics; the reaction of a billion is something else again. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=141))
+- ### New highlights added [[August 12th, 2023]] at 4:25 PM
+    - “Enough. Unfortunately, an uninformed public tends to confuse scholarship with magicianry, and love life seems to be that factor which requires the largest quantity of magical tinkering.” ([Location 213](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=213))
+- ### New highlights added [[August 22nd, 2023]] at 7:12 AM
+    - Randu took his pipe away from his lips, “The boy’s right, Fran. When you listen to the little thoughts deep inside you, you know he is. But they’re uncomfortable thoughts, so you drown them out with that roar of yours. But they’re still there. Toran, I’ll tell you why I brought all this up.” ([Location 1562](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=1562))
+    - He said, stiffly, “Nevertheless, captain, Seldon guarantees victory over the warlords, and I cannot, in these busy times, indulge in a dispersal of effort. These Traders you dismiss are Foundation-derived. A war with them would be a civil war. Seldon’s plan makes no guarantee there for us—since they and we are Foundation. So they must be brought to heel. You have your orders.” ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=1721))
+- ### New highlights added [[August 29th, 2023]] at 3:30 PM
+    - “Before I came here I had a sort of vague idea that all we had to do was to ask for the Mule, and then get down to business—just business, you know, nothing definite.” ([Location 1927](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=1927))
+- ### New highlights added [[September 4th, 2023]] at 2:00 AM
+    - When the twenty-seven independent Trading worlds, united only by their distrust of the mother planet of the Foundation, concert an assembly among themselves, and each is big with a pride grown of its smallness, hardened by its own insularity, and embittered by eternal danger—there are preliminary negotiations to be overcome of a pettiness sufficiently staggering to heartsicken the most persevering. ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=2157))
+    - It was a world, in other words, where the two halves face the monotonous extremes of heat and cold, while the region of possible life is the girdling ribbon of the twilight zone. ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=2167))
+        - **Note**: This is so pioneer in the ftime of writing
+    - Each garden was a horticultural forcing ground, where luxury plants grew in fantastic patterns for the sake of the foreign exchange they brought—until Radole had almost become a producing world, rather than a typical Trading world. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=2173))
+- ### New highlights added [[September 7th, 2023]] at 9:48 AM
+    - “Excellence, you have, but some things are inexpedient.” “I recognize ([Location 2488](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=2488))
+- ### New highlights added [[September 9th, 2023]] at 12:54 AM
+    - For two months, Captain Pritcher wore leaden aprons and heavy face shields, till all things military had been frictioned off his outer bearing. He was a laborer, who collected his pay, spent his evenings in town, and never discussed politics. ([Location 2817](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=2817))
+    - Toran hesitated, but six men and six blasters are eloquent arguments. He reached into the cupboard for the suits. ([Location 3008](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=3008))
+- ### New highlights added [[September 15th, 2023]] at 1:53 AM
+    - “Trade.” The young man seemed roused to sudden interest. “You trade then. But what do you export?” “Metal,” was the curt answer. “Look for yourself. We have an infinite supply, ready processed. They come from Neotrantor with ships, demolish an indicated area—increasing our growing space—and leave us in exchange meat, canned fruit, food concentrates, farm machinery, and so on. They carry off the metal and both sides profit.” ([Location 3321](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=3321))
+        - **Note**: Even a crumbling cities has things to sell.
+    - and their pale-faced inexperienced bravery, formed a protective volunteer army to protect the central shrine of the science of the Galaxy. ([Location 3337](https://readwise.io/to_kindle?action=open&asin=B000FC1PWK&location=3337))
+        - **Note**: Very good reference from the real university.

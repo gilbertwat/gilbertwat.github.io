@@ -1,0 +1,8 @@
+- https://algorithmsbook.com/files/dm.pdf
+- I want to make some life critical decisions as soon as possible, as risk aware as possible, as rational as possible
+    - excerpts
+        - Independence can result in an enormous savings in terms of representational complexity, but it is often a poor assumption.
+- https://algorithmsbook.com/files/dm.pdf
+- I want to make some life critical decisions as soon as possible, as risk aware as possible, as rational as possible
+    - excerpts
+        - Independence can result in an enormous savings in terms of representational complexity, but it is often a poor assumption.

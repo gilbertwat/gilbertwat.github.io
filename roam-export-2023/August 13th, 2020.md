@@ -1,0 +1,55 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[daydaycode.io]] Today
+        - Play Mimo app
+            - Shit all ideas are executed about on-boarding
+            - Form factor sucks on phone.
+            - iPad App??
+    - {{{[[DONE]]}}}} Read [[[[books]]: Alexander Hamilton]]
+    - {{{[[DONE]]}}}} QAE Interview
+        - QA Architecture
+            - Major release
+        - Appium
+        - Test case seperation
+            - Priority
+                - Simple 
+                - Medium
+                - Complex
+                - Business team (Manual testing team)
+                - Experience ✅
+        - BDD Cucumber
+            - Cucumber + Appium
+            - Java
+            - before
+            - after
+        - Difficulties
+            - ElementID identify
+                - XPath
+            - DB Validation
+                - 
+            - Flaky test ✅
+                - Explicit wait
+                - Implicit wait
+            - Slow test ✅
+        - Quality Metrics
+        - Jenkins CI/CD
+            - Jenkins
+            - Bash shell ✅
+        - Device specific
+            - Real device for local dev
+            - Real device 
+        - Agile
+            - Monday Planning
+            - Scrum methodology
+        - CA <-->DA 
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing
+- 

@@ -1,0 +1,21 @@
+- 09:30
+    - [[1:1]] with [[Tommie Lo]] #[[foundation activity]]
+        - [[[[Preface]] Pre-Series B plan]]
+        - Distracted with all the activities with [[Tommie Lo]]
+        - Running through his deck on Pre Series-B instead of Series A+
+- 11:00
+    - [[weekly meeting on [[Preface]] research on AI]] #[[foundation activity]]
+        - Learned about [[transformer]]
+- 12:00
+    - [[Anna Yu]] on [[[[Preface]] [[product]]: Customer Portal]] #[[foundation activity]]
+        - Organize customer interview
+- 15:00
+    - Interview senior software engineer Tylor
+- 16:30
+    - [[1:1]] with [[Ken Chow]] #[[draining activity]] [[foundation activity]] #decided
+        - Debrief on the result of [[[[Preface]] Seamless Buy Link]]
+            - no awareness that we are helping him to complete his duties
+                - expressed bluntly and set expectation on the next project
+                - #decided to risk the personal relationship to [[Giving candid and actionable feedback]]
+- 17:00
+    - [[Preface]] weekly [[All Hands [[meetings]]]] #[[mindless activity]]

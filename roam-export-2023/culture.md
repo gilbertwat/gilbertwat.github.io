@@ -1,0 +1,3 @@
+- What is culture?
+    - Culture is some fundamental assumption that how we see the world / solve problems.
+    - Culture is essential to build a 

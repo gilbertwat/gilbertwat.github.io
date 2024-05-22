@@ -1,0 +1,34 @@
+- [[Family [[finance]]]] insight
+    - All saving plan is an act of lending money to the insurance company
+- [[Family [[finance]]]] insight
+    - All saving plan is an act of capping the upside of the capital and limiting the downside of the capital too.
+- {{[[ARCHIVED]]}}  #to-read https://arxiv.org/pdf/2211.11528.pdf for video content and [[[[Preface]] tag-based courses [[recommender]] system]]
+    - There should be certain parameters based on which the reach of content could be multiplied by a good factor. The proposed research work aims to identify and estimate the reach, popularity, and views of a YouTube video by using certain features using machine learning and AI techniques. A ranking system would also be used keeping the trending videos into consideration
+- {{[[ARCHIVED]]}}  #to-read https://arxiv.org/pdf/2211.12190.pdf for machine learning in education fields
+- {{[[ARCHIVED]]}}  #to-read https://arxiv.org/pdf/1706.03762.pdf The attention is all you need
+- {{[[ARCHIVED]]}}  #to-research https://github.com/EleutherAI/gpt-neox
+- [[[[2022]] Week 48]] review
+    - Projects
+        - Coffee App
+            - Quote is $40000 and it will be done in mid-Feb.
+            - Chat with Ambrose and get all his concerns on operating the coffee app.
+        - Customer Portal
+            - We are building the calendar view of our customer portal.
+        - Content Recommendation System
+            - Completed for the current version next step is to collaborate with product team to collect more data.
+        - Credit System with BUD funding
+            - I am still struggling with the budgeting. I will work with Vegas on the detail of the BUD funding to create a project plan
+        - Lead database
+            - Very smooth, we will have a cleaned lead data with very minimal cost of maintenance in the end of quarter with all the input from growth channel and event.
+        - Research
+            - 100% focus on ChatGPT and its adjacent technology.
+        - Strategy
+            - ChatGPT and related technology has a lot of implication to technology, business and education. And as a technology enabler I think we definitely need to be the first on this front.
+            - Some more credible people shared the same view [Peter Wang, founder of Anaconda](https://twitter.com/pwang/status/1599400901781123072?s=20&t=8Tr0Tph6AC-UfobZyFYPlQ)
+    - Team matters
+        - Hiring in progress for a full stack engineer with the patient to build the foundation with us.
+    - Bottleneck
+        - Engineering resource will not catch up the speed we need.
+        - ChatGPT will suck all the research effort and its implication on our business.
+    - Decision needed
+        - With a one time cost of 50000 HKD, Should I go ahead with the update on Coffee App?

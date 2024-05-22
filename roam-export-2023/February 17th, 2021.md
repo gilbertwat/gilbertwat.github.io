@@ -1,0 +1,58 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} #Notes Read - https://plaintextaccounting.org
+    - Topics
+        - [[Accounting]] [[Family [[finance]]]]
+    - Excerpt
+        - Generally, 1 entity can be split to 5 accounts
+            - Asset is what I owned.
+            - Liability is what I owed.
+            - Equity is what I invest in.
+            - Revenue is what I earn.
+            - Cost is what I spent.
+    - Takeaways
+        - In [[Accounting]], an asset is what I owned.
+        - In [[Accounting]], an liability is what I owed.
+        - In [[Accounting]], an equity is what I invest in.
+        - In [[Accounting]], revenue is what I earn.
+        - In [[Accounting]], cost is what I spent.
+    - [[🤔 Questions]]
+- [[Townhall]] from [[Steven Lam]]
+- [[1:1]] with [[Gemmy Wong]]
+    - [[GOGOX]] is starting to tackle the communication problem between departments. [[Kelvin Chan]] is trying to unify a set of domain language inside us.
+    - [[[[GOGOX]] Project Flywheel]] is still very early stage.
+    - [[Myself]] need to ask [[Vincent Chan]] why does PMs prefer shipping new feature than iterate on existing features.
+    - [[Myself]] share the difficulties even on director level on the business impact of the tech team, which feature is creating $X, retention %, ...etc. by [[Vincent Chan]]'s Tweets
+        - https://twitter.com/VincentChan/status/1361853564298031106?s=20
+    - [[Gemmy Wong]] has the assumption that if we have more resource, we are able to ship a better product. Is it the right assumption? [[GOGOX]] 
+    - How our features can compound on each others and create a compiling product for our customers?
+    - We discuss a bit about our app quality. The app quality from a designer point of view is very crude and not up to standard.
+        - A possible solution is we need to illustrate the possible 11 star experience, but based on some reason we need to do only X star. The reason of our compromise and what are we trading off.
+- [[1:1]] with [[Vijay]]
+    - Thank you and committed to write a personal notes for
+        - {{[[DONE]]}} [[Vijay]]
+        - {{[[DONE]]}} [[Venkata Narasimha]]
+        - {{[[DONE]]}} [[Subbarao Venkata Mothe]]
+        - {{[[DONE]]}} [[Ajay]]
+        - {{[[DONE]]}} [[Hrishikesh Moghe]]     
+- [[1:1]] with [[Eason Yim]]
+    - [[Interview]] [[management]] [[manager]]
+    - Eason is interviewing for the manager role in Clover Health.
+    - We discuss a lot about interviewing code tests. From discussing how to do it to how to design an interview process.
+    - How to interview a tech manager?
+        - Human touch throughout the interview process.
+        - Judgement in distinguishing, engaging and motivating senior and junior engineers.
+        - Interaction with the direct manager.
+            - how you are going to work together? 
+            - What is your style of leadership? 
+            - What is your strengths and weaknesses? (As shown in interview vs your "official" answers.) 
+            - How to clarify expectation and work with direct manager to achieve team goals and company goals?
+        - Technical capabilities.
+        - Experience and story telling capabilities.

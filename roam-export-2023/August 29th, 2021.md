@@ -1,0 +1,71 @@
+- 23:00
+    - {{[[DONE]]}} Read [[Summary of  [[GOGOX]] Application Proof]]
+- 23:50 Retrospective of Week 34
+    - Link to last week: 12:45 - 14:30 Retrospective of [[2021]] Week 33)
+    - What went well?
+        - #[[health]]
+            - Muscle pain in Monday Pull section
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - a lot of insight from [[Jordan B. Peterson]]
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - IPO news released
+            - [[Ergon]]
+            - [[Grantits.io]]
+                - [[Vlad]] seems to be learning stuff from me
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - 1 reply tweet reach 7k impressions
+                - [[Maven.hk]] interview went well
+    - What went wrong?
+        - #[[health]]
+            - A bit lazier than last week
+            - [[sleep]] quality is not as good
+            - Forgot to fix [[Lower back spasm]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Still failed Failed on limit [[Facebook]] [[Twitter]] [[Lihkg]] [[RED App]] scrolling in 45 min.
+            - Failed Write back diary
+            - Both energy and focus level
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+            - [[Dad]] cynicism is hurting [[Wifey]] in Thursday dinner
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+            - [[Ergon]]
+                - [[Kwong Kin Ming (KM)]] resigned
+            - [[Grantits.io]]
+                - Target is not reached
+                    - End of September
+                        - 1 QA
+                        - 1 Mobile
+                        - 1 Backend
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - Original content seems a bit lacklusters
+                - [[Sleekflow.io]] interview went bust
+                    - Ref: Received [[Sleekflow.io]] answer for [[VP of [[Engineering]]]]
+    - What can be done next week?
+        - #[[health]]
+            - {{[[DONE]]}} Buy new pillow that is 10cm height
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - {{[[DONE]]}}  Finish [[Jordan B. Peterson]]
+        - #[[Family [[finance]]]] 
+            - {{[[DONE]]}} Ask [[Steven Lam]] on the prospect of our team in having stock in [[GOGOX]] 
+            - [[Failed]] Try to replace with sth else Failed on limit [[Facebook]] [[Twitter]] [[Lihkg]] [[RED App]] scrolling in 45 min.
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Refocus on [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+                - Hiring 3 more [[[[Backend]] [[software engineer]]]]
+                - Help [[Franco Solis]] sort out his family vs work issues
+            - [[Ergon]]
+            - [[Grantits.io]]
+                - Continue the good work
+                - {{[[DONE]]}} 1 QA
+            - [[Distribution channels]]
+                - [[Twitter]]
+                    - Replies Tweet whenever possible
+                        - Insight on top of a insightful thread
+                    - Original content x 3 minimum

@@ -1,0 +1,8 @@
+- Radiate your gratitude; Focus; Pace yourself; Bring energy to the room
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- https://www.facebook.com/TipsyBartender/videos/2739758786287766/?__xts__[0]=68.ARCdkul8BPT26_4YwxN6pk9ZeV72qPznvNpWvlXMEtO1wW6PikM4gmzPMzN1NkEbQkaA0YoMwIC0iSKSNmxz02NekcmJK0bswDZWttcA9_FwH7MW2bg9a86TdNbKah77aC7CjWXqXTrZSXv_5FhZuDSQLi_KPovxgKIVtZeZIgdU2vlddvpHFSMoZHXxgdrgcV-imFCrRdxyoDzV_-vMq7luRQ8AArm9Rc3HTf515ISaPf9p23Qi5hw79cy98tz99s6fKxmbjT_q3rJQ4Ss8V_MXfxv2yb04em-vvoe9mKHcEgjSm_WICD0brb1i20UIUyE2R1FCjn4necL28HhT2P4bllsqo6MSu2IZtDUw9iGydKGn_o5Rps5F55Cl3UAuNA&__tn__=-R
+- [[How do you feel when you wind down?]]
+    - {{slider}}

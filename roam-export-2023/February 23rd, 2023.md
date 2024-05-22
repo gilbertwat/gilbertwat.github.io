@@ -1,0 +1,18 @@
+- 09:30
+    - [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- 10:30
+    - [[Joseph Chan]] on [[[[Preface]] [[project]]: Techbites MVP]]
+- 11:00
+    - [[Silvia Wong]] on [[[[Preface]] [[product]]: Customer Portal]] support on B2B
+- 12:00
+    - Lunch
+- 12:45
+    - [[[[Preface]] [[project]]: Website Revamp 2023]] discussion with [[Daisy Lee]] and [[Yuki Law]]
+- 16:00
+    - First meeting with [[Lech]]
+        - [[June 1st, 2023]] will be ideal time to launch [[[[Preface]] [[project]]: Website Revamp 2023]] and [[[[Preface]] [[product]]: Customer Portal]] App and [[[[Preface]] [[project]]: Credit System MVP]]
+- 17:00
+    - [[[[Preface]] [[project]]: Website Revamp 2023]] discussion with [[Daisy Lee]] and [[Yuki Law]]
+        - Scared the shit out of them
+- [[gratitude dairy]]
+    - Gracefully deal with pressure from everyone.

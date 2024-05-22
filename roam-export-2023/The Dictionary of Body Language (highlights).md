@@ -1,0 +1,14 @@
+- Author:: [[Joe Navarro]]
+- Full Title:: The Dictionary of Body Language
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51nU2BYvLHL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - —Playing with our hair (twirling, twisting, stroking) is a pacifying behavior. It is most frequently utilized by women and might indicate either a good mood (while reading or relaxing) or stress (when waiting for an interview, for example, or experiencing a bumpy flight). Note that when the palm of the hand faces the head it is more likely to be a pacifier, as opposed to the palm-out orientation discussed below. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=134))
+    - A rule of thumb: the truth teller merely conveys, while the liar often tries to convince. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=402))
+    - SQUINTING ([Location 416](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=416))
+    - —Oftentimes, while performing a complex task, people will stick out their tongue, usually to one side or the other, or drape it over their lower lip. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=583))
+        - **Note**: Theodore always do that
+    - Tone of voice matters greatly. Ironically, if you want to get people’s attention, lowering your tone of voice will work best. A lower voice is also soothing, as any parent who has put a child to bed will attest. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=609))
+    - —Uptalk is when people inflect their tone up at the end of a declarative sentence, as though it were a question. Studies show that even a single instance of uptalk on the phone can negatively impact the listener’s impression of the speaker. Though uptalk is popular with many young people, it makes them sound tentative and lacking in confidence. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=613))
+    - A formal inquiry may also cause us to delay answering because of the seriousness of the hearing. ([Location 625](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=625))
+    - But other times it is very much intended, as when a negotiator may go temporarily silent to get the other party to fill in the void. Silence can be used to communicate that the person is pondering, recollecting, considering, processing, or is nonplussed. Great actors use it effectively, as do interviewers. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B075JDX981&location=627))

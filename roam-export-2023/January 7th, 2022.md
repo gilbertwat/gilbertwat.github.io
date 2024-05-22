@@ -1,0 +1,9 @@
+- #[[sleep]]
+    - Quality: good
+    - Hrs: 7
+- 07:43
+- [[[[Preface]] Coding]] onboarding preparation
+    - {{[[DONE]]}} Academic Certificates
+    - {{[[DONE]]}} Reference Letters or Employment confirmation letters from previous roles
+    - {{[[DONE]]}} Employment Contract for existing role
+    - {{[[DONE]]}} Salary Proofs

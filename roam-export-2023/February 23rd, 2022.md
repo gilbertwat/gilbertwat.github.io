@@ -1,0 +1,7 @@
+- [[Theodore]] will stay in the hospital for 1 more day as he has [[Jaundice]]
+    - 80% of babies will have this, not too worry.
+- [[Chris Tang]]'s family has contracted [[COVID-19]].
+    - #feel worry and painful for them.
+- 16:30
+    - https://amplitude.com/blog/data-informed-product-teams
+        - 

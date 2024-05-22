@@ -1,0 +1,12 @@
+- Metadata
+    - https://basecamp.com/shapeup/webbook
+    - **Author:**
+    - **Start date:** 
+    - **Reading status:** [[to-read]]
+    - [[Topics]]
+- [[Metadata]]
+    - https://basecamp.com/shapeup/webbook
+    - **Author:**
+    - **Start date:** 
+    - **Reading status:** [[to-read]]
+    - [[Topics]]

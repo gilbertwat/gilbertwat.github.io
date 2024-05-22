@@ -1,0 +1,3 @@
+- format
+    - {monday:MM/dd yyyy} - {sunday:MM/dd yyyy}
+- auto tag

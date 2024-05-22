@@ -1,0 +1,3 @@
+- {{[[DONE]]}}  Resolve conflicting figma file with [[Abigail Choy]] and [[Joseph Chan]]
+    - Successful, for developer we will have a single Figma
+- {{[[DONE]]}}  Resolve if we want to invest in [[TailwindCSS]] ecosystem by buying Tailwind components

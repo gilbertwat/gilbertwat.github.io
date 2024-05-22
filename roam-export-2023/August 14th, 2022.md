@@ -1,0 +1,19 @@
+- [[Week 32]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[August 8th, 2022]] [[August 14th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - Added new data strategy direction
+                - data security
+                - data collection
+            - Refined product development roles
+                - Added clearer scope on internal stakeholder management.
+        - Fixed...
+            - UI/UX standard
+        - Shipped...
+            - None so sad.
+        - Moved X to <next step>
+            - [[[[Preface]] Seamless Buy Link]] should have UI/UX design finished in next week
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[August 8th, 2022]] [[August 14th, 2022]]}}}}
+        - I felt ...

@@ -1,0 +1,48 @@
+- [[[[2022]] Week 38]] [[goals]]
+    - [[Preface]]
+        - [[team building]]
+            - {{[[DONE]]}}  Celebrate with tech team on MVP launch for buy link on [[September 21st, 2022]]
+        - shipping
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 1 Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] planning Finished at [[September 24th, 2022]]
+            - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+            - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+        - #hiring
+            - {{[[DONE]]}}  [[Gemmy Wong]] follow up Finished at [[September 24th, 2022]]
+- 08:30
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+        - with breakfast tasting
+        - Too cool for school is not performing well
+        - RTTP 
+        - Techbites
+            - Commitment & planning
+- 10:00
+    - Work on [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+- 13:00
+    - [[Hema Shah]] lunch
+- 14:30
+    - [[Tommie Lo]] on data an AI
+        - Shared initial [[Preface data strategy from 2022 Q4 onwards]]
+- 15:30
+    - [[1:1]] [[Ehsan Ayaz]]
+        - Better off this time
+        - Be comfortable about the current self is more important
+        - Talked about Ken and share the shock
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - PR size smaller, feel better
+        - API integration is the most challenging
+        - `react-query` is new for her
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+- 18:00
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[March 1st, 2022]]
+- #decided
+- #Energy
+- [[Theodore]] growth milestone
+- #progress
+- #metric
+    - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+- Read https://twitter.com/kwharrison13/status/1571889561932025858?s=20&t=kvv6MKbcU-WhYepKb0obzQ
+    - Not every company will have the same market, or competitors, or combo of PLG / top-down sales. 
+But the very best companies will have something special that allows them to defy financial gravity. So look for that.

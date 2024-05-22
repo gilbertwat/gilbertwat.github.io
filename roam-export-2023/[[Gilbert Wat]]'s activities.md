@@ -1,0 +1,13 @@
+- Types of activities
+    - #[[transformative activity]]: 
+        - activities that can potentially open new doors and elevate my life into another level.
+    - #[[foundation activity]]
+        - activities that is strengthening the foundation of my life
+    - #chores
+        - activities that I am not particularly enjoying but there is consequence if I don't perform them
+    - #[[draining activity]]
+        - activities that I am not enjoying but I have to do it or else I will suffer
+    - #[[restive activity]]
+        - activities that I enjoy and replenish my energy
+    - #[[mindless activity]]
+        - activities I mindlessly do for no benefit

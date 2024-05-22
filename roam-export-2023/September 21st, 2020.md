@@ -1,0 +1,83 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #miscarriage
+    - my [[Wifey]] is laboring now for our #miscarriage. Let’s learn something from this experience.
+    - I am helpless. The one I care most is suffering and all I can do is bringing her stuff.
+    - Adding a reference in here is ... excruciating yet relieving. Because I am acknowledging the sad fact that our offspring is not gonna be this...embryo 
+    - I am actually not sad at all. I am just... disappointed. This feeling is similar to when I lost my first love. 
+    - The part I am most concerned is current. Is my [[Wifey]] ok? How is she feeling physically and mentally? 
+    - For a fact that we are in a [[COVID-19]] situation is not fun at all. I cannot visit her and stay by her in the very minute.
+    - I am also concern her mind. She is SO sad. This is a sadness I never see from her. This is #new 
+    - [[self-talk]] Let’s make the most out of it.
+    - Seeing my wife is a bit of relief and hearing what she report about #blood amount and #cramp in the #abdomen are both alleviating is very relieving.
+    - Need to call call [[Ming gor]] for a consultation.
+- #[[Government 4.0]] 
+    - [[Government]] is a behemoth, evolving for more than 5000 years. 
+    - What kind of problem does a [[Government]] solve?
+- [[香港話]]
+    - 其實有時候用寫嘢好多時詞不達意
+- [[Ergon]] [[Meeting Notes]]
+    - 21:12 - 22:12
+    - Debriefing on [[[[Ergon]] v1]] [[software delivery]] [[Managing projects]]
+        - Whatever tools will be fine as long as the team feel comfortable
+        - QA process is costly
+            - How to reduce the cost of QA?
+                - Currently we are whole company effort.
+                - A decision need to be made in the next meeting with [[Tony Fung]] & [[Chris Tsang]]
+    - [[Next steps]] for [[Ergon]]
+        - There are two paths we can be moving towards
+            - Venture-backed [[[[Ergon]] app]]
+                - Career Analytics is the big bet.
+                - B2C
+                - Growth based
+                - Help candidate build their career???
+            - Bootstrap [[[[Ergon]] Internal tools]]
+                - B2B
+                - Improve existing business efficiency
+                    - Improve human operators
+                - A digital headhunting firm
+            - We are more lean on Bootstrap [[[[Ergon]] Internal tools]] at the moment
+                - More lean towards current constraint Venture-backed [[[[Ergon]] app]]
+                    - Lack of technology vision in [[Venture-backed]]
+        - Timeframe: 18-24 months
+        - Success metrics are still TBD
+        - 500k - 1m USD "runway" if we can do 
+    - Inviting [[Myself]] as CTO
+        - What is the need of a CTO in current [[Ergon]]
+            - Direct technological strategy with [[Kingson Kwan]].
+            - Guarantee feature delivery
+                - on [[Ergon]] App
+                - on Internal tools to enhance internal efficiency
+            - Execute solution 
+        - How should we transit?
+            - [[Myself]] actually is quite comfortable with the current role
+                - Can involve more with more hours and focus
+    - Moving forward we are hiring 1-2 more developers (Full-stack)
+        - Full stack developer
+            - Focus on improving the efficiency of headhunters / dealers
+            - Node.JS, Javascript, MongoDB
+            - Smart use of new technology
+            - Working closely with headhunters
+        - [[Tony Fung]]
+            - Focus on 
+                - New feature development on [[Ergon]] App
+        - [[Chris Tsang]]
+            - Focus on 
+                - internal efficiency improvement
+                - Data mining project
+    - [[Next steps]]:
+        - Increase the commitment of hours [[Myself]]
+            - Focus on CTO role of aligning business with tech
+            - Brainstorm what we really need for the Venture-backed [[[[Ergon]] app]] way of growth
+            - Interview and nurture in-house developer
+            - Manage vendors
+        - {{[[DONE]]}}  Hire 1-2 Full stack developers
+        - Prepare for the QA discussion
+            - {{[[DONE]]}}  [[Kingson Kwan]] on business
+            - {{[[DONE]]}}  [[Myself]] on technical
+        - Revisit Gilbert's role in ? months
+- [[How do you feel when you wind down?]]
+    - {{slider}}

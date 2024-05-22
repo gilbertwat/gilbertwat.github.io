@@ -1,0 +1,4 @@
+- [[Hubert Chan]] asked about the role of our [[[[product]] management]]
+    - To distill into 1 sentence:
+        - [[[[product]] management]] is to distill all signal and noise gathered from customers and teammates to create a product development backlog to maximize the success of the product.
+- [[3 things to be grateful]]

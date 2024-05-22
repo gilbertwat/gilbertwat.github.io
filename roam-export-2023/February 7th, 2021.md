@@ -1,0 +1,13 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Sold Mac mini :tada:
+- Start the day **strong**!
+- #[[decision]] switched computer to M1 MacBook Air HKD9799
+- 
+- {{embed: TODOs}}
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

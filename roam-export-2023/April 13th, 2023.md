@@ -1,0 +1,6 @@
+- Working on [[[[Preface]] [[project]]: A.I. Coffee 2.0]]
+- new Project [[[[Preface]] [[project]]: Techbite Pro]]
+    - #decision suspends [[[[Preface]] [[project]]: A.I. Coffee 2.0]] until this project is done
+        - This is not possible as we want both projects to be shipping
+    - [[learning]]: #CTO keep in sync with the Sales and Marketing that what is the deal we are offering our clients
+    - [[learning]]: #CTO keep in sync for important clients

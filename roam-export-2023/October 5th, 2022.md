@@ -1,0 +1,65 @@
+- [[[[2022]] Week 40]] [[goals]]
+    - https://tails.boum.org/about/index.en.html
+    - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 12:00 [[October 7th, 2022]]
+    - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 2 Finished at 13:00 [[October 17th, 2022]]
+    - {{[[DONE]]}} [[Anna Yu]] SG trip Prep Finished at 10:54 [[November 17th, 2022]]
+    - {{[[DONE]]}}  #spoken [[hard conversation]] with [[Ehsan Ayaz]] Finished at 15:00
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+- [[day start]]
+    - [[Energy]]
+        - 
+- 08:30
+    - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+        - Questions Technology
+            - Hubspot need or not
+            - Membership integration
+            - Public website 
+        - Sales and marketing OKRs
+            - 1:1 renewal
+            - more touchpoints
+            - 40 RTTP
+            - stable revenue
+            - members get members
+                - quality of super fans
+            - [[Koey]] is the top sales
+            - public comm before internal execution
+                - Xmas plan in October / November
+            - Touchpoint more on educational
+            - Social media
+                - Stephanie for Coding
+                - Ambrose for social media
+            - PCW squad to scale PCW for brand
+        - Sharing
+            - [[Koey]] is the top sales
+            - 
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 12:00
+    - Design for date filter for November schedule
+        - Turns out we decide to upgrade the [[[[Preface]] Seamless Buy Link]] to cater the november schedule.
+- 13:00
+    - Lunch with [[[[Preface]] tech team]]
+- Originally in [[Top of my mind]] and it is done {{[[DONE]]}}  [[Ehsan Ayaz]] up to a productive engineer standard Finished at 09:28 [[October 5th, 2022]]
+    - [[Ehsan Ayaz]] decided to leave the company
+- 14:30
+    - [[1:1]] [[Moses Ngan]]
+- 15:00
+    - [[Kenneth She]] catch up
+        - Follow up [[Kenneth She]] on credit system #[[foundation activity]]
+        - RTTP sales tactics
+        - {{[[DONE]]}}  #solidified RTTP integration with [[[[Preface]] [[product]]: Customer Portal]] Finished at 10:54 [[November 17th, 2022]]
+- [[day end evaluation]]
+    - #Energy
+        - Upbeat
+    - [[Theodore]] growth milestone
+        - Standing quite firmly
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - 3.5 hrs

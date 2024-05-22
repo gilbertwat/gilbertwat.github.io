@@ -1,0 +1,13 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- https://twitter.com/hnshah/status/1353106174086795264?s=20 #[[books]] to read
+- https://twitter.com/Conaw/status/1353268876436328449?s=20 
+    - [[market fit]] is successful when your customers experience hell when your product is not available when they need it.
+- [[Ergon]] sync up x 1
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

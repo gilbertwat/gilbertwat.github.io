@@ -1,0 +1,22 @@
+- 09:30 - 10:30 [[[[writings]] Too much of a proletariat mindset may ruin your life]]
+    - Why is it important for us to understand?
+        - [[China]] is a country based on the rise of Proletariat
+        - SJW, radical left 
+    - Who is really a Proletariat?
+        - Historically
+        - My definition
+    - What is a proletariat mindset?
+        - Sisyphus lifestyle
+        - Doesn't have a sense of community
+        - Cynic
+        - Doesn't understand the compounding effect.
+        - Hate to put in effort to gain something concrete
+        - Act on fear of repercussion instead of aspiration
+        - Act on impulse
+        - Hate and fear of authority
+        - Lack of own morality
+        - Small gain now, large lost on the road
+        - Fill their life with hate, anger and fear
+        - Lag of respect for risk takers
+- 19:00 - 23:30 [[Ergon]] Sync up
+    - 

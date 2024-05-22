@@ -1,0 +1,45 @@
+- #[[08 2023]]
+- {{[[DONE]]}}  Read and apply https://twitter.com/BrianFeroldi/status/1609556283740553218?s=20&t=oRimjmKCfeONSzhJTu7qdw to my [[Family [[finance]]]]
+    - Tracking 
+        - my income
+        - Expenses
+        - Net Worth
+    - Optimize insurance coverage
+        - Auto
+        - Health
+        - Identity
+        - Umbrella
+        - Term Life
+        - Homeowners / Renters
+    - Cut expenses if it is not aligned with my values.
+    - Emergency Funds 
+        - 1 months minimum
+        - +3 for dependents
+        - +3 for in a dying industry
+        - +3 for only 1 sources of income.
+    - Health Saving Account
+    - Individual Retirement Arrangement
+    - Fund Kids' Education
+    - Eliminate High-Interest Debt / non-mortgage debt
+    - Capture employer match in retirement contributions
+    - Build Wealth
+    - Spend it!
+- 22:54
+    - [[gratitude dairy]]
+        - [[Theodore]] is walking for more than 100 meters in the basketball court.
+        - I am able to exercise for a week in a row, showing some improvement already.
+        - I am able to focus on resting today.
+        - I have a better ability to feel and deal with the anxiety that [[Dad]] is giving me for the longest time about being irrelevant.
+- 23:06
+    - {{[[DONE]]}}  Read about https://every.to/superorganizers/the-end-of-organizing and comment
+        - Why organizing notes is so hard?
+            - Because we don't know how, when will we use those notes.
+                - This makes us hard to go back and read those notes with the right context.
+        - How LLM solves it?
+            - Entity tagging as the first version.
+            - Summarize and output somewhat useful text about a particular topics of your current interest.
+            - Co-pilot by reminding you some suggestions to tighten your articles.
+                - Add facts and support
+                - Add short anecdotes
+                - Remind you to consider counter-arguments if it exists.
+                - etc.

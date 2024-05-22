@@ -1,0 +1,22 @@
+- [[1:1]] with [[Hema Shah]]
+    - [[agile]] discussion with how we run projects?
+    - Bounce off ideas on [[[[Preface]] tech team prioritization framework]]
+    - Documentation culture spreading in [[Preface]]
+        - How to separate technical documents with user documents
+- 11:15 Work on [[Preface]] [[OKR]] [[[[2022]] Q1]]
+- 12:15 
+    - [[1:1]] with [[Ivo Wu]]
+- 15:15
+    - [[1:1]] with [[Carmen Yeung]]
+        - Bounce off ideas with [[[[Preface]] tech team prioritization framework]]
+        - Questions
+            - {{[[DONE]]}}  How to create the right database design with all data creation manager?
+            - {{[[DONE]]}} Engineering standard and data standard
+        - Sensitive questions
+            - A lot of manual work in Comops, bottleneck company growth in 4 digit customers
+- 16:15
+    - [[1:1]] with [[Moses Ngan]]
+        - Bounce off ideas on [[[[Preface]] tech team prioritization framework]]
+        - Code review and understand current data model
+        - Brainstorm new data model for courses
+        - Walk through our [[Preface]] [[OKR]] [[[[2022]] Q1]]

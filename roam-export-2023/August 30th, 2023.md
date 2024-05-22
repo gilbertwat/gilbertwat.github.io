@@ -1,0 +1,6 @@
+- {{[[TODO]]}}  [[[[Gilbert Wat]] [[project]]: [[company]] setup]]
+- {{[[DONE]]}}  Analyzing the current health of [[[[Preface]] School of Technology]] [[project]]
+- {{[[DONE]]}}  Reorganizing my digitial garden
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]] Before [[October 13th, 2023]]
+- Working on {{[[TODO]]}}  [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+- 

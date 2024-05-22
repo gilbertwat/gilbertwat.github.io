@@ -1,0 +1,13 @@
+- Increase revenue and reduce cost
+    - Techbites iteration to achieve 1 paying customer.
+    - Streamline Sleekflow, Review and customer data platform to provide insight for contents
+    - Rollout Preface Native App
+- Improve scalability across all tech products and IT infrastructure
+    - Migrate completely to Happenings system so that all events can be managed in admin portal
+    - Roll out credit system to all customers (B2C, B2B, B2S, B2G)
+    - Iterate customer portal to further reduce customer support (Pending metrics)
+    - Iterate nomad portal to further reduce nomad support (Pending metrics
+- Improve the productivity of our team
+    - weekly sharing of the latest productivity hacks on generative AI tools
+    - Support executing a robust SOP for courses and on-day experience
+    - Hire 2 replacement headcount (Pending Engineer, Product Manager, UI/UX designer)

@@ -1,0 +1,76 @@
+- [[Jennifer Ling]] and [[Vegas Ho]] on the position of [[[[Preface]] [[product]]: Plus Membership]]
+    - It is a poor-man [[[[Preface]] [[product]]: 1 on 1]]
+        - The customer in this product is looking for progression in learning technology
+            - It is actually what we offer in [[[[Preface]] [[product]]: 1 on 1]]
+            - It is not the buyer of [[[[Preface]] [[product]]: bootcamp]], which they are looking for holiday or interest group
+            - [[[[Preface]] [[product]]: International Summer Program]] actually has a murky positioning.
+                - I suggest it will be in the [[[[Preface]] [[product]]: 1 on 1]]
+- [[Preface]] [[customer journey]] in the current stage
+    - Aware
+        - People who are aware of the brand of Preface and they have a very vague idea of what we do.
+        - Customer will express
+            - "Oh, I knew Preface. It is a tech educator firm based in Hong Kong. They have a coffee shop but I am not sure why."
+        - Product
+            - Marketing campaigns
+    - Lead
+        - People who are interested in our services, find them useful but they are not willing to pay for it with money.
+        - Customer will express
+            - "Oh, Preface is doing something cool."
+        - Product
+            - Techbite Lites (Current Techbites)
+            - Free contents
+            - Free seminar
+    - Dabbler / Qualified Lead / Small Spender
+        - People who are trying our product and willing to pay a small amount of time and money.
+        - People in this category will express
+            - "Oh, Preface is doing something cool and useful. I am interested in that particular topics and it is cheap. Let's join those happenings in Preface."
+        - Product
+            - Symposium
+            - Seminar
+            - Events
+            - Corporate sponsored events
+            - Coffee Drinker
+            - Food
+    - One-off buyer
+        - People who are convinced by a particular product and willing to pay time and money to enjoy a full experience with Preface
+        - People in this category will express
+            - "Oh, I need this courses to (fulfill my need). The price point is right so I am buying now."
+        - Product
+            - Lunch and Learn session
+            - Bootcamp
+            - Venue rental
+            - Event Organizaer
+    - Subscribers
+        - People who find our product and content has a continuous value to them and they are willing to continuously pay a subscription fee to keep themselves engage in our services and experiences.
+        - People in this category will express
+            - "Oh, I need 
+        - Product
+            - Plus membership
+            - Multiple Lunch and Learn Organizer
+            - RTTP
+    - Believers
+        - People who find our product indispensable to the success of their life and Preface is helping them achieve their goal, they are paying a premium to enjoy our 
+        - Product
+            - 1:1
+- {{[[DONE]]}}  Customer journey data platform in [[Preface]] 👏🏼 finished on [[April 5th, 2023]]
+    - https://segment.com/docs/guides/how-to-guides/cross-channel-tracking/
+- [[[[Preface]] [[project]]: Website Revamp 2023]]
+    - #decision : The new website would have significant update on UI/UX and look and feels
+    - #decision : The new webiste would not have any feature change
+    - #decision - 
+        - Some super quick update on the milestone of current public website after discussion with [[Joseph Chan]]
+        - For the near term public website change, We will still update **current website. this include our ChatGPT courses, summer courses & techbites upload to meet business immediate demand**
+        - For the new website, we will reduce the scope to 3 pages with related analytics and handling of utm_sources
+            - Home + B2B / B2G (Including London) +  Techbites (Target before EO April)
+        - For the design part, we will reduce the scope to:
+            - Changing the font for different variants to Outfit with asethetically good font weight. This will align font choice of our digital products to a web font. Visitors and customers of our digital product will have a shorter loading time, more unified experience and we can save development time.
+            - Updating our design system and align with the tech stack we are using (Material UI) to save development time.
+        - We will be shipping in the next phase
+            - B2C Adult and B2C Kids as they require more in-depth design in user journey and reduce the hiccup of our customers to find and make purchasing decisions. Such as if we need shopping cart or not?
+        - We will be shipping in the next next phase on the remaining pages
+            - (about-us, contact-us, join-us ...etc.) Target (Target EO May)
+            - Blog migration (Target EO May)
+        - We will give up
+            - Dark mode of our website
+            - A complete rebuild of design language and look and feel.
+            - Unnecessary UI transitions

@@ -1,0 +1,30 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Incidents]] of [[GOGOX]] on the deployment of [[[[GOGOX]] 3DS]] projects
+    - We are deploying a migration from Stripe Charge API to Stripe PaymentIntent
+    - Unfortunately there are a few problems
+        - Refund logic is not code properly
+            - we are unable to refund the charged amount and capture the new amount if the order is amended with increased amount.
+                - Example: 60$ -> amended to 70$
+                    - our logic is: 
+                        - 1. refund 60$
+                        - 2. capture and charge 70$
+                        - 3. make transactions to driver wallet
+                    - Breaks at 1.
+        - We have not taken care orders in the middle of charging flow in the migration from old charge API to PaymentIntent.
+            - Some payment, for example for a booking order, has been charge with old charge API but we haven't capture the amount yet
+            - We are unable to capture the charge automatically
+        - The rollback from new PaymentIntent the old charge API we also have not do the same consideration.
+            - Some payment, for example for a booking order, has been charge with old charge API but we haven't capture the amount yet
+            - We are unable to capture the charge automatically.
+    - Fortunately we can take care that manually thanks to our teammates.
+- [[1:1]] with [[Anthony Chan]]
+    - Learn something from him
+        - If I put in a help in 2019 [[Ka Kui Tsang]] by moving [[Anthony Chan]] to DET with him I can save him.
+- [[1:1]] with [[Karl Tai]]
+    - Always cannot close those tickets in [[[[GOGOX]] GOGODelivery Theme]]
+    - Suggest to return ticket breaking to engineers
+    - want to try backend development
+- [[1:1]] with [[Ka Kui Tsang]]
+    - I didn't have the energy to join this

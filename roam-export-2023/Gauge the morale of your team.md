@@ -1,0 +1,3 @@
+- The nuance of tones is the essential part of [[management]].
+- A leader must radiate [[Energy]].
+- A leader must radiate  [[positivity]].

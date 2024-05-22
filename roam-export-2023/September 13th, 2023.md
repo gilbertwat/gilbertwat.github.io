@@ -1,0 +1,2 @@
+- [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]
+    - tried https://github.com/neonbjb/tortoise-tts

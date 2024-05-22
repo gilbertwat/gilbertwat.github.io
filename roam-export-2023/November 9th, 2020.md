@@ -1,0 +1,87 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - A bit [[sleep]]y as I am a[[sleep]] at 1am last night
+- Estimation problems from [[Chris Tsang]]
+    - Data structure is hard to estimate.
+        - Data structure from third party API?
+            - Example: [[Bullhorn]]
+            - Do PoC with `curl` to briefly get a feel of how different is the third party API with our system.
+        - New data structure of the system to support new feature?
+            - Example: career analytics
+            - Do basic system design before making a quotation.
+                - Performance issues?
+                - Security issues?
+                - Is the structure easy to maintain and easy to extend for the business need?
+                    - Over-engineering === too generic for business.
+                        - Example: Use Foreign exchange API and service for a local service.
+                - How basic should it be?
+                    - It depends. 😅 Talk to business and development team for calibration.
+        - Need to refactor existing data structure
+            - Example: Add / subtract API endpoint fields / mongodb field
+            - Hardest to charge
+            - Do system design before making a quotation.
+            - Explain trade-off to stakeholders if not done properly if any.
+            - How basic should it be?
+                - It depends. 😅 Talk to business and development team for calibration.
+        - How do we charge for system design time?
+            - In-house setting: aligning expectation with product owner / business analyst.
+            - agency (current) setting: No answer 😅. Usually count in man days if too many. But usually it is __free of charge__
+            - And it is a competitive advantage as you can keep your cost low with good system design.
+            - Given that, it is harder to __sell__ too to less technical clients.
+            - But for us, you are fine. 😄
+    - At last, trust your instinct!
+- #Notes URL https://twitter.com/johncutlefish/status/1324835719773257728/photo/1 
+    - Topics
+        - [[☝🏻 Leadership]] [[asking good questions]]
+    - [[Excerpts]]
+        - Feasible
+        - Interesting
+        - Novel
+        - Ethical
+        - Relevant
+        - Population
+        - Intervention
+        - Comparison
+        - Outcome
+        - Time
+        - Powerful questions
+            - generate curiosity in the listener
+            - stimulates reflective conversation
+            - is thought-provoking
+            - surfaces underlying assumptions
+            - invites creativity and new possibilities
+            - generates energy and forward movement
+            - channels attention and focuses inquiry
+            - stays with participants
+            - surface a deep meaning
+            - evokes more questions
+        - Starting points
+            - Absurd
+            - Fanciful
+            - Dumb
+            - Playful
+            - Vague
+    - {{[[DONE]]}} Takeaways 
+        - [[asking good questions]] generates curiosity in the listener.
+        - [[asking good questions]] stimulates reflective conversation.
+        - [[asking good questions]] is thought-provoking.
+        - [[asking good questions]] surfaces underlying assumptions.
+        - [[asking good questions]] invites creativity and new possibilities.
+        - [[asking good questions]] generates energy and forward movement.
+        - [[asking good questions]] channels attention and focuses inquiry.
+        - [[asking good questions]] stays with participants.
+        - [[asking good questions]] surface a deep meaning.
+        - [[asking good questions]] evokes more questions.
+        - Start [[asking good questions]] by being absurd.
+        - Start [[asking good questions]] by being fanciful.
+        - Start [[asking good questions]] by being dumb.
+        - Start [[asking good questions]] by being playful.
+        - Start [[asking good questions]] by being vague.
+- [[How do you feel when you wind down?]]
+    - {{slider}}
+        - Exercise increases my creativity #[[🧘🏻‍♂️ Self Awareness]]

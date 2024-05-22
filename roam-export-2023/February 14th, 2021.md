@@ -1,0 +1,32 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!
+- [[Analyzing risk]] of [[staking]]
+    - staking is like forex deposit, we deposit coins that we want to stake and gain coins promised as interests
+        - Why for the exchange?
+            - Provide liquidity for coins staked
+            - Use the coins staked to do other stuff such as smart contracts upgrade
+    - You can stake for a period of time.
+    - Use [[USD]] to buy [[stacks.co]], stake [[stacks.co]] to earn [[bitcoin]]
+    - Senarios:
+        - 1. [[stacks.co]]/[[USD]] 🔼, [[bitcoin]]/[[USD]] 🔼
+            - [[stacks.co]] / [[bitcoin]] ➡️
+            - ➡️ if we are [[bitcoin]] as base currency
+            - 🔼 if we are [[USD]] as base currency
+        - 2. [[stacks.co]]/[[USD]] 🔽, [[bitcoin]]/[[USD]] 🔽
+            - [[stacks.co]] / [[bitcoin]] ➡️
+            - ➡️ if we are [[bitcoin]] as base currency
+            - 🔽 if we are [[USD]] as base currency
+        - 3. [[stacks.co]]/[[USD]] 🔼, [[bitcoin]]/[[USD]] 🔽
+            - if [[stacks.co]] / [[bitcoin]] 🔽
+            - if [[stacks.co]] / [[bitcoin]] 🔼
+        - 4. [[stacks.co]]/[[USD]] 🔽, [[bitcoin]]/[[USD]] 🔼
+            - if [[stacks.co]] / [[bitcoin]] 🔽
+            - if [[stacks.co]] / [[bitcoin]] 🔼

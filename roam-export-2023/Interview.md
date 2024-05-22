@@ -1,0 +1,29 @@
+- Sample questions for [[[[Backend]] [[software engineer]]]]
+    - Personal introduction
+    - Standard technical questions
+        - Now we are implementing a wallet system in [[GOGOX]], client can transfer the credit to driver. Design a system and some APIs for exposing this feature to our mobile Apps.
+            - Expected discussion about
+                - Requirement clarification.
+                - RDBMS data structure
+                - Transactions
+        - Describe the failure models of your design
+            - Expected 
+                - race conditions
+                - deadlock
+        - Integrate this with a third party payment gateway
+            - Expected discussion about
+                - deployment
+                - handle APIs failure
+                - performance
+    - Projects involvement
+        - Describe your greatest projects and your role in it.
+        - Describe your worst projects and what will you differently.
+    - Team
+        - Good teammates and stories if possible
+        - Good managers and stories if possible
+        - conflict resolutions
+        - Preferred working style: say you have a feature to develop.
+    - Expectation
+        - “What are you expecting from us?”
+    - Q&A
+        - See if they are interested in the 

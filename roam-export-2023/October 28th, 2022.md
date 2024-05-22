@@ -1,0 +1,29 @@
+- {{[[DONE]]}}  Kick start [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]] Finished at [[December 12th, 2022]]
+    - {{[[DONE]]}} Onboard the whole project to be able to run and test locally Finished at 11:24 [[November 7th, 2022]]
+        - {{[[DONE]]}}  Make sure the project has no security and privacy concerns Finished at 09:59 [[November 7th, 2022]]
+        - {{[[DONE]]}}  Make sure onboarding document is ready Finished at 11:19 [[November 17th, 2022]]
+            - {{[[DONE]]}} Compile a minimal version of [[[[[[Preface]] [[product]]: Coffee App]] onboarding document]] Finished at 10:40 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Clean up unused code to remove cognitive clutter for new joiner. Finished at 14:44 [[October 31st, 2022]]
+        - {{[[DONE]]}}  Make sure product requirement is done Finished at 09:59 [[November 7th, 2022]]
+        - {{[[DONE]]}}  Make sure test case is ready Finished at 18:30
+            - {{[[DONE]]}}  Create necessary postman collections Finished at 15:22 [[November 27th, 2022]]
+    - {{[[DONE]]}} Craft out criteria and choose 1 vendor to work with Finished at 11:19 [[November 17th, 2022]]
+        - [[criteria of selecting software vendor for [[Preface]]]]
+- 09:30
+    - [[[[Preface]] [[product]]: Coffee App]] Work on {{[[DONE]]}}  Make sure test case is ready Finished at 18:30
+        - #decided to remove all test cases as it is not well-maintained
+        - #decided also to remove all eslints as it is not well-maintained
+- 14:00
+    - [[[[Preface]] [[product]]: Coffee App]]  Work on {{[[DONE]]}}  Make sure onboarding document is ready Finished at 11:19 [[November 17th, 2022]] 
+        - {{[[DONE]]}} Compile a minimal version of [[[[[[Preface]] [[product]]: Coffee App]] onboarding document]] Finished at 10:40 [[November 17th, 2022]]
+            - {{[[DONE]]}}  Design a `contributing.md` Finished at 13:53 [[October 31st, 2022]]
+            - {{[[DONE]]}}  Clean up unused code to remove cognitive clutter for new joiner. Finished at 14:44 [[October 31st, 2022]]
+                - #decided to remove [[Docker Compose]] and [[Kubernetes]] related codes as it is not functioning
+- 16:30
+    - [[Yoon Kim]] [[1:1]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Some frustrating moment when working with non-tech teammates when we got a clearly superior solution but they are not receiving
+            - Otherwise quite content
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?

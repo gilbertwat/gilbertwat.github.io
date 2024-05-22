@@ -1,0 +1,17 @@
+- Product Analytics
+    - https://app.segment.com/preface/overview
+    - https://mixpanel.com/project/2935439/view/3460039/app/boards
+    - https://www.fullstory.com/
+- Main site
+    - app.preface.ai
+- Staging site
+    - https://customer-portal-git-main-preface-ai.vercel.app/
+    - jeffy.fung / 123123
+- Deployment
+    - https://vercel.com/preface-ai/customer-portal
+- Backend
+    - [Techbites](https://app.contentful.com/spaces/jpg4rzfmygp0/entries?id=wF26Apip4JIEoXnQ&contentTypeId=techbitesEntry&order.fieldId=updatedAt&order.direction=descending&displayedFieldIds=contentType&displayedFieldIds=updatedAt&displayedFieldIds=author&folderId=hpjDxvaj1D5NYqBc&page=0)
+    - [Portal](https://portal.preface.ai)
+    - [CDN on Google cloud storage](https://console.cloud.google.com/storage/browser/techbitescdn.preface.ai%3Btab=objects?forceOnBucketsSortingFiltering=true&project=tonal-justice-317908&prefix=&forceOnObjectsSortingFiltering=false)
+- 
+- 

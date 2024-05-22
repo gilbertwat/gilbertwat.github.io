@@ -1,0 +1,11 @@
+- Author:: [[The Secret CFO]]
+- Full Title:: 10 Differences Between a Bad CFO and a Good CFO:
+- Category:: #articles
+- URL:: https://x.com/secretcfo/status/1697283569494663440?s=12&t=uxArM9ACRONWpV4tjI3W8g
+- ### Highlights first synced by #Readwise [[October 24th, 2023]]
+    - Keeps the capital structure lean but adequate. Has open investor channels to raise capital to fund a black swan event if needed. ([View Highlight](https://read.readwise.io/read/01hdfyn3rmjqdkjq1439n2m7z3))
+    - Leads with facts. Overlays opinion when appropriate, but makes the distinction clear. ([View Highlight](https://read.readwise.io/read/01hdfynee3s49afjt2fsww214g))
+    - Connects internal FP&A cycle to external guidance. Communicates with market clearly and carefully. ([View Highlight](https://read.readwise.io/read/01hdfynr5ay2vbc4xt600rqaxv))
+    - Disciplines the business to deliver shareholder value and free cash flow, regardless of the flavor of the month ([View Highlight](https://read.readwise.io/read/01hdfyp4x5hqpa1gd226fg9972))
+    - Sees the unseeable, and prevents crises ([View Highlight](https://read.readwise.io/read/01hdfypj59p4td33a7mzcafh1e))
+    - Visible to the whole business. ([View Highlight](https://read.readwise.io/read/01hdfypw1ecvcxvfs55wf2b76z))

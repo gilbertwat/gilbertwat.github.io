@@ -1,0 +1,103 @@
+- 10:02 
+    - {{[[DONE]]}} Read https://benadam.me/thoughts/my-experience-at-amazon/ 
+        - Why are you reading this?
+            - Learn from other on how to scale an organization and the trade-off of each strategy
+        - [[Literature Notes]]
+            - To Amazon’s credit, the leadership principles are not just bulletin board material; they are referenced and used actively in decision-making. So interviewing through the lens of the principles makes a lot of sense for them as a business.
+            - Sure enough, I got an offer the following week. When I read through the offer, they were pushing aggressively for a start date (2 weeks from the offer).
+            - Document types:
+                - PRFAQ - Press Release and Frequently asked questions: a document format used to pitch a new idea or investment opportunity
+                - OP1 - A team’s one-year business plan: what they are going to work on and try and accomplish
+                - BRD - A tactical plan for a particular project that lists all of the requirements in detail
+                - Design Document - An engineering document that lays out the technical strategy with a high level of detail, documenting the approach as well as alternatives considered
+                - 1 Pager - A summary document used to bring a stakeholder up to speed on a particular topic used for building alignment around goals
+            - I found this to be a beneficial practice that I think would benefit organizations of all sizes. However, it does reinforce that people are not the source of truth for information which leads to my following implication.
+            - I realized over time that this was the norm. People come and go which has the net impact of making you feel like you are just a resource.
+            - This uncovered an imbalance that I think exists in many large companies: the path to promotion between PM, Engineering, and Design are all different and have incentives that conflict with one another. In many cases, for a PM to get promoted, they need to deliver some large-scale “win” which can encourage overcommitment, fudging impact numbers/justification.
+            - When engineers are on call, they are not working on the product (implementing features, etc.). They are a point of contact for other teams who want to integrate and are responsible for fixing issues regardless of what time they happen.
+            - It is nearly impossible to be aware of all of these constraints, so the process usually follows a similar pattern:
+                - Design a solution
+                - Review with stakeholders
+                - Surface all the problems or things you didn’t account for
+                - Rinse repeat
+            - The larger point here is this: companies’ critical needs will always trump your career ambitions, and often there is a large delta between the job you were hired to do and the job you actually do. The negative side of this is that employees become “resources” (cogs) plugged into gaps to stop the bleeding rather than contributing out of their core competencies.
+- 10:51
+    - {{[[DONE]]}} Read https://calendar.perfplanet.com/2021/js-self-profiling-api-in-practice/#js-self-profiling-what-is-sampled-profiling 
+        - Why are you reading this?
+            - I want to beef up my knowledge in performance profiling in operating a software.
+        - [[Literature Notes]]
+            - ## What is Sampled Profiling?
+                - There are two common types of performance profilers in use today:
+                    - **Instrumented** (or “structured” or “tracing”) Profilers, in which an application is invasively instrumented (modified) to add hooks at **every function entry and exit**, so the exact time spent in each function is known
+                    - **Sampled** Profilers, which **temporarily pause execution** of the application at a fixed frequency to note (“sample”) what is running on the call stack at that time
+                - The “sampling” part of the profiler means that the browser is basically taking a snapshot at regular intervals, checking what’s currently running on the stack. This is a lightweight way of tracing an application’s performance, as long as the sampling interval isn’t too frequent. Each regularly-spaced sampling interrupt quickly inspects the running stack and notes it for later.
+                - The other common method of profiling an application, often called a __instrumented__ or __tracing__ or __structured__ profiler, relies on invasively modifying the application so that the profiler knows exactly when every function is called, begins and ends. This invasive measurement has a lot of overhead, and can slow down the application being measured. However, it provides an exact measurement of the relative time being spent in every function, as well as exact function call-counts. Due to the overhead that comes from invasively hooking every function entry and exit, the app will be slowed down (spending time in instrumentation).
+                - Unlike Instrumented Profilers that trace each function’s entry and exit (which increases the measurement overhead significantly), Sampled Profilers simply poll the stack at regular intervals to determine what’s running.
+                - This type of lightweight profiling is great for reducing overhead, but it can lead to some situations where the data it captures is __misleading__ at best, or __wrong__ at worst.
+        - When I am [[operating a [[system]]]], how to make a good enough monitoring and alert guidelines with a mix and match of [[profiling]] technique?
+- 16:38
+    - {{[[DONE]]}} Read https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/?utm_source=pocket_mylist 
+        - Why are you reading this?
+            - I want to catch up with the infrastructure side of ruby internals.
+        - [[Literature Notes]]
+            - It argues that process-based (aka forking) web servers **show better latencies for web requests** when they are compared to async IO-powered servers.
+            - But why? That’s because async IO brings co-operative scheduling, which means that the execution is only yielded upon language keywords like await.
+            - Quoting the author, this means that execution time is not distributed “fairly” and one thread can inadvertently starve another of CPU time while it is working. This is why latency is more erratic.
+            - One of the benefits of async IO is that concurrency is archived by the yield/await instruction, not by the constant interrupt of threads. Every interrupt causes the context switch - and it’s nice to reduce context switching where we can because scheduler switching from one task to another always adds a little overhead. Since that happens thousands of times every second, **less context switching would mean fewer CPU cycles wasted**.
+        - [[Interview]] questions for [[Senior [[software engineer]]]]: What is the drawback of a async/await pattern for handling concurrency compare with pre-emptive multi-processing of kernel scheduler?
+- 17:04
+    - {{[[DONE]]}} Read https://kennethn.substack.com/p/what-makes-a-strong-product-culture?utm_source=pocket_mylist 
+        - Why are you reading this?
+            - I want to build a strong product company.
+        - [[Literature Notes]]
+            - **The Role of Technology:** “The vast majority of companies view technology as a necessary expense. In contrast, in strong product companies, technology is not an expense, it __is__ the business.”
+            - **Strong Product Leadership:** “In most companies, the role of true product leadership is largely missing in action. In __most__ companies, there is no product strategy. In contrast, in __strong__ product companies, the product leaders are among the most impactful leaders in the company.”
+            - **Empowered Product Teams:** “In __most__ companies, the technology teams are not __empowered__ product teams, they are what I call here __feature teams.__ They are all about implementing features and projects (__output__), and as such are not empowered or held accountable to results. In contrast, in strong product companies, teams are instead given __problems to solve,__ rather than features to build, and most important, they are __empowered to solve those problems in the best way they see fit.__”
+            - **Evaluating the role of technology and separating places where technology** __**is**__ **the business from ones where it’s an expense:**
+                - How does the company describe the purpose of the technology team?
+                - Who does the technology team report to? Is it a CTO or a CIO? Who does that person report to: is it a CEO or a CFO?
+                - How is the technical organization described? You can learn a lot just through the use of terms like engineering vs. “IT,” or R&D vs. “cost center.”
+                - How do other technology and product functions relate to the technology organization, for example: where do designers report, where do PMs fit?
+                - What are executives’ biggest concerns with the technology organization? Is it that they can’t hire great people fast enough or that it costs too much?
+                - How do they describe their unique strategic advantage? Do they talk about engineering innovation as a differentiator, or a commodity and a means to an end?
+                - Are engineers and technologists involved in the interview process for PMs? If not, that’s a bad sign. If so, ask them if they feel empowered?
+                - Has the company been able to recruit people from other successful product companies?
+                - Are there technology leaders on the board of directors?
+            - **Identifying capable product leadership and separating them from companies where product leadership is weak or non-existent:**
+                - Who does the product team report to? Is there a senior product leader who reports directly to the CEO or is the PM team subservient to a function like IT or Marketing?
+                - Does the company have a strong track record of promoting product leaders into general management or even CEO? Are there any product leaders on the board of directors?
+                - What are the characteristics that are valued in product leaders? Are they seen as innovators or merely doers?
+                - Who owns the product roadmap? Is it a command-and-control function of sales or general management, or does the product leadership own this?
+                - Are product leaders considered amongst the most powerful executives at the company?
+                - During the interview process are you getting to spend enough time with product leaders?
+                - When asked about the product vision do they share an inspiring customer-focused north star or a tactical set of features and efforts?
+            - **Finding empowered product teams (as opposed to feature teams):**
+                - When asked, how does the company describe a “product team”? Who’s included in it?
+                - Where do projects and initiatives come from? Are they mandated from above or elsewhere in the corporation, or do they emerge from the product teams themselves? A solid question for PMs: “who decides what your team works on next?”
+                - When asked to describe the role of product management, does it sound more like a tactical project manager or factory floor supervisor?
+                - Is there a track record of PMs growing in the organization and taking on executive leadership roles?
+                - How is success measured for a product? Who decides the success criteria? Who measures it?
+                - Who is responsible for interfacing with users and customers and synthesizing what is learned?
+                - What is the charter for how product teams are organized: it is around problems to solve or customer needs, or is it particular product surfaces, feature queues, or sales constituents?
+- 17:43
+    - {{[[DONE]]}} Read https://www.reforge.com/blog/scaling-product-delivery?utm_source=pocket_mylist []()
+        - Why are you reading this?
+            - I want to build a strong product culture
+        - [[Literature Notes]]
+            - "Agile" or "Lean" — processes that emphasize short development timelines and small iterations — have been heavily emphasized in Silicon Valley for the past decade. While there is a time and place for those systems, they:
+                - Do not enable shipping big bets repeatably.
+                - Lead companies/individuals to be less willing to take big swings.
+                - Consistently fail companies when they realize they need a step function change.
+            - High-performing product teams don't religiously subscribe to one tool for all problems. They recognize that through a company's lifetime, different problems arise that each requires a different tool.
+            - One of the most underrepresented tools in the tool belt right now is being able to build, orchestrate, and manage a system that enables teams to accept and manage the uncertainty of high risk, high reward bets.  Not having this tool cripples both company growth and the growth of an individual's product or engineering career.  Let's first explore why.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2Fz50O5ja0yy.png?alt=media&token=668955e3-69dc-4161-bd03-ade8e1b01e22)
+        - But the real discussion is, does this matter?  As you progress in your career, focusing on ways to get to fast, efficient, and reasonable solutions ends up being more important than coming to the "right" answer.  This is a leap that many struggle with.
+        - # Recognizing The Signals Of Unscalable Product Execution
+            - So how do you know if you don't have a scalable system? It can be hard to recognize what is a normal part of taking big bets, and when it is a problem with how you are managing these initiatives. Some of the signals that you need to level up on delivering the product are:
+                - Late-stage blow-ups.
+                - Inconsistent tradeoff decisions.
+                - Growth is slowing despite rapid iterative development.
+                - Eng + Product grow in size, but you aren't shipping larger higher-quality bets.
+                - Customer feedback changes from wanting more to complaints.
+- 22:36 https://www.bookstackapp.com/#features
+    - This is a new wiki tools for knowledge management

@@ -1,0 +1,62 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - {{[[DONE]]}}  Sharing of ML model for [[Alexander Li]] in next all hands on [[November 23rd, 2022]]
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+        - Three possible stream for data / AI innovation
+            - Note generation
+            - [[[[Preface]] tag-based courses [[recommender]] system]]
+            - Offline data collection
+        - Suggestion from team is to hire a more experienced machine learning engineer / data scientist to make our effort more directed
+            - {{[[ARCHIVED]]}}  Discuss with [[Tommie Lo]] and [[Vegas Ho]] how to approach hiring an experienced data leader.
+- 12:30
+    - Meet with [[James Cheuk]] for [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+- 14:30
+    - Prepare for RTH prep meeting for [[[[Preface]] project [[recommender]] in 1 on 1 courses]]
+- 15:00
+    - RTH meeting with [[Hema Shah]] [[Alfred Tse]] [[Joyce Pong]]
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Worried to be alone
+        - What is our recurring topics?
+            - CSS debugging
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+            - Profficiency in using VSCode
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 18:00
+    - [[1:1]] [[Ben Cheng]]
+        - Discuss about plan to let [[Cheryl Lai]] have accompany
+            - Feeling defensive and not willing to explore my involvement
+                - I understand, may feel defeated and my trust of him eroded
+        - Reevaluate the possibility that we are too restricted in our culture.
+            - Feeling not willing to discuss
+                - think it has been discussed why we are revisiting it.
+                - Also think the junior has no reason to "win" with reason on the topic of coding standard.
+        - {{[[DONE]]}}  Think about the foremost question should be "Is there any trend we can see from [[Ehsan Ayaz]] and [[Tylor Ng]] leaving?" Finished at 15:17 [[November 27th, 2022]]
+            - Yes
+                - Both of them are free spirit and unwilling to follow coding standard
+                    - Do we want to cater free spirit people?
+                        - We don't want to split the difference.
+            - No
+                - Both of them have different reason of leaving
+                    - [[Ehsan Ayaz]]
+                        - Underperformance
+                            - Because he is unable to follow coding standard
+                                - He will think the coding standard is not important, as long as it works.
+                            - Because he is unable to complete the task with no bugs.
+                    - [[Tylor Ng]]
+                        - Not willing to follow coding standard
+                            - think the coding standard is too restrictive, why are we picking on the style of loop
+                        - Think the current project state is boring (foundation building)
+                        - Proactive and a bit aggressive
+                        - Think robotic is more sexy
+                        - Want to be closer to business

@@ -1,0 +1,14 @@
+- Author:: [[Mark Irvine]]
+- Full Title:: Facebook Ad Benchmarks for YOUR Industry
+- Category:: #articles
+- URL:: https://www.wordstream.com/blog/ws/2019/11/12/facebook-ad-benchmarks
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/facebook-ad-benchmarks-feature.jpeg)
+- ### Highlights first synced by #Readwise [[September 28th, 2023]]
+    - The average click-through rate on Facebook across all industries is 0.89%. ([View Highlight](https://read.readwise.io/read/01hbcsy5cxcd6amd271s4pwbmq))
+    - Jobs & Education 0.55% ([View Highlight](https://read.readwise.io/read/01hbcsz7p0pgeqm3d8v8nam0qj))
+    - The average cost per click (CPC) on Facebook ads is $1.68 across all industries. ([View Highlight](https://read.readwise.io/read/01hbcsya7y3f0v85xqqrhpsbfm))
+    - The average cost per click (CPC) on Facebook Ads is $1.68 across all industries. ([View Highlight](https://read.readwise.io/read/01hbcsyedttpzgnya5vgapg98h))
+    - Jobs & Education $2.11 ([View Highlight](https://read.readwise.io/read/01hbcsz4g8nckhnkbsxgj0ze4j))
+    - The average conversion rate (CVR) on Facebook Ads is 9.11% across all industries. ([View Highlight](https://read.readwise.io/read/01hbcsyj662gh9mfdhdq5n6jx4))
+    - The average conversion rate (CVR) on Facebook Ads is 9.11% across all industries. ([View Highlight](https://read.readwise.io/read/01hbcsyst8h9d1d9q2p8mssnda))
+    - Jobs & Education 12.82% ([View Highlight](https://read.readwise.io/read/01hbcsyyqdt22snv0k3z9xprdk))

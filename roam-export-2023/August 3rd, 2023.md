@@ -1,0 +1,2 @@
+- https://polypane.app/site-quality/
+- https://www.lapa.ninja/post/buildexcellentwebsites/

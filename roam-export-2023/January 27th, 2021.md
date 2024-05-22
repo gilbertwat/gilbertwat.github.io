@@ -1,0 +1,42 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - 0 energy to work
+- Start the day **strong**!
+- #[[🧘🏻‍♂️ Self Awareness]] just realized I am being push by the world for my [[information diets]] I need to be proactive and focus on my [[information diets]].
+- {{[[DONE]]}}  #Praise [[Rob Dong]], [[Joseph Cheng]] and [[Tony Lee]] in [[[[GOGOEnergy]] handover]]
+    - Rob has been instrumental in our [[[[GOGOEnergy]] handover]] project. He has taken on this challenging project. It is a project with little to no documentation, requires full-stack attention and business critical. We only have [[Joseph Cheng]] who has heroically maintained it for more than 6 years and it is time for him to pass on the torch.
+    - Rob doesn't shy from the challenge, despite something out of his comfort zone. He has called for the support from infrastructure team and team up with [[Tony Lee]]. With both of them they manage to migrate the whole GOGOEnergy systems to our infrastructure to reduce maintenance cost. He also keep everyone in GGE team, especially business managers [[Kylie Kwan]] and [[Winnie Fung]], our CTO [[Young]] our co-founder [[Nick Tang]] in sync. This bridges business and tech closer. This built a solid foundation of more effective collaboration down the road.
+    - These 2 actions provide a better starting ground for newcomers and I cannot thank him enough for his consistent effort to see these through.
+- [[Alia Bei]] is into [[cryptocurrency]] LOL as an investor
+- [[Dominic Wong]] is onboard with {{[[DONE]]}}  #PoC [[stacks.co]] on #Cryptocurrency
+- [[1:1]] with [[Karl Tai]]
+    - Vibe:
+        - #defensive
+    - More questions than usual
+    - Salary bonus questions
+    - Investors not clear
+    - ok with PR
+        - I feel like he is not telling the true feelint
+    - Marry leave March
+    - [[🧘🏻‍♂️ Self Awareness]] I skip the small talk again.
+- [[Kurt Lin]] is asking about [[replacing google map]] [[[[GOGOX]] cross theme [[project]]]]
+- #Notes URL https://fs.blog/2021/01/mistrust/ 
+    - Topics
+        - [[☝🏻 Leadership]] [[Community Building]] [[Relationship Building]] [[Social capital]]
+    - [[Excerpts]]
+        - As community engagement declines, Putnam refers to the thing we are losing as “social capital,” meaning the sum of our connections with other individuals and the benefits they bring us.
+        - Social capital enables us to trust other people. When we’re connected to many others, we develop a norm of “__generalized reciprocity.__” Putnam explains this as meaning “__I’ll do this for you without expecting anything specific back from you, in the confident expectation that someone else will do something for me down the road.__” We can go for the delayed payoff that comes from being nice without an agenda. Generalized reciprocity makes all of our interactions with other people easier. It’s a form of trust.
+        - Putnam goes on to write, “__A society characterized by generalized reciprocity is more efficient than a distrustful society, for the same reason that money is more efficient than barter. If we don’t have to balance every exchange instantly, we can get a lot more accomplished. Trustworthiness lubricates social life.__” Trust requires that we interact with the same people more than once, or at least think that we might.
+        - With the decline of social capital comes rising transaction costs. We can’t rely on other people to treat us as they would like to be treated because we don’t know them and haven’t built the opportunities to engage in reciprocal relationships.
+        - We don’t try new things when we can’t trust other people. So we have to find additional ways of making transactions work. One way we do this is through “__the rule of law—formal contracts, courts, litigation, adjudication, and enforcement by the state.__” During the period since the 1970s when Putnam considers social capital to have declined, the ratio of lawyers to other professions increased more than any other profession: “__After 1970 the legal profession grew three times faster than the other professions as a whole__.”
+        - **Mistrust costs us time and money, sure. But it also costs us a little bit of our humanity.** We are sociable animals, and seeing the people around us as a potential threat, even a small one, wears on us. Constant vigilance is exhausting. So is being under constant suspicion.
+        - **If you want people to trust you, the best place to start is by trusting them.** That isn’t always easy to do, especially if you’ve paid the price for it in the past. But it’s the best place to start. Then you need to combine it with repeat interactions, or the possibility thereof. In the iterated [Prisoner’s Dilemma](https://fs.blog/2020/02/prisoners-dilemma/), a game that reveals how cooperation works, the best strategy to adopt is tit for tat. In the first round you cooperate, then in subsequent rounds do whatever the other player did last.
+    - {{[[DONE]]}} Takeaways 
+        - [[Social capital]] reduces transactional cost.
+        - If you want people to trust you, you have to trust people first.
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

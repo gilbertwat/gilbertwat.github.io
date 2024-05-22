@@ -1,0 +1,13 @@
+- 09:00
+    - [[Tommie Lo]] [[Joseph Chan]]
+        - One liner: We are building the complete learning journey for our customers
+- 12:00
+    - Lunch with [[Cliff Yu]]
+- 14:00
+    - Meet with Appnovation with [[Jeffrey Chan]]
+        - FOllow up Raised the question of lost million of HKD from the ChocoUp incidents
+            - it si a bit misunderstanding
+                - Choco Up is a Fintech
+- 16:00
+    - [[1:1]] [[Anna Yu]]
+        - Emphasize the importance customer interviews

@@ -1,0 +1,33 @@
+- How do you feel when you wake up?
+    - Stomach problem, mood ruined 😞
+- ((22yK4qEt6))
+    - {{[[DONE]]}} Weekly update
+    - {{[[DONE]]}} [[Gemmy Wong]] / Gilbert
+        - Early cooperation
+            - What difficulties do our designers face when getting opinions / feedback from other teammates?
+                - Route filter
+                    - Slack channel shared
+                        - Emoji only
+                    - Tech leads ?????
+                        - Too busy??
+                        - Too much context switch
+                    - Expectation of timeframe of delivery 
+                    - Use more ritual
+                    - No feedback
+                    - Tech lead dependency
+                - Context heavy brainstorming, familiarity with teammates
+                    - Chris different 
+                - WFH open camera suggestion (PMs)
+                - Capacity & Motivation of understanding MOARRRRR.
+                - Tech lead must give feedback to DN
+                - Dev only care about their own platform
+                - Some dev 怕羞
+                - SLA of feedback from Dev
+            - What other difficulties do our non-dev teammates face when working with dev?
+            - 
+    - {{[[DONE]]}} Interview with Android Technoidentity
+        - Not much
+    - {{[[DONE]]}} Delivery weekly sync up
+    - {{[[DONE]]}} [[[[1:1]] with [[Rob Dong]]]]
+    - {{[[DONE]]}} [[[[1:1]] with [[Belda Chan]]]]
+    - 

@@ -1,0 +1,308 @@
+- page 12 | Location 276-280 | Added on Thursday, June 23, 2022 8:53:14 PM
+- 5 G. B. Endacott, until the 1970s the foremost historian of Hong Kong, wrote, “A healthy trade demanded settled conditions, suppression of robbery, guarantee of contract and of impartial justice. Since the Chinese were thought to be unable to provide these conditions, the British had to provide them. This is fundamental to understanding any history of Hong Kong.
+- page 13 | Location 302-306 | Added on Thursday, June 23, 2022 8:55:26 PM
+- “Hong-kong bay is one of the finest which I have ever seen: it is eight or ten miles in length, and irregular in breadth; in some places two, and in other six miles wide, having excellent anchorage all over it, and perfectly free from hidden dangers. It is completely sheltered by the mountains of Hong-kong on the south, and by those of the main land of China on the opposite shore; land-locked, in fact, on all sides; so that the shipping can ride out the heaviest gales with perfect safety.”8
+    - page 15 | Location 344-346 | Added on Thursday, June 23, 2022 11:41:12 PM
+- On January 25, 1841, Captain Edward Belcher landed with a small group on the northern shore of the island and raised the British flag at what would become known as Possession Point.
+    - page 17 | Location 370-371 | Added on Thursday, June 23, 2022 11:43:59 PM
+- For most of these collaborators, however, working with the British was primarily a matter of wealth and power.
+    - page 17 | Location 371-371 | Added on Thursday, June 23, 2022 11:44:23 PM
+- One colorful collaborator was Loo Aqui, who rose to prominence through piracy and provisioning foreign vessels.
+    - page 17 | Location 373-374 | Added on Thursday, June 23, 2022 11:44:42 PM
+- Like many other fishing communities, they often resorted to piracy, especially when economic conditions were rough.
+    - page 17 | Location 376-378 | Added on Thursday, June 23, 2022 11:45:05 PM
+- Loo was later rewarded for provisioning the British forces with a large plot of valuable land in the Lower Bazaar, where much of the Chinese population of Hong Kong would eventually settle. He soon became one of the colony’s wealthiest and most powerful Chinese residents.
+    - page 17 | Location 378-378 | Added on Thursday, June 23, 2022 11:45:16 PM
+- Kwok Acheong
+    - page 17 | Location 388-389 | Added on Thursday, June 23, 2022 11:46:17 PM
+- Tam Achoy, the most successful of these contractors, was one of the most prominent members of the Chinese community in early colonial Hong Kong.
+    - page 16 | Location 363-363 | Added on Thursday, June 23, 2022 11:55:25 PM
+- Chow Shouson,
+    - page 17 | Location 382-382 | Added on Thursday, June 23, 2022 11:55:44 PM
+- In the 1860s Kwok started a fleet of steamships that competed with the European-owned Hong Kong,
+    - page 18 | Location 395-395 | Added on Thursday, June 23, 2022 11:56:35 PM
+- An elaborate system of monopolies, usually offered for sale by public
+    - page 18 | Location 398-399 | Added on Thursday, June 23, 2022 11:57:19 PM
+- The largest and longest-lasting of the monopolies was the opium monopoly, which in the nineteenth century could make up almost one-quarter of the government’s annual revenue.
+    - page 19 | Location 416-417 | Added on Friday, June 24, 2022 8:36:04 PM
+- By 1845, European visitors frequently commented on Hong Kong’s palatial government buildings and opulent merchants’ residences.
+    - page 19 | Location 429-431 | Added on Friday, June 24, 2022 8:37:15 PM
+- In May 1843, almost 25 percent of the British garrison died of malaria. Piracy was rampant, and crime—especially theft and burglary—was equally bad on land. Even Government House, the governor’s office and residence, was burgled on April 26, 1843, while two large British firms were burgled two nights later.
+    - page 28 | Location 608-609 | Added on Friday, June 24, 2022 9:28:35 PM
+- Any attempts to attribute these mass departures to a sense of Chinese patriotism or loyalty to the Qing government are also complicated by the fact that the departures were not always voluntary.
+    - page 56 | Location 1138-1140 | Added on Monday, July 18, 2022 10:12:36 PM
+- The colonial government did not always have such a free hand. It had to answer to the Colonial Office and the British Parliament, and it was often bound to comply with legislation in other parts of the empire. Nor could it afford to offend the Chinese community.
+    - page 56 | Location 1154-1154 | Added on Tuesday, July 19, 2022 8:29:25 PM
+- Contagious Diseases Acts of 1866
+    - page 58 | Location 1184-1185 | Added on Tuesday, July 19, 2022 8:31:20 PM
+- Toward the end of the nineteenth century, among the European prostitutes were a large number of Jews who had fled the pogroms in Russia.
+    - page 59 | Location 1203-1204 | Added on Tuesday, July 19, 2022 8:55:14 PM
+- By the late 1870s, an extensive network of kidnapping had developed to feed the need for prostitutes and servants in Hong Kong.
+    - page 63 | Location 1286-1287 | Added on Tuesday, July 19, 2022 8:59:05 PM
+- Although the jubilee reiterated the familiar, self-congratulating themes of British colonialism, it was truly a collaborative affair, for local European, Chinese, Eurasian, and Indian leaders all helped organize the festivities.
+    - page 64 | Location 1303-1303 | Added on Tuesday, July 19, 2022 9:00:45 PM
+- Approximately eighty thousand people left Hong Kong during the epidemic.
+    - page 64 | Location 1296-1297 | Added on Tuesday, July 19, 2022 9:00:54 PM
+- In May 1894, Hong Kong was stricken with bubonic plague believed to have originated in Canton, where some one hundred thousand people died.
+    - page 65 | Location 1326-1328 | Added on Wednesday, July 20, 2022 8:06:18 PM
+- The Sanitary Board, now given more power, ordered troops to search homes, remove and burn corpses, and isolate plague victims in the Hygeia. Many houses were burned down, leading to massive dislocation.
+    - page 66 | Location 1329-1331 | Added on Wednesday, July 20, 2022 8:07:06 PM
+- The plague of 1894 had several important effects on Hong Kong society. Although some Chinese leaders had helped distribute medicine, many colonial officials and European residents criticized both Chinese medicine and the Tung Wah Hospital.
+    - page 66 | Location 1333-1335 | Added on Wednesday, July 20, 2022 8:07:53 PM
+- As the resistance to the government’s plague measures seemed to prove how little the Chinese population understood Western ideas of health and sanitation, Europeans and some Chinese elites demanded more English in schools.
+    - page 66 | Location 1335-1336 | Added on Wednesday, July 20, 2022 8:08:01 PM
+- The plague also reaffirmed many Europeans’ conviction that they needed to stay as far away as possible from the Chinese.
+    - page 66 | Location 1340-1340 | Added on Wednesday, July 20, 2022 8:08:41 PM
+- The Hong Kong plague was also probably responsible for the one that afflicted India in 1896–1900.
+    - page 67 | Location 1355-1356 | Added on Wednesday, July 20, 2022 8:41:18 PM
+- Ironically, the 1894 petition for constitutional reform ended up benefiting the Chinese community more than the European community.
+    - page 68 | Location 1370-1371 | Added on Wednesday, July 20, 2022 8:43:18 PM
+- (by the late 1800s, less than 2 percent of Britain’s exports were to China)
+    - page 68 | Location 1372-1372 | Added on Wednesday, July 20, 2022 8:43:30 PM
+- (more than half of China’s foreign trade was already with Britain).
+    - page 68 | Location 1380-1382 | Added on Wednesday, July 20, 2022 8:45:54 PM
+- the U.S. Navy used Mirs Bay—less than twenty miles northeast of Hong Kong—to conduct its operations in the Philippines during the Spanish-American War.
+    - page 69 | Location 1410-1411 | Added on Wednesday, July 20, 2022 8:49:34 PM
+- Villagers feared that the British invaders would impose new taxes, confiscate land, interfere with traditional customs, and disrupt feng shui.
+    - page 75 | Location 1510-1511 | Added on Thursday, July 21, 2022 7:40:24 PM
+- For the most part, wealthy Chinese and Eurasians responded to racial discrimination by creating their own exclusive social world.
+    - page 76 | Location 1521-1521 | Added on Thursday, July 21, 2022 7:41:22 PM
+- the Chinese Club.
+    - page 76 | Location 1523-1524 | Added on Thursday, July 21, 2022 7:41:33 PM
+- the Chinese Recreation Club,
+    - page 76 | Location 1529-1530 | Added on Thursday, July 21, 2022 7:42:15 PM
+- Historians have often stressed Hong Kong’s contributions to China’s nation-building in the late 1800s and early 1900s.
+    - page 82 | Location 1647-1650 | Added on Sunday, July 24, 2022 5:55:38 PM
+- Although the revolutionaries, eager to keep the foreign powers neutral, discouraged antiforeign sentiments, many Chinese in Hong Kong felt that since the Manchus had been driven out of China, the British should be next. Colonial authorities discovered factories for making bombs, and civil unrest erupted throughout the colony. Crowds looted shops, threw stones at the police and at the governor when he appeared in public, and tried to rescue prisoners in jail.
+    - page 82 | Location 1652-1652 | Added on Sunday, July 24, 2022 5:56:02 PM
+- In July 1912, a young Chinese man tried to assassinate the new governor, Francis May.
+    - page 82 | Location 1658-1659 | Added on Sunday, July 24, 2022 5:57:16 PM
+- “unintelligent passion for politics”
+    - page 83 | Location 1677-1678 | Added on Sunday, July 24, 2022 6:05:06 PM
+- the Hong Kong government had to deal directly with a succession of regimes in Canton, several of which tried to undermine Hong Kong’s political and economic stability.
+    - page 84 | Location 1685-1686 | Added on Sunday, July 24, 2022 6:07:50 PM
+- In November of the same year, Governor May encouraged the Star Ferry Company and the colony’s two tramways to stop accepting Chinese coins.
+    - page 84 | Location 1692-1693 | Added on Sunday, July 24, 2022 6:10:33 PM
+- A weakened Hong Kong economy, they argued, would mean that Hong Kong residents would have less money to help their kin in Guangdong.
+    - page 84 | Location 1699-1699 | Added on Sunday, July 24, 2022 6:11:05 PM
+- The driving force behind the university was Lugard, governor from 1907 to 1912.
+    - page 85 | Location 1703-1704 | Added on Sunday, July 24, 2022 6:13:50 PM
+- Hormusjee Mody, a Parsee merchant who was later knighted for his generosity and his service to the British Crown, offered almost eighteen thousand pounds to start the building and a generous endowment.
+    - page 85 | Location 1703-1704 | Added on Sunday, July 24, 2022 6:18:53 PM
+- Hormusjee Mody, a Parsee merchant who was later knighted for his generosity and his service to the British Crown, offered almost eighteen thousand pounds to start the building and a generous endowment.
+    - page 85 | Location 1708-1709 | Added on Sunday, July 24, 2022 6:19:38 PM
+- “the money-grabbing traders fear that if we educate the Chinaman he may become a serious rival.”
+    - page 85 | Location 1711-1717 | Added on Sunday, July 24, 2022 6:20:33 PM
+- Ng Li Hing, a local Chinese merchant, donated money for the anatomy building. A Chinese merchant from the Straits Settlements contributed to the arts faculty. The Eurasian Robert Ho Tung later endowed a chair in surgery. Only after Lady Lugard began to canvass their London headquarters, however, did the local British merchant community agree to contribute. Butterfield and Swire made a large donation of forty thousand pounds, mainly to prevent a boycott of their company after one of their ticket collectors had been accused of kicking an elderly Chinese to death. Whereas the Beijing and Canton governments each sent twenty-five thousand pounds, the British government was especially stingy, sending a paltry three hundred pounds to be used for the King Edward VII Scholarships.
+    - page 86 | Location 1721-1724 | Added on Sunday, July 24, 2022 6:21:22 PM
+- Despite hopes that the university would attract students from the mainland, Japanese universities and those run by American missionaries in China remained far more popular. Only after World War II would the university truly fulfill its potential.
+    - page 86 | Location 1727-1729 | Added on Sunday, July 24, 2022 6:30:05 PM
+- Chinese entrepreneurs benefited from the departure of approximately one-quarter of the colony’s European men for the war front, moving into businesses dominated by Europeans such as banking and shipping.
+    - page 86 | Location 1738-1738 | Added on Sunday, July 24, 2022 7:29:05 PM
+- Chau Siu Ki,
+    - page 90 | Location 1786-1788 | Added on Sunday, July 24, 2022 7:30:57 PM
+- piracy occurred weekly in Hong Kong waters. In an especially notorious case in 1924, pirates seized a ferry from the island of Cheung Chau en route to Hong Kong. After taking the passengers to a mainland lair, the pirates sent three of the victims’ ears to their relatives in demand for a ransom.
+    - page 90 | Location 1788-1789 | Added on Sunday, July 24, 2022 7:31:15 PM
+- In the absence of a strong central government, some Hong Kong merchants tried to influence Chinese politics in order to protect their business interests on the mainland.
+    - page 92 | Location 1817-1817 | Added on Tuesday, July 26, 2022 11:26:11 PM
+- especially during the general instability of the early 1920s,
+- Your Note on page 92 | Location 1817 | Added on Tuesday, July 26, 2022 11:26:28 PM
+- It is always relative
+    - page 93 | Location 1837-1838 | Added on Tuesday, July 26, 2022 11:30:28 PM
+- The reason that the colonial government consistently played down Hong Kong’s industry says much about Hong Kong’s historical purpose in the British Empire.
+    - page 95 | Location 1878-1879 | Added on Tuesday, July 26, 2022 11:48:31 PM
+- maintaining that it violated British policy of conciliating Chinese nationalism.
+    - page 95 | Location 1874-1875 | Added on Tuesday, July 26, 2022 11:48:47 PM
+- The colony, explains historian John Darwin, was “merely one square on the larger chessboard of Anglo-Chinese relations.”
+    - page 97 | Location 1913-1914 | Added on Tuesday, July 26, 2022 11:52:09 PM
+- The Societies Ordinance of 1920 prohibited any society having “unlawful purposes or purposes incompatible with the peace and good order of the Colony.”
+    - page 98 | Location 1936-1937 | Added on Wednesday, July 27, 2022 10:17:51 PM
+- Governor Stubbs mismanaged the strike by overreacting and insisting that it was political and led by agitators in Canton.
+    - page 100 | Location 1975-1976 | Added on Thursday, July 28, 2022 11:06:41 PM
+- Governor Stubbs and his successor, Clementi, were adamant that the strike was directed by Bolshevik agitators in Canton and their Soviet advisors and had nothing to do with economic or political conditions in the colony.
+    - page 101 | Location 1997-1999 | Added on Friday, July 29, 2022 7:40:50 PM
+- Under the Peace Preservation Ordinance and the Emergency Ordinance that had been enacted during the 1922 strike, Stubbs declared a state of emergency, mobilizing volunteers and prohibiting the export of foodstuffs and money.
+    - page 102 | Location 2024-2025 | Added on Friday, July 29, 2022 7:43:35 PM
+- the Labour Protection Bureau hired thugs and former pirates to protect workers who stayed at their jobs and to intimidate anyone who encouraged the strikers.
+    - page 102 | Location 2030-2031 | Added on Friday, July 29, 2022 7:44:22 PM
+- Fighting the strike meant protecting the colony that they had helped fashion from the fabled barren rock and preserving a new way of life that they had helped shape.
+    - page 103 | Location 2042-2046 | Added on Friday, July 29, 2022 7:53:14 PM
+- The colonial government made it harder to express antigovernment views by requiring newspapers to pay a security fee. In 1927 the Printers and Publishers Ordinance was revamped to prevent attacks against the colonial administration. The Illegal Strike and Lockout Ordinance of 1927 made strikes illegal if they tried to coerce the government or had any objective beyond a dispute within a certain industry. The government also banned all unions that had been involved in the strike and all politically motivated strikes. Union funds could not be used for political purposes outside of Hong Kong, and no branch of
+    - page 104 | Location 2054-2055 | Added on Friday, July 29, 2022 8:06:07 PM
+- The colonial government also tried to use education to curb the growth of radical nationalism in Hong Kong.
+    - page 104 | Location 2056-2058 | Added on Friday, July 29, 2022 8:07:00 PM
+- In 1927, Clementi encouraged some of the most distinguished Chinese scholars in Hong Kong—most of whom had left China after the 1911 revolution and during the May Fourth Movement—to promote traditional Chinese culture and morality in Hong Kong, promising to provide government support for a Chinese Department at the University of Hong Kong to train teachers for local schools.
+    - page 104 | Location 2067-2069 | Added on Friday, July 29, 2022 8:08:12 PM
+- The strike hurt Hong Kong’s economy enough to convince the Foreign Office of the need to make concessions to China, which it did by surrendering the concessions at Hankou and Jiujiang in 1927–28 and Weihaiwei in 1930.
+    - page 104 | Location 2075-2077 | Added on Friday, July 29, 2022 8:09:55 PM
+- The Foreign Office often criticized Hong Kong governors for trying to interfere with Canton politics, dismissing them as being out of touch with broader British goals in China and with China’s political situation.
+    - page 107 | Location 2119-2120 | Added on Saturday, July 30, 2022 10:24:04 AM
+- where laissez-faire economics was losing popularity to the welfare state ideal—and because of the colonial government’s determination to limit the growth of Chinese nationalism and labor consciousness.
+    - page 108 | Location 2129-2131 | Added on Saturday, July 30, 2022 10:24:56 AM
+- In the 1920s, however, the government began to take a more active role in providing social welfare. This was a gradual process shaped by developments in Britain, China, and Hong Kong.
+    - page 108 | Location 2144-2145 | Added on Saturday, July 30, 2022 10:26:13 AM
+- Still, the colonial government always tried not to spend too much on social welfare, worrying that more immigrants would pour in from China if conditions in Hong Kong were too good.
+    - page 109 | Location 2164-2165 | Added on Saturday, July 30, 2022 10:27:59 AM
+- The pressure to end licensed prostitution came from three main sources: reformers in Britain, the League of Nations, and a group of local European women.
+- Your Note on page 109 | Location 2165 | Added on Saturday, July 30, 2022 10:31:35 AM
+- The hk affair is always affected by a more marco force. What is the macro forces that is affecting hk politics now and what are their agenda?
+- Your Note on page 110 | Location 2181 | Added on Saturday, July 30, 2022 10:33:45 AM
+- British is more progressive, hence we will be more progressive. A very colonial mindset
+    - page 110 | Location 2179-2181 | Added on Saturday, July 30, 2022 10:33:45 AM
+- This time, the campaign had help from all sorts of places: British women in Hong Kong, a small group of local Chinese, members of Parliament in Britain, religious leaders (including the archbishops of York and Canterbury), and international women’s groups.
+    - page 112 | Location 2211-2212 | Added on Saturday, July 30, 2022 10:36:23 AM
+- Convinced that reforming or abolishing the system would be more harmful than useful, Clementi may have been right: the number of abandoned dead babies and children was 1,851 in 1929, some 300 more than in 1928 and about 700 more than in 1927.
+- Your Note on page 112 | Location 2219 | Added on Saturday, July 30, 2022 10:40:08 AM
+- The mui tsai issue is more than I originally thought of, it showcase the tension between the colonizers and hk. Current event is just yet another example of that tension.
+    - page 112 | Location 2218-2219 | Added on Saturday, July 30, 2022 10:40:08 AM
+- In response to so much pressure, in 1929 the Legislative Council passed an amendment stipulating that mui-tsai were to be registered and paid wages.
+    - page 113 | Location 2237-2239 | Added on Saturday, July 30, 2022 10:48:52 AM
+- Not only was this an issue of racial discrimination, it was also very costly. In 1914 a European police constable received more than seven times the pay of a local Chinese or Indian constable, while in 1939, the lowest-ranking European policeman received almost eight times the pay of a Chinese of the same rank.
+    - page 114 | Location 2256-2257 | Added on Saturday, July 30, 2022 10:51:30 AM
+- up to 1966 only a handful of Chinese had been appointed to senior government positions.
+    - page 117 | Location 2314-2315 | Added on Saturday, July 30, 2022 11:23:23 AM
+- The Hong Kong government’s policy toward the war in China was both shaped and constrained by the concerns of British defense policy.
+    - page 117 | Location 2325-2327 | Added on Saturday, July 30, 2022 11:24:18 AM
+- For the Chinese Communist Party (CCP), Hong Kong was a link to the outside world. In January 1938, the colonial government allowed the CCP to establish a local office (disguised as a tea company in order not to violate British neutrality laws) of the Eighth Route Army, which raised donations of medicine and money from overseas Chinese.
+    - page 118 | Location 2334-2335 | Added on Saturday, July 30, 2022 11:28:17 AM
+- But they also stressed the need to hold on to the colony to maintain face and to prevent the harbor from falling into enemy hands.
+    - page 118 | Location 2340-2340 | Added on Saturday, July 30, 2022 11:29:38 AM
+- In September 1938 the government reinstated the Emergency Powers Ordinance of 1922,
+    - page 119 | Location 2359-2359 | Added on Saturday, July 30, 2022 1:58:15 PM
+- The official view was that because most Chinese considered Hong Kong a temporary home, they were incapable of making any sacrifice for Hong Kong.
+    - page 119 | Location 2359-2360 | Added on Saturday, July 30, 2022 1:59:09 PM
+- Yet the government had done little over the previous century to evince the type of loyalty that it now sought from its Chinese subjects.
+    - page 120 | Location 2382-2384 | Added on Saturday, July 30, 2022 2:00:56 PM
+- As the title of Tony Banham’s recent study of the invasion suggests, the colony had “not the slightest chance.”1
+- Your Note on page 120 | Location 2392 | Added on Saturday, July 30, 2022 2:02:44 PM
+- Th cons of indirect rules.
+    - page 120 | Location 2392-2392 | Added on Saturday, July 30, 2022 2:02:44 PM
+- Their persistently weak intelligence underestimated the size and quality of the Japanese forces.
+- Your Note on page 121 | Location 2407 | Added on Saturday, July 30, 2022 2:05:04 PM
+- Laughed
+    - page 121 | Location 2407-2407 | Added on Saturday, July 30, 2022 2:05:04 PM
+- Despite their anticolonial rhetoric, the Japanese quickly transformed Hong Kong from a British colony into a Japanese one.
+    - page 121 | Location 2413-2415 | Added on Saturday, July 30, 2022 2:05:47 PM
+- Hong Kong was now a “Hong Kong for the East Asians,” it was time for the “poisonous remains of British cultural leftovers” to be “thoroughly eradicated.”
+    - page 123 | Location 2444-2446 | Added on Saturday, July 30, 2022 2:19:44 PM
+- By late 1942, when the war was going badly for Japan, the governor tried even more vigorously to restrict Hong Kong’s scarce resources for the Japanese troops. In January 1943, the Kempeitai set two German shepherds on a group of Chinese women who had been gathering grass for fuel. Only after the dogs had chewed pieces of flesh out of them were the women released.
+    - page 124 | Location 2462-2463 | Added on Saturday, July 30, 2022 5:08:10 PM
+- but most people in Hong Kong, relieved that the invasion was over, collaborated simply to get by.
+    - page 125 | Location 2485-2486 | Added on Saturday, July 30, 2022 5:12:44 PM
+- 10 Fear and pragmatism were no doubt strong reasons for collaborating, as was preserving their own class interests.
+    - page 126 | Location 2494-2495 | Added on Saturday, July 30, 2022 5:13:57 PM
+- Given Hong Kong’s urban nature, most organized resistance occurred in the rural New Territories, especially along the Chinese border.
+    - page 126 | Location 2510-2510 | Added on Saturday, July 30, 2022 5:37:45 PM
+- The British plans for recovering Hong Kong, however, faced opposition from both China and the United States.
+    - page 126 | Location 2513-2514 | Added on Saturday, July 30, 2022 5:38:42 PM
+- Supported by the United States, in mid-1942 Chiang’s Nationalists approached Britain to give up Hong Kong, or at least the New Territories.
+    - page 127 | Location 2527-2528 | Added on Saturday, July 30, 2022 5:39:58 PM
+- Chinese upper classes would prefer British rule to Chinese rule after the war.
+    - page 129 | Location 2561-2563 | Added on Saturday, July 30, 2022 11:33:41 PM
+- Postwar Hong Kong was plagued by the problems that face all societies reeling from the ravages of war: inflation, unemployment, looting, poor health and sanitary conditions, and shortages in currency, housing, personnel, and food (some 80 percent of the population suffered from malnutrition).
+- Your Note on page 129 | Location 2557 | Added on Saturday, July 30, 2022 11:36:33 PM
+- Lucky hk
+    - page 128 | Location 2555-2557 | Added on Saturday, July 30, 2022 11:36:33 PM
+- Harry Truman, who became president after Roosevelt died in April 1945, was less committed than his predecessor to restoring Hong Kong to Chinese sovereignty, while General Douglas MacArthur, commander of the Allied forces in the Southwest Pacific, supported outright the continuation of the British Empire in East Asia.
+- Your Note on page 129 | Location 2575 | Added on Saturday, July 30, 2022 11:37:44 PM
+- Grandpa fails to capture this wave.
+    - page 129 | Location 2574-2575 | Added on Saturday, July 30, 2022 11:37:44 PM
+- Hong Kong’s economy also benefited greatly from the Chinese civil war between the Nationalists and the Communists.
+    - page 131 | Location 2614-2615 | Added on Saturday, July 30, 2022 11:40:56 PM
+- Although in July 1947 the British government publicly approved the Young plan in principle, the reforms were doomed from the start.
+    - page 132 | Location 2619-2620 | Added on Saturday, July 30, 2022 11:41:43 PM
+- “for Hong Kong can never become independent. Either it remains a British colony, or it is re-absorbed into China as part of the province of Kwangtung [Guangdong].”
+    - page 132 | Location 2630-2631 | Added on Saturday, July 30, 2022 11:42:46 PM
+- Both British and Chinese civil servants and business leaders were afraid that the reforms would enable Chiang Kai-shek’s Nationalists to influence local municipal politics.
+    - page 134 | Location 2679-2680 | Added on Sunday, July 31, 2022 5:47:28 PM
+- From 1947 to 1949, almost all major firms in Shanghai moved their operations to Hong Kong, which gave the colony larger and more sophisticated factories.
+    - page 135 | Location 2688-2691 | Added on Sunday, July 31, 2022 5:50:25 PM
+- This strategic usefulness was enhanced by the fact that the cost of retaining Hong Kong was extremely low. After 1948, Hong Kong did not require any financial assistance from Britain, although Britain continued to pay for most of the local garrison.
+    - page 137 | Location 2726-2727 | Added on Sunday, July 31, 2022 11:21:32 PM
+- The colony could be of great use to China, just as it had been for more than a century, as a window to the outside world.
+    - page 137 | Location 2731-2732 | Added on Sunday, July 31, 2022 11:22:34 PM
+- Hong Kong’s use in overcoming the U.S. and United Nations embargoes and dividing Britain and the United States in their China policies.
+    - page 137 | Location 2734-2735 | Added on Sunday, July 31, 2022 11:23:03 PM
+- It would be “unwise for us to deal with the problem of Hong Kong rashly and without preparation.”
+- Your Note on page 137 | Location 2734 | Added on Sunday, July 31, 2022 11:23:26 PM
+- So now ccp thinks it has mature.
+    - page 141 | Location 2803-2806 | Added on Monday, August 1, 2022 8:51:17 PM
+- The United States needed allies to contain China, and Hong Kong was the ideal place for gathering intelligence, spreading propaganda, and organizing covert action against China. But the British worried that working too closely with the United States and allowing it too much leeway in Hong Kong would provoke the PRC into stirring up trouble in Hong Kong or attacking the colony if war broke out with the United States.
+    - page 141 | Location 2810-2810 | Added on Monday, August 1, 2022 8:53:59 PM
+- Hong Kong was a perfect base for intelligence gathering and China-watching.
+    - page 141 | Location 2818-2819 | Added on Monday, August 1, 2022 8:55:38 PM
+- Ironically, the greatest threat to Hong Kong’s economy in the years after the 1949 revolution came not from the Chinese Communists but rather from the United States—the country most determined to contain the spread of Communism.
+    - page 142 | Location 2823-2828 | Added on Monday, August 1, 2022 8:56:30 PM
+- “The classic example,” explained Grantham, “is that of dried ducks. These ducks were processed in Hong Kong and then exported to America. Many of them came from eggs laid in China and brought to Hong Kong to hatch. Were the ducks from these eggs communist ducks or true-blue British ducks? The correspondence on the subject was voluminous before a solution was finally reached. Provided that an inspector was present when the duck was hatched, that he forthwith rubber-stamped the duckling’s foot, and that on reaching maturity a further marking was put on the duck, then the ducks might be slaughtered, dried and admitted into the United States.”
+    - page 142 | Location 2832-2833 | Added on Monday, August 1, 2022 8:57:38 PM
+- Hong Kong’s survival depended on working out a good relationship with the PRC (especially the authorities in Guangdong) rather than alienating it.
+    - page 142 | Location 2841-2842 | Added on Monday, August 1, 2022 8:58:25 PM
+- the Hong Kong government found itself having to balance its relations
+    - page 142 | Location 2841-2842 | Added on Monday, August 1, 2022 8:58:33 PM
+- the Hong Kong government found itself having to balance its relations with the governments of Britain, China, and the United States.
+    - page 143 | Location 2861-2863 | Added on Monday, August 1, 2022 9:00:18 PM
+- Rather, the initiative came from local Chinese entrepreneurs, who realized that while smuggling goods into China under the embargoes could be highly lucrative it was risky and unreliable, and from the influx of Chinese entrepreneurs from the mainland.
+    - page 145 | Location 2899-2901 | Added on Wednesday, August 3, 2022 12:07:25 PM
+- Shek Kip Mei provided an ideal excuse for the colonial government, which, under pressure from the Colonial Office, had wanted to introduce public housing earlier but faced opposition from the Chinese elite.
+    - page 146 | Location 2913-2914 | Added on Wednesday, August 3, 2022 12:10:04 PM
+- The government also continued to rely heavily for social welfare on religious and charitable organizations, such as the Catholic Maryknoll Sisters
+    - page 146 | Location 2921-2922 | Added on Wednesday, August 3, 2022 12:10:39 PM
+- who often justified conditions in Hong Kong by contrasting them with those on the mainland.
+    - page 147 | Location 2934-2936 | Added on Wednesday, August 3, 2022 12:12:03 PM
+- Although none of these incidents had any long-term effects, they showed the precarious nature of Hong Kong’s new geopolitical status.
+    - page 148 | Location 2940-2941 | Added on Wednesday, August 3, 2022 12:12:43 PM
+- In November 1953, the committee recommended an emphasis on Chinese culture, against the emphasis on nationalism and patriotism in China and Taiwan.
+    - page 151 | Location 2995-2997 | Added on Wednesday, August 3, 2022 12:24:25 PM
+- Hong Kong had never experienced anything like the Confrontation (as colonial officials called it) of 1967, but the disturbances, like the Star Ferry riots the previous year, revealed many of the conditions in Hong Kong that provided a favorable environment for civil unrest.
+- Your Note on page 151 | Location 2997 | Added on Wednesday, August 3, 2022 12:28:26 PM
+- Could be the struggle to fight for freedom under colonizers like 2019
+    - page 155 | Location 3082-3083 | Added on Wednesday, August 3, 2022 12:32:14 PM
+- The leftists then turned to planting bombs where children could easily find them. In one incident, a bomber’s children—whom the bomber had taken with him while planting bombs—were killed when the bombs exploded prematurely.
+    - page 157 | Location 3116-3118 | Added on Wednesday, August 3, 2022 12:33:23 PM
+- It is not hard to see why the leftists never found widespread local support for their cause, especially among a population that included so many people who had fled the Communist government in China and who viewed the Cultural Revolution with horror and revulsion.
+    - page 158 | Location 3135-3136 | Added on Wednesday, August 3, 2022 12:36:11 PM
+- For the majority of Hong Kong people, however, the disturbances gave the government new popularity and legitimacy.
+    - page 159 | Location 3166-3167 | Added on Wednesday, August 3, 2022 10:44:54 PM
+- The buzzword now was “consultation,” using advisory committees rather than votes to reach a consensus.
+    - page 161 | Location 3193-3194 | Added on Wednesday, August 3, 2022 10:46:43 PM
+- The first Hong Kong governor to be chosen from among career diplomats in the Foreign Office rather than from the colonial service,
+    - page 163 | Location 3221-3223 | Added on Wednesday, August 3, 2022 10:48:02 PM
+- Hong Kong’s economy benefited immensely from the growth of real estate development, led mainly by Chinese entrepreneurs such as Li Ka-shing, an immigrant from Guangdong who had begun his career in plastics and property, as well as from a large influx of foreign investment, especially from Japan and the United States.
+    - page 163 | Location 3235-3236 | Added on Wednesday, August 3, 2022 10:49:25 PM
+- Until 1981, the Urban Council was the only council that was elected.
+    - page 164 | Location 3246-3246 | Added on Thursday, August 4, 2022 12:18:45 AM
+- the colonial government frequently spied on reformist and pressure groups
+    - page 164 | Location 3248-3249 | Added on Thursday, August 4, 2022 12:18:55 AM
+- Expatriates held more than half of the senior posts in the civil service until the mid-1980s,
+    - page 167 | Location 3310-3312 | Added on Thursday, August 4, 2022 12:20:31 AM
+- A sense of local identity had in fact emerged by the late 1800s, when many wealthy Chinese in Hong Kong came to see themselves as permanent residents and as a special kind of Chinese, separate from their counterparts on the mainland.
+    - page 168 | Location 3316-3317 | Added on Thursday, August 4, 2022 12:20:57 AM
+- Perhaps what most shaped this sense of Hong Kong identity, however, was the realization in the early 1980s that Hong Kong would revert to Chinese sovereignty in 1997.
+    - page 169 | Location 3336-3337 | Added on Thursday, August 4, 2022 12:23:02 AM
+- Many local people became proud of Hong Kong’s hybrid status: its blend of Chinese and Western culture
+    - page 169 | Location 3349-3350 | Added on Thursday, August 4, 2022 12:23:57 AM
+- From the late 1970s on, Hong Kong and Guangdong became increasingly reintegrated in a symbiotic relationship shaped by Guangdong’s inexpensive labor and land and Hong Kong’s capital and extensive international connections.
+    - page 195 | Location 3903-3904 | Added on Saturday, August 6, 2022 12:19:09 AM
+- Cradock initialed a memorandum of understanding with the Chinese, and on July 4 Wilson announced a Sino-British accord on the airport project:
+- Your Note on page 195 | Location 3904 | Added on Saturday, August 6, 2022 12:19:23 AM
+- The art of the deals
+    - page 196 | Location 3924-3925 | Added on Saturday, August 6, 2022 12:21:00 AM
+- From 1984 to the eve of the transition, around 10 percent of Hong Kong’s population left—mainly for Australia, Canada, and the United States but also to Britain, New Zealand, and Singapore.
+    - page 196 | Location 3930-3931 | Added on Saturday, August 6, 2022 12:21:21 AM
+- Although many emigrants returned after obtaining foreign citizenship, this mass emigration both expanded Hong Kong communities overseas and created two new types of family structures: astronaut households and parachute kids.
+    - page 198 | Location 3972-3972 | Added on Saturday, August 6, 2022 12:23:52 AM
+- As a political appointee, Patten had more political clout than earlier governors.
+    - page 200 | Location 3998-3999 | Added on Saturday, August 6, 2022 12:25:32 AM
+- After publishing the negotiations in a parliamentary white paper and insisting that their proposals were what Hong Kong people wanted,
+    - page 201 | Location 4035-4036 | Added on Saturday, August 6, 2022 12:27:59 AM
+- Patten’s proposals led to conflict between Britain and China, but they also represented the desires of many Hong Kong people, which could be seen in the results of the Legislative Council elections of 1995.
+    - page 203 | Location 4071-4072 | Added on Saturday, August 6, 2022 11:33:41 PM
+- The campaign also showed how many of the same elites who had previously urged the British to try to hold on to Hong Kong changed their allegiance after the Joint Declaration in 1984.
+- Your Note on page 203 | Location 4072 | Added on Saturday, August 6, 2022 11:34:03 PM
+- The choice of appeasement
+    - page 206 | Location 4145-4146 | Added on Saturday, August 6, 2022 11:37:05 PM
+- Yet the handover had also brought Britain a new sense of prestige and respect.
+    - page 207 | Location 4156-4157 | Added on Saturday, August 6, 2022 11:37:43 PM
+- A huge diplomatic, national, and psychological victory over the unequal treaties imposed by the Western powers in the mid-1800s, the recovery of Hong Kong was a major event in modern Chinese history.
+    - page 208 | Location 4174-4174 | Added on Saturday, August 6, 2022 11:38:37 PM
+- denying it the possibility of a third, alternative identity of its own.

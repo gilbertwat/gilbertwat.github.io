@@ -1,0 +1,64 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Still stuffy nose
+- Start the day **strong**!
+- [[Ergon]]
+    - [[Kingson Kwan]] need to do detail plan from [[Kwong Kin Ming (KM)]]
+    - {{[[DONE]]}} Guard the delivery from [[Kwong Kin Ming (KM)]]
+    - {{[[DONE]]}} Outlook API
+    - 
+- [[GOGOX]] design sprint
+    - omnichannel is a key hypothesis
+    - how we market ourselves?
+    - how can we productize the logistics department of eCommerce merchant?
+    - how can we bring elastic logistics spaces?
+    - Quicker, cheaper and better.
+        - quicker
+            - days to customers
+        - cheaper
+            - $ to ship
+            - $ to maintain orders
+                - 2 HC, 18000HKD / month
+        - better
+            - SLA
+            - Customer supports
+            - visibility
+                - When receiver is not receiving, what is the SOP?
+            - flexibility
+                - Packaging
+                - When receiver is not receiving, what is the SOP?
+    - [[Lili Chan]]
+        - **Service related**
+            - Promised delivery time is <2 days, merchant will try to fulfil the delivery in same day - while the evolving of Pandamart (<1hr delivery time) would make same day delivery seems “slow”
+            - Merchant will usually choose same day delivery because they found it difficult to get a courier with instant service (50% chance). They chose another small delivery provider to send part of the packages during Christmas to ensure all orders are being delivered on time. The merchant & customers wouldn’t mind to pay extra as if they can get the goods on-time.
+            - They felt like a courier would get 5 instant orders at a time, which doesn’t make sense as they won’t be able to finish the delivery within 1 hour.
+        - **Product related**
+            - The merchant is not aware of GGX app, 98% of the time will use web. Heard about us first time they received a GGD package.
+            - The merchant said their customers love the SMS tracking link a lot, this is saving them at least 10 emails per day. However, customers may not read the SMS. Best if our Shopify app can send the tracking number to client’s receipt as well (In-scope).
+            - Don’t mind if there’s overweight fee to cater 20kg> goods because GGD pricing has more transparency.
+            - Couriers won’t be reassigned automatically if the courier cancel the order. There’s no notifications which makes them feel confused. Only aware of it when they refresh the page/ saw no one is picking up the package from warehouse
+            - Due to covid situation, couriers are sometimes unable to handover the package to client’s hand directly. It’s either at the concierge, or front door etc which is difficult to communicate where’s the package at the end. Would be great if there’s photo proof.
+            - Shopify app would be a game changer for them. They are using Quickbook (formerly Tradegecko) to allow them to export the order details for delivery arrangement, which is very manual to copy paste it to GGB web.
+            - Had issue with bulk ordering feature, doesn’t seems to work properly for them
+        - **Driver related**
+            - The merchant said they don’t bother to complain the 1 out of 10 bad couriers to CS because that’s also a manual process. 9 out of 10, the couriers are fantastic and friendly.
+            - The merchant said they will document the customer’s complaints in their system, and pay attention to the courier who’ll pick up the goods for that customer next time since there won’t be second chance if the experience is bad again
+            - Bad experience with van product. Difficult to control the cost, need to spend time negotiating the moving fee.
+        - **Competitors**
+            - Pickupp, HelloToby has been pitching them. Shopify integration is something the merchant really wants, but since they’re already with us they are not switching to Pickupp yet. (Rebate is also one of the reason)
+            - Don’t like SF because they have limitations on the packaging. The merchant do wine delivery so it’s required to add bubble wraps. Not much flexibility if the customer is not available to receive the package at door, customer will have to go to SF pickup point.
+            - Using another provider to deliver to restricted areas, 10-15 deliveries/week. Customers won’t mind to pay the extra fee.
+        - **Food for thought**
+            - The merchant is interested to know their delivery orders’ geographic distribution. They can make their own heat map as if we could provide the data. This would be helpful for them to place the delivery arrangements
+            - They are interested to get a sense of courier supply in different districts as they may want to set up the warehouse in a place that have higher pickup rate. Thought Sheung Wan is a good spot because it’s close to MTR and transportations, yet it doesn’t seem to be a hotspot for couriers
+- #Notes URL https://www.plslogistics.com/blog/the-history-of-containers#:~:text=The%20first%20standard%20shipping%20container,intermodal%20transportation%20seamless%20and%20efficient. 
+    - Topics
+        - [[Logistics]]
+    - [[Excerpts]]
+    - 
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

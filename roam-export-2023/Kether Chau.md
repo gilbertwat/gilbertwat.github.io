@@ -1,0 +1,3 @@
+- Like to play [[basketball]]
+- Like [[cryptocurrency]]
+- Love to discuss and learn stuff

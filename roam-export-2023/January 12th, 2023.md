@@ -1,0 +1,14 @@
+- #[[15 2023]]
+- 
+- 13:30
+    - {{[[DONE]]}}  Work on {{[[DONE]]}}  [[Lunch and learn on ChatGPT]] on [[January 27th, 2023]]
+        - [[Lunch and learn on ChatGPT]]
+        - Draft done
+- 17:00
+    - {{[[DONE]]}}  Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- {{[[ARCHIVED]]}}  Complete this course on [[zero-knowledge]] https://zk-learning.org/
+- 22:14
+    - [[gratitude dairy]]
+        - A good self-aware on the reaction on the unproductive morning
+            - I am very distracted from 3 projects I need to refocus myself on being productive
+        - Start to get a very quick [[decision framework on technology evaluation]]

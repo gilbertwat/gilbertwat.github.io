@@ -1,0 +1,43 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{[[DONE]]}} [[[[1:1]] with [[Alia Bei]]]]
+        - #Management
+        - [[Victor Lam]] [[[[GOGOX]] Platform]]
+            - -16 in [[eNPS]] score is too low of a standard
+                - Why?
+                    - Lack of leadership?
+                        - How?
+                            - Always focus on executing tasks
+                                - Fixed
+                            - Lack of goals for team and individuals
+                                - Fixing
+                            - Lack of consistency / routine
+                                - Step 3
+                    - Overwork?
+                        - How?
+                            - Lack of learning opportunities
+                        - Proven in user feedback
+                        - Nothing we could do for 2020
+                        - Alter the expectation to align 2021 
+                    - Teammates are leaving Hong Kong
+                        - Nothing we could do
+                        - Cc [[Young]]
+        - QA
+            - Don't feed the troll
+            - Let [[Young]] handle it.
+        - Buy coffee next time LOL
+    - {{{[[DONE]]}}}} [[HK Taxi]] [[meetings]]
+        - Agenda:
+            - Collaborate on the Map front
+                - Not interested
+        - Competition??
+    - {{{[[DONE]]}}}}  [[[[GOGOX]] Weekly [[Sync up]]: Delivery [[meetings]] ]]
+    - {{{[[DONE]]}}}} [[[[[[1:1]] with [[Rob Dong]]]]]]
+        - Salary
+            - Prioritized promoted teammates
+    - {{{[[DONE]]}}}}  Write [[6 shades of project management tools - Which one should I use?]]
+- How do you feel when you wind down?
+    - {{slider}}

@@ -1,0 +1,180 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - Bad [[sleep]]
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} First meeting of [[Decouple backend service release]]
+        - Participants: [[Paul Leung]]
+        - To list out the current process in releasing backend services
+            - Day 2,4,6,8 in sprint validate with mobile
+                - Our stories are combined
+            - Day 9-10 smoke test
+                - Green light or not in day 10
+                - Deployment in day 2 of next sprint
+        - To identify difficulties / problem to achieve decoupling deployment with
+            - Assumption: The current version of backend services are regressively tested.
+            - No E2E test cases to validate new APIs / old APIs with new functionalities."
+        - MVP Proposal:
+            - New backend story / task include API E2E test cases
+                - E2E test suite is build to validate full stack from API Gateway.
+                    - POSTman most likely as it is a tool shared by QA and dev. We need to cater both QA and dev.
+                - API E2E test cases are discussed and decided among in-theme QA + Backend Dev to ensure feature delivery and customer happiness.
+                - Implementation of the test cases can be distributed.
+                - Api-Versioning is a **must** for breaking changes
+            - New in-sprint validation
+                - API E2E test run at 1000 for every day 2, 4, 6, 8, 10
+                - Notification to backend team Pass / Fail through reporting (Need investigation on how) **__(QA Accountable)__**
+            - Success metric:
+                - For EVERY theme, for EVERY tickets, QAs can always get what have been changed in API E2E test suite **__(Dev Accountable)__**
+                - Notification of report is completed **__(QA Accountable)__**
+            - Timeframe:
+                - Agreement: End of 2020-08-07
+                - Experiment in staging start at: 2020-08-10
+                - Review in staging: 2020-08-21
+                - Soonest deployment to production if smooth: 2020-09-07
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Jim Wong]]]]
+        - Mood
+        - Current challenges
+            - Configurable Additional Requirement
+            - 
+        - World class app
+            - What
+                - Instagram
+            - Why
+                - UX very smooth
+                - Very few unexpected UX
+                - Failure cases handle very gracefully
+                - Rolling out features no need app update
+            - Our app
+                - is
+                - is not
+                    - Guideline not very clear
+                    - UX revamp, better
+                    - No guideline to first users
+                    - cannot debug stuck case on customer side, cannot reproduce
+                        - {{{[[DONE]]}}}} Find solution and #CircleBack in the next weeks on this
+                    - cannot place order too little detail to debug for customers.
+                - Additional Requirement very hard to update
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Jay Chang]]]]
+        - Mood
+            - So far so good
+                - How to improve?
+                    - Think about it.
+        - Current challenge
+            - Discussion
+                - focus on goal
+                - less coding standard discussion currently
+                - Theme seaparation is clear
+        - World class app
+            - Google map
+                - Why
+                    - Less bugs
+                    - Smooth
+                        - Circle back how to measure latency of actions from tapping
+            - How about us?
+                - Invest more time for transition and animation
+                - More bugs because of AC not covered.
+                    - Reopened tickets because of this.
+                    - Grooming missed
+                    - Monday pre-grooming.
+                    - **spend more time on grooming** #CircleBack
+                - Non functional
+                    - battery
+                    - app-size
+                    - google play quality checklist.
+                - Invest more time to follow platform quality guidelines.
+                    - https://developer.android.com/docs/quality-guidelines
+                    - Ask QA to help assure quality of the app too.
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Jackson Chung]]]]
+        - Mood
+            - OK
+            - Enjoy
+                - Teamwork more.
+        - Current challenge
+            - Lead ju [[Ka Kui Tsang]] #CircleBack
+                - OK ge
+                - Direct him to collaborate with QA PM
+                - 熟啲冇咁怕羞
+                - Need to be paired to spot missing AC to ship feature
+                - Technical very 放心
+                - UX need to guide
+            - 1:1 with Keith
+                - OKRs
+                - Team directions
+        - World class app
+            - Uber
+                - Usability Jeng
+                - transition and animation details (car moving on map)
+                - **User feel amazed / delighted**  #CircleBack
+            - What can [[GOGOX]] do to delight user?
+                - User feel amazed in map.
+                - Place order should be as snappy as possible, as easy to use as possible
+                    - Currently
+                        - select waypoint. (In progress)
+    - {{{[[DONE]]}}}} Start reading [[[[books]]: Accelerate the science of lean software and devops]]
+        - Chapter 2: How to measure performance
+            - Pre devops
+                - Output over outcome
+                - Individual over team / global ones
+                - Line of code
+                    - We actually prefer 10 line solution
+                    - Refactoring always delete code
+                - Velocity
+                    - Relative
+                    - Team-dependent
+                    - Different context --> velocities imncommensurable
+                    - team inevitably work to game it
+                        - inflate story points
+                        - rush to finish story points in the expense of collaboration
+                - Utilizaton
+                    - "once you get to very high levels of utilizaton, it takes teams exponentially longer to get anything done."
+                        - Queue theory #Mathematics
+            - Devops
+                - Lead time
+                    - How fast work can be completed
+                    - Utilization against lead time in an eco optimal way
+            - Successful measure of performance
+                - Global outcome to ensure teams aren't pitted again each other
+                - Our measure should focus on outcomes not output
+            - 2 phase of solving customers' problem
+                - {{[[table]]}}
+                    - Product Design & Development
+                        - Product Delivery
+                    - Create new products
+                        - Fast flow from development to production
+                    - Feature design and implementation that has never done before
+                        - Integrate, test and deployment must be performed continuously as quickly as possible
+                    - Estimates are highly uncertain
+                        - Cycle time well known and predictable
+                    - Outcomes are highly variable
+                        - Outcomes are low variable
+            - Metrics candidates
+                - Tempo
+                    - Product delivery lead times
+                        - Shorter the better
+                    - batch size (deployment frequency)
+                        - Smaller the better
+                - Stability
+                    - Mean time to restore
+                        - shorter the better
+                    - Change Fail Percentage
+                        - lower the better
+            - Tempo vs Stability
+                - Why not both
+                    - Statistically proven
+                        - Higher change rate, shorter Lead time(product delivery), lower change fail rate and MTTR
+                        - 2016 vs 2017 (4 years ago already)
+            - Impact of delivery performance on organizational performance
+                - organizational performance highly correlated to ROI
+                - ROI is regardless economic cycle
+                - Software delivery performance
+                    - linked to organizational performance
+                    - linked to noncommerical performance too
+                        - quantity + quality of service, operating efficiency, customer satisfaction, achieving org / mission goals
+            - Never outsource the core technology
+- ((Ua85ewy3A))
+    - Verify before suggestion
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}

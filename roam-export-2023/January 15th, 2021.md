@@ -1,0 +1,17 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - nose stucked
+- Start the day **strong**!
+- smoke test in themes
+- [[[[2021]] Q1]]
+- {{[[DONE]]}} [[Announcement]] the [[platform team leads succession]]
+    - Some good news! 🎉 Since [[Victor Lam]] is leaving 😞, we are lucky to have [[Ben Cheng]] to step up and take the challenge. Ben will be our Acting team lead in Platform team and he has the full support from his teammates, me and the management. He is a detailed oriented, get the job done guy. Without him, a lot of business critical features and iteration cannot be shipped with such cadence and quality. I hope to work closer with him and bring platform team more together. We can get through this tough time together. 
+- {{[[DONE]]}} Deliver [[[[[[2021]] Q1]] [[GOGOX]] project list]] 
+- {{[[DONE]]}} [[Talent Plan for [[[[GOGOX]] Project Flywheel]]]]
+- https://www.newtraderu.com/2021/01/14/what-is-a-good-stop-loss-percentage/
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

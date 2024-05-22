@@ -1,0 +1,135 @@
+- # 🧩 First Principle
+    - Design
+        - https://coolors.co/1be7ff-6eeb83-e4ff1a-e8aa14-ff5714
+        - 
+    - ## Hypothesis of Market
+        - Customers want (Priority of validation)
+            - to be
+                - an effective software engineer
+                - a manager who still enjoy his coding skills
+            - to keep my coding skills sharp
+            - to learn a new programming language by practicing
+            - to complete a project
+            - to have a focus
+            - to have a flow
+            - to show off
+            - to get a tech job
+            - to get the sense of progress towards goals
+            - to regain control / certainty in a chaotic world
+            - to be curious on new programming topics
+            - to talk about tech / programming.
+            - to regain sense of freedom
+        - And customers are willing to pay 10USD / month
+        - And there are 1000 customers
+        - And I only need to serve it for 5 hours per week
+        - How to learn coding fundamentally
+            - Online
+            - Offline
+            - Structured
+            - Unstructured
+        - How can we facilitate
+    - ## Validation
+        - experiment
+            - write a blog post in medium?
+                - How to build a coding habit?
+                - **Success Metrics**: 1000 page views in 10 days
+            - Google trend
+            - Write [[Twitter]]
+                - ZeroToHero
+                - IterativeToFunctional
+                - SystemThinking
+                - FirstPrinciple
+                - MemeAboutSVShit
+    - ## Signals / Taglines
+        - High cohort retention
+        - High MoM and YoY growth rate
+        - A product that’s 10x better than the alternative
+        - Passionate user feedback
+        - Willingness to pay
+        - A growing customer base being dramatically underserved
+        - High willingness to pay
+        - Customers who are desperate for this solution
+        - Is there a $1B/year revenue opportunity
+        - If the initial market is small, then large adjacent markets
+        - U.S. companies had about 918,000 unfilled IT jobs in the past three months.
+            - https://www.cnbc.com/2019/11/06/how-switching-careers-to-tech-could-solve-the-us-talent-shortage.html
+        - 3000 tech leaders CIO Survey, 65% said tech shortage is hurting the industry
+            - https://www.hnkpmgciosurvey.com/
+        - https://twitter.com/terronk/status/1286774563670392833?s=21
+        - https://twitter.com/jsjoeio/status/1287417396203061255?s=20
+        - https://twitter.com/schlaf/status/1289298778424573953?s=21
+- # 🦅 MVP Overview
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FnaVUu2HBJ1.jpg?alt=media&token=4c6f234f-31fa-4483-81ae-d490a6d67ac8)
+- # ⏯️ Product 
+    - Choices A/B testing
+        - Programming Language
+            - Popular (Javascript / Python)
+            - Niche (Clojure / Haskell)
+            - Upcoming (Rust / Solidity / Dart)
+            - **Verdict**
+                - Rust to start
+        - Scale of exercises
+            - Project based (at least 1 month of investment of ~1 hour / day)
+            - Question based (<2 pomodoros, leetcode style)
+    - 🎡 Flywheel
+        - ???
+    - 🎣 Hook
+        - Daily email only if you don't logging in
+        - Right where we are paused in the last moment
+- # 📈 Growth
+    - A clear growth strategy
+    - A unique growth strategy
+    - Unique access to to the target audience
+    - A new untapped distribution channel
+    - High LTV/CAC ratio
+- # 🏟️ Competitors Analysis
+    - udemy
+        - **Tagline**: Learn anything on your schedule
+        - **Funding:** 223M / Series E / 2020 - Feb 2020 **__(should not be profitable)__**
+        - Udemy for business
+        - Business model
+            - Sell course and split with instructors
+                - Depends on human to scale
+                    - Instructors
+        - Learning:
+            - Gym-like business model, most of the people buy and doesn't finish
+            - Very good for instructor, not so for learners.
+    - codacademy
+        - **Tagline**: Learn to code for free
+        - **Funding**: 47.5M / Series C / 2011 - 2016 **__(should be profitable)__**
+        - Business model
+            - Subscription
+        - Learning
+            - Basic offering is similar
+            - Neat editor
+                - Connect to community
+                - Serverless, isolated environment for each user/session
+                    - Slower
+            - Very fun on-boarding for non-techie
+            - Well designed
+            - More valuable course / feature
+                - Paywalled
+    - codementor.io
+        - Depends on human to scale
+    - hackerrank
+        - Super corporate oriented
+        - For company to recruit
+        - For developer to find job
+        - I really like its editor
+        - 2 hours limit is too long
+        - promote competition in the interview process
+        - I like the shirt
+- # 💭 Self Talk 
+    - I always worries about failing before I start anything
+        - failing to commitment
+            - Set a high goal, communicate a schedule that I can keep
+            - What if I have insufficient questions
+            - Preset a few project ideas
+            - Longer project ideas
+        - What if my job caught me up and I give up
+            - Mark the first 2 hours of the day to this project
+    - Focus
+    - Competitors are starting way sooner than me.
+        - Need to find the best angle to GTM
+- # 💡 Adjacent ideas:
+    - Scheduler for gamification notification.

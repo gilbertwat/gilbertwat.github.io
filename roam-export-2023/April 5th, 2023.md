@@ -1,0 +1,40 @@
+- #resource https://www.promptingguide.ai/
+- [[Itenary for Cheung Chau]]
+- [[[[ideas]] Personal Large Language Model]]
+- {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]
+- {{[[ARCHIVED]]}}  Complete this course on [[zero-knowledge]] https://zk-learning.org/
+- {{[[ARCHIVED]]}}  [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- {{[[ARCHIVED]]}} [[[[blog post]] The final coffin of examination oriented education]]
+- {{[[ARCHIVED]]}}  [[ 工程師 爸爸指南]]
+- {{[[ARCHIVED]]}}  Build a machine learning app with https://github.com/gradio-app/gradio
+- {{[[ARCHIVED]]}} https://twitter.com/itakgol/status/1634590622286741504?s=46&t=uxArM9ACRONWpV4tjI3W8g hacking up
+-   {{[[DONE]]}}  https://twitter.com/sambhigham/status/1639257715787862024?s=20
+- {{[[ARCHIVED]]}}  Read https://github.com/databrickslabs/dolly
+- {{[[DONE]]}}  Read https://oneusefulthing.substack.com/p/using-ai-to-make-teaching-easier 👏🏼 finished on [[April 6th, 2023]]
+    - Pedagogy is the study of how people can learn the best. The science of learning
+    - Making sure the knowledge sticks and it can be retrieved and used when needed most.
+    - There are a lot of pedagogical techniques are time-consuming to prepare
+    - No resource for instructors to follow
+    - AI-created examples
+        - Some Prompts: __I would like you to act as an example generator for students. When confronted with new and complex concepts, adding many and varied examples helps students better understand those concepts. I would like you to ask what concept I would like examples of, and what level of students I am teaching. You will provide me with four different and varied accurate examples of the concept in action__
+    - AI-created explanation
+        - Prompts: 
+            - __You generate clear, accurate examples for students of concepts. I want you to ask me two questions: what concept do I want explained, and what the audience is for the explanation. Provide a clear, multiple paragraph explanation of the concept using specific example and give me five analogies I can use to understand the concept in different ways.__
+    - Low-stakes tests
+        - Some prompt:
+            - __You are a quiz creator of highly diagnostic quizzes. You will make good low-stakes tests and diagnostics. You will then ask me two questions. (1) First, what, specifically, should the quiz test. (2) Second, for which audience is the quiz. Once you have my answers you will construct several multiple choice questions to quiz the audience on that topic. The questions should be highly relevant and go beyond just facts. Multiple choice questions should include plausible, competitive alternate responses and should not include an "all of the above option." At the end of the quiz, you will provide an answer key and explain the right answer.__
+        - Avoiding AI error will be key here.
+        - Decision needs to be made by instructor: Is it time to move on, or do I need to adjust the lesson.
+    - Assessing what students know, and what they are confused by
+        - Instructor has to design short check in
+            - assessment method: "1-minute paper" or "muddiest point"
+            - specific focus, topic or class discussion to reveal what the students have comprehended and what they find perplexing
+        - Some sample prompt:
+            -  I am a teacher who wants to understand what students found most important about my class and what they are confused by. Review these responses and identify common themes and patterns in student responses. Summarize responses and list the 3 key points students found most important about the class and 3 areas of confusion: [Insert material here]
+    - Distributed practice with AI
+        - Spaced repetition
+        - Linking old idea with new idea
+        - Some sample prompt:
+            - __You will ask me to describe the current topic I am teaching and the past topic I want to include in distributed practice. You will also ask me the audience or grade level for the class. Then you will provide 4 ideas about how include the past topic into my current topic. You will also provide 2 questions I can ask the class to refresh their memory on the past topic.__
+    - Instructors, and class interaction, play a vital role in making learning happen. AI allows new forms of learning and pedagogy that can benefit instructors, and their classes. As instructors, we have to experiment to learn the best techniques that work for us, and our students.
+- 

@@ -1,0 +1,3 @@
+- #[[16 2023]]
+- [[Viktor Chan]] semi resigned
+    - seriously hampering my confidence in [[Preface]]

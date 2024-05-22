@@ -1,0 +1,23 @@
+- https://twitter.com/QCompounding/status/1598162471306534912?s=20&t=VtaD-NPoTOjYKWhrq91ypw
+    - good [[company]] / [[stock]]
+        - Financial strength
+            - ROE > 15%
+            - EPS growth > 10
+            - Debt/profit ratio < 4x
+        - Business Model
+            - Market leader
+            - Competitive advantages
+            - Low Cyclicality
+        - Management Team
+            - High level of ownership
+            - Constructive Acquisitions
+            - Good capital allocation
+        - Market valuation
+            - 5 year valuation model
+                - Try to Purchase at half the estimated value in 5 years (~ 15% annual return)
+- 21:13
+    - Hacked around to gain access to openAI.
+        - Setup Proton VPN
+        - Used non-voip phone number generator and 
+            - Failed with non-voip.com
+            - Success with MobileSMS.io

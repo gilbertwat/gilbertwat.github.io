@@ -1,0 +1,12 @@
+- #[[sleep]]
+    - Quality: Good
+    - Hrs: 7
+- 10:30 - 12:00 [[Writing [[Mohammad Ahmad]] reference letter]]
+- 12:30 - 13:30 Lunch
+- 13:30 - 14:00 #Pray
+- 14:00 - 14:45 
+- 15:00 - 16:00 Commute
+- 16:00 - 17:30 [[[[Preface]] Coding]] discussion
+- 18:00 - 20:00 [[Inspect Element]] discussion
+- Wrap up of the day
+    - Plan [[December 17th, 2021]]

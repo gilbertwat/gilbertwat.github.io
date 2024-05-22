@@ -1,0 +1,47 @@
+- Lead Platform Team
+    - Achievement
+        - [[2019 Q4]]
+            - 99.95% uptime SLA achieved
+            - Ensure in New CA API shipped
+        - [[[[2020]] Q1]]
+            - 99.95% uptime SLA achieved
+            - Reduce map cost
+            - New CA Refactoring 
+        - [[[[2020]] Q2]]
+            - 99.95% uptime SLA achieved
+            - Deprecate Dev environment
+            - Area PIC established
+            - [[[[GOGOX]] Payment Theme]] support
+        - [[[[2020]] Q3]]
+            - Area Goals established
+            - 99.95% uptime SLA achieved for 2 months
+            - Setup NewRelics Dashboard
+            - Decouple release effort 40%
+            - Support [[GMT]] and [[IET]]
+    - Testamonial
+        - Handling managerial stuff repeatedly and consistently
+        - Allow people to think by themselves
+- Suggestion on leveling up
+    - Continue the good work on separating different areas for teammates to focus
+    - Continue the good work on suggesting new ideas to speed up delivery and reliable delivery
+    - Continue the good work on product focus and colleague friendly
+    - Continue the good work on encouraging teammates to suggest new ideas to improve our delivery reliability and speed
+    - Start keeping a journal to record what you are doing daily so that you can:
+        - Thinking about complexity of hard problems
+        - Reflecting
+        - Articulating your thoughts
+        - stop taking too many task by prioritizing high leverage activities such as leading discussion, mentoring and other leadership work over fixing bugs
+    - Start leveling up teammates with emphasis on their strength
+    - stop taking too many task by prioritizing high leverage activities such as leading discussion, mentoring and other leadership work over fixing bugs
+- Nice to have improvements
+    - Start refining the feedback of code review and system design to use more concrete and specific wordings (even in Cantonese)
+        - ❌ this is messy
+        - ✅ The abstraction is not clear, the steps are distributed to 3 layers. These 2 classes are entangled. 
+    - Stop you urge to understand thoroughly of a projects, find some key questions to governance / mentors to bring critical aspects to ensure the success of the subject.
+        - For example:
+            - Will it bring down the system?
+            - Relationship with existing system?
+            - DDD framework
+            - Timeline / Complexity
+    - Document [[architectural constraints in [[[[GOGOX]] Platform]]]]
+- Thanks for inheriting platform team and holding the team together. He also make extra steps to collaborate with QA and suggest ways to resolve conflicts. To level up your career, you might want to spend more time focus on articulate well on technical issues and suggest ways for team members to bond and level up together.

@@ -1,0 +1,39 @@
+- 09:00 Answer [[Preface Coding]] on the [[🎯 Major [[decision]]]] to join or not
+    - No, I am not joining
+        - It is not my journey to join branding based company
+        - #[[🧘🏻‍♂️ Self Awareness]]
+            - I want to (help) build a tech company
+                - a [[🏗️Technology]] company === a company competitive advantage is based on [[🏗️Technology]]
+            - I want to (help) build an international, internet, online company, HQ in [[🏴Hong Kong]]
+    - [[Sacrifice]]
+        - HKD80000 * 12 months, HKD480000 stocks based on current valuation of [[Preface Coding]]
+        - Chance to work with [[Tommie Lo]] and his team
+    - 10:00 Send to [[Joanne Chan]]
+- 11:30 [[Charlotte Chan]] chat about [[Maven.hk]]
+    - Expressed concerns about focus and dedication from [[Brian Chan [[Maven.hk]]]]
+- 12:00 Chat with [[Vlad]] for [[Grantits.io]]
+    - Initial chat with [[Vlad]] to understand my role
+    - 4 fullstack
+        - backend lead
+        - senior developers
+        - QA engineer
+            - Release management
+        - Mobile (React Native) engineer
+            - Native 
+    - capacity
+        - tech debt
+        - mentor
+        - specialist
+    - operation team using admin panel
+    - Interview Process
+    - Tech Lead + QA
+- [[Next.js]] Data Fetching #Twitter [[Draft]]
+    - `getStaticProps` Get data in build time
+        - Pros: Whole page can be cached
+        - Cons: Only update on rebuild projects
+    - `getServerSideProps` Get data on reload
+        - Pros: Whole page can be updated whenever reloaded
+        - Cons: cannot be cached
+    - SWR / React Query:
+        - Pros: Can be cashed partially
+        - Cons: need to code a api route

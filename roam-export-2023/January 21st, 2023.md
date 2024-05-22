@@ -1,0 +1,3 @@
+- #[[22 2023]]
+- [[gratitude dairy]]
+    - A lot of breakthrough in connecting tech team effort with business outcome for [[Preface]] makes my year of tiger ends without stress.

@@ -1,0 +1,3 @@
+- + Ask why from time to time in our meeting
+- + Ask clarifying questions from time to time in our meeting
+- + very interested in [[Deep Learning]]

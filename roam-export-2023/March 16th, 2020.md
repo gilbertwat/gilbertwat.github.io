@@ -1,0 +1,7 @@
+- [[Weekly Goals]]
+- Web
+    - Revamp
+- Mobile
+    - Testing
+- Platform
+    - Auto QA

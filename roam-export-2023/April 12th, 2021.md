@@ -1,0 +1,80 @@
+- {{[[DONE]]}} [[Delivery Manager]] weekly [[Sync up]] 
+- {{[[DONE]]}} [[1:1]] [[Henry Tang]]
+    - Ask about any challenges and general mood in engineering team
+    - Discuss about QA situation [[QA team]]
+        - Be more proactive
+        - Be more flexible
+        - Be more intelligent
+    - Discuss about music
+        - Will be releasing music in 1-2months
+        - This time ask people to help him
+        - I admire the courage of him asking his friends to help him on the project
+        - I also envy him on the vast connections to be able to pull the EP off
+        - 
+- {{[[DONE]]}} Farewell [[Belda Chan]]
+    - {{[[DONE]]}} Gift card Amazon
+    - {{[[DONE]]}}  Book where we can order food
+- {{[[DONE]]}} Interview Simon Lau
+    - #[[decision]] : No because [[[[culture]] fit]] is not there
+        - Too dominating personality
+            - A lot of resemblance of [[Terry Pang]]
+        - A lot of reason of leaving is interpersonal.
+        - A lot rant about current position.
+        - Not humble at all.
+        - Not product driven at all and focus on “coding standard”
+        - No clear definition of “coding standard” communicated.
+    - Backend Engineer
+    - Self introduction
+        - HKTVMall
+            - PMs
+                - project progress
+                - requirements
+            - QA
+                - Edge cases
+                - test and validate
+            - Analysis
+            - Draft API
+            - Deployment
+            - Live streaming
+        - Challenges
+            - Fix gitflow
+                - Directly master
+                - code review
+            - CI/CD deployment development
+            - Coding standard update
+            - Coding principles
+            - Maintainence not care in culture
+            - Documentation
+            - Testing
+        - Why switch job
+            - Communication too heavy
+            - Programmer ii team leads
+            - NOC request server
+                - Team leads not able to help
+            - What to 
+            - Promotions
+            - Not technical enough
+            - 
+        - Shopline
+            - Why leave?
+                - Collaboration issue with Chinese
+                - Overloaded with OT
+                - learn everything 
+            - Expose to a lot more scope
+        - Achievements
+        - Compromise
+            - Hacky way to ship normal
+            - Give up documentation and testing
+                - no short term impact
+                - test driven development
+                - for long term maintenance
+                - 
+        - Project Technicals
+    - Technical challenges
+        - Wallet system
+            - Transactions
+            - Lock
+            - Distributed system
+            - Failure models
+        - Language / tools familiarities
+- {{[[DONE]]}}  [[1:1]] [[Rob Dong]] 

@@ -1,0 +1,38 @@
+- [[1:1]] [[Hema Shah]]
+    - Curriculum system to do onboarding
+    - Dogfooding
+- [[Annie So]]
+    - Website Analytics
+    - SEO blog reliabilty
+    - Data dashboard
+- [[1:1]] sharing in leadership meeting
+    - Objectives
+        - Build rapport and personal relationship with your direct report or skip level or leader.
+        - Grow each other in the session
+            - Very good time to conduct hard conversation
+            - Very good time to "gossip"
+            - Very good time to sense the vibe with your direct report
+            - Very good time to listen from our direct reports
+        - Revisit OKRs
+    - Not objectives
+        - Execution related issues
+        - Skill based sharing
+    - No exact format for me
+        - But always have some questions in mind
+        - Always read notes from the last few [[1:1]] to prep for topics to circle back
+    - Some of my experience in other leaders that use [[1:1]] to
+        - Ask questions about rumors in work level 
+        - Grow my career
+            - 360 review
+            - Start stop continue
+        - Focus his/her direct report on pressing issues
+        - Discuss confidential matters
+            - Update confidential company context
+            - Hiring/Firing
+            - Performance Improvement Plan
+            - "Politics"
+    - Basic format I have tried
+        - Top of mind from direct report
+        - Top of mind from leader
+        - Circle back discussion topic
+    - Journaling is key to me

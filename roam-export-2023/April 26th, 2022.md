@@ -1,0 +1,14 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - [[Basil]]
+        - Priority problems
+            - BAU first
+    - Separation of leadership
+        - Priority is set by leadership and there is only one priority
+            - Work level need to be
+    - Some update on workflow
+        - Team head will do alignment and strategizing within us.
+    - Sharing
+        - -42% for Lead to Prospect
+        - Lead to Sales is low
+        - [[[[Preface]] source new wordpress blog hosting provider]] update
+        - Is it because the vibe that we can attract 

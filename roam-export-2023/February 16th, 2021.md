@@ -1,0 +1,26 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} #Notes Read https://twitter.com/Harris_Bryan/status/1361687465216466950?s=20 
+    - Topics
+        - [[marketing]] [[writings]] [[Borrowing audiences]]
+    - Excerpt
+        - [[marketing]] #Playbook You have to write a pitch email / IM / whatever to win the chance to tap in into other people's audience.
+            - Anchor
+                - Do an analysis on the content gaps.
+                    - Who is your audience?
+                    - Who is your partner's audience?
+            - Win
+                - Where is the synergy?
+                - Brainstorm some ideas to synergies the brand
+                - See if there is any market needs for that?
+                    - Do a few google search.
+                - Where is the win for your partner?
+            - Ask
+                - Ask clearly what's you are looking for?

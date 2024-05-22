@@ -1,0 +1,47 @@
+- #[[08 2023]]
+- 00:00
+    - Working on [[ideas]]: A suites of definitive guide to get the cloud certificate
+        - Looking up for the main competitors and see if there is any opportunities
+            - [GCP](https://cloud.google.com/certification/cloud-architect)
+            - [AWS](https://aws.amazon.com/certification/?nc2=h_ql_le_tc_c)
+            - [Azure](https://learn.microsoft.com/en-us/certifications/browse/?resource_type=certification&products=azure,sql-server,windows-server&type=fundamentals,role-based,specialty&expanded=azure,windows)
+        - I think we can show a better learning progress and learning path
+        - I think we can map the path better with our customer profiles.
+- Finished {{[[DONE]]}}  Finish https://courses.jordanbpeterson.com/
+    - [[Literature Notes]]
+        - [[Big five personality test]] is one of the valid and reliable tests for personality
+        - [[Big five personality test]] is first based on lexicon of human personality.
+        - [[Big five personality test]] is also first based on statistics.
+        - [[Big five personality test]] has no psychology back up until recently.
+        - [[Big five personality test]] has no biology back up until recently.
+        - [[Big five personality test]] assume our lexicon is able to fully describe our personalities.
+        - [[IQ test]] is also one of the valid and reliable tests for human traits.
+        - [[Big five personality test]] can be self-evaluated or peer-evaluated.
+        - [[Big five personality test]] has 5 factors: one of them is extraversion.
+        - Under extraversion in [[Big five personality test]], there is enthusiasm.
+        - Under extraversion in [[Big five personality test]], there is assertiveness.
+        - [[Big five personality test]] has 5 factors: one of them is neuroticism.
+        - Under neuroticism in [[Big five personality test]], there is volatility.
+        - Under neuroticism in [[Big five personality test]], there is withdrawal.
+        - High withdrawal in [[Big five personality test]] means fear will paralyze you.
+        - [[Big five personality test]] has 5 factors: one of them is agreeableness.
+        - Under agreeableness in [[Big five personality test]], there is compassion.
+        - The opposite of compassion is suffer from the limitation of linguistic - there is no way to positively associate or describe it other than cold-blooded.
+        - Under agreeableness in [[Big five personality test]], there is politeness.
+        - The opposite of politeness is suffer from the limitation of linguistic - there is no way to positively associate or describe it other than rude or blunt.
+        - [[Big five personality test]] has 5 factors: one of them is conscientiousness.
+        - Under conscientiousness in [[Big five personality test]], there is industriousness.
+        - The opposite of industriousness is suffer from the limitation of linguistic - there is no way to positively associate or describe it other than lazy.
+        - The less industriousness person can endure longer period of unemployment.
+        - Under conscientiousness in [[Big five personality test]], there is orderliness.
+        - The opposite of orderliness is suffer from the limitation of linguistic - there is no way to positively associate or describe it other than messy.
+        - extreme orderliness in [[Big five personality test]] will manifest itself as disgust.
+        - [[Big five personality test]] has 5 factors: one of them is openness to experience.
+        - Under openness to experience in [[Big five personality test]], there is intellect.
+        - The opposite of intellect is suffer from the limitation of linguistic - there is no way to positively associate or describe it other than stupid.
+        - Under openness to experience in [[Big five personality test]], there is openess.
+- 21:59
+- 22:56
+    - [[gratitude dairy]]
+        - Although [[Dad]] [[Mum]] [[Grandpa]] and [[Lionel]] has COVID, they seems to have good spirit.
+        - Really focus on fully rest for the day.

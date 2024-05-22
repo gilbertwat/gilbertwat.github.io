@@ -1,0 +1,9 @@
+- 15:00
+    - [[Bonny Sun]] sync up
+        - {{[[DONE]]}}  Ask Bonnie on the withdrawal on Zurich account #[[Family [[finance]]]]
+        - {{[[DONE]]}}  Consider the suggestion of HSBC Life insurance and saving with [[Wifey]]
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - #health #discomfort stuffy nose
+    - #health #discomfort red eyes and swollen tear duct

@@ -1,0 +1,7 @@
+- Author:: [[google.com]]
+- Full Title:: [FS Member Exclusive] Lessons from Rockefeller: The Upside of Patience
+- Category:: #articles
+- URL:: https://mail.google.com/mail/u/0/?fs=1&source=atom#search/rockefeller/FMfcgzGtwMdSNlLvlFWXRQdnlJfMqvCL
+- ### Highlights first synced by #Readwise [[September 1st, 2023]]
+    - Instead of seeing the location as an endless source of wealth, Rockefeller saw it for what it was: a highly profitable yet unsustainable source of income. At some point, he thought, Pithole Creek’s oil wells would run dry and, with it, the profits. Expansion was a must. ([View Highlight](https://read.readwise.io/read/01h97ssjnnwt3pqhqtmd2ay8p5))
+    - But he didn’t make this decision on a whim. For weeks he waited patiently, aligning the chess pieces to ensure maximum success when the company dissolved – securing funding, ensuring Andrews came with, and so on – and, when it was the right time, broke up the business. ([View Highlight](https://read.readwise.io/read/01h97ss7c5q3h9c6jwybt37ek5))

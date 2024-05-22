@@ -1,0 +1,22 @@
+- #[[04 2023]]
+- Watch over [[Theodore]]
+- [[1:1]] with [[Viktor Chan]] on [[[[Preface]] nomad payment enhancement]]
+    - No concrete timeline but realistically 4-6 months
+        - Subjective to change for [[Tommie Lo]]'s direction and input
+    - Suggest we can open up a branch first to see the business model works or not.
+        - Will work with [[Joseph Chan]] on the business conversation
+    - Currently direction will be the more control from us it is more preferable
+    - The portal capabilities
+        - TLDR: No blocking issue for portal to support branch operations
+        - Domain support
+            - Payment ✔️
+            - Scheduling ✔️
+            - Content Discovery & Delivery ⏳
+            - Marketing and Sales toolkit ⏳
+            - CRM ✔️ (Kind of)
+            - Instructor Management ✔️
+            - Notification ⏳
+            - Contracts and Agreements ⏳
+    - Hardware support 
+        - for safety and monitoring issues
+        - Classroom experience improvement

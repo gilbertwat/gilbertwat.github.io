@@ -1,0 +1,19 @@
+- [[OSS [[ideas]]
+    - To run rspec according to dirty / staged file in git
+        - metadata each tests
+            - Caching the file that it passed through
+            - compare with changeset in Git
+    - UX
+        - `rspec --only-diff .`
+- [[Kubernetes]] [[ideas]]
+    - Liveness based on deadlock or not
+        - Why?
+            - shorter feedback loop
+            - Less component to maintain
+        - How?
+            - everytime health check, read logs to grep "deadlock" 
+                - https://coderwall.com/p/lm7-dq/redirecting-stdout-to-terminal-and-a-file-using-tee
+            - set up daemons to kill the file if > 10MB
+        - Concerns
+            - memory footprints
+            - CPU usage increase 

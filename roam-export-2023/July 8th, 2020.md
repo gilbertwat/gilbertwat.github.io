@@ -1,0 +1,5 @@
+- How do you feel when you wake up?
+    - Recharged
+    - Cannot reach alpha wave in meditation, why?
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[Prep 2020 Q3 Engineering QPSM]]

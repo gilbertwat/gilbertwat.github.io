@@ -1,0 +1,49 @@
+- #[[02 2023]]
+- 08:30
+    - [[Meeting]] with [[Andy Lai]] on {{[[DONE]]}}  Ship the Quotation to [[Andy Lai]] of [[Z27]] same as {{[[DONE]]}}  Renew the [quotation](https://docs.google.com/document/d/1rKIuH929uXGjoXW1bwIPrIq-5wcLRUW88rZnt0OLVns/edit)
+        - candidate
+            - curator
+                - career advisors AI
+                    - Daily 
+            - Coaching
+                - Reel (Universal)
+        - Client
+            - AI recommending candidates
+            - Crawler
+        - Job
+        - {{[[DONE]]}}  Renew the quotation on [[December 1st, 2023]]
+- 10:00
+    - [[Tommie Lo]] on [[[[Preface]] Franchise Model]]
+- 11:00
+    - [[Viktor Chan]] on solving the [[[[Preface]] Franchise Model]]
+- Tried [[Nictotine]] Gum
+    - Not very pleasant.
+- 14:00
+    - Not a very productive
+- 16:30
+    - Prepare for [[[[Preface]] [[All Hands [[meetings]]]]]]
+- 17:00
+    - 
+- #health 
+    - Body
+        - {{[[DONE]]}}  #exercise 20 minutes
+            - #smallwins November push up challenge completed
+                - #learning I still need a community to push myself to #exercise
+    - #sleep is bad because of anxiety
+- Choose one to invest in my #career
+    - {{[[DONE]]}}  Reply online for 30 minutes on Linkedin or Twitter.
+        - Contribute on Linkedin and got some success. (4 likes) #smallwins
+            - [https://www.linkedin.com/advice/1/how-do-you-manage-switching-programming-languages?contributionUrn=urn:li:comment:(articleSegment:(urn:li:linkedInArticle:7100528897120755712,7100528899385663489),7135908298721021952)&trk=rtyc]
+            - The first time when I switch my programming language from Java to Javascript was the last phase of interview where I have to contribute for a week (paid of course). I was in Meteor.JS and both the language(Java vs Javascript) and the paradigm(OOP vs Event based) was alien to me. I was able to contribute meaningfully by shipping a feature and managed to secure the job offer.
+
+Since then I believe in 3 things, total immersion, problem based curriculum AND solid understanding of fundamentals can enable you to thrive in any programming language.
+
+Be confident!
+            - #learnings : 
+                - The story is more important than craftmanship of writings.
+                - Relevance is key to getting an reaction.
+                - Compared to the 87 likes and 11 likes one.
+                    - My title is not as good (VISA vs ...[[Preface]])
+                    - Not something I could control. 
+- [[Wifey]] is complaining about I am always anxious about [[Preface]]
+    - A sudden revelation is that I am not anxious about [[Preface]], I am anxious about the stability of [[Family [[finance]]]] as it is my only income sourse

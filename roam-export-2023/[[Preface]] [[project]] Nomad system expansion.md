@@ -1,0 +1,6 @@
+- Research Royalty Programme
+- Research Francisee model
+- The business why
+- Success criteria
+- Model sustainability
+- Input / BAU needed

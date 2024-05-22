@@ -1,0 +1,53 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Read https://alexdanco.com/2020/08/13/rollin-arr-paid-vehicle/
+        - Areas related
+        - #Startup
+        - [[Excerpts]]
+            - One of the important parts of the system is that it’s pretty illiquid. Startups are not like publicly traded stocks; they do not have a price or a public sentiment index that moves up and down with the daily mood. That’s a really important feature. Startups need to maintain a suspension of disbelief over a long period of time in order to create something out of nothing; nothing kills suspension of disbelief like perception of anything going down. So the solution is for that not to happen. Fundraising and valuation steps occur on a discrete schedule, according to the company’s narrative. It’s locked up in the meantime.
+            - FOMO rushing in too fast, because that means it can rush out fast.
+            - The “Rolling Fund” structure, as productized by Angellist, allows a solo GP to set up a fund that accepts commitments from investors on a quarterly basis, rather than raising the fund commitment all at once and then drawing it progressively through capital calls.
+            - Backing an emerging manager is now just as accessible a status symbol as backing a startup.
+            - But in reality, it works in the opposite direction: the combination of rolling fund structure plus social status element of joining as an LP, paradoxically, makes it more important to get your commitment in first.
+            - the social pressure they unlock puts pressure on you to get in first.
+            - status- and social capital- driven social systems to work optimally, they must be opaque.
+            - the social returns to angel investing (and now, rolling fund investing) don’t respond to dilution the same way that financial returns do: follow-on investments don’t dilute your stake, they augment your cred.
+        - {{[[DONE]]}}  Takeaways
+            - Silicon Valley is a community. Each community has its own rules.
+            - Silicon valley is not excepted. Silicon valley is built on persistence and belief. One of the key feature of silicon valley is illiquidity.
+            - Illiquidity so people will be incentivized to stick around longer.
+            - And only by stick around longer can people innovative together and solve huge problems.
+            - Innovation is all about making something really hard into something effortless.
+            - Rolling fund is an innovation that bring VC into "commoners".
+            - And enable people to be the first.
+            - Another traits is one of the social capital, AKA bragging right in silicon valley is  be the first. "I am the first investor of Uber." "I am the first engineer of Airbnb"
+            - And it cannot be diluted. Subsequent round only increase and validate your social capital.
+        - [[🤔 Questions]]
+            - {{[[DONE]]}} What is the social construct of the new Hong Kong?
+            - {{[[DONE]]}} What is the social construct of London / Taiwan / Twittersphere / cryptocurrency?
+    - {{[[DONE]]}} Read https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/ 
+        - #Startup #Investment
+        - Excerpt
+        - {{[[DONE]]}}  Takeaways
+            - commitments $x, for company stock of y%.
+            - Financial books is vital
+            - valuation
+            - pre / post money
+            - preferred stock
+            - market value
+            - liquidity event
+            - The board can change my terms of my options
+        - [[🤔 Questions]]
+            - {{[[DONE]]}} What is pre-money or post money?
+                - [[pre-money]] means valuation before financing, be it [[raising capitals]], [[loans]] or other means.
+                - [[post-money]] means valudation after financing, be it [[raising capitals]], [[loans]] or other means
+            - {{[[DONE]]}}How to prevent this  
+- ((Ua85ewy3A))
+    - {{[[DONE]]}}  Takeaways
+    - 
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}

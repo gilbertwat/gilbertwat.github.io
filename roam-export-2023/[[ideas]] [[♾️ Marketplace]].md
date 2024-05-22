@@ -1,0 +1,7 @@
+- I aim to build an [[♾️ Marketplace]] of ideas around my circle of influence.
+- So far there is some observation of [[♾️ Marketplace]]:
+    - An efficient marketplace depends on the liquidity of goods/services in need
+    - An efficient marketplace also depends on a common currency / IOU
+- How to apply this in [[ideas]]?
+    - Free flow of [[ideas]]
+    - Prestige

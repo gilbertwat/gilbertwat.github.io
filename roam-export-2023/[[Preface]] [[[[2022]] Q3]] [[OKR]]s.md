@@ -1,0 +1,38 @@
+- References
+    - [[[[Preface]] [[[[2022]] Q2]] [[OKR]]s]]
+    - [[[[2022]] Q3]]
+    - [[OKR]]
+    - [[Preface]]
+- # Data & AI
+    - **Improve Coverage of Data Platform**
+        - Complete Data Warehouse (Schedule, Review, Customer)
+            - [[Alexander Li]]
+        - Complete respective Company Dashboards  (Schedule, Review, Customer)
+            - [[Alexander Li]]
+        - Set up Data Pipeline for Customer Acquisition
+            - [[Alexander Li]]
+        - Support RTTP project delivery efforts in data analysis
+            - [[Gilbert Wat]]
+        - Support operations and Feedback to portal development
+            - [[Yoon Kim]]
+    - **Explore Application of Artificial Intelligence**
+        - Demo 3 Proof of Concepts of AI in Content Generation(Transformer), Recommendation and Conversational
+            - [[Alexander Li]]
+- # Software Engineering
+    - **Remove Bottlenecks in the Customer Journey (Preface 2.0)**
+        - Design, implement and roll out our new buy link to all customers
+            - [[Ben Cheng]]
+        - Design, implement and roll out our new customer portal to all customers
+            - [[Ben Cheng]] -> [[Anna Yu]]
+        - Design, implement and roll out credit system for all customers (B2B & B2C)
+            - [[Ben Cheng]] -> [[Anna Yu]]
+        - Execute Migration - [preface.ai](http://preface.ai/) (rebranding)
+            - [[Gilbert Wat]]
+    - **Improve System Reliability**
+        - Maintain Uptime and Latency SLOs for Portal
+        - 0 major disruption to operations of blogs, portal and preface.ai
+    - **Increase Team Capabilities**
+        - Start tech blog with monthly post (July, August, September)
+        - Bi-weekly micro posts about tech team on selected social channels
+        - Hire 1-2 senior engineers
+        - Explore on-call solutions

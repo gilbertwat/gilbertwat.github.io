@@ -1,0 +1,58 @@
+- Author:: [[Edmund Burke]]
+- Full Title:: A Philosophical Enquiry Into the Origin of Our Ideas of the Sublime and Beautiful
+- Category:: #books
+- ![](https://m.media-amazon.com/images/I/414QWb30dEL._SY160.jpg)
+- ### Highlights first synced by #Readwise [[September 15th, 2023]]
+    - it is probable that the standard both of reason and Taste is the same in all human creatures. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=142))
+- ### New highlights added [[September 16th, 2023]] at 1:23 AM
+    - It appears indeed to be generally acknowledged, that with regard to truth and falsehood there is something fixed. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=144))
+    - But there is not the same obvious concurrence in any uniform or settled principles which relate to taste. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=146))
+- ### New highlights added [[September 16th, 2023]] at 1:53 PM
+    - if taste has no fixed principles, if the imagination is not affected according to some invariable and certain laws, our labor is likely to be employed to very little purpose; as it must be judged an useless, if not an absurd undertaking, to lay down rules for caprice, and to set up for a legislator of whims and fancies. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=156))
+    - The term taste, like all other figurative terms, is not extremely accurate: ([Location 158](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=158))
+- ### New highlights added [[September 17th, 2023]] at 9:44 PM
+    - it tends to set the reader himself in the track of invention, and to direct him into those paths in which the author has made his own discoveries, if he should be so happy as to have made any that are valuable. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=169))
+    - But to cut off all pretence for cavilling, I mean by the word taste no more than that faculty, or those faculties of the mind which are affected with, or which form a judgment of the works of imagination and the elegant arts. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=171))
+- ### New highlights added [[October 4th, 2023]] at 3:44 PM
+    - All the natural powers in man, which I know, that are conversant about external objects, are the senses; the imagination; and the judgment. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=176))
+- ### New highlights added [[October 13th, 2023]] at 8:06 PM
+    - The mind of man has naturally a far greater alacrity and satisfaction in tracing resemblances than in searching for differences; because by making resemblances we produce new images, we unite, we create, we enlarge our stock; but in making distinctions we offer no food at all to the imagination; the task itself is more severe and irksome, and what pleasure we derive from it is something of a negative and indirect nature. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=249))
+    - A piece of news is told me in the morning; this, merely as a piece of news, as a fact added to my stock, gives me some pleasure. In the evening I find there was nothing in it. What do I gain by this, but the dissatisfaction to find that I had been imposed upon? ([Location 252](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=252))
+    - These two men seem to have a taste very different from each other; but in fact they differ very little. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=289))
+    - So far then as taste belongs to the imagination, its principle is the same in all men; ([Location 298](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=298))
+    - But notwithstanding this want of a common measure for settling many disputes relative to the senses and their representative the imagination, we find that the principles are the same in all, and that there is no disagreement until we come to examine into the preeminence or difference of things, which brings us within the province of the judgment. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=311))
+    - The cause of a wrong Taste is a defect of judgment. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=340))
+- ### New highlights added [[October 14th, 2023]] at 12:14 AM
+    - But as the arts advance towards their perfection, the science of criticism advances with equal pace, and the pleasure of judges is frequently interrupted ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=366))
+    - by the faults which are discovered in the most finished compositions. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=368))
+    - Men of the best taste by consideration, come frequently to change these early and precipitate judgments, which the mind from its aversion to neutrality and doubt loves to form on the spot. It is known that the taste (whatever it is) is improved exactly as we improve our judgment, by extending our knowledge, by a steady attention to our object, and by frequent exercise. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=373))
+- ### New highlights added [[October 15th, 2023]] at 12:14 AM
+    - it has an appetite which is very sharp, but very easily satisfied; and it has always an appearance of giddiness, restlessness and anxiety. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=394))
+    - People are not liable to be mistaken in their feelings, but they are very frequently wrong in the names they give them, and in their reasonings about them. ([Location 406](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=406))
+- ### New highlights added [[October 16th, 2023]] at 11:14 PM
+    - if the object be so totally lost that there is no chance of enjoying it again, a passion arises in the mind, which is called grief. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=476))
+- ### New highlights added [[October 25th, 2023]] at 10:26 AM
+    - I say the strongest emotion, because I am satisfied the ideas of pain are much more powerful than those which enter on the part of pleasure. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=503))
+- ### New highlights added [[October 27th, 2023]] at 11:14 PM
+    - Pleasure of every kind quickly satisfies; and when it is over, we relapse into indifference, or rather we fall into a soft tranquillity, which is tinged with the agreeable color of the former sensation. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=435))
+    - In short, pleasure (I mean any thing either in the inward sensation, or in the outward appearance like pleasure from a positive cause) has never, I imagine, its origin from the removal of pain or danger. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=450))
+    - because vulgar use has ranged them under the same general title. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=465))
+    - As I make use of the word Delight to express the sensation which accompanies the removal of pain or danger; so when I speak of positive pleasure, I shall for the most part call it simply Pleasure. ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=470))
+    - If it simply ceases, after having continued a proper time, the effect is indifference; if it be abruptly broken off, there ensues an uneasy sense called disappointment; if the object be so totally lost that there is no chance of enjoying it again, a passion arises in the mind, which is called grief. ([Location 474](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=474))
+    - But as pain is stronger in its operation than pleasure, so death is in general a much more affecting idea than pain; ([Location 508](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=508))
+    - The society of the sexes, which answers the purposes of propagation; and next, that more general society, which we have with men and with other animals, and which we may in some sort be said to have even with the inanimate world. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=515))
+    - The object therefore of this mixed passion, which we call love, is the beauty of the sex. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=553))
+    - but absolute and entire solitude, that is, the total and perpetual exclusion from all society, is as great a positive pain as can almost be conceived. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=564))
+- ### New highlights added [[October 28th, 2023]] at 12:14 AM
+    - For sympathy must be considered as a sort of substitution, by which we are put into the place of another man, and affected in many respects as he is affected: ([Location 578](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=578))
+    - I am convinced we have a degree of delight, and that no small one, in the real misfortunes and pains of others; ([Location 593](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=593))
+    - The second passion belonging to society is imitation, or, if you will, a desire of imitating, and consequently a pleasure in it. This passion arises from much the same cause with sympathy. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=638))
+    - To prevent this, God has planted in man a sense of ambition, and a satisfaction arising from the contemplation of his excelling his fellows in something deemed valuable amongst them. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=660))
+- ### New highlights added [[December 3rd, 2023]] at 12:44 AM
+    - The passions belonging to self-preservation are the strongest of all the passions. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=675))
+- ### New highlights added [[December 11th, 2023]] at 12:19 AM
+    - Men often act right from their feelings, who afterwards reason but ill on them from principle; but as it is impossible to avoid an attempt at such reasoning, and equally impossible to prevent its having some influence on our practice, surely it is worth taking some pains to have it just, and founded on the basis of sure experience. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=708))
+- ### New highlights added [[December 17th, 2023]] at 1:34 AM
+    - Astonishment, as I have said, is the effect of the sublime in its highest degree; the inferior effects are admiration, reverence and respect. ([Location 734](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=734))
+    - No passion so effectually robs the mind of all its powers of acting and reasoning as fear. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=737))
+    - For fear being an apprehension of pain or death, it operates in a manner that resembles actual pain. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00A4264TK&location=738))

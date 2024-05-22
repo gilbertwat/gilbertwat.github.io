@@ -1,0 +1,15 @@
+- [[[[2022]] Week 39]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[September 25th, 2022]][[October 2nd, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - {{query: {and: [[decided]] {between: [[September 26th, 2022]] [[October 2nd, 2022]]}}}}
+        - Fixed...
+        - Shipped...
+        - Moved X to <next step>
+            - {{query: {and: [[progress]] {between: [[September 26th, 2022]] [[October 3rd, 2022]]}}}}
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[September 26th, 2022]] [[October 3rd, 2022]]}}}}
+        - I felt generally tired but accomplished throughout the week.
+- [[October 1st, 2022]] at 23:15
+    - https://tails.boum.org/about/index.en.html

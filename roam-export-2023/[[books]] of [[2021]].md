@@ -1,0 +1,16 @@
+- #published
+- The target audience: 
+    - Technologists
+    - [[GOGOX]]ers
+    - Hongkongers
+    - my friends and family
+    - myself a few years after.
+- Why I am writing this:
+    - I promised [[Vincent Lau]] to write it.
+- References:
+    - [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]]
+    - [[[[books]]/The Invention of China]]
+    - [[[[books]]: Arsène Wenger]]
+    - [[[[books]]: Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life]]
+    - [[[[books]]: The Laws of Human Nature]]
+- Delivery

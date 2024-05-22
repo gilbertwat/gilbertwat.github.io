@@ -1,0 +1,15 @@
+- Good
+    - Read book before [[sleep]]
+    - Ask [[Wifey]] how is her life today every time I went into our home.
+- Bad
+    - Scroll information junk food when tired / bored
+        - Why am I doing this?
+            - I am bored and I need stimulation to my brain
+                - What kind of stimulation I need to my brain?
+                    - Creativity
+                    - Strategic Imagination.
+                    - Craftmanship
+                    - Engineering
+- To build
+    - Exercise 45 min per day
+    - Be responsive to IM whenever possible.

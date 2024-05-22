@@ -1,0 +1,18 @@
+- [[[[2022]] Week 46]] review
+    - Projects
+        - [[[[Preface]] [[product]]: Customer Portal]]
+            - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+                - Next week will meet with 
+                - 
+        - [[[[Preface]] [[product]]: Coffee App]]
+        - Set up a clean dataset for our leads / customers [[Yoon Kim]]
+        - [[[[Preface]] tag-based courses [[recommender]] system]]
+            - Integration with Portal
+    - Team matters
+        - [[Tylor Ng]] is considering to resign and will make the final decision on [[November 14th, 2022]]
+            - Give more responsibility and challenge for him.
+    - Bottleneck
+        - Project delivery will be slowed down if [[Tylor Ng]] choose to resign
+    - Decision needed
+        - No at the moment
+        - Refocus on demo practices and vision mapping

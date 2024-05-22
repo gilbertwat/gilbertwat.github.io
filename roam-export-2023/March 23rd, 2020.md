@@ -1,0 +1,6 @@
+- https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers
+    - Daily check-ins
+    - communication technology options
+    - rules of engagements
+    - remote social interactions
+    - encouragement and emotional support

@@ -1,0 +1,58 @@
+- 09:30
+    - {{[[DONE]]}}  Fix [[[[Preface]] [[product]]: Coffee App]] twilio auth token in codebase problem Finished at 13:34 
+- 11:30
+    - [[Jeffrey Chan]] on [[[[Preface]] [[product]]: Coffee App]]
+        - Need expiration date for credits
+        - Voucher used by staff need to be distinguishable from voucher used by corporate customers in POS and coffee app backend
+            - {{[[DONE]]}} need to ask [[Hema Shah]] for POS setup Finished at 15:06 [[November 24th, 2022]]
+        - can be even more scalable if coffee app is used to serve our B2B
+        - White label is optional (Only for consistent clients)
+- 12:50
+    - Lunch
+- 13:30
+    - [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]]
+    - [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+- 14:00
+    - [[1:1]] [[Anna Yu]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Busy, delayed a bit
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+        - Customer interview
+            - Monthly focus group from nomad team
+            - End of January will do second round of customer interview [[January 30th, 2023]]
+        - upcoming
+            - {{[[DONE]]}}  wrap up SG trip with [[Anna Yu]] on [[November 28th, 2022]] 
+                - {{[[DONE]]}}  present findings with leadership team on [[November 29th, 2022]]
+                - {{[[DONE]]}}  present findings with tech team on [[November 29th, 2022]]
+            - 1 on 1 scheduling Phase 4 [[Anna Yu]]
+            - Next quarter planning with me and [[Anna Yu]]
+            - Rollout plan [[Anna Yu]]
+        - Upcoming [[Gilbert Wat]]
+            - Aligned strategy / focus on product with [[Joseph Chan]] as Content team day-to-day is now focus on B2C and tech team would see our business to focus on B2B
+            - Review is not used properly now
+                - Curriculum initially is the PIC
+                    - On the effectiveness of learning and teaching quality (Nomad)
+- 14:30
+    - Prep All hands with [[Yoon Kim]] [[Alexander Li]]
+- 15:00
+    - [[1:1]] [[Alexander Li]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - OK lah
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- 16:00
+    - [[Hema Shah]] on [[[[[[Preface]] [[product]]: Coffee App]] rollout to B2B customers]]
+        - {{[[DONE]]}} need to ask [[Hema Shah]] for POS setup Finished at 15:06 [[November 24th, 2022]]
+        - There is a special item in the POS indicate orders from [[[[Preface]] [[product]]: Coffee App]]
+        - The payment is always 100% off from us.
+- 17:00
+    - All hands
+- 18:00
+    - Meet with [[Inspect Element]] of [[Vincent So]]
+        - First time meeting [[Charlie Mak]]
+            - Make sense
+            - Honest
+- 

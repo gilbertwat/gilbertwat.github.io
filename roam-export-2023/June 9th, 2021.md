@@ -1,0 +1,27 @@
+- [[🤔 Questions]] after [[[[GOGOX]] Project Flywheel]] meeting with [[Steven Lam]]
+    - How can we start as a merchant.
+        - so that we can eat your own dog food
+    - Why do I care? 
+        - Aligned with one of my topic
+            - [[ creator economy]]
+    - Merchant [[🤔 Questions]]
+        - What do I want to sell?
+            - What can I easily source goods?
+            - What can people easily associate me or [[GOGOX]]?
+        - What do my customer want to buy?
+        - Where do my customers
+    - Serendepity
+        - [[Winnie Fung]] introduce https://www.celsius.com/products/ a possible partner for collaborations
+            - #[[🧘🏻‍♂️ Self Awareness]] I am very pleased that I can only my mouth to ask for collaborations.
+                - Let's follow up with [[Winnie Fung]]
+- [[Story Telling]]
+    - https://twitter.com/david_perell/status/1402419976154275847?s=20
+    - Beats is the punch line / catch in your story.
+    - Between each beat there is some linkage.
+    - DO NOT use **and then**
+    - DO use **because** or **but**
+- [[prioritizing efforts to get desirable result]]
+    - How to show you are committed or not committed.
+        - Hiring key team members.
+- [[1:1]] with [[Tom Lui]]
+    - #[[🧘🏻‍♂️ Self Awareness]] I am very happy to guide him to be more aware of people he is talking to has a different priority

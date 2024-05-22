@@ -1,0 +1,3 @@
+- #to read list
+- {{[[DONE]]}} https://hbr.org/2020/03/job-crafting-from-the-outside-in
+    - You are how you help

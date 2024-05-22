@@ -1,0 +1,6 @@
+- Author:: [[Visakan Veerasamy]]
+- Full Title:: A Very Important and Powerful Skill, That for a Long...
+- Category:: #articles
+- URL:: https://x.com/visakanv/status/1701975682941886964?s=12&t=uxArM9ACRONWpV4tjI3W8g
+- ### Highlights first synced by #Readwise [[September 14th, 2023]]
+    - don’t assume that someone is saying something that they didn’t actually say. ([View Highlight](https://read.readwise.io/read/01ha8qnxvpkgg1ecpc5zycx57s))

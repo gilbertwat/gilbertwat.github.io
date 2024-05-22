@@ -1,0 +1,41 @@
+- 
+- 01:00
+    - [[nextjs]] conf
+- 09:30
+    - Work on {{[[DONE]]}}  #finalized Phase 2 design Finished at 15:21 [[November 7th, 2022]]
+        - Liaslie photos suggestion to leaders
+        - Comment on the design
+- 10:30
+    - {{[[DONE]]}}  #published collage of [[Theodore]] teaching me how to code Finished at 18:25 [[October 26th, 2022]]
+        - https://opensource.com/article/21/9/photo-montage-imagemagick
+        - 
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Content
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - #decided to go to implement and integrate the current model
+                - To have a first data point for a complete deployment of [[AI model]]
+                    - facilitate subsequent [[AI model]] planning
+            - #decided will spend 1-2 days in-between implementation of [[AI model]]s to explore solutions to deploy new AI model faster.
+        - What is my top of my mind since our last 1:1?
+            - [[Hema Shah]] might be a bit faan to [[Connie Sze]]
+            - Not enough context to devise good enough solution
+                - For example: Category in Courses
+                - Courses is very troublesome
+- 16:30
+    - [[1:1]] [[Ben Cheng]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Tranquil
+            - Maybe need a break
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+            - [[Tylor Ng]] onboarding
+                - How to keep him challenged
+        - What is my top of my mind since our last 1:1?
+- 18:00
+    - Work on {{[[DONE]]}} Compile a minimal version of [[[[[[Preface]] [[product]]: Coffee App]] onboarding document]] Finished at 10:40 [[November 17th, 2022]]
+        - Dependency found: {{[[DONE]]}}  Create necessary postman collections Finished at 15:22 [[November 27th, 2022]]
+- 18:30
+    - {{[[DONE]]}}  Add 1-3 permanent notes from [[October 20th, 2022]] Finished at 18:30 [[October 26th, 2022]]

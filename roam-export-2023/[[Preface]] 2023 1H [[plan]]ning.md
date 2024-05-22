@@ -1,0 +1,20 @@
+- Goals
+    - LTV
+    - MAU / DAU
+    - ARR
+    - Operational cost
+- Team
+    - [[Ben Cheng]]
+        - Development Budget on English
+    - [[Anna Yu]]
+        - Development Budget on Product Management
+    - [[Gemmy Wong]] (Contractor)
+    - [[Moses Ngan]]
+    - [[Jeffy Fung]]
+    - [[Cheryl Lai]]
+    - [[Akash]]
+    - [[Alexander Li]]
+    - [[Yoon Kim]]
+- Timeline
+    - https://docs.google.com/spreadsheets/d/1NK8Lzjm4kN8OXrpJvCak2ywZma3rqx5HC_CvKkuxSCg/edit#gid=115802687
+- Risk

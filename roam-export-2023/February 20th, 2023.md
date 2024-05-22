@@ -1,0 +1,6 @@
+- [[Alex Li]] resigned
+- [[Theodore]] birthday!
+- [[gratitude dairy]]
+    - [[Mum]] came to visit [[Theodore]] 
+    - [[Wifey mum]] came to visit [[Theodore]]
+    - Had a big party with [[Theodore]].

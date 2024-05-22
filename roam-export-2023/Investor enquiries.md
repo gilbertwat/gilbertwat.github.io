@@ -1,0 +1,51 @@
+- Who? 
+    - MindWork
+        - I am looking into the portfolio of mindwork and their team experience, here could be some companies that they will compare us with.
+        - https://www.makewonder.com/ <---EdTech
+        - https://classpass.com/ <--- Salon booking
+        - https://sandboxvr.com/ <---- VR experience
+        - https://www.grana.com/ <---- EComm Fashion
+        - https://qupital.com/ <--- FinTech for EComm
+        - The founder is on advisory of family office in media company.
+        - https://employers.glints.sg/ <--- Recruitment / Training
+- Technology
+    - EComm / FinTech / Media / EdTech / SaaS / Offline experience
+- Tone
+    - Peer, see if there is a match.
+- Pitch
+    - Main takeaway
+        - Vision
+            - Fast and verified technology education content for you.
+            - immersive tech education experience and journey
+                - Web3 on-chain journey record, learn in your style and pace.
+        - Scalability
+            - Techbites
+                - global 24/7 delivery on tech education content
+                - Streamlined nomad training and supply
+                - 0-1 for the FOMO of technology advancement in B2B market
+                    - Now we need to scale and engineer the experience
+            - Booking
+                - Global delivery of offline experience
+                - Global 24/7 delivery of online in-person experience
+    - Demo
+        - Currently will be booking our classes (ClassPass) with recommendation engine (2-3min)
+            - PWA with recommended courses for you 
+        - Short term development in Q2 (Demo) (5-10min)
+            - App
+            - Credit system
+            - Multiple recommendation system
+            - On the spot review
+            - Techbites
+- Red flag
+    - "We are an educational institution with a booking app" (wework trap)
+- **Investor learning**
+    - Do have a funnel of VCs
+    - Do research of the VC and have a percentage pf continuous conversation. and even success.
+    - listen to what the need, Mindwork looks for the vision and energy and product, esquel look for "technology" in retail AKA recommendation system.
+    - Share your passion with the projects.
+    - Identify the key asset of the business and have a metric to account for them, and recite them
+    - Do not afraid of silence, it can be a sign of thoughtfulness and in control.
+    - Do afraid of you don't have the specific numbers. It can be a sign of introspection to improve the next time.
+    - **#Preface specific**
+    - We need a metric of our "digital asset" - content
+    - We need a generative AI narrative.

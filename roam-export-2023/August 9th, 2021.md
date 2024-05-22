@@ -1,0 +1,61 @@
+- 9:15 - 09:45 What is your meme today?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FpIT0dfzuEc.jpg?alt=media&token=69db9bec-d8a4-48d3-b510-e7d5070f5ae6)
+- 9:45 - 10:30 What is the coding you have done for 120 minutes?
+    - [[[[GOGOX]] Project Flywheel]]
+        - Integrated auth0
+    - [[Distraction]]
+        - [[Jordan B. Peterson]] youtube https://www.youtube.com/watch?v=wNjbasba-Qw
+- 10:30 - 10:45 #[[💦 Workout]] today for 45 minutes of [[Pull]]
+- 10:45 - 11:30 What is the coding you have done for 120 minutes?
+    - [[[[GOGOX]] Project Flywheel]]
+        - To find
+    - [[Distraction]]
+- 11:30 - 12:00 Think about [[Preface Coding]] questions
+    - What is your thinking of [[Preface Coding]] interview? Respond to [[Joanne Chan]]
+    - #[[🧘🏻‍♂️ Self Awareness]]
+        - What is the worst case scenarios? #risk
+            - 1. Lose my or [[[[people]] I care]]'s freedom to speak, act and move
+                - Risk
+                    - [[short term (3-6m)]] : low
+                    - [[mid term (6-18m)]]: medium
+                    - [[long term (18-36m)]]: medium
+            - 2. Lose of my or [[[[people]] I care]]'s health
+                - Risk
+                    - [[short term (3-6m)]] : low
+                    - [[mid term (6-18m)]]: low
+                        - [[Grandpa]]: medium
+                        - [[八叔公]]: medium
+                        - [[十姑婆]]: medium
+                    - [[long term (18-36m)]]: medium
+                        - [[Grandpa]]: high
+                        - [[八叔公]]: high
+                        - [[十姑婆]]: high
+            - 3. Lose of Livelihood
+                - Possibilities of scenarios
+                    - Losing access to a free internet
+                    - Losing access to a computer
+                    - Lose of my or [[[[people]] I care]]'s health OR Lose my or [[[[people]] I care]]'s freedom to speak, act and move of myself
+                - Risk
+                    - [[short term (3-6m)]] : low
+                    - [[mid term (6-18m)]]: low
+                    - [[long term (18-36m)]]: medium
+            - 4. Lose of Savings
+                - HKD is no longer valuable
+                    - [[short term (3-6m)]] : low / less volatile
+                    - [[mid term (6-18m)]]: low / volatile
+                    - [[long term (18-36m)]]: low / volatile
+        - Will this contribute to the demise of [[Myself]]?
+            - I am stuck without any new achievement and innovation in [[long term (18-36m)]]
+- 13:30 - 14:00 Cont. 11:30 - 12:00 Think about [[Preface Coding]] questions
+- 14:00 - 14:20 Nap
+- 14:20 Cont. 11:30 - 12:00 Think about [[Preface Coding]] questions
+- [[Lower back spasm]] stretch
+- 15:00 Interview with [[[[Backend]] [[software engineer]]]]
+    - parameter in chat bot
+    - [[Microservices]] build time
+    - Python
+    - Developer speed
+    - sync and async
+- 17:30 Hair-dressing [[Miki]]
+    - Ask [[[[GOGOX]] Project Flywheel]] for [[IG Shop]] owners from [[Miki]]
+        - Failed

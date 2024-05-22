@@ -1,0 +1,12 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- What kind of joke I can make?
+- [[Belda Chan]] is complaining the treatment in [[GOGOX]] on the [[recognizing contributions of teammates]]
+- [[1:1]] with [[Franco Solis]]
+    - Asked about QA
+        - Automation is needed to help QA as he observes QA is working their ass off.
+        - Not sure QA has any direction, has long term improvement
+        - [[Paul Leung]] has introduced a lot of processes
+- [[organizing a party]]
+    - Remember to invite everyone and create a group for that.

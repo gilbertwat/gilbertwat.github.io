@@ -1,0 +1,7 @@
+- A 
+- Possibly a relator
+    - 倉鼠
+    - 6-9pm is very turned on.
+    - Need to talk technical
+    - 
+- 

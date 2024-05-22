@@ -1,0 +1,17 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[[[books]]: The Laws of Human Nature]] Recap Ch 1.
+- Rejected by Clover Health 😞 
+- [[1:1]] with [[Fu-Ming Tsai]]
+- [[1:1]] with [[Tom Lui]]
+    - [[Ming Tse]] wants to change the logic in the [[Dispatch Window]] to meet one of the KPIs (Lower cancellation rate) without consulting him
+    - Feel step into the responsibility (turf) of him
+    - There is no communication between [[Ming Tse]] and [[Tom Lui]]
+        - Overlapping responsibilities
+            - Driver experience AND driver operation has
+    - Personal suggestion:
+        - Clear-cut responsibilities cut from today.
+        - Don't assign KPIs that cannot be completed by 1 party to any 1 party.
+    - How to deliver it?
+        - Unknown 😅

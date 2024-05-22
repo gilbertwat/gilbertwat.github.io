@@ -1,0 +1,6 @@
+- What went well?
+    - Aspect?
+- What went wrong?
+    - Aspect?
+- What can I improve?
+    - Aspect?

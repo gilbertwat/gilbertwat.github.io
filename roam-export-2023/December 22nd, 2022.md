@@ -1,0 +1,21 @@
+- 09:30
+    - This is the third version of my note taking journey.
+    - Why do I want to start fresh?
+        - The note taking journey is not as productive as I want.
+    - Why do I want to take notes?
+        - To be able to make [[better decision]]s.
+            - In order to do so, I need to digest all the information and retain hard knowledge effectively.
+        - To be able to [[execute]] flawlessly.
+            - In order to do so, I need a system so that my mind can focus or zoom out without losing sight.
+        - To be able communicate concisely.
+            - In order to do so, I need a system to collect relevant information, process them and output them in a good format.
+                - #challenges I need a good way to produce beautiful slides and deck or presentation with the draft here.
+    - #SmartBlock 1 on 1
+        - What is your mood recently?
+        - Do we have some recurring topics on professional development?
+        - How well do you perform?
+        - How do I perceive your performance?
+        - Let's align and plan ahead.
+- 10:30
+    - {{[[DONE]]}}  write about [[2022 review]]
+    - {{[[DONE]]}}  write about [[2023 plan]]

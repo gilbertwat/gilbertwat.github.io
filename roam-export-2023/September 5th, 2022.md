@@ -1,0 +1,67 @@
+- # [[Week 36]] Goals
+    - {{[[DONE]]}}  Ship [[[[Preface]] Seamless Buy Link]] MVP
+    - {{[[DONE]]}}  [[Ken Chow]] ultimatum
+        - {{[[DONE]]}}  Develop communication plans
+    - {{[[DONE]]}} #[[carry over]] [[[[2022]] Week 37]] [[Preface]] [[data warehouse]] showcase Finished at 15:02 [[October 3rd, 2022]]
+        - {{[[DONE]]}} [[Alexander Li]] will ship v1 first on [[September 9th, 2022]] -> [[September 16th, 2022]] Finished at 15:02 [[October 3rd, 2022]]
+    - # Projects that need time | Overdued
+        - [[Gilbert Wat]]
+            - Investment
+                - {{[[DONE]]}} Consider if I want to get a master degree online https://omscs.gatech.edu/apply-now to increase the chance of getting a good job when I have to migrate Finished at 11:21 [[November 17th, 2022]]
+        - [[Preface]]
+            - Building teams
+                - {{[[DONE]]}}  Find talent to improve [[[[Preface]] [[product]]: Coffee App]] Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Find contractor to update our coffee app to support some new functionalities. Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}} Find talent to build [[Preface]] metaverse experience Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Resolve responsiblities of tools that has no responsible person 
+                    - {{[[DONE]]}}  wix site for AP
+                    - {{[[DONE]]}}  learnworld is [[Ellen Lau]] 
+                    - {{[[DONE]]}}  shopify is [[Mandy Ng]]
+                    - {{[[DONE]]}}  passkit is [[Kenneth She]]
+                - {{[[DONE]]}} Decide with [[Vegas Ho]] on Lok's answer #[[transformative activity]]
+                - Come up with sharing session format
+            - Outsourcing
+                - {{[[DONE]]}}  Find good enough loyalty program SaaS to kick start [[[[Preface]] membership scheme]] Finished at 11:12 [[November 17th, 2022]]
+                - {{[[DONE]]}} Scheduling software sourcing Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}} Try to ask a meta engineer to join as nomad. Finished at 11:20 [[November 17th, 2022]]
+            - Building company
+                - {{[[DONE]]}}  Can get SIlvia and Annie and Vegas to help write tagline for our packages with [[Anna Yu]] and [[Ken Chow]] [[[[Preface]] 2.0]]
+            - Strategy
+                - {{[[DONE]]}} [[[[tokenomics]] of [[Preface]]]] Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  [[Alexander Li]] for [[Preface data strategy from 2022 Q4 onwards]]  Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Find the cost of building a metaverse coding class experience Finished at 11:09 [[November 17th, 2022]]
+                - {{[[DONE]]}} [[[[Preface]] Pre-Series B plan]] Finished at 11:20 [[November 17th, 2022]]
+            - Research
+                - {{[[DONE]]}} Find out which course is the hottest with a certain set of customers?   Finished at 11:09 [[November 17th, 2022]]
+                - 
+            - Execution
+                - {{[[DONE]]}} [[Alexander Li]] To enhance the list of contents with education related websites   Finished at 11:10 [[November 17th, 2022]]
+                - {{[[DONE]]}}  Spec membership to outsource to designer and developer Given up at 10:57 [[October 10th, 2022]] as there is directional changes
+- 09:00
+    - {{[[DONE]]}}  Health check [[[[Preface]] Seamless Buy Link]] with [[Ben Cheng]] #chores
+        - Done a few code reviews
+        - [[Ehsan Ayaz]] apparently has a lot of remembering issue.
+- 10:42 
+    - [[Hema Shah]] reminder reveal a better coordination with [[community excellence team in [[Preface]]]] and [[nomad training team in [[Preface]]]] #[[draining activity]]
+        - #progress on the coordination of departments can be by sharing the initiatives we are asking the 
+- 11:10
+    - out with [[Theodore]] #[[restive activity]]
+- 14:26
+    - Back to work
+        - {{[[DONE]]}}  Share https://www.smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/ with the team for creating [[data grid]] in [[frontend]] #javascript .
+        - {{[[DONE]]}}  https://davidwalsh.name/monitorevents
+        - {{[[DONE]]}}  Read and think how to apply the insight in https://staltz.com/time-till-open-source-alternative.html
+        - {{[[DONE]]}}  Read https://davidwalsh.name/being-a-dev-dad
+- 17:00
+    - [[Theodore]] feeding and bathing #chores
+- {{[[DONE]]}} Test out https://github.com/riggraz/astuto to collect customer feedback for [[Preface]] #[[restive activity]]
+- {{[[DONE]]}}  Preparing the [[hard conversation]] with [[Ken Chow]] #[[draining activity]]
+    - Read https://hbr.org/2020/03/firing-with-compassion
+    - Read https://hbr.org/2019/01/how-to-decide-whether-to-fire-someone
+        - If you are thinking about [[firing]] someone consider if the person is in your ideal [[ideal team]]
+        - If you are thinking about [[firing]] someone consider if you will pick up the fight to keep them.
+        - If you are thinking about [[firing]] someone consider if you will hire him in the first place.
+        - Think about the root cause of the employee's [[under performance]]
+        - [[under performance]] could be the lack of supervision.
+        - [[under performance]] could be the lack of training.
+        - [[under performance]] could be the [[expectation]] is not set clearly.

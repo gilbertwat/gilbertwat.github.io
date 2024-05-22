@@ -1,0 +1,33 @@
+- 14:00
+    - [[Ellen Lau]] [[1:1]]
+        - Head of nomad management
+            - Already using Zapier to automate some of the workflow within departments
+        - Personal
+            - Care above the growth of the teammates
+            - Agreeable is high
+        - [[Expectation of a [[Preface]] tech team]]
+            - Tech should be helping them to automate some of the work
+- 15:30
+    - [[Kenneth She]] [[1:1]]
+        - COO
+            - Supervising the team of [[Ellen Lau]] and [[Billy Wong]]
+        - [[Expectation of a [[Preface]] tech team]]
+            - tech training for our staff on new tools that we are using
+            - Provide realistic expectation for technology
+            - Technology acquisition strategy
+            - Fear of changes because there is too much unknown in technology
+- 16:30
+    - [[Vegas Ho]] [[1:1]]
+        - [[Perceived team dynamic]]
+            - similar problems with [[GOGOX]]
+                - Slow decision of many stakeholders
+                - Loving
+                - No [[Performance Improvement Plan]]
+            - New problems
+                - Too academic about technology.
+            - Talk about tactics to improve
+                - decision making speed
+                    - influence again about document based communication and 
+- 17:30 [[Ronald Kwok]] Solana Research on [[[[Preface]] [[NFT]]]]
+    - Airdrop vs minting
+    - What is a collection????

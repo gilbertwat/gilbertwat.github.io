@@ -1,0 +1,48 @@
+- Output of {{[[DONE]]}}  Read https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
+- reference: https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
+- Define impact
+    - business clarity
+        - Analytical Systems (Make data-informed decision)
+            - sales / marketing campaign efficiency
+            - churn rate
+        - Operational Systems (Make data-powered products)
+            - usage of services
+            - customer success
+            - Machine Learning
+- BI
+    - Application and operation
+        - Application Database (NoSQL or SQL)
+        - Social Media Exposure
+        - Calendar
+        - CRM
+        - Sales figures (Payment gateways)
+    - Ingestion Pipeline
+        - Airflow
+    - Storage (And analytics)
+        - Data Lake
+        - Data warehouse
+    - Transformation
+    - Analytics and output
+        - Dashboard on data warehouse / data lake / application database
+    - Not needed?
+        - Streaming data processing?
+        - Data discovery and prototyping?
+- Machine Learning
+    - pre-trained models
+    - ML
+    - DL
+    - RL
+    - Notebooks
+    - Monitoring
+    - Online Model Server
+    - Distributed Processing
+    - Not needed?
+        - Feature Store
+        - Feature Server
+        - Model Registry
+        - Complier
+        - Validator
+        - Auditor
+        - Experiment Tracking
+    - Need exploration
+        - Vector database?

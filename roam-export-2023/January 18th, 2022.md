@@ -1,0 +1,74 @@
+- 08:35 
+    - [[[[Preface]] Coding]] Leadership team meeting
+        - CNY bootcamp
+        - [[PTCP: Preface Technopeneur Program]]
+        - #Important message about [[[[product]] strategy]] of [[Preface]]
+            - #implicit Head of Product actually is [[Tommie Lo]]
+            - What is [[Preface]]
+                - A tech-enabler (tech education) company
+                    - Whatever we do we are focusing on this
+                - Membership system
+                    - Improve the retention and loyalty of the core business and strength
+                - After all we are creating exclusivity and top of the hierarchy
+                    - {{[[DONE]]}} How to blend in the seemingly contradicting vibe of open source culture and the prestige that [[Preface]] is trying to build?
+                        - Can [[Preface]] be the implicit connection between up and coming and the incumbent?
+                        - What is silicon valley mindset?
+                            - Speed, competence, acceptance of failure
+                        - What is [[my]] culture?
+                        - What is [[bitcoin]] or [[ethereum]] culture?
+            - Updates on #culture is very hands-on and collaborative in the leadership team.
+                - Seems the team needs more time to jam more to be truly collaborative in ideas
+                - The current #culture of collaboration is very work level, project based for now.
+- 10:00 [[2022 Tech Plan [[Preface]]: High level]] formulation
+    - Clean up 16:30 Project overview with [[Carmen Yeung]] and afterwards [[Hema Shah]]
+- 12:30 Lunch with the team
+    - Preliminary sharing with the team
+        - To put feature flags as the first priority
+    - Comments in the team
+        - [] on #[[unresolved challenges]] in solving the reliability issues of Coffee App
+            - Ask Ambrose to put the POS app on foreground in the shop
+        - #[[unresolved challenges]] change weekly goal mid week
+        - stack rank the backlog
+        - Always loop in engineers effort into any major decision making process
+        - Documentation about internal photos for internal stakeholders
+        - Sort out AI projects goals
+        - Enable the scale data pipeline as that someone inside
+        - expected tech driven
+        - focus coding or design or product feature
+        - Devops
+        - Murky split of responsibility
+        - action on feedback
+        - 同事好好
+        - First job 
+        - experiencing startup company success journey
+        - Frank culture
+        - Closiness 善良
+        - buy in vision cant be personalized
+    - Understand more about the team
+        - [[Ronald Kwok]]
+            - ex-HK01
+            - eClass development experience
+        - [[Alexander Li]]
+            - Teacher before
+        - [[Moses Ngan]]
+            - First job out of colleges
+        - [[Ehsan Ayaz]]
+            - First job out of colleges
+- 14:30 [[Aaron Lai]] Handover meeting 1
+    - Pre
+    - Code Magic
+    - Twillio Error handling + switch to HK phone number
+    - Google CP
+    - Moses -> super admin god account ([product.tech@preface.education](mailto:product.tech@preface.education))
+    - To put feature flags as the first priority is blocked before and it is because leadership team is not bought in.
+        - My guess is about the angle of influence, I need to share this in an executive speak.
+    - Story estimation with
+    - Hema [[->]] communication with Vendor
+    - Person In Charge
+    - Cc Eat365 to email
+    - Moses & Ehsan is not very technical Heroku. Not enjoy the job.
+- 16:00 [[1:1]] with [[Ronald Kwok]]
+    - Recognized [[Hema Shah]] is trying to help, but she has too many works on plate, which is very very good.
+        - {{[[ARCHIVED]]}} Next step for repairing their relationship
+            - Start every sentence with, "From my understanding, you mean .............., am I right?"
+    - #[[fulfilling commitments]] Promised to be able to make sure we are investing to technology sensible in my tenure until I quit [[Preface]]

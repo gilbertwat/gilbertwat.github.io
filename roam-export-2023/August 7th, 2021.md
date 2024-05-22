@@ -1,0 +1,3 @@
+- {{[[DONE]]}} share https://mike.zwobble.org/2021/08/side-projects-vs-industry/ to [[GOGOX]] 
+- [[Preface Coding]] questions still
+    - I am looking for a significant % of 

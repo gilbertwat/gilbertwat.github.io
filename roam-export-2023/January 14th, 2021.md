@@ -1,0 +1,32 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Story Telling]]
+    - Vision -> Scale -> We are the team to do it.
+    - Re-educating
+    - Radical Candor on the opportunities
+    - How the world is working right now
+    - What if the world has Xproblem solved?
+        - Marketing expanded x10
+    - Competitor are doing this wrong to solve X problem.
+        - Why they failed?
+        - Understand **core** competitors, very importants
+    - Unique insight
+        - The X problem is complex
+    - How can we execute?
+        - Pre seed
+            - Team and early metrics
+        - Series A
+            - ROI, Sales cycle,
+    - Who are you and you can avoid / solve problem?
+    - Business roadmap
+- [[Infrastructure team]] weekly meeting
+    - {{[[DONE]]}} Share project plan with [[Ben Lin]]
+- [[Infrastructure team]] [[SLO]] [[meetings]]
+    - Add public API to SLO list
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

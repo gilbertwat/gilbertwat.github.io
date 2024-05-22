@@ -1,0 +1,6 @@
+- Author:: [[Spencer Mortensen]]
+- Full Title:: The typographic scale
+- Category:: #articles
+- URL:: https://spencermortensen.com/articles/typographic-scale/
+- ### Highlights first synced by #Readwise [[August 16th, 2023]]
+    - The classic typographic scale is a collection of font sizes that are in visual harmony. A typographer chooses sizes from a typographic scale in the same way that a musician chooses notes from a musical scale. ([View Highlight](https://read.readwise.io/read/01h7wz17gzh7dykgxqzpqhfckw))

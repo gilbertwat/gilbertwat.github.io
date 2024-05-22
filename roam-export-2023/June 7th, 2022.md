@@ -1,0 +1,55 @@
+- 08:39
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Questions
+            - How are we capitalizing our page view?
+            - What is my customers? What is my "paying" customers? [[Business Ideas]]
+            - Zoom in in Registation Trend
+                - Uptick in weekday of?? How are we capitalizing it?
+            - 6-10 of ages seems very good sales
+            - Sales tactic this week
+                - ~200 customers convert to annual pass
+        - Insights
+            - {{[[DONE]]}}  Extend discount code to Friday for all following discount code
+            - Cross team collaboration
+            - July
+                - Meta campaign
+            - August
+                - IWC campaign
+            - Competition and hurdles of sales
+                - Music instruments classes?
+                - Flexible schedule
+            - Separation of scope of work
+                - An unclear one is the scope of "Summer Squad"
+                    - Annual pass or experience day squad?
+        - Updates
+            - The annual pass will be a company focus
+            - Scope of Work
+- [[[[[[Preface]] tech team]] weekly meeting]]
+    - Insights on [[[[Preface]] [[[[2022]] Q2]] [[OKR]]s]]
+        - Very good on internal team efforts
+        - A lot of work cannot be captured
+        - Very slow on cross team efforts except with product team
+            - For example 
+                - KR1 Reduce manual maintanence of content recommender system to 0 [[Ehsan Ayaz]]
+        - A lot of explanation for vague OKRs
+            - For example KR1 Comply to audit and legal requirement [[Moses Ngan]]
+- reRead https://hbr.org/2020/01/the-elements-of-good-judgment?utm_source=pocket_mylist 
+- [[1:1]] [[Tommie Lo]] on Data
+    - https://datastudio.google.com/s/t280k9KHJYU sharing
+    - quite approved
+- [[[[Preface]] 2.0: credit system]] competitors or references
+    - https://www.getsmarter.com/why-getsmarter
+    - www.enki.com
+    - masterclass.com
+- [[[[Preface]] 2.0: credit system]]
+    - Subscription
+        - How to cater existing clients?
+    - Monthly auto-recurring payments for receiving credits
+        - {{[[DONE]]}}  Stripe????
+    - Top-up option for add-on credits and experience
+        - {{[[DONE]]}}  Stripe????
+    - How to measure success?
+        - Expand customer segment
+        - Shorten nurturing cycle
+        - Liberate tech savviness
+- {{[[DONE]]}}  Loom for company dashboard

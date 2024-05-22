@@ -1,0 +1,13 @@
+- Writing courses
+    - [[Ninja Writing]]
+- My market: 
+    - Myself
+- {{[[kanban]]}}
+    - [[ideas]]
+        - 
+    - Drafts
+    - Published
+        - [[The nature of money]]
+        - [[How do we apply sensible microservice architecture in GOGOVAN]]
+        - [[Memento: After my bicycle crash]]
+        - [[6 shades of project management tools - Which one should I use?]]

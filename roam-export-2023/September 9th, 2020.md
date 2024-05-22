@@ -1,0 +1,25 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} Offboarding video from [[Patrick Kim]]
+        - Global and local
+        - Constraint
+        - A lot of competition and frontline
+        - Build 
+        - Speed is Key
+        - Organic growth > paid when the product is not 
+        - Call > App
+            - Why?
+                - Maybe...
+        - Marketing input vs Outcome
+        - Grow linearly
+        - Focuses
+        - Product + Marketing
+        - Bringing adjacent industry to this
+        - Local traditional
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FwX5nSj1DCY.png?alt=media&token=7410676d-6d37-496d-a923-0c31b0300926)
+    - {{{[[DONE]]}}}} Write [[6 shades of project management tools - Which one should I use?]]
+- How do you feel when you wind down?
+    - {{slider}}

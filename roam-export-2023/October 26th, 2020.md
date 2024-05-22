@@ -1,0 +1,85 @@
+- Always radiate your gratitude and good vibe;
+- There is always hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - 7 hours of [[sleep]] without alarm on a holiday, schön!
+- #Notes Read https://matthiasott.com/notes/lateral-thinking-with-withered-technology 
+    - Topics
+        - #[[🏗️Technology]]
+    - [[Excerpts]]
+        - Yokoi was sure that once users were playing a game with the gameplay good enough to be fully drawn in, they wouldn’t care at all about technical details like screen resolution or colors.
+        - Yokoi removed barriers to entry for both developers and users. As a result, with more than 118 million units sold, the Game Boy became the most successful game console of the 20th century.
+        - A route that puts the user and the experience first. A route of inventing new products not by using the latest technology available but by applying and combining existing technology in new ways and contexts.
+        - building accessible, performant, resilient, and original experiences for a wide audience of users on the Web.
+    - {{[[DONE]]}}  Takeaways
+        - User need accessible technology.
+        - User need performant technology.
+        - User need resilient technology.
+        - User need to experiences originality in technology.
+        - User and the experience before the technology.
+- #Notes Read https://twitter.com/gergelyorosz/status/1319699922313240576
+    - Topics
+        - #[[🔢 Software Development]] #[[Software [[design]]]]
+    - Excerpt
+        - Ledger is there is no money created, money in === money out
+    - Takeaways
+        - Ledger is the tracking system of money.
+        - In accounting, money in === money out.
+- #Thinking [[focus]] is all about intention. If you are clear about your intention of doing something and try to do it in 1 go.
+- #Thinking A shorter and smaller task is easier to [[focus]] than a giant and big projects.
+- #Thinking Gamers has a lot to offer in a startup world.
+- #Thinking The OODA loop is crazily fast for gamers
+- #Notes Read https://jvns.ca/blog/answer-questions-well/ 
+    - Topics
+        - #[[☝🏻 Leadership]] [[asking good questions]]
+    - Excerpt
+        - **Rephrase a more specific question** back at them (“Are you asking X?”)
+        - **Ask them for more specific information** they didn’t provide (“are you using IPv6?”)
+        - **Ask what prompted their question**. For example, sometimes people come into my team’s channel with questions about how our service discovery works. Usually this is because they’re trying to set up/reconfigure a service. In that case it’s helpful to ask “which service are you working with? Can I see the pull request you’re working on?”
+        - Figuring out what your question-asker knows already is important
+        - Often I find things at work by searching for some Specific Keyword that I know will find me the answer.
+        - Writing documentation sometimes takes more time than just answering the question, but it’s often worth it! Writing documentation is especially worth it if:
+        - a. It’s a question which is being asked again and again b. The answer doesn’t change too much over time (if the answer changes every week or month, the documentation will just get out of date and be frustrating)
+        - If the person asking you is trying to learn how things work, it’s helpful to:
+            - Walk them through how to accomplish a task instead of doing it yourself
+            - Tell them the steps for how you got the answer you gave them!
+        - So don’t be condescending, and remember that the person asking may actually want to do X for reasons that you don’t know about!
+        - I always like to check in after I __think__ I’ve answered the question and ask “did that answer your question? Do you have more questions?”.
+        - I think especially if someone is really stuck on how to get started on a task, pair programming for a few minutes can really help, and it can be a lot more efficient than email/instant messaging.
+    - Takeaways
+        - How to deal with unclear question? Depending how well you and the questioner share context, there are a few tactics that can make sure you can provide values.
+            - Ask to clarify a specific information.
+            - Ask to clarify a more specific question.
+            - Ask to clarify why the questioner ask such questions.
+        - Make sure we are in the same context with the questioners.
+        - Make sure to be kind.
+        - Close the session with "Do I answer your questions?" "Anymore questions?"
+        - Offer to pair program or video chat.
+- #[[Bible]]
+    - “These six things doth the Lord hate: yea, seven are an abomination unto him: A proud look, a lying tongue, and hands that shed innocent blood, An heart that deviseth wicked imaginations, feet that be swift in running to mischief, A false witness that speaketh lies, and he that soweth discord among brethren.”
+- ‭‭Proverbs‬ ‭6:16-19‬ ‭KJV
+- #Government #Thinking
+    - ‬‬The problem of the current government is it is too slow. Performance is a feature and computer game is **very fast**. The pace of government that have trouble is that it is too slow to evolve
+- #[[ideas]]
+    - Sell towel
+- #Notes Read https://staffeng.com/guides/work-on-what-matters
+    - Topics
+        - #[[☝🏻 Leadership]] [[prioritizing efforts to get desirable result]]
+    - Excerpt
+        - Only through [pacing your career to your life](https://lethain.com/forty-year-career/) can you sustain yourself for the long-term.
+        - increasingly senior roles require that you accomplish more and more, and do it in less and less time.
+        - Hunter Walk recommends that folks [avoid “snacking”](https://hunterwalk.com/2016/06/18/the-best-startups-resists-snacks-im-not-talking-about-food/) when they prioritize work. If you’re in a well-run organization, at some point you’re going to run out of things that are both high-impact and easy. This leaves you with a choice between shifting right to hard and high-impact or shifting down to easy and low-impact. The latter choice--easy and low-impact--is what Walk refers to as __snacking__.
+        - Preening is doing low-impact, high-visibility work. Many companies conflate high-visibility and high-impact so strongly that they can’t distinguish between preening and impact, which is why it’s not uncommon to see some companies’ senior-most engineers spend the majority of their time doing work of dubious value but that is frequently recognized in company meetings.
+        - As a senior leader, you have to maintain a hold on your ego to avoid investing into meaningless work at a grand scale. This can be surprisingly challenging when during your hiring process you’ve been repeatedly told that you’ve been hired to fix something deeply broken -- you’re the newly-hired savior, of course your instincts are right! Taking the time to understand the status quo before shifting it will always repay diligence with results.
+        - Instead, the most effective places to work are those that matter to your company but still have enough room to actually do work. What are priorities that will become critical in the future, where you can do great work ahead of time? Where are areas that are doing __ok__ but could be doing __great__ with your support?
+        - If you start dedicating even a couple hours a week to developing the team around you, it’s quite likely that will become your legacy long after your tech specs and pull requests are forgotten.
+        - With your organizational privilege, relationships you’ve built across the company, and ability to see around corners derived from your experience, you can often shift a project's outcomes by investing the smallest ounce of effort, and this is some of the most valuable work you can do.
+        - One special sort of editing is helping finish a project that just can’t quite close itself out. Often you’ll have a talented engineer earlier in their career who is already doing the work but can’t quite create buy-in or figure out how to rescope their project into finishable work.
+        - This work is an intersection of what you’re exceptionally good at and what you genuinely care about. It might be [writing your company’s technology strategy](https://lethain.com/magnitudes-of-exploration/) that folks __will actually follow__, it might be convincing a great candidate to join, it might be changing your CEO’s mind on how you pay down tech debt, it might [be crafting a discerning API](https://increment.com/apis/api-design-for-eager-discering-developers/).
+    - Takeaways 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

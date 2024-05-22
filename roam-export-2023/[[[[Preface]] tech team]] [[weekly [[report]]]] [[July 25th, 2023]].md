@@ -1,0 +1,16 @@
+- **Group**
+    - SEO blog
+    - Course Offering
+    - Schedule System
+    - Credit system 3 party integration buy coffee coupons
+- **PST **
+    - 4 stream website update restructure to be more flexible and better UI
+    - Mailchimp adoption on more sophisticated use to enhance data collection and experimentation
+    - Review System
+- **PTB**
+    - First time ask about metrics 5 CSL customers
+    - Current: Social Login
+    - Upnext: Buy subscription with credit
+- Preface Hub
+- November 2 big event
+- September 2 big event

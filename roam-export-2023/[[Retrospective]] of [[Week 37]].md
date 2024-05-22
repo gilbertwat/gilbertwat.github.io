@@ -1,0 +1,26 @@
+- 
+- What went well?
+    - [[GOGOX]] 
+        - Not sure if I helped [[Tom Lui]] but it felt gooood. 😌
+        - [[Experimental Friday Afternoon]] seems to be a success! Great stuff!
+        - First interview for [[Dharmendra Jadon]] replacement, good job from [[Ivo Wu]] and [[Keith Chan]]
+        - Back to coding.
+    - At last get [[Ergon]] app store ready.
+    - [[Baby]] first check up! His/Her heart is beating!
+- What went wrong?
+    - [[GOGOX]] 
+        - Start the week with a defeating discussion with [[Paul Leung]].
+        - Communication of [[Dharmendra Jadon]] departure broke.
+    - [[health]]
+        - Energy level is kept very low throughout the week 😞, still not sure why.
+            - Maybe it is [[Air Quality]]
+    - [[Baby]]
+        - Getting really nervous as [[Baby]] still have 10-18% of miscarriage rate, decreasing daily.
+            - https://datayze.com/miscarriage-chart
+- What can I improve?
+    - Stop and take a breather if energy level is kept very low
+    - Clear the [[TODO if the workload is too heavy.
+    - Give it to [[God]] for [[Baby]] as I really don't have any control. Although it is super important to me.
+        - Really? What is stuff that I can control?
+            - Safety of [[Wifey]]
+            - Relax 🧘🏻‍♂️

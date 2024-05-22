@@ -1,0 +1,29 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[stacks.co]] testnet transactions are stuck for more than 1 hours 
+    - if they're stuck for a while, its usually do to an issue with the nonce used when making that transaction. or, on the testnet, it could have been broadcasted when the miner was down, and it's now just "stuck". i would just make a new transaction and assume anything more than ~1 hour old is permanently stuck
+- {{[[DONE]]}} Think about opportunities I want to pursue 
+    - {{embed: What do I want?}}
+- {{[[DONE]]}} #Notes Read https://twitter.com/johncutlefish/status/1360354543398129665/photo/1 
+    - Topics
+        - [[Product Strategy]]
+    - Excerpt
+        - Unstructured Innovation/Experimentation
+        - Add New Capabilities
+        - Enhance Existing Capabilities
+        - Manage Complexity
+        - Unplanned Work / Interruptions
+    - Takeaways
+        - [[[[product]] management]] need time for unstructured innovation or experimentation
+        - [[[[product]] management]] need time to add new capabilities.
+        - [[[[product]] management]] need time to enhance existing capabilities.
+        - [[[[product]] management]] need time to manage complexity.
+        - [[[[product]] management]] need time to do unplanned work or handle interruptions.
+    - [[🤔 Questions]]

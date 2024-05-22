@@ -1,0 +1,13 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- Remember to update your [habit tracker for today](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)! 😉
+- #[[decision]] regarding #meetings 00:36
+    - To keep the consistency of the quality of my presence in any #meetings
+    - I decided to spent at least 15 minutes before and after the meetings to be able to prepare and collect feedbacks and questions for all meetings.
+- Go through [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]]'s notes and formulate how to drop notes in [[OneNotes]], [[Notion]] and [[RoamResearch]]

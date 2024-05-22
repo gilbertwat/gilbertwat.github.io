@@ -1,0 +1,12 @@
+- Author:: [[Ross Simmonds]]
+- Full Title:: Copywriting should be taught in High School
+- Category:: #articles
+- URL:: https://twitter.com/TheCoolestCool/status/1687892353082626049
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - Attention-Interest-Desire-Action ([View Highlight](https://read.readwise.io/read/01h7asyzzc8chsvpwq6pxwjqyh))
+- ### New highlights added [[August 8th, 2023]] at 11:14 PM
+    - Problem-Agitate-Solution is a formula often used in persuasive writing. ([View Highlight](https://read.readwise.io/read/01h7atqspt60s0a6wyn5fp0wgs))
+    - Features-Advantages-Benefits ([View Highlight](https://read.readwise.io/read/01h7atr435v0734zwaz6pcww0k))
+    - Picture-Promise-Proof-Push ([View Highlight](https://read.readwise.io/read/01h7atrbnhnw2fv04eeqn5zt2f))
+    - Before-After-Bridge ([View Highlight](https://read.readwise.io/read/01h7attqgrzrms4pj3v61rfc9z))
+    - This model focuses on making the copy clear, concise, compelling, credible, and customer-centric. ([View Highlight](https://read.readwise.io/read/01h7attzwaerntk4mb52tp4105))

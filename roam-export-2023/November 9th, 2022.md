@@ -1,0 +1,28 @@
+- [[Anna Yu]] collect Starbucks card TIL
+- TIL [[Tylor Ng]] has a strict world view
+- TIL [[Tylor Ng]] has a lot of opinion in upskilling
+- 09:45
+    - Work on {{[[DONE]]}}  #written [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]] Finished at 14:18 on [[November 16th, 2022]]
+- 14:30
+    - [[1:1]] [[Anna Yu]]
+- 15:00
+    - Working in [[Anna Yu]] {{[[DONE]]}}  [[Anna Yu]] to Come up with the problem statement of product development from [SG trip notes](https://docs.google.com/document/d/1zqnlHoqtg2gYy2qeFJK969CPeF-UqKP87xcSqyda3ms/edit#) [[November 28th, 2022]] Finished at [[December 12th, 2022]]
+    - Shared the ultimate [[product]] [[prioritization]] framework
+        - {{[[mermaid]]}} 
+            - flowchart TD
+                - q1[Does it improve our customers' life?] --Yes--> q2[Is the improvement transformative for our customers?]
+                - q1 --No--> q3[Does it increase our number or categories of customers?]
+                - q3 --No--> a1>Drop it]
+                - q2 --Yes--> q4[Is our effort low?]
+                - q2 --No--> a2>Mix and match with other features to create synergy]
+                - q4 --No--> a4>Come up with a hack to lower the effort]
+                - q4 --Yes--> a3{{WHY ARE YOU READING THIS? DO IT NOW!}}
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FruE2QW1uxf.png?alt=media&token=6076b647-ee45-455f-afb0-b619094579f2)
+    - Shared [[Gemmy Wong]] [[Preface]] workflow
+        - Share PRD from [[Preface]]
+        - Ask questions, draw wireframe and quote man hour from [[Gemmy Wong]]
+        - Negotiation of scope if needed [[Preface]] and [[Gemmy Wong]]
+        - [[Preface]] will send an email for quotation
+        - [[Gemmy Wong]] will answer
+        - [[Preface]] will approved right away
+        - [[Gemmy Wong]] will start working on the detail on figma

@@ -1,0 +1,2 @@
+- {{[[ARCHIVED]]}}  Read https://openai.com/blog/march-20-chatgpt-outage
+- {{[[DONE]]}}  https://twitter.com/sambhigham/status/1639257715787862024?s=20

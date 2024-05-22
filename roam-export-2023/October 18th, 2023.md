@@ -1,0 +1,14 @@
+- #[[21 2023]]
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+    - Mind
+        - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+- [[health]] chinese doctor visit Number 2
+    - 2 Herbal tea to fix my [[nose allergy]]
+    - Acupunture 
+- #health #discomfort stuffy nose
+- #health #discomfort red eyes and swollen tear duct

@@ -1,0 +1,78 @@
+- Current situation
+    - Team
+        - Nick
+        - Winnie Fung
+        - Kylie Kwan
+        - Joseph Cheng
+        - CS teammates
+    - Strength
+        - Strong entrenchment and relationship with oil companies in HK
+        - Loyal repeat customers who loves us
+            - It means we are doing the right thing
+            - If there is some basic KPIs such as cohort analysis we can have a thermometer if we change anything or the market has changed
+        - Strong database
+            - 牌簿 ... etc. which allow us to provide more value to car owners
+                - Insurance? Car Cosmetic? assisted/automated administration work?
+    - Challenges
+        - Very busy CS teammates
+            - Some part of the daily operation could be automated / streamlined
+            - Solution: migrate to hubspot and sunset legacy admin panel
+                - Project delayed from 2020 Q3 - 2022 Q1
+        - Very limited IT development time
+            - Ad-hoc tasks is taken off development time, making the matter worse
+- Diagnosis
+    - Project goal is clear but mini-milestone of the project is not clear.
+        - Suggestion
+            - Stop all development / bugfix unless they are P0.
+                - P0 is cannot carry on business.
+- Guiding Principles
+    - Solution should be as flexible as possible with the constant flux of speed in business development.
+    - Solution should be as independent on in-house technology development team as possible.
+    - Solution should be as easy to maintain as possible.
+    - Solution should be as modular as possible.
+    - Solution should be as MVP as possible.
+- Suggested Milestones and dependencies
+    - The goal is to migrate to Hubspot ASAP for better allotment of investment.
+        - Hubspot is a deadweight cost per month now.
+    - The documentation of current SOPs
+        - Card holder support
+            - Collection of documents
+            - Validation of documents
+            - Renewal of documents
+            - Customer touches
+                - Routine calls 
+                - onboarding new services
+                - Routine email / messages
+        - Marketing routines
+            - Website
+            - Driver Apps
+        - Business development routines
+            - Oil company relationship building
+            - Partnership relationship building
+                - Insurance
+    - The translation of current SOPs from admin panel to Hubspot
+        - PoC
+        - Hiring experts to solve problems for us
+    - The sourcing of Hubspot experts on internet
+        - Suggestions
+        - Risks
+    - The setting of smaller milestone of migration projects
+        - Data migration of admin panel and hubspot
+    - Onboarding CS teammates when Hubspot is ready.
+    - Discussion of technology and business roadmap in a unified plan
+    - Connection with other business line
+- Support needed
+    - Time for CS teammates / managers to document SOPs
+    - Time for PoC with CS teammates to test and refine new SOPs with Hubspot
+    - Time for onboarding 
+- References
+    - https://www.upwork.com/freelance-jobs/hubspot/
+    - https://www.toptal.com/
+    - https://www.digiec.com/hubspot-agency-hong-kong
+    - https://ecosystem.hubspot.com/marketplace/solutions
+    - https://maven.co
+    - https://www.4hk.com.hk/
+    - www.fiverr.com
+    - www.hubledigital.com
+- https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FpbLaOK0gnx.rtf?alt=media&token=365ab6f4-8109-4441-96fb-929beb0fc886
+- 

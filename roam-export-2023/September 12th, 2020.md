@@ -1,0 +1,36 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{[[DONE]]}} [[[[Retrospective]] of [[Week 38]]]]
+        - Improvement TODO from last week
+            - What can I improve?
+                - Stop and take a breather if energy level is kept very low
+                - Clear the [[TODO if the workload is too heavy.
+                - Give it to [[God]] for [[Baby]] as I really don't have any control. Although it is super important to me.
+                    - Really? What is stuff that I can control?
+                        - Safety of [[Wifey]]
+                        - Relax 🧘🏻‍♂️
+        - 
+        - What went well?
+            - [[GOGOX]]
+                - Sync up with all PMs
+                - Vent out on Paul
+            - [[Ergon]]
+                - UAT done
+        - What went wrong?
+            - [[GOGOX]]
+                - Very down
+                - Low productivity
+                    - 2 day productivity in 5 days
+                - cannot think of ways to lead Platform team back on track
+                - #Feeling very stuck with the current role with slow improvement 
+            - [[health]]
+                - [[Meditation]] cannot get to the zone
+        - What can I improve?
+            - Try to take a break and energize myself
+            - Detox weekend 🐸
+- How do you feel when you wind down?
+    - {{slider}}

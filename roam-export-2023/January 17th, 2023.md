@@ -1,0 +1,35 @@
+- #[[22 2023]]
+- 08:53
+    - Weekly meeting with [[Preface]] leadership team
+        - Quality of services take
+            - monthly 
+        - #learning I need to get used to push back in a group settings with confident.
+- 10:20
+    - [[1:1]] [[Moses Ngan]]
+        - {{[[DONE]]}}  Delivered the news on salary review
+        - Delivered about he is up as a senior software engineer now, time to solidify his skills and aim for the next level.
+        - Delivered about the challenges I am managing his relationship with [[Tommie Lo]]
+            - Surprised that the challenges is still there
+        - Hinted that [[Tommie Lo]] has placed great emphasis on his growth
+- 10:30
+    - Meeting with Synctree on API platform
+- 12:30
+    - Interview with UI/UX designer with [[Joseph Chan]]
+- 13:30
+    - Discussion with [[Joseph Chan]]
+        - Debriefing on the previous interview
+            - Not showing his work
+            - Passive
+        - SEO problems
+- 14:00
+    - Team team weekly
+        - Switched a bit to ask everyone to share their work in the week.
+        - Shared we need to push each other to complete the tasks
+- 15:00
+    - [[Tom Lui]] meeting
+        - Fired from crypto.com
+        - Contracting for 1K to 1.3K per hours
+- 22:30
+    - [[gratitude dairy]]
+        - I have [[Vegas Ho]] to bounce off ideas and frustrations.
+        - I have [[Wifey mum]] to cook a good dinner.

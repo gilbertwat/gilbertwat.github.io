@@ -1,0 +1,20 @@
+- Mobile
+    - Upgrade our Flutter based Coffee App to support our new loyalty program 
+    - Looking for flutter expert to partner with us.
+        - Add new feature to support our B2B business growth
+        - Polish the app to become production ready.
+    - Under the guidance of seasoned tech leadership
+    - Well maintained codebase
+    - Defined product and code requirements
+    - Short turnaround time.
+    - Long term collaboration is possible.
+- NodeJS
+    - Upgrade our API of Coffee App to support our new loyalty program 
+    - Looking for nodeJS expert to partner with us.
+        - Add new API feature in an existing codebase to support our B2B business growth
+        - Add new reliability feature to build a production ready codebase.
+    - Under the guidance of seasoned tech leadership
+    - Well maintained codebase
+    - Defined product and code requirements
+    - Short turnaround time.
+    - Long term collaboration is possible.

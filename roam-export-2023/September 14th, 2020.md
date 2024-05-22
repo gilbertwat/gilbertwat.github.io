@@ -1,0 +1,28 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - Already feeling good.
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[CD]] [[POSTman]] integration
+        - #[[🔢 Software Development]]
+            - https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux#5947802
+            - [[tput]]
+    - {{[[DONE]]}} [[Ergon]] App submission
+    - {{[[DONE]]}} [[1:1]] with [[Victor Lam]]
+        - Walkthrough Platform areas
+            - Defined sub-areas
+            - Shared platform area challenges
+        - 
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Rob Dong]]]]
+        - #Management
+        - [[Hon Chan]] is OK
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Belda Chan]]]]
+        - #Management
+        - Nothing much
+- How do you feel when you wind down?
+    - {{slider}}
+        - [[Life]] Shocking news from [[Ergon]]:
+            - [[Vincent Sin]]'s cancer has relapsed
+            - [[Kingson Kwan]] need to collect himself

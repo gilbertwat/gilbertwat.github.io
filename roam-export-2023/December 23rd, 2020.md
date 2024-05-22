@@ -1,0 +1,26 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Ergon]]
+    - Sprint 1
+        - API versioning This week
+        - Image is PNG from client side
+        - static image from bullhorn -> S3
+        - Email message from [[Kingson Kwan]]
+        - Switch to mailgun API [[Chris Tsang]]
+        - starting time API 
+            - more regression in login
+        - Currency
+        - Firebase 
+        - Calendar
+    - Sprint 2 Week 1
+        - Company Revamp
+        - App Behavior
+        - UI confirm for sprint 2
+        - API versioning 
+    - Sprint 4 design [[Jerry]]

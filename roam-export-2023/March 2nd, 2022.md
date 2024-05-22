@@ -1,0 +1,34 @@
+- 02:30
+    - [[Theodore]] routine
+        - #[[wet diaper]] [[stool💩 diaper]]!
+        - [[milk]] 60ml + [[breastfeeding]]
+        - Not enough and fussy, not able to [[sleep]] soundly
+- 05:00
+    - [[Theodore]] routine
+        - [[milk]] 90ml
+        - [[sleep]] very soundly
+- 08:30
+    - [[Theodore]] routine
+        - [[milk]] 90ml
+        - [[wet diaper]]
+- 10:00
+    - [[Ronald Kwok]] understand the [[[[Preface]] [[NFT]]]] and create a  [[[[[[Preface]] [[NFT]]]] Roll out plan]]
+- 11:00
+    - 
+- 11:30
+    - [[Theodore]] routine
+        - 
+- 12:30
+    - [[Vegas Ho]] sync up
+        - [[Ronald Kwok]] issue
+        - [[Aaron Lai]] issue
+- 15:30
+    - [[1:1]] [[Alexander Li]]
+        - [[[[Preface]] project [[recommender]] in 1 on 1 courses]] [[Ehsan Ayaz]] workload is heavy
+        - Eye is better now. [[February 23rd, 2022]]
+        - membership system aim at this week.
+        - [[Hema Shah]] is helping to 
+        - [[Yoon Kim]] will come back.
+        - [[Customer segmentation [[ideas]]]]
+        - 
+- 

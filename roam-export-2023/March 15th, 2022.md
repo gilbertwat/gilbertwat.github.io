@@ -1,0 +1,13 @@
+- 12:15
+    - The last 7 days was a hell to me. [[Dear [[Theodore]]]] 
+        - Failed ((b0k_TvUPK))
+        - Worst moment
+            - Imagine 4am in the morning, your 3 week old son is screaming in pain for no reason, all things has been done. Feeding, changing diapers, rocking, soothing, shushing. Nothing works. And you are positive with [[COVID-19]], your throat's burning and feel like a knife slashing through it whenever you are swallowing. With a fever and sweaty. Frustration level is maximum.
+        - Brightest moment
+            - The bright side is [[Theodore]] is not sick and the eat-[[sleep]]-shit cycle is so far intact.
+            - And [[Wifey]] and [[Wifey mum]] were recovering very very soon.
+            - With minimum support I can pull it through for 2 nights straight.
+- 12:59
+    - [[[[[[Preface]] Coding]] [[Tap & Go]] Integration]]
+        - Static IP for outbound traffic using [[UseFixie]] on [[Heroku]]
+        - {{[[DONE]]}} Still need to write code to enable it. 

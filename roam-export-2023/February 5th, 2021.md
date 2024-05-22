@@ -1,0 +1,40 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- [[Interview]]
+    - Merchant Management System
+    - English not very good
+    - Most proud of?
+        - Merchant Management System
+            - More Data
+            - 5000 million
+        - Financial System
+            - Transaction everyday
+            - Order File -> MMS
+                - Memory crash
+                - Redis -> MySQL
+                - File size
+                    - 1 million
+                - IO Stream is not persistance
+                - Redis master and slave in infrastructure team
+            - Improvement
+                - ImageMagick is slow and much CPU
+                - JS
+    - Now we are implementing a credit system in [[GOGOX]], client can transfer the credit to driver. Design a system and some APIs for exposing this feature to our mobile Apps.
+    - Logistics + International
+    - Question
+- [[Interview]]
+    - 
+- [[1:1]] with [[Ravic Poon]]
+    - Freelance contracts
+        - {{[[DONE]]}}  Rate (Ravic)
+        - {{[[DONE]]}}  Letter of employment Copy (Gilbert)
+        - {{[[DONE]]}}  Tax (Ravic)
+        - {{[[DONE]]}}  Contract 20hours (Gilbert)
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

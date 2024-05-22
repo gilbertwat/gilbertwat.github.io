@@ -1,0 +1,48 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Found out a problem worth discuss in leadership team [[November 8th, 2022]] is that what is the decision can the managers make without the leaders? Delay this to the next meeting [[November 15th, 2022]]
+        - 
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+        - Vibe we are building
+            - Greeting for our clients
+        - Direct feedback to Prefacers
+            - will role play with you on disagreement
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+        - How to collect the data to pipe the data to a central place
+        - The task becomes
+            - Compile a document for
+                - What is the minimum for data team to slice and dice
+                - What is the observed data challenges from data point of view
+                - tech team recommendation on that
+                - what is the service level on tech team
+                    - Consultation on data and automation
+                    - Building data pipeline and small system
+                        - Based on the product management cycle of prioritization
+                        - Ideally we will plan 1 quarter at least ahead
+- 13:45
+    - Lunch
+- 15:24
+    - {{[[DONE]]}} Compile a minimal version of [[[[[[Preface]] [[product]]: Coffee App]] onboarding document]] Finished at 10:40 [[November 17th, 2022]]
+- 16:00
+    - [[1:1]] [[Tylor Ng]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - {{embed-path: ((l7i9n_8pI))}}
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - {{embed-path: ((wctYwHVWa))}}
+- 17:00
+    - [[1:1]] [[Jeffy Fung]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+            - Not sure with the 

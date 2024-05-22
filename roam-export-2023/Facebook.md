@@ -1,0 +1,2 @@
+- My market:
+    - Politically engaged friends

@@ -1,0 +1,24 @@
+- Cross theme projects / iterations
+    - GGD Public APIs (DT + IT)
+    - Partner Charging (PT[]() + DET)
+    - Driver Rating (CET + BET + DET)
+    - AR 2.0 TW / SG rollout (BET + CET + DET)
+    - Driver subscription (DET + PT)
+- Big initiatives
+    - Payme Payment Method **tentative** (PT) 
+    - Saved Address (BET)
+    - Draft Delivery Order (DT)
+    - GGE Takeover 
+- [[[[GOGOX]] Driver Experience Theme]]
+    - Weather / Traffic Alert
+    - Dedicated Hotline
+    - Customized Surcharge
+    - Payment (Monthly Subscription) → Credit Card
+- [[[[GOGOX]] GOGODelivery Theme]]
+    - Draft Order
+    - Hub & Spoke discovery
+- [[[[GOGOX]] Client Experience Theme]]
+- [[[[GOGOX]] Business Experience Theme]]
+- [[[[GOGOX]] Payment Theme]]
+- [[[[GOGOX]] Integration Theme]]
+- 

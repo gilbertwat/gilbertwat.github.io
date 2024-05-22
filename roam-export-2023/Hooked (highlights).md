@@ -1,0 +1,6 @@
+- Author:: [[Nir Eyal]]
+- Full Title:: Hooked
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41mwaxf1YxL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - “If it can’t be used for evil, it’s not a superpower.” ([Location 129](https://readwise.io/to_kindle?action=open&asin=B00NW01MKM&location=129))

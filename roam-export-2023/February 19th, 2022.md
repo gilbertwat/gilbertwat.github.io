@@ -1,0 +1,29 @@
+- [[Theodore]] is coming out earlier than expected!
+    - Exciting time!
+    - 05:45 [[Wifey]] discovered her water broke.
+    - Luckily there was a Taxi when we went down to the street.
+    - After a while, we arrived to posternal ward.
+    - I was tasked to register, in ER
+    - COVID-19 was in 7K cases per day. A lot of newspaper article about how crowded ERs were and a lot of elderlies were outside, cold and wet.
+    - Luckily there is not much people in the ER in the morning.
+    - Everything is settled at 07:15
+- https://bou.ke/blog/formulas/ {{[[∆]]}}
+    - [[Annuity]] Functions in [[Family [[finance]]]]
+        - It is for people to make sense of a how a recurring payment interact with an interest rate.
+        - Functions
+            - FV (Future Value)
+                - FV(rate, nper, pmt, pv, type)
+                - The total amount after all payment is done in the RATE (interest rate) across the NPER (Number of Payment) with the PV (Present Value) of TYPE (end? OR !beginning?)
+                - Can be used as the goal of your [[Family [[finance]]]]
+            - PMT (Payment)
+                - Giving a goal (for example, a lump sum of mortgage), AKA FV (Future Value) with the target RATE (interest rate) and NPER (Number of Payment) and a PV (Present Value) of TYPE (end? OR !beginning?), how much amount per payment you need to give out?
+            - RATE (interest rate)
+            - NPER (Number of Payment)
+            - PV (Present Value)
+                - Giving a PMT (Payment) throughout a NPER (Number of Payment), with the discount of RATE (interest rate), what does it cost now? 
+            - TYPE (end? OR !beginning?)
+                - payment is done at the beginning
+                - payment is done at the end
+                - matters to the amount of interest needed
+- [[sharing-with]] [[Preface]] https://deepmind.com/blog/article/nowcasting
+    - About [[GAN (Generative]] in weather forecasting

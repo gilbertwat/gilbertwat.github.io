@@ -1,0 +1,18 @@
+- [[[[2022]] Week 43]] review
+    - References:
+        - Tasks completed
+            - {{query: {and: [[DONE]] {between: [[October 16th, 2022]] [[October 22nd, 2022]]}}}}
+        - Task carry over
+            - 
+    - Projects
+        - **Customer Portal**: We are on phase 1 implementation and we will ship it next week for phase 1. Phase 2 Gemmy has already started designing. Phase 3 and 4 will need Anna's input when she is back.
+        - **Coffee App**: 77 engineers applied for the project. I need to speed up the prep work and choose 1 to 2 to work on the features we decided on for this quarter. (White label, credit for non-crew) We will need more UI/UX investment to start the next phase(If-then-else, external API).
+        - **Data**: After talking with Hema, we might be severely underutilized Hubspot and we need to make a decision on how to proceed with Hubspot, we will find out more next week with Growth.
+        - **AI**: We are building automation on the existing content recommendation engine to alleviate our operations. Also we are designing the next system [here](https://docs.google.com/document/d/1pLJzPjslKFDPKHKNihRO8uVT56B7-iVbaUB-1yj_LEk/edit).
+    - Team:
+        - Ehsan will be on leave starting next week.
+        - Anne expressed interest to join our software engineering team, Ben and I will have weekly conversation with her and assign extra tasks for her outside current workload.
+    - Discussion/Decision:
+        - In Coffee App "code your coffee experience" We may need to leverage Replit app (FYR: https://youtu.be/Cmq3TrS3ccU) What do you think?
+        - My web3 friends offer to build a PoC loyalty program in 3 months using Polygon, do you have an urgency to build such?
+        - We will hit a bottleneck in the AI front with not enough content to recommend, I think we need a Preface company level alignment on the expectation on the AI side given the constraint we have, really need your input and we need to jam a plan on this.

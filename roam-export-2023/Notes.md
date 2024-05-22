@@ -1,0 +1,13 @@
+- https://www.bringthedonuts.com/essays/productmanager.html #classics
+- https://fictivekin.github.io/pmarchive-jekyll//index.html#guide-to-startups #classicshttps://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit?utm_source=pocket_mylist [[[[product]]-[[market]] fit]]
+- https://www.sigmajs.org/ #tools
+- https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/?utm_source=newsletter&utm_medium=email&utm_campaign=pragmatic_engineer #sharing-with
+- setup together stove burden sample social cart phone course silent february salute eth3
+- https://www.infoq.com/news/2021/12/flutter-2-8-dart-2-15/?utm_source=email&utm_medium=editorial&utm_campaign=SpecialNL&utm_content=01132022&forceSponsorshipId=830273e3-e044-4677-acaa-4eb49478745a #sharing-with
+- https://github.com/luciopaiva/heapify #sharing-with
+- https://github.com/brynary/rack-bug/ #tools #ruby
+- https://www.executeprogram.com/blog/typescript-features-to-avoid #typescript
+- https://github.com/rpush/rpush#pushy #ruby
+- set up alert for cloud cost
+- https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled?utm_source=pocket_mylist #sharing-with
+- 

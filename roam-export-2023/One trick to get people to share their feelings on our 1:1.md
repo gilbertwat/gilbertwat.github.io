@@ -1,0 +1,23 @@
+- [[1:1]] [[emotions]] [[feel]]
+- For the longest time, all the managerial books that I read recommend managers to not talk about project in our 1 on 1. But not everyone has the same hobbies with me, reading the same news as me and I don't want to bombard them with my cute cute son's photos every single 1 on 1s. So I have struggled to connect with my colleagues on a personal level. Also I am aware the peril of ignoring the human parts in an 
+- Why we want to understand emotion from your reports?
+    - Spot challenge early on. (It is nothing.... and a rambling for 15 minutes)
+    - Focus on personal level instead of project level
+    - Comfortable to share feelings and get synergy
+    - Understand our emotions reveal our logics and avoid illogical decisions
+- What is the hurden?
+    - Not everyone is comfortable to share their feelings to boss
+    - Not everyone is aware of their emotions
+    - Not everyone is able to articulate their emotions
+- Before the trick...
+    - Getting the rapport
+    - Getting yourself to used to describe your emotion
+- Mood meter
+- Not every word I am familiar with, just skip those
+- Go broad to a general to start
+- Ask Why
+- Go specific 
+- Ask why
+- Good for engineers
+- We are not very familiar to describe our emotions
+- Some pointers (literally) to assist you and your manager to talk

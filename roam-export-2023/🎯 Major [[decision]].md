@@ -1,0 +1,14 @@
+- Considering
+    - 
+- Made
+    - Jun 2021 - Sept 2021 Regarding the career progression of [[Myself]]
+        - Options
+            - Option 1: to become the engineering lead of a new business unit (Default)
+            - Option 2: find another director grade engineering leaders job in Hong Kong
+            - Option 3: Find software engineer job overseas
+            - Option 4: Find software manager job overseas
+            - Option 5: Find startup with Topics I am currently interested:
+            - Option 6: Start my own business on Topics I am currently interested:
+        - Resolution:
+            - Stay put for the next 6-12 months to advent on the journey with [[GOGOX]]
+        - 

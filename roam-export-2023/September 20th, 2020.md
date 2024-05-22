@@ -1,0 +1,36 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - Mask my sadness so [[Wifey]] won't get too bad
+- {{[[DONE]]}} Read https://www.benkuhn.net/attention/ 
+    - Topics
+        - #[[☝🏻 Leadership]] #[[🧘🏻‍♂️ Self Awareness]]
+    - Excerpt
+        - It’s hard to recruit 50%+ of your brain to work on something just because you feel like you “should” do it. Your superego might listen to this newfangled “logic” and “reason” stuff, but the monkey-era parts of your brain can’t be fooled so easily. To be reliably able to focus on something, you need to be intuitively, emotionally invested in the outcome.
+        - In the short term, this made me less efficient, because I’d spend less time programming and more time staring vacantly at the ceiling. But if I stared vacantly for long enough, I’d eventually get mad enough to, e.g., reverse-engineer the partner’s API in a fit of rage. This resulted in me shipping my most important projects faster, hence getting [faster compounding growth](https://www.benkuhn.net/impatient/#startups).
+        - Now that I’ve noticed this, I allow myself to contribute to multiple things in parallel, as long as they don’t tax my object permanence skills—if I totally forgot about this project today, would anything bad happen? As long as the answer is no (usually because someone else is the one taking initiative to move things forward), I can be pretty sure that project won’t try to colonize my brain in the shower.
+        - In order for bullshit not to distract me for the rest of the week, I try to minimize my number of “open loops”—projects or processes that I’ve started but not completed.
+    - Takeaways
+        - To be able to [[lead]] effectively, we need to care about our [[goals]] dearly. 
+        - We need to make sure the [[goals]] of our teams and projects are out of urgent and necessary needs.
+        - We also need to limit our work in progress, best down to 1.
+        - Even if we are [[blocked]] by someone, we need to stay blocked instead of doing a task switch.
+        - The benefit of stay blocked is that we will get creative.
+        - Timeboxing errands and routines is also a good technique.
+- {{[[DONE]]}} [http://paletton.com](http://paletton.com/)
+    - #Color #Design
+- {{[[DONE]]}} Read https://svpg.com/discovery-problem-vs-solution/ 
+    - Topics
+        - #[[product]] #[[🏗️Technology]] 
+    - Excerpt
+        - The vast majority of product efforts fail not because of demand, but because they can’t come up with a solution good enough to get people to switch.
+        - It’s worth noting that if you have a crappy solution, it can look to you like the demand isn’t there.
+    - Takeaways
+        - #[[product]] and #[[🏗️Technology]] are intertwined and product discovery must include engineers. Engineers should be involved into discovery phase.
+    - [[🤔 Questions]]
+        - Good enough is an intuition, intuitive needs leader to make the bet. But how to own something that is so personal?
+        - What is crappy nowadays on the internet?
+- How do you feel when you wind down?
+    - {{slider}}

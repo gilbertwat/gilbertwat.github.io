@@ -1,0 +1,15 @@
+- In China, the laws requires internet companies to be owned by a local entity to be able to operate inside China
+- For a company to operate in China AND allow foreign investments
+    - Solution: Create a new company to provide managerial and technological services to the local entity
+        - The new company is hiring "The Registered Shareholders" to help manager the local entity
+        - And all the income is done in Service Fees to the new company
+        - The new company is 100% owned by the off-shore company
+- Example
+    - {{mermaid}}
+        - graph TD
+            - A[Off=shore A] --100% controls--> B[On-shore B]
+            - B -- services --> C[On-shore C]
+            - C -- service fees --> B
+            - D[The registered shareholders] -- 100% controls --> C
+            - B -- hires --> D
+            - C -- services --> E[customers in China]

@@ -1,0 +1,9 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+        - [[Baby]] has no heartbeat 😔😔😔😔😔😔😔😔 #miscarriage
+            - I am sooooooooooooooo sad
+- How do you feel when you wind down?
+    - {{slider}}

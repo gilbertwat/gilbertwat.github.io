@@ -1,0 +1,62 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- https://www.tyltgo.com/ #[[GOGOX]]
+- [[[[GOGOX]] Driver Experience Theme]]
+    - Delivery feature challenges
+        - SDLC
+            - Problem selection
+                - The success metric or criteria is not clear for some of features.
+                    - Reason:
+            - Planning & Grooming
+                - Complexity of frontend is not analyzed clearly.
+                    - Reason:
+                - Not unified flow / architecture makes a unified story points hard to achieve.
+                    - Reason:
+                        - Story point is a bad proxy for complexity and effort.
+                - MOB tasks objectives and impact is not clear to all team members.
+                    - Reason: 
+            - Sprinting
+                - Stories/Epic implementation status is not actively shared and resolved.
+                    - Reason:
+                        - 
+                - Backend is always short of hands, slowing down the whole theme progress
+                    - Reason:
+                        - Only 1 person per theme
+                - Ad-hoc tasks are always injected to the sprint, deviating from the sprint goal.
+                    - Reason:
+                - Too many work in progress.
+                    - Reason:
+                - Too many Ready For QA.
+                    - Reason:
+            - Retrospective
+                - Any wins from the new feature we introduced in the past few quarter.
+                    - Reason:
+        - Deployment
+            - Hot-fix process
+        - Monitoring
+            - Who should be monitoring the error rates in Bugsnag?
+    - Habits to form as a team.
+    - Action items and Governance
+- https://gmelius.com/ #Design
+    - I hate the auto scroll function
+    - https://fig.io is also using screencast
+        - screencast has no control too
+        - #[[ideas]] a controllable screencast
+- A lot of AI companies are working on 
+    - Minimize delivery costs by optimizing schedule and couriers.
+- #[[Climate Tech]]
+    - https://angel.co/company/sinai-technologies/people
+- https://www.trella.app/ #[[GOGOX]] in Egypt
+- https://enterflow.app/ #focus
+- zefi #Cryptocurrency
+- https://mightyapp.com/
+    - I am very drawn into the technical details.
+- https://www.kimaventures.com/ #investors
+- https://aceandcompany.com/ #investors
+- [[How do you feel when you wind down?]]
+    - {{slider}}

@@ -1,0 +1,22 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- https://wolfstreet.com/ [[Reading Material]] [[Great community]]
+- What is the next big things for [[GOGOX]]?
+    - A global supply chain is very fragile.
+        - Too many coupling components
+        - Cascading impact
+            - Upstream bottleneck can create havoc in the downstream company. 
+        - Complex 
+    - Localized ecommerce strategy
+        - Dropshipping ??
+- https://twitter.com/umaar/status/1331924138970255360
+    - [[learning]]
+        - Quickly execute on your ideas
+        - 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

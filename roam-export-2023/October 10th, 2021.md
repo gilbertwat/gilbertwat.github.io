@@ -1,0 +1,3 @@
+- #[[Quick Capture]]
+    - 如果有個chrome ext 可以喺唔同嘅Shop裏面買完嘢之後就一次過俾錢同埋送貨
+    - https://instagram.com/livelarq?utm_medium=copy_link

@@ -1,0 +1,35 @@
+- #[[Useful roam hack]]
+    - Different tag styles
+        - rm-E is very useful to show the nested 
+            - A #.rm-E
+                - B #.rm-E
+                    - D
+                    - E
+                - C
+        - rm-g
+            - A is a test #.rm-g
+                - B
+                - C
+        - rm-hide
+            - A #.rm-hide
+                - B
+                - C
+    - Block-quote
+        - > This is a block quote.
+- [[Week 33]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[August 15th, 2022]] [[August 21st, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - {{query: {and: [[decided]] {between: [[August 15th, 2022]] [[August 21st, 2022]]}}}}
+        - Fixed...
+            - Performance Issue of [[Ken Chow]]
+        - Shipped
+            - [[[[Preface]] Seamless Buy Link]] [[[[UI]]/[[UX]]]] design
+        - Moved X to <next step>
+            - Data strategy on [[Alexander Li]] and try to let him articulate it.
+                - [[Preface data strategy from 2022 Q4 onwards]]
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[August 15th, 2022]] [[August 21st, 2022]]}}}}
+        - I felt exhausted and crashed for the whole weekend.
+- [[August 21st, 2022]] at 14:11

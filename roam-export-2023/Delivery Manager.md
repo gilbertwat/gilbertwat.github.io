@@ -1,0 +1,8 @@
+- [[March 1st, 2018]] to June 1st, 2021
+- Definition:
+    - Improve all aspect of [[software delivery]]
+        - Delivery speed
+        - Delivery quality
+        - Delivery impact
+        - Technology capabilities
+    - 

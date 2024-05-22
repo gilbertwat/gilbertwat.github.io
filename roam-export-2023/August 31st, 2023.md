@@ -1,0 +1,3 @@
+- {{[[DONE]]}}  [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]] Before [[October 13th, 2023]]
+    - {{[[DONE]]}}  Printer exploration for [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+- Explore how LLM can add value to [[Preface]]?

@@ -1,0 +1,25 @@
+- #[[🧘🏻‍♂️ Self Awareness]] One of my recurring theme for me to do better and better is the identity of myself. I regard myself as a husband, a bigger brother, a manager, a leader, a CTO, a libertarian...etc. And there are social construct that bound me to the very identity I identify myself into. I don't think it serves me well in [[preventing burnout]], as I am having burnout every 3 months, it is worse than flu.
+    - All of these identity is pushing me to go forward, alone.
+    - I am not happy to be always stuck in those demanding identities
+        - Why are they demanding? I am aware of the "boundaries" they have and innately abide to them.
+- #[[🧘🏻‍♂️ Self Awareness]] One of the current event I cannot control about thinking myself is some "gurus" is attacked by selling his home for 43m HKD with a [[APY]] of 7.5%. 
+    - I am not happy with the dispute created. And the ugly side of the feud.
+        - People can remember mistreat for a very long time.
+        - People are not focusing on the right thing because of past feud and attack.
+        - #learning
+            - Never mistreat people
+- {{[[DONE]]}} #Notes Read https://www.axios.com/newsletters/axios-markets-d4b32164-bde7-4cb4-8ea5-343490342385.html?chunk=3&utm_term=twsocialshare#story3 
+    - Why are you reading this?
+        - Understanding the economy if central banks are holding a lot of assets?
+    - Topics
+        - [[Economics]]
+    - Excerpt
+        - 800m -> 7.7T
+        - Total market cap of the world is 67T
+        - Fed will be controlling the USD market or even the world economy.
+    - Takeaways to be insert into permanent notes
+    - Further [[🤔 Questions]] to be thinking of
+        - What will be the risk of the central banks are holding a lot of assets?
+            - Black swan events?
+- Start Reading [[[[books]]: The Invention of China]]
+- 

@@ -1,0 +1,26 @@
+- # When you are feeling unmotivated or tired, read this!
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FzO4c_TaP-h.jpeg?alt=media&token=fec2fcf5-2fe2-4c71-9303-58ea038adca0)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FJ6UGVZWxDO.jpeg?alt=media&token=c10bac24-4478-4fda-b9ce-c51d1821caf8)
+    - Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+    - Pace yourself, put in effort everyday.
+    - Kill people with kindness 😉
+    - Show me your incentive and I will show you the outcome.
+    - 每一秒都要花係最重要嘅**人同事**上面
+    - The best way to predict the future is to create it.
+    - https://twitter.com/jackbutcher/status/1359317201103249408?s=20
+        - One year ago, the VV community was a 12 person whatsapp group.
+- Today we recorded our 52nd weekly office hours and will be shipping it out to 2,900 people.
+- Thanks to everyone who's been along for the ride so far, it quite literally couldn't have happened without you.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FeyhdQi2Nj-.jpg?alt=media&token=63a76583-7968-40dc-b5d1-3ad3776f169d)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FZR_i1mtaep.jpeg?alt=media&token=e6670835-ca47-4668-a44c-29109a9573b2)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2Fk__iJe_ol9.PNG?alt=media&token=6a2636a5-a7da-451c-995c-0e41515e2fea)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FklHmAHM3dK.jpeg?alt=media&token=cf56f2f3-e4a7-4f1b-99f7-5a972776f2c2)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FZLobGCxGSV.png?alt=media&token=35be723e-4e5c-468b-ac2f-a5941178ba00)
+    - https://twitter.com/musa/status/1394311174980734983?s=20
+    - https://twitter.com/shreyas/status/1416473368279146497?s=20
+    - https://twitter.com/KnowS0mething/status/1433086712209674243?s=20
+    - 餓我體膚勞我精。
+- 艱險我奮進，困乏我多情。
+- 千斤擔子兩肩挑，
+- 趁青春，結隊向前行。
+    - https://twitter.com/sweatystartup/status/1459127421601562625?s=21

@@ -1,0 +1,15 @@
+- Dated [[January 27th, 2022]]
+- 3 axis
+    - Impact size 
+        - Company
+        - Departmental
+    - Impact nature
+        - Reliability
+        - Efficiency
+        - New class of opportunity in company growth
+            - E.g. Regular class vs 1:1 and bootcamp
+    - Impact user segment
+        - Customer (People who have already paid us, more LTV more priority)
+        - Staff (People who help company to reach and serve our customers)
+        - Leads / Prospects (People who are going to pay us)
+- 

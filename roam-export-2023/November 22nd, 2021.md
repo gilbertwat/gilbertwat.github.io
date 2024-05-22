@@ -1,0 +1,83 @@
+- [[1:1]] with [[Kelvin Chan]]
+    - Discuss about the current situation
+        - Communication problem with [[Young]]
+            - Empathize with me on not good for vague direction
+            - Empathize with me on not good for non-timely feedback.
+            - Should try more different styles of asking
+            - And communication unfortunately is a 2 way streets, I can only do so much.
+        - New information
+            - SMT impression with [[Young]]
+                - Person who do stuff
+                    - Set up TW team
+                - But a poor communicator
+            - SMT impression with [[Emanuel Kuremadis]]
+                - Person who bluff and blow water
+        - Refresh the role of a manager
+            - Understand what is going on in the team
+            - Ask clarifying questions when there is not enough information
+        - #[[🧘🏻‍♂️ Self Awareness]] one of my weaknesses
+            - Good listener
+            - People pleaser want to make everyone happy
+            - cannot [[sleep]] if continue
+            - [[🤔 Questions]] 
+                - What is my strategy to mitigate / multiply this strength / weakness?
+- {{[[DONE]]}} #Notes Read https://medium.com/@remco.van.akker/we-created-an-automated-youtube-channel-in-python-and-it-went-viral-9bffee426114 
+    - Why are you reading this?
+        - I want to be able to do [[marketing]].
+    - Excerpts from the article and some scribble
+        - We were promoting the videos on several websites/forums to get the first views rolling.
+        - Eventually, after promoting the videos, we stopped for a while with the project. We wanted to see if the videos were picked up by people. It didn’t get much attraction at the beginning, even after all the promotion we did, so we thought “this won’t work”.
+        - It concatenates all videos that were located in a particular directory. To do this quickly, I used a Python library called “[[MoviePy]]”.
+        - I quickly designed a logo for the YouTube channel and a frame used for the compilations centered around the recorded video, which you usually see in these types of videos. When I finished the design work, I made an outro using Photoshop and Sony Vegas, it was just a simple end-screen showcasing 2 other related videos while playing music.
+        - So why was the outro 30 seconds? What does it have to do with monetization? Here comes the interesting part about how you can monetize a compilation channel. It is known that you can’t monetize your channel if you upload compilations because the content is not original. Also, the videos that appear in the compilations are using (sometimes) copyrighted songs, especially in TikTok videos. This causes your video to be copyrighted by YouTube and prevents you from earning money with your videos. When we were constantly bombarded with copyright claims because of the songs that were played in the videos, we came up with an idea.
+    - Further [[🤔 Questions]] to think about
+        - Is [[Viral]]ity unpredictable?
+- #Research on https://republic.co/brikclik
+    - [[decision]] Not to invest as there is no CTO in their team and their solution need to be technical
+        - Technical as in there are a lot of integrations needed.
+- #Research https://osc.scmp.com/scmp-osc-2021charitynfts
+- {{[[DONE]]}} #Notes Read https://iism.org/article/developers-can-t-fix-bad-management-57 
+    - Why are you reading this?
+        - I want to refresh how to manage a team of engineer effectively. #Management
+    - Excerpts from the article and some scribble
+        - __"Ford was able to significantly improve their quality by tasking managers with simply asking workers "how can this be done better?", listening to what they had to say and then supporting new, practical improvements to the manufacturing process. The prior approach was for the manager to think up improvements in abstraction - usually their boss's ideas - and push those ideas onto the workers. Today, this top down anti-pattern is repeated in management of software teams."__
+        - Now, back to those __'devs need to do better'__ articles popping up all over the internet. Let's imagine if those articles were written for auto workers. I can see the titles now:
+            - American auto workers really need to focus on improving their manufacturing process, that's what Toyota did!
+            - Auto workers should be iterating with the customer so they can build the best car possible
+            - Auto workers spend too much time on the details, and not enough time understanding the "why"
+            - Crafting great automobiles isn't just about building cars
+        - The advent of Date Scrum has driven many developers to be very negative about Agile practices, they come by this honestly as before going 'Agile' they had to put up with a status meeting every couple weeks. Now with Date Scrum they have to put up with a status meeting every day at the stand-up!
+        - So, we need more articles that encourage the C-Suite, and management in general, to stop causing failed software projects. Articles that call out traditional management for being completely out of their lane with their detailed estimates, Gantt charts, WBS, PMP and all the rest of the manufacturing/order fulfillment/logistics optimization techniques. That stuff is great, it was key to helping us win WW2, and if I ever run a factory, I'm gonna use it! But it has no place in software projects.
+        - Devs that take a reasonable amount of extra time to check their work and remove the chaos are characterized as 'kinda slow'
+        - Devs that notice something is amiss with product/market fit are gently steered back to their keyboard to implement more features, with a promise that their concerns will be handled by the [Idea Silo](https://iism.org/post/glossary-idea-silo-65)
+        - Devs who implement features quickly so that another silo can check them for 'quality' are appreciated because they are getting to Done™ quickly
+        - Devs that wander into the field and notice that customers are really struggling to use the product are carefully steered back to the Idea Silo's agenda
+        - Dev Managers that try and understand the Big Picture of product/market fit, packaging, and pricing are patted on the head and sent back to focus the dev team on implementing the scoped features that no customer wants
+        - Devs who try to implement [Representative Load](https://iism.org/post/glossary-representative-load-59) chaos detection using [Statistical Chaos Control](https://iism.org/post/glossary-statistical-chaos-control-62) techniques are directed to the Quality™ silo, as if people who didn't write the code will do a better job!
+        - **What is an Idea Silo?** An [Idea Silo](https://iism.org/post/glossary-idea-silo-65) is an organization within a company that is in charge of coming up with new products and features for another silo to implement. In many companies the Idea Silo is the Product Management organization.
+        - **Provide a clear sense of purpose, vision and mission**
+        - **Invest in my growth, provide me opportunities for advancement**
+        - **Grant autonomy and delegate authority**
+        - **Do not micromanage** - Developers design and write the code, not the managers!
+        - **Have a technical background** - There is nothing worse than a manager whose eyes glaze over when a dev answers their question
+        - **Don't just cave to political pressure** - Company politics are firmly in the realm of management, please diligently represent the team!
+        - [🔗](https://iism.org/material/software-management-essentials-research-1/motivation-factors-top-3-dislikes-reported-by-creative-workers)
+        - **Predictive planning based on detailed estimates** - Predictive planning is used to organize known duration manufacturing and order fulfillment tasks, not software projects
+        - **Tasking developers with creating [Detailed Estimates](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42)**
+        - **Work Breakdown Structure** - Again, this is great for known duration tasks, not software projects!
+        - [Arbitrary Due Dates](https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49) calculated from flawed detailed estimates
+        - [Applying Agile Scrum without iterating with a savvy customer](https://iism.org/article/agile-scrum-is-not-working-51)
+        - [Blindly accepting scope](https://iism.org/article/help-your-organization-discover-the-true-scope-of-their-software-projects-43) from [Idea Silos](https://iism.org/post/glossary-idea-silo-65)
+        - When might an alternative be a better fit than Agile Scrum? For example, when a team is new, they may lack maturity. Perhaps pairing new team members with mature team members and leveraging pair programming for a while is the right solution.
+        - Or, when customers are too busy to iterate with the development team, perhaps leveraging RAD and doing market studies using MVPs, and Steve Blank’s customer development is the solution.
+        - Or, when the problem isn’t a customer need, but is actually a technical challenge. Perhaps leveraging prototyping, running lots of experiments and using the scientific method is the answer.
+        - Or, when the solution is a piece of new hardware based on a known reference design where the constraint is the logistics of manufacturing. Then perhaps prototyping, followed by a waterfall pattern as applied to hardware development is the solution. Yes waterfall, as in you gather all of the requirements for the new hardware up front and you thoroughly test the resulting product on the backend of the process. You know, waterfall, the thing that all the agile salesmen say doesn’t work.
+        - Or, when the team is doing something that has never been done before in response to an emerging problem. This situation is when something like lean programming can really shine, when the team must be the ones that discover the solution (Gemba), using amplified learning and experimentation.
+        - The point is: one size does not fit all. And, though Agile Scrum can be crazy good, there are many cases where it doesn’t work well. To just blindly apply Agile Scrum to all situations is stupid. It’s like having an orchestra with only one instrument; sure, you can do that, but why? It’s like having a project methodology that believes it wraps all things, even things unknown. It’s like having a bikini that thinks it can fit all sizes and occasions.
+    - Further [[🤔 Questions]] to think about
+        - How can I make sure executive team enable me to provide a clear sense of purpose, vision and mission?
+        - How can I make sure executive team enable me to invest in my team growth, provide me opportunities for advancement?
+        - How can I make sure executive team enable me to great autonomy and delegate authority?
+        - How can I make sure executive team enable me to do **Predictive planning based on detailed estimates**?
+        - How can I make sure we are identifying what kind of work we are doing?
+- [[🧘🏻‍♂️ Self Awareness]] [[🤔 Questions]] What is the hardest conversation you are avoiding for the longest time?

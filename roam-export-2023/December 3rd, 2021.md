@@ -1,0 +1,54 @@
+- {{[[DONE]]}} Write about [[[[ideas]] Journey in [[GOGOX]]]]
+- {{[[DONE]]}}  Reorganize notes from [[Henry Lee]] onboard to Today
+- {{[[DONE]]}} Plan about [[2022]] 
+    - [[Replan my life [[2022]] onward]]
+- {{[[DONE]]}} #Notes Read https://mp.weixin.qq.com/s/3-6OYf8Qqhew4eoeWGthsg 
+    - Why are you reading this?
+        - I want to learn from the best [[☝🏻 Leadership]] and [[management]]
+    - Excerpts from the article and some scribble
+        - **什么样的人不需要管理呢？我们后来总结了这类人的四个重要特点。**
+            - **首先，要有能力**
+                - 因为小米的合伙人都是各管一块，这样能保证整个决策非常快。我要放心把业务交给你，你要能实打实做出成绩来。
+            - **其次，要有高度的责任心。**
+            - **另外，要有强大的自驱力。**
+                - 在他们看来，**这类人无须得到指令，就能主动发现问题，设计解决方案，并将业务推向新的方向。**
+            - **最后，要有相同的价值观。**
+                - **小米的价值观是和消费者做朋友，做感动人心、价格厚道的好产品，我们信奉一分耕耘，一分收获。**
+            - **创始人每天要花足够多的时间去找人；**
+            - **把现有的产品和业务做好，展示公司未来的发展空间和机会，以达到筑巢引凤的效果。**
+            - **很简单，也很笨拙，就两个字：韧劲。**
+            - **所以在小米的第一年，我每天都会花百分之七八十的时间去找人。**
+            - 我向每一个候选人介绍我自己，我做了什么事，我想找什么人，能不能给我一个机会见面聊聊。
+- Interview questions with [[Raymond Chan]]
+    - [[Interview]] questions and setup for data related positions
+    - Business Intelligence / data analysts
+        - Help business to make sense and act on data
+        - Comes with 2 archetypes basically
+            - Business BI -> BA + Dashboard
+                - Depends on a good data set to perform well
+            - Tech BI -> Data Engineer + Dashboard
+                - Depends on a business owner with data direction to perform well
+        - Depends on Company Context 30-40K can get either one
+    - Data Scientist
+        - Advanced analytics: advanced statistical model to discover knowledge
+        - Decision Automation: Dispatch Window / Recommandation system
+    - Startup wild guess
+        - Data Warehouse -> Basic Dashboard -> Answer all CEO questions about data
+            - Basic modeling (Regression model)
+    - What is the interview of a data scientist looks like in IBM?
+        - Describe a signature project he/she participates in
+            - Senior / Lead
+            - objective + pain point
+            - benefit case (success metric)
+            - personal role (team size) 40K
+            - methodology
+                - Very technical model comparison (auroc,f1score)
+                - Discover solution (Google-fu) Intermediate
+                - How your data objective link up to business objective (precision / accuracy / recall)
+            - Greatest challenges
+            - If have business -> data translation
+        - high level walkthroughs of different scenario
+    - Seniority depends on salary
+        - More than 50K senior
+        - 30 - 49K Experienced
+        - less than 30K Fresh

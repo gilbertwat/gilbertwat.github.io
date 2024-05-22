@@ -1,0 +1,21 @@
+- [[Yoon Kim]] transitional plan
+    - Notes
+        - Yoon has estimated he will need until **mid-April **to complete his current project - blockchain course
+        - Yoon will start his transition to our data team from **mid-April onwards**, delivery will include but not limited to
+            - Visme documentation
+        - Yoon will remain as a tech advisor for our curriculum team.
+    - Action items
+        - Yoon’s official transition date will be **1st May, 2022. [[Vegas Ho]] will be updating the related HR system and related communication if needed.
+        - [Gilbert Wat](mailto:gilbert.wat@preface.education)will prepare the data related projects for Yoon.
+- [[1:1]] [[Ehsan Ayaz]]
+    - Recommender system
+        - not suitable for nomad
+        - now is a direction not a suggestion for nomad
+        - content is unlock only for recommender system
+- [[1:1]] [[Moses Ngan]]
+    - Business domain sharing
+        - 1:1 vs bootcamp
+            - content unlock
+            - comops team always sell slightly different products to our customers.
+    - [[[[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] Phase 1 update: compliance and legal]]
+        - {{[[DONE]]}} chase chase [[Ellen Lau]] about the actual tickets

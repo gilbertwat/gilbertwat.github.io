@@ -1,0 +1,8 @@
+- Leadership meeting
+    - Love the forefront products
+    - Not educational enough for advert
+    - Value technology already
+        - ISP (Corp)
+        - "Technology behind"
+        - Educational
+- Work on [[[[Preface]] [[project]]: Techbite Pro]]

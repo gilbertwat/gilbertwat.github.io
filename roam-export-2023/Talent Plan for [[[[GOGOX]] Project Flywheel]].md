@@ -1,0 +1,86 @@
+- Web
+    - [[Rob Dong]]
+        - -- Crave Consistency and Discipline
+        - ++ Web Lead
+    - [[Mohammad Ahmad]]
+        - Will be leaving 2021
+            - - Will be less care
+            - + Or will be more creative
+        - ++ A very smart guy with independent thinking
+    - [[Matthew Ng]]
+        - + Web
+    - [[Hon Chan]]
+        - + Web
+- Mobile
+    - iOS
+        - [[Jackson Chung]]
+            - ++ Crave PoC and new technology
+            - + Feel grateful on the work from home arrangement
+        - [[Karl Tai]]
+            - ++ Willing to try new stuff
+            - -- Not very good at executing and communicate progress
+        - [[Ka Kui Tsang]]
+        - [[Anthony Chan]]
+            - ++ Recently more focus on product instead of new technology
+                - - On paper
+                - - On guts
+                - Basically need time to proof  
+    - Android
+        - [[Jay Chang]]
+            - ++ A very smart and technical engineers 
+        - [[Peter Wong]]
+            - + Very proficient executors
+        - [[Jim Wong]]
+            - + Very proficient executors
+            - - Communication is lacking with not inner circle
+        - [[Ivo Wu]]
+            - + Good communicators
+- Platform
+    - [[Ben Cheng]]
+        - ++ group executing power
+        - ++ Meticulous
+    - [[Belda Chan]]
+        - + willing to learn more
+    - [[Ravic Poon]]
+        - - Leaving soon
+        - + Very communicative
+    - [[Henry Tang]]
+        - - Slow starter
+        - - Communication is lacking with not inner circle
+    - [[Kavin Wong]]
+        - + very technical
+        - + very curious about new thing
+- Technoidentity
+    - Should we end our collaboration 
+- Scenarios
+    - Talent 10% until End of 2021
+        - 1st Q
+            - Teammate allocation
+                - 2 Web + 1 Backend + 1 Mobile
+        - 2nd Q
+            - Teammate allocation
+                - 2 Web + 1 Backend + 1 Mobile
+        - 3rd Q
+            - Teammate allocation
+                - 2 Web + 1 Backend + 1 Mobile
+    - Talent 50% until End of 2021
+        - 1st Q
+            - Teammate allocation
+        - 2nd Q
+        - 3rd Q
+    - Talent 100% until End of 2021
+        - 1st Q
+            - Teammate allocation
+        - 2nd Q
+        - 3rd Q
+    - Talent 100% until 2021 Q3
+        - 1st Q
+            - Teammate allocation
+        - 2nd Q
+            - Teammate allocation
+        - 3rd Q
+            - Teammate allocation
+    - Ideal:
+        - 1st Q
+        - 2nd Q
+        - 3rd Q

@@ -1,0 +1,7 @@
+- Author:: [[Lisa Crispin, Janet Gregory]]
+- Full Title:: Agile Testing
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51KObZdWpuL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - Unit tests verify the behavior of parts as small as a single object or method [Meszaros, 2007]. Component tests help solidify the overall design of a deployable part of the system by testing the interaction between classes or methods. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B001QL5N4K&location=2598))
+    - Happily, though, speed is a long-term side effect of producing code with the highest possible internal quality. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B001QL5N4K&location=2629))

@@ -1,0 +1,15 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}}  Wifey Birthday Preparation
+    - {{[[DONE]]}} cakes
+    - {{[[DONE]]}} Dinner  
+- [[1:1]] with [[Peter Wong]]
+    - Very busy
+    - A bit of rant on why we do not adopt PaymentIntent in the very first place.

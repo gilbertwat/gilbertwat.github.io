@@ -1,0 +1,25 @@
+- Author:: [[Paul Graham]]
+- Full Title:: Superlinear Returns
+- Category:: #articles
+- URL:: http://paulgraham.com/superlinear.html
+- ### Highlights first synced by #Readwise [[October 18th, 2023]]
+    - The prospect of superlinear returns for performance is an exciting one for the ambitious. And there's good news in this department: this territory is expanding in both directions. There are more types of work in which you can get superlinear returns, and the returns themselves are growing. ([View Highlight](https://read.readwise.io/read/01hd0d55tecdfyd6fqwn644tww))
+    - There are two reasons for this, though they're so closely intertwined that they're more like one and a half: progress in technology, and the decreasing importance of organizations. ([View Highlight](https://read.readwise.io/read/01hd0d5dwwsfz9e99dc5z7jwzb))
+    - There are lots of ambitious projects that don't require much initial funding, and lots of new ways to learn, make money, find colleagues, and reach audiences. ([View Highlight](https://read.readwise.io/read/01hd0d4w38wyew7e9kzhznv3av))
+- ### New highlights added [[October 19th, 2023]] at 10:59 AM
+    - Teachers and coaches implicitly told us the returns were linear. "You get out," I heard a thousand times, "what you put in." They meant well, but this is rarely true. If your product is only half as good as your competitor's, you don't get half as many customers. You get no customers, and you go out of business. ([View Highlight](https://read.readwise.io/read/01hd2xfgyxa1t0stss5e6sq2jd))
+- ### New highlights added [[October 19th, 2023]] at 11:09 AM
+    - Whenever how well you do depends on how well you've done, you'll get exponential growth. But neither our DNA nor our customs prepare us for it. No one finds exponential growth natural; every child is surprised, the first time they hear it, by the story of the man who asks the king for a single grain of rice the first day and double the amount each successive day. ([View Highlight](https://read.readwise.io/read/01hd2y18zk0nghjxdg4z7zfkvm))
+    - That has changed in the last few centuries. Now the emperors of ideas can design bombs that defeat the emperors of territory. But this phenomenon is still so new that we haven't fully assimilated it. Few even of the participants realize they're benefitting from exponential growth or ask what they can learn from other instances of it. ([View Highlight](https://read.readwise.io/read/01hd2y4j529n87cz4900h13c63))
+        - **Note**: Hence I am not very sure why the world has evolved into the state of today.
+- ### New highlights added [[October 20th, 2023]] at 11:29 AM
+    - Are there general rules for finding situations with superlinear returns? The most obvious one is to seek work that compounds. ([View Highlight](https://read.readwise.io/read/01hd5hh04xpcwceqpe00e65n37))
+    - That happens for example when you're building infrastructure, or growing an audience or brand. ([View Highlight](https://read.readwise.io/read/01hd5hhddrpfm10edb8snce989))
+    - Or work can compound by teaching you, since learning compounds. This second case is an interesting one because you may feel you're doing badly as it's happening. You may be failing to achieve your immediate goal. But if you're learning a lot, then you're getting exponential growth nonetheless ([View Highlight](https://read.readwise.io/read/01hd5hhwnrqp8970dhakvt4qdc))
+- ### New highlights added [[October 20th, 2023]] at 11:49 AM
+    - you don't know for sure yet what's going to be valuable, and if you're too strict you'll lop off the outliers. ([View Highlight](https://read.readwise.io/read/01hd5jd01v7hh7ktd0xm51sj4e))
+    - Ambitious people of two types: those who know they're so good that they'll be net ahead in a world with higher variation, and those, particularly the young, who can afford to risk trying it to find out. ([View Highlight](https://read.readwise.io/read/01hd5jf2ggbmhv4sya4j0p9jkv))
+    - The most obvious way to take advantage of superlinear returns for performance is by doing exceptionally good work. At the far end of the curve, incremental effort is a bargain. ([View Highlight](https://read.readwise.io/read/01hd5jfsp0cfnk5pkt0k32cv5r))
+    - Choose work you have a natural aptitude for and a deep interest in. ([View Highlight](https://read.readwise.io/read/01hd5jj4cc7h52caj4tc4d1wv3))
+    - t's only useful to believe that a company will do well if most other investors don't; if everyone else thinks the company will do well, then its stock price will already reflect that, and there's no room to make money. ([View Highlight](https://read.readwise.io/read/01hd5jm1y33sq9yc6n541yv4p7))
+    - For someone like that, their work is something they carry with them from job to job, if they have jobs at all. It may be done for an employer, but it's part of their portfolio. ([View Highlight](https://read.readwise.io/read/01hd5jnsnm20hwa0ef0tze6ddp))

@@ -1,0 +1,7 @@
+- https://www.nasdaq.com/market-activity/stocks/googl/advanced-charting
+- #[[[[Stock]] Predictions]]
+    - Climbing from 1727USD, should [[buy now]]
+    - {{[[DONE]]}} Buy GOOGL 
+        - [[January 23rd, 2021]] 1892
+        - [[January 30th, 2021]] 1827
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FDSUKZpLHhm.png?alt=media&token=b110a75f-91b9-421d-8e1c-ebcb2a37c0c3)

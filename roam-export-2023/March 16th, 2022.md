@@ -1,0 +1,35 @@
+- Update evergreen documents: [[Preface]] Current Projects
+- [[virtual onboarding SoP]] write-up
+    - Pre-onboarding
+        - Catch up
+        - Team context
+            - Introducing teammates individually
+    - Day 1
+        - Access
+            - Documents Team Drive
+            - Github
+            - Clickup
+            - Heroku
+            - GCP
+            - BambooHR
+            - Figma
+            - Miro
+        - Business Overview
+            - Bootcamp
+            - 1:1
+            - Executive courses
+            - Events
+            - Plans 2022
+                - Global expansion
+                - Series B
+        - Architectural Overview
+            - [[[[Preface]] [[product]]: website]]
+            - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+            - [[[[Preface]] [[product]]: Coffee App]]
+            - [[[[Preface]] data [[architecture]]]]
+        - Projects overview
+- [[1:1]] [[Moses Ngan]]
+- [[1:1]] [[Alexander Li]]
+    - Investigate some new request from [[Hema Shah]] to help the integration effort on thrid party tools.
+    - Data backup for Postgresql done on cloud storage
+    - 

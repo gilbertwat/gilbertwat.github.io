@@ -1,0 +1,19 @@
+- 22:39
+    - {{[[DONE]]}} [Attend writing course](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/learn/lecture/4395688#content) #writings Finish on [[January 1st, 2023]]
+        - The sentence
+            - Grammer rule is for general accepted
+            - Breakable
+            - Punctuation
+            - How to tighten a sentence
+                - Editing and remove 
+            - How to sharpen a sentence
+                - Add people to the sentence
+                - Abstract to concrete 
+                - -ing -> to 
+                - multiple references -> single references
+                - blur -> clear, reduce mentor struggle to comprehend
+            - Rhythm of a sentence
+                - length
+                    - short, longer, longest, short 
+                - punctuation
+                - sentence structure

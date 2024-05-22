@@ -1,0 +1,15 @@
+- 09:00 - 10:00 [[coding]]
+    - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+- 10:00 - 10:30 [[1:1]] with [[Young]]
+    - [[Young]] got a cold
+- 10:30 - 12:00 [[coding]]
+    - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+- 12:00 - 13:00 Lunch
+- 13:00 - 14:45 [[coding]]
+    - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+- 14:45 - 15:00 Nap 
+- 15:00 - 17:30 [[coding]]
+    - [[[[[[GOGOX]] Project Flywheel]] [[MVP]] Alias]]
+- 17:30 - 18:15 [[Pull [[💦 Workout]]]]
+- 18:15 - 18:45 [[Cooking]] 
+- 18:45 - 19:00 [[Lower back spasm]] fix

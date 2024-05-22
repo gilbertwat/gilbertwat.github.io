@@ -1,0 +1,83 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- #meditation log
+    - Nothing much. Still in and out of the detached state
+    - too [[sleep]]y maybe 
+- [[Hubert Chan]] [[Young]] Sync up on data quality issues
+    - Not enough people
+    - #[[decision]] [[[[GOGOX]] Platform]] team will manually loop in data engineering and data scientists.
+- [[1:1]] with [[Young]]
+    - IET Engineer in TW from [[Feb 2021]]
+    - End of Q2
+    - BET
+    - Update OKRs
+- [[Ergon]] role based control
+    - Why it is important
+        - Notes and client information are competitive advantages.
+    - https://docs.microsoft.com/en-us/onedrive/manage-sharing
+- #Notes URL https://www.collaborativefund.com/blog/part-i-collab-x-the-climate-crisis/ 
+    - Topics
+        - [[Climate Tech]]
+    - [[Excerpts]]
+    - {{[[DONE]]}} Takeaways
+        - Total [[raising capitals]] of [[Climate Tech]] is 16.1B
+        - Customers are willing to pay more for sustainable goods
+        - [[Climate Tech]] is now not limited to commodity industry in oil and gas.
+        - bio-engineering is shorter time to commercialize.
+        - ~$4T(2011) - ~$16.6T(2020) for US to invest in [[ESG Environment, Sustainability and Governance]] assets
+        - don’t invest in companies that require users to compromise on performance or cost in exchange for climate impact.
+        - These shifts have created new opportunities to invest in **businesses where mitigating or adapting to climate change is a driver of performance rather than a limitation.**
+    - [[🤔 Questions]]
+- #Notes URL https://www.facebook.com/story.php?story_fbid=3904881599523507&id=100000051159412 
+    - Topics
+        - [[Entrepeneurship]]
+    - [[Excerpts]]
+        - 1. 從「逼死自己」到「養活別人」
+        - 2. 從「事必躬親」到「信任授權」
+        - 3. 從「尋求資源」到「吸引關注」
+        - 4. 從「人事成本」到「人才資產」
+        - 5. 從「廣結善緣」到「聚焦關係」
+        - 6. 從「苦逼窮酸」到「展現自信」
+        - 7. 從「追究責任」到「解決問題」
+        - 8. 從「比較他人」到「考核自我」
+    - {{[[DONE]]}} Takeaways
+        - How I can support others to live a better life?
+        - How I can delegate with confident?
+        - How I can attract attention?
+        - How I can groom talents?
+        - How I can radiate hope?
+        - How I can test against the yesterday me?
+    - [[🤔 Questions]] #[[🧘🏻‍♂️ Self Awareness]]
+        - How I can support others to live a better life?
+        - How I can delegate with confident?
+        - How I can attract attention?
+        - How I can groom talents?
+        - How I can radiate hope?
+        - How I can test against the yesterday me?
+- #Notes URL https://www.axios.com/2020-startup-changes-coronavirus-238b9a6c-6e13-47a3-831e-08f9657b5759.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top
+    - Topics
+        - [[raising capitals]]
+    - [[Excerpts]]
+    - {{[[DONE]]}} Takeaways
+        - It is about how legit we are now, how we weather local risk with a global opportunities?
+    - [[🤔 Questions]]
+- Which one is more interesting to me? [[Climate Tech]] or [[cryptocurrency]]? #[[🤔 Questions]] #[[🧘🏻‍♂️ Self Awareness]]
+- {{[[DONE]]}} [[Announcement]] [[Victor Lam]] resignation
+    - I got an unfortunate news to share with everyone. Our platform team lead [[Victor Lam]]is going to leave our company for a very brave endeavor🚢. I am so grateful that he leads platform team with such personalized touch and led to tremendous technical advancement on platform and overall product engineering. He led the team to split into different focus area, deploy new coding standards and tools (DDD, Monad, FP, Kafka, Kubernetes, Newrelics dashboard just to name a few) so that our services can be more maintainable and scalable. He is also a great partner of me, sharing honest feedbacks with me. We push each other further through this journey. Thank you again Victor! 🙇🏻‍♂️
+- I will announce further arrangement. Stay tune.
+- {{[[DONE]]}} Update old OKRs
+- [[Backlog Grooming]] with [[[[GOGOX]] Driver Experience Theme]]
+    - New practices introduce: sprint goal and engineers suggest task to be include
+    - [[Karl Tai]] got some ownership, refactored some part.
+    - [[Anthony Chan]] got a few good suggestions, but poorly delivered as always 😅
+    - Removing features 🎉
+    - I don't think teammates understand the implication of the PM role changes. need more persistance and reinforcement [[Tom Lui]] [[Discussion]]
+- [[1:1]] with [[Tom Lui]]
+    - #achievements [[Tom Lui]] comes to me for advice for scrum stuff
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

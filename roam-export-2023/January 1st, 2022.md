@@ -1,0 +1,12 @@
+- #[[Quick Capture]]
+    - Tim Urban (@waitbutwhy) [December 31, 2021](https://twitter.com/waitbutwhy/status/1476962460049584136) Tweeted:
+    - 21 thoughts from 2021 I'd like to take into 2022: [pic.twitter.com/hdHCgGiYVj](https://t.co/hdHCgGiYVj)
+- {{[[DONE]]}} Read https://spectrum.ieee.org/processing-in-dram-accelerates-ai?utm_source=pocket_mylist 
+    - Why are you reading this?
+        - To have a high level understanding of [[AI]] chips.
+    - [[Literature Notes]]
+        - [[von Neumann architecture]] is a computer hardware architecture that separate logic and memory.
+        - [[Processing-in-memory]] is a [[RAM]] [[technology]] that put processing power in [[DRAM]].
+        - [[Processing-in-memory]] can improve the performance of [[speech-recognition]] [[neural network]] in speed and energy consumption.
+        - [[Processing-in-memory]] of [[Samsung]] in [[2022]] only do [[multiply]] and [[accumulate]]
+        - [[multiply]] and [[accumulate]] are the most common operation in [[neural network]] calculation,

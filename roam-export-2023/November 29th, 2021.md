@@ -1,0 +1,53 @@
+- {{[[DONE]]}} #Notes Read https://reactionwheel.net/2021/11/your-boards-of-directors-is-probably-going-to-fire-you.html 
+    - Why are you reading this?
+        - I don't want me to step on the same problem again [[risk]]
+        - Board [[management]] is also a type of [[management]] in [[Managing up]].
+    - Excerpts from the article and some scribble
+        - Let’s say you want some help from an investor who is not on the board. What do you do? You call them and they help you.
+        - Founders have many reasons they start companies, but investors really have only one reason they back them: to make money. That’s why they’re called investors. If someone gives you money based on the things you told them you were going to do, they are going to want to sit down with you every month or two to see if you are doing those things.
+        - Boards firing the CEO happens quite often, especially as a company gets larger and more valuable. As Feld and Ramsinghani point out, “by the time the ventures were three years old, 50% of the founders were no longer the CEO.”
+        - Add to this that if a new CEO is hired, they will probably want to be surrounded by their own people and may view the previous CEO’s lieutenants as suspect if the parting was acrimonious, so many of the existing management team will also go. This means a substantial new round of option grants, diluting the founders and early investors.
+        - First, and this isn’t part of the advice because it goes without saying, is don’t be an asshole. Don’t cheat, don’t steal, don’t lie, don’t treat people badly.
+        - Third, in cases where common controls the board, investor directors can cajole the non-CEO common seats to vote against the CEO.
+        - First, don’t give them reason to discuss you without you. Get them to discuss you __with__ you. And do it one on one.
+        - If board members are going to be meeting outside the board meeting, be there. If some of them are flying into town the night before an 8am board meeting, don’t be too busy to go to dinner with them.
+        - There are two parts to this: do not surprise your board members, and do not invite your board members to surprise you.
+        - And when you do, do it on the phone and one board member at a time. Tell them the news, tell them what you think the company should do about it, and then listen to what they have to say.
+        - You do not need to mention to the board that you contacted each of them and pre-told them the information they are hearing again for the second time.
+        - Inviting them to freestyle in the meeting has the possibility of starting a downward spiral: one board member says something you should have done or should do and the others start to chip in until it becomes a pile-on.
+        - Just to reiterate. Board members show up at meetings to monitor their investment and decide if they still want you to be CEO.
+        - Present them with the information they need to know: that the company is doing the things that will make it quickly increase in value.
+        - If the company is not correctly doing these things, present them with the bad news but couple it with the actions you are taking to fix the problem.
+        - People who invest very early stage for a living have a different viewpoint. They know there is no company without the founders, the founders are 100% of the value of the company.
+        - If you’ve ever tried to pitch someone on being CEO of a small and underfunded startup, you know no sane person wants that job. No offense.
+        - They did this because they had a lot at stake and because they were __professionals__. You, as a founder, probably have even more at stake, so you should also treat your board professionally.
+    - Takeaways to be insert into [[Permanent Notes]]
+        - The [[intent]] of an [[investor]] is to increase the value of the company and earn money for their portfolio.
+        - The [[intent]] of an [[investor]] to be on the board is to monitor their investment and decide if CEO is still fit as a CEO.
+        - Taking [[investor]] VCs' money is essentially another form of full-time employment, with some other trade-offs.
+        - Make sure to do all communication work to secure your hard work is not gone to waste.
+        - [[Deliver bad news]] one by one.
+        - Limit the impact of bad news by preparing the audience.
+        - To [[stay safe in local politics]], Never let people discuss you without you.
+        - To put a lot of stake and [[Responsibilities]], I need to be very [[Professional]] in every aspects in my work.
+- [[1:1]] with [[Steven Lam]]
+    - Preparation
+        - To communicate difficulties on the [[[[GOGOX]] Project Flywheel]]
+            - Lack of resources
+            - Lack of direction
+            - Lack of talents / focus
+            - Lack of irrational executions
+        - Possible solutions
+            - Shift focus to product / business discovery, with 90% of the time allocated to product discoveries.
+            - Incentivize employees to join the projects (RSU...etc.)
+    - Result
+        - Surprised by the fact that [[Steven Lam]] is under an impression that I have problem with [[Young]]
+            - [[Robert Dong]]'s promotion is actually a very serious incident from [[Young]] and [[Steven Lam]]'s perspective.
+            - To be honest, there is a lot of [[emotions]] and [[confusion]] with his intent and motions. But at the moment, I am more than happy to care less and do a lot of self-care.
+            - I feel [[unfair]] and [[confused]].
+        - I am not convinced that [[Steven Lam]] is treating me as a professional colleagues, rather than a kid that needs a lot of coaching.
+        - I made the [[decision]] and [[🔮 Bets]] to expose I am in talk with some other companies to be their director of technology.
+        - [[Steven Lam]] verbally said he can rearrange me to do [[GOGOEnergy]] and develop GOGOClub to provide values for our drivers.
+        - Information I sensed: [[Steven Lam]] is under tremendous pressure on people questioning his abilities to be the CEO of a listed company.
+        - [[Steven Lam]] is not able to make the right decision because he is lazy / too busy / not care enough to ask the other side of the story
+        - Even more [[disappointed]] by [[Alia Bei]] either keep her mouth shut and evade our interactions shows a lot of choices made by her to choose status rather than friendship, [[sad]]

@@ -1,0 +1,45 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{[[DONE]]}} [[Ergon]] [[web scraping]] [[project]]
+    - This is combined with [[[[Ergon]] data]]
+- [[[[Ergon]] weekly sync up]]
+    - [[Ergon]] has a new project on data, we are now creating a [[[[Ergon]] data]] in [[Top of my mind]]
+    - Email Outlook vs Gmail
+    - Email Dark mode
+    - [[Tony Fung]] quality problems
+        - [[Kingson Kwan]] will handle it.
+    - Talk about commitment: Say it do it actually is a very hard things to do in Chinese culture.
+- [[[[GOGOX]] [[[[2021]] Q1]] [[OKR]] #2: Set up and keep error rate budget as SLO for all supported products]] updates
+    - [[Keith Chan]] will start a new notification on slack about crash-free rates and last 3 versions in #app-reviews
+- [[[[GOGOX]] subscription module]]
+    - [[Matilda]] [[Franco Solis]] [[Keith Chan]] [[Rob Dong]] [[Rob Kealey]] [[Ben Cheng]] [[Anthony Chan]] [[Henry Tang]]
+    - [[[[GOGOX]] Business Experience Theme]] and [[[[GOGOX]] Driver Experience Theme]] has a common understanding
+        - Both team agreed that (separate FE + shared BE) is more viable
+        - [[[[GOGOX]] Driver Experience Theme]] will continue the development and will have demo for BET when it completes
+        - [[[[GOGOX]] Driver Experience Theme]] would need to consider issues like 3DS, add/remove cc.
+        - [[[[GOGOX]] Driver Experience Theme]] will check with business to confirm the payment flow
+        - Design for GGB and DA sign-up and payment flow could be different, but currently we are unified.
+        - DA needs to be aware of authentication issue since driver needs to login web?
+        - PIC: [[Henry Tang]] (BE), [[Anthony Chan]] (DA), [[Rob Dong]] (GGB)
+- [[[[GOGOX]] Partner Wallet]] Kafka Error handling
+    - A lot of ideas on
+- [[GOGOX]] Web release paperwork with [[Paul Leung]] and [[Chris Lee]] and [[Rob Dong]]
+    - {{[[DONE]]}}  Circle back when web migrate to kubernetes
+    - Integrate the part with new CI/CD on release note generation + approval on JIRA 
+- [[1:1]] with [[Rob Dong]]
+    - Ask about the stress level of teammates
+    - Understand the team is stressed by the reaction of [[Kelvin Chan]] about [[Kavin Wong]]'s salary got deducted by losing the chargers.
+    - {{[[DONE]]}} Asked [[Rob Dong]] to think about what will we do for the web product if we have 12 Web Engineers
+- [[Ergon]] sync up with [[Tony Fung]] [[Chris Tsang]] and [[Kwong Kin Ming (KM)]]
+    - Rollout production build: scheduled downtime.
+    - Discuss API version in the next meeting.
+    - [[March 2nd, 2021]] will have new build in 4pm.
+- [[How can joining a brown field project propel your developer career?]] [[blogs]]
+- 

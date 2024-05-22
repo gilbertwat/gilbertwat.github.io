@@ -1,0 +1,58 @@
+- 09:30
+    - {{[[DONE]]}}  Write [[[[blog post]] Productively Negative]] 👏🏼 finished on [[February 13th, 2023]]
+- 15:00
+    - Interview
+        - cheaper, faster 
+            - 0 - 0.5 
+                - Design Thinking
+                - Prototyping and concept
+                - Value Proposition
+                - Brainstorming
+                - User interview
+                    - Highly desirably
+                    - Closing sales
+                - Funnels
+                - Example:
+                    - Data Risk model Prototype
+                        - US specific model, cannot apply to ASAP
+                        - Dashboard
+                            - Get excited when talking about challenges
+                            - Everyone has a new ideas about per 
+                - Changing solution focus mindset
+                    - UX researchers framework in 1.5 years
+                    - Product manager peer: ship things fast 
+                    - Remove blocker of shipping
+                    - Alignment with leadership team
+                    - QA back
+            - 0.5 - 1.0
+                - iteration
+            - working style
+                - Requirement not clear 
+                - Change in sprint
+            - team 
+                - shape up sprint
+                - waterfall
+                - what would best for 
+                - requirement BDD more preferred by developer
+                - Start with user research
+                    - Organized brainstorm
+                    - Insurance 101 
+                        - Why
+                    - Unreasonable
+                        - Hash out options with designers or developers
+            - Domain
+                - other than insurance
+                - side projects
+                - "solve problem"
+                - meaningful.
+                - Devote Human being.
+        - Debriefing with Describe process
+            - Generics, not enough detailed
+            - experience, familiar with process
+            - Not outstanding, not impressive
+            - Not able to picture how she can add value to us.
+                - Direct comparison
+                    - Online to offline very experienced
+- [[gratitude dairy]]
+    - Able to work from home
+    - Able to work on a blog post.

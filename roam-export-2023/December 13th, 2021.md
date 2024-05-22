@@ -1,0 +1,33 @@
+- 10:00 - 13:00 [[Wifey]] and [[Theodore]] checkup in hospital 
+- {{[[DONE]]}} 13:00 Return to [[Megan Wong]] about the [[Grantits.io]] candidates
+    -  References: 17:00 [[Interview]] for [[Grantits.io]] [[Data Scientist]]
+    - Delivery:
+        - Suggestions:
+            - I would recommend hold a bit and see who is more available. Although he is communicative proactive, and has quite some awareness but need more guidance for Grantits team as the first data scientist.
+        - Details:
+            - Data analyst experience
+                - Have a lot of experience communicating and executing reports and dashboard with business
+                    - But in the interview, I cannot sense his deep understanding of business he is in.
+            - Data engineer experience
+                - Have a lot of experience in maintaining and developing [[ETL]] jobs.
+            - Data scientist experience
+                - Have production experience about deploying a machine learning model to the product
+                - I don't think he is very well experienced about the crucial elements of [[machine learning]]
+                    - Feature selection
+                    - Model selection
+                    - Category selection
+                - He has an awareness of the connection between product, business and engineering metric is weak but he lacks know how to fix it.
+- 14:00 [[Retyle]] Discussion and thinking about how to response / reject
+- 14:30 [[GOGOX]] good news from [[Steven Lam]]
+    - Chat about the prospect of [[GOGOEnergy]] and GOGOClub
+- 15:30 - 16:15 Discussion with [[Ivo Wu]] on the new role in [[[[Preface]] Coding]]
+- 16:15 - 17:00 Chat with [[Kylie Kwan]] and [[Winnie Fung]]
+    - Understand the current situation of [[GOGOEnergy]]
+    - The current cruft of operations
+    - The current status of Hubspot Migration
+- 18:00 Decide to add 1 more Egress: [[Deploy a dApp]]
+- 18:00 Add 1 more Egress: [[Deliver [[Theodore]]]]
+- 22:30 {{[[DONE]]}} Wrap up the day
+    - diary
+    - Plan [[December 14th, 2021]]
+- 

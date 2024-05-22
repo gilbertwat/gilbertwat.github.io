@@ -1,0 +1,6 @@
+- Author:: [[zallarak]]
+- Full Title:: A Fascinating Pattern I've Seen Angel Investing Casually Over The...
+- Category:: #articles
+- URL:: https://x.com/zallarak/status/1699061711041646836?s=12&t=uxArM9ACRONWpV4tjI3W8g
+- ### Highlights first synced by #Readwise [[September 26th, 2023]]
+    - Will get introduced to or will find a cool company and invest. Founder tells me they're having trouble closing a round from VCs. Only response is: keep closing angels who get your product and forget about VCs. No time for pessimism ([View Highlight](https://read.readwise.io/read/01hb7mppggttgcc4faa8h3q22y))

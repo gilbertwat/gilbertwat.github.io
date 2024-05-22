@@ -1,0 +1,64 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[js]] motivation quote random generator
+- [[1:1]] with [[Young]]
+    - Hiring
+    - Onboarding TW
+- [[Interview]] [[GOGOX]]
+    - Self introduction
+        - funny and sarcastic
+        - Very experienced
+        - Very used to cross functional
+        - Leave the job because...
+    - ES6?
+        - lodash
+            - good functions documentation
+            - good dev productivity, easier 
+            - `let` , `const` keywords
+        - why do you function
+    - Java goodies that js missed
+        - OOP
+    - `this` keywords
+        - try to think of a story
+        - console.log() to debug
+        - debugger
+        - SO
+        - discussion with colleagues
+    - Java vs .NET (C#)
+        - lambda functions
+        - FP functions
+        - JVM ecosystems
+            - listen to lessons on Youtube on creator of Scala.
+    - Keeping up to speed
+        - Feedly RSS
+            - Techcrunch
+            - Buzzfeed
+        - Twitter
+        - Youtube
+        - Passionate about technology and build
+    - Wallet System Design
+        - Not very clear to answer the question
+    - Culture + Team questions 
+    - Q&A
+- [[Interview]] [[GOGOX]]
+    - Self introduction
+    - Wallet System Design
+    - Culture + Team questions 
+        - Like green field project
+        - Very challenging
+        - Challenge outside projects
+    - Q&A
+- [[Kwong Kin Ming (KM)]] [[Ergon]]
+    - CSS
+- [[GOGOX]] Projects recap
+    - [[[[[[2021]] Q1]] [[GOGOX]] project list]]
+    - 
+- [[Vincent Chan]] [[1:1]] Preparation
+    - Ask about [[Tom Lui]] [[[[GOGOX]] Driver Experience Theme]] the impediments of force updating, explains

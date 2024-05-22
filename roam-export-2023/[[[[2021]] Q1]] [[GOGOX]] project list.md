@@ -1,0 +1,30 @@
+- [[[[GOGOX]] cross theme [[project]]]]
+    - Payme integration 
+        - PIC: [[Victor Lam]]
+        - Related themes:
+            - [[[[GOGOX]] GOGODelivery Theme]]
+            - [[[[GOGOX]] Payment Theme]]
+    - Partner Wallet
+        - [[[[GOGOX]] Payment Theme]]
+        - [[[[GOGOX]] GOGODelivery Theme]]
+    - subscription modules
+        - [[[[GOGOX]] Driver Experience Theme]]
+        - [[[[GOGOX]] Business Experience Theme]]
+        - [[[[GOGOX]] Payment Theme]]
+    - 3DS
+        - [[[[GOGOX]] Payment Theme]]
+        - [[[[GOGOX]] Client Experience Theme]]
+- [[[[GOGOX]] Payment Theme]] #[[project]]
+- [[[[GOGOX]] GOGODelivery Theme]] #[[project]]
+- [[[[GOGOX]] Driver Experience Theme]] #[[project]]
+    - Unified order lists
+- [[[[GOGOX]] Business Experience Theme]] #[[project]]
+- [[[[GOGOX]] Client Experience Theme]] #[[project]]
+- [[engineering projects]]
+    - [[[[GOGOX]] Platform]] deadlock issues
+    - iOS DA stability issues
+    - Enabling test in production
+    - Map services replacement
+    - Internal efficiency knowledge transfer
+- Team concerns
+    - engagements and Morales

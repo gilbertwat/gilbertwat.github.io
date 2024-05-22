@@ -1,0 +1,7 @@
+- The first fact table
+    - order or line item level
+    - simplify app data schema
+        - product + subject + course
+    - The importance of surrogate key
+    - date dimension
+- Talk to users

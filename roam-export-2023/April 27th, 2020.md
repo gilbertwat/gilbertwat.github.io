@@ -1,0 +1,10 @@
+- [[Ergon]]
+    - Why you?
+    - Why now?
+    - Where do you think we can 10x cheaper, faster and better?
+        - 2000USD provides a 30000 USD experiences?
+    - Why only you can access the data?
+    - ML
+    - Ride on technology
+    - Knowledge Training
+    - Bottleneck

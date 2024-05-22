@@ -1,0 +1,18 @@
+- {{[[DONE]]}} Brainstorm [[GOGOX]] [[[[GOGOX]] Agile 2.1]]
+    - Legacy Codebase
+    - Unclear relationship with QA
+    - Too many work
+    - not sure if our efforts is worth it?
+    - Long discussion, No Action
+    - Unclear technology roadmap
+    - Reopen tickets 
+    - Crashes is not attended
+    - Dependencies in user stories
+    - Team leads cannot focus on leading the team and advancing the team
+    - strained relationship with QA
+    - No new technology in new product
+    - Reaching sprint goals is a hit or miss
+    - strained teammates relationship
+    - unclear expectation on team members functionalities
+    - No set fixture for investing improvement in codebase / dev tools
+    - No easy way for cross theme collaborations

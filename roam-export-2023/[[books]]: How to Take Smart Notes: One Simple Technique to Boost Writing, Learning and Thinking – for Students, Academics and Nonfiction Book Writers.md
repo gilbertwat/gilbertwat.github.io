@@ -1,0 +1,378 @@
+- Metadata
+    - **Author:** [[Sönke Ahrens]]
+    - **Start date:** [[December 25th, 2020]]
+    - **Reading status:** [[read]]
+    - [[Topics]]
+        - [[Knowledge Base]] writing
+    - Why I #[[decided]] to read this book?
+        - I want to read this book because I need to be effective in learning and understanding the world with a new systems.
+    - TLDR:
+        - How to become an effective knowledge worker?
+            - Write in your own words, build connection with existing knowledge, leverage systems and focus on what matters: writing.
+            - Deliberate practice
+    - Excerpts
+        - Ch 1 Everything You Need to Know
+            - A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas.
+            - Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible.
+            - The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles.
+            - There is really no need to reorganise anything you already have. Just deal with things differently the moment you have to deal with them anyway.
+            - Even the best tool will not improve your productivity considerably if you don’t change your daily routines the tool is embedded in,
+            - The first reason is that GTD relies on clearly defined objectives, whereas insight cannot be predetermined by definition. We usually start with rather vague ideas that are bound to change until they become clearer in the course of our research (cf. Ahrens, 2014, 134f.).
+            - Writing is not a linear process.
+            - That is why we need a note-taking system that is as comprehensive as GTD, but one that is suitable for the open-ended process of writing, learning and thinking. Enter the slip-box.
+            - he would write the bibliographic information on one side of a card and make brief notes about the content on the other side (Schmidt 2013, 170). These notes would end up in the bibliographic slip-box. In a second step, shortly after, he would look at his brief notes and think about their relevance for his own thinking and writing.
+        - Ch2 Everything You Need to Do
+            - Make fleeting notes. Capture every idea that pops into your mind.
+            - Make literature notes. Capture contents in your reading. Be selective, short and your own words.
+            - Make permanent notes. how they related to your own researches, interest and thinking. Once per day is ideal.
+            - Add new permanent notes and file it, link it with existing notes
+            - Develop your projects bottom up from within the system.
+            - Decide on a topic to write about only after a while when the [[ideas]] are matured enough.
+            - Turn your notes into a rough draft.
+            - Edit the rough draft.
+            - Work on multiple projects.
+        - Ch3 Everything You Need to Have
+            - Something to write on
+            - Ref Management System
+            - Slip-box
+            - Editor
+        - Ch4 A few things to Keep in Mind
+            - Tools is easy. Thinking and handling is not.
+            - Keep a few basic principles in mind and understanding the logic behind to be successful.
+        - 4 basic principles
+            - Ch5 Writing Is the only thing that matters
+                - An idea kept private is as good as one you never had.
+                - Focusing on writing also doesn’t mean to stop giving presentations or finding other ways of making your thoughts public. Where else could you get feedback for your ideas?
+            - Ch6 Simplicity is paramount
+                - But more often than not, it is the simplicity of an idea that makes it so powerful (and often overlooked in the beginning).
+                - The ship owners tried to integrate the container into their usual way of working without changing the infrastructure and their routines.
+                - Only after aligning every single part of the delivery chain, from packaging to delivery, from the design of the ships to the design of the harbours, was the full potential of the container unleashed.
+                - everything is streamlined towards one thing only: insight that can be published.
+                - A typical mistake is made by many diligent students who are adhering to the advice to keep a scientific journal. A friend of mine does not let any idea, interesting finding or quote he stumbles upon dwindle away and writes everything down.
+                - The second typical mistake is to collect notes only related to specific projects.
+                - The third typical mistake is, of course, to treat all notes as fleeting ones.
+                - a quick note is the best you can do without interrupting what you are in the middle of doing.
+                - It is important to understand, though, that underlining sentences or writing comments in the margins are also just fleeting notes and do nothing to elaborate on a text. They will very soon become completely useless – unless you do something with them.
+                - Most ideas will not stand the test of time, while others might become the seed for a major project.
+                - Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours.
+            - Ch7 Nobody ever starts from scratch
+                - By focusing on what is interesting and keeping written track of your own intellectual development, topics, questions and arguments will emerge from the material without force.
+                - The material will cluster around the questions they returned to most often, so they don’t risk too far of a departure from their interest.
+            - Ch8 Let the Work Carry You Forward
+                - A good workflow can easily turn into a virtuous circle, where the positive experience motivates us to take on the next task with ease, which helps us to get better at what we are doing, which in return makes it more likely for us to enjoy the work, and so on.
+                - Only if the work itself becomes rewarding can the dynamic of motivation and reward become self-sustainable and propel the whole process forward (DePasque and Tricomi, 2015).
+                - They enter the virtuous circle where willpower isn’t needed anymore because they feel like doing it anyway.
+                - Those who fear and avoid feedback because it might damage their cherished positive self-image image might feel better in the short term, but will quickly fall behind in actual performance (Dweck 2006; 2013).
+                - The ability to express understanding in one’s own words is a fundamental competency for everyone who writes
+                - Yes, our ability to learn isolated facts is indeed limited and probably decreases with age. But if facts are not kept isolated nor learned in an isolated fashion, but hang together in a network of ideas, or “latticework of mental models”
+                    - This is also applicable to changing people's mind. Sometimes you need to understand the fundamental belief of the person.
+        - The 6 steps to successful writing
+            - Ch9 Seperate and Interlocking Tasks
+                - According to a widely cited study, the constant interruption of emails and text messages cuts our productivity by about 40% and makes us at least 10 IQ points dumber.
+                - more than one thing tries to catch your attention, the temptation is great to look at more than one thing at the same time – to multitask.
+                - Writing a paper involves much more than just typing on the keyboard. It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
+                - Proofreading, for example, is obviously part of the writing process, but requires a very different state of mind than the attempt to find the right words.
+                - The mental flexibility to be extremely focused for one moment and playfully explore ideas in the next is just one side of the equation. To be flexible, we need an equally flexible work structure that doesn’t break down every time we depart from a preconceived plan. One can be the best driver with the quickest reactions, able to adjust flexibly to different street and weather conditions.
+                - The moment we stop making plans is the moment we start to learn.
+                - To be able to become an expert, we need the freedom to make our own decisions and all the necessary mistakes that help us learn.
+                - It allows you to become better by giving you the opportunity for deliberate practice. The more experience you gain, the more you will be able to rely on your intuition to tell you what to do next.
+                - Open tasks tend to occupy our short-term memory – until they are done.
+                - The brain doesn't distinguish between an actual finished task and one that is postponed by taking a note.
+                - the brain cannot help but play around with the last unsolved problem it came across.
+                - Rather, we may solve a crucial problem while we run errands.
+                - By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced. That leaves us with much more mental energy that we can direct towards more useful tasks, like trying to solve the problems in question.
+            - Ch10 Read for Understanding
+                - How extensive the literature notes should be really depends on the text and what we need it for. It also depends on our ability to be concise, the complexity of the text and how difficult it is to understand.
+                - Because students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details. But to be able to note down the gist of a lecture, you have to understand it in the first place.
+                - Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.
+                    - Confirm that we have separated tasks and focus on understanding the text we read
+                    - Find the relevance of it and make connections.
+                    - Make sure we have given a true account of its content 
+                - The ability to distinguish relevant from less relevant information is another skill that can only be learned by doing. It is the practice of looking for the gist and distinguishing it from mere supporting details.
+                - The ability to spot patterns, to question the frames used and detect the distinctions made by others, is the precondition to thinking critically and looking behind the assertions of a text or a talk.
+                - “The principle is that you must not fool yourself, and you are the easiest person to fool,” Feynman stressed in a speech to young scientists (Feynman 1985, 342). #Quotes
+                - Learning requires effort, because we have to think to understand and we need to actively retrieve old knowledge to convince our brains to connect it with new ideas as cues.
+            - Ch11 Take Smart Notes
+                - It does make sense to break down the work into manageable and measurable steps, but pages per day don’t work that well as a unit when you also have to read, do research and think.
+                - Putting notes into the slip-box, however, is like investing and reaping the rewards of compounded interest (which would in this example almost pay for the whole flat).
+                - Taking literature notes is a form of deliberate practice as it gives us feedback on our understanding or lack of it, while the effort to put into our own words the gist of something is at the same time the best approach to understanding what we read.
+                - Almost all agree nowadays that real thinking requires some kind of externalization, especially in the form of writing.
+                - People facing deadlines sometimes switch frantically between all kinds of tasks. People with little money sometimes spend it on seeming luxuries like take-away food. From the outside, it would make more sense to do one thing at a time, or buy food in bulk and cook for yourself.
+                - By explicitly writing down how something connects or leads to something else, we force ourselves to clarify and distinguish ideas from each other.
+                - but about building connections and bridges between pieces of information to circumvent the inhibition mechanism in the right moment.
+                - It is about making sure that the right “cues” trigger the right memory, about how we can think strategically to remember the most useful information when we need it.
+                - What does help for true, useful learning is to connect a piece of information to as many meaningful contexts as possible, which is what we do when we connect our notes in the slip-box with other notes.
+                - His famous Feynman diagrams are primarily tools to make understanding easier and his lectures are famous because they help students to really understand physics.
+                - The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to? That the slip-box is not sorted by topics is the precondition for actively building connections between notes.
+                - Add a note to the slip-box either behind the note you directly refer to or, if you do not follow up on a specific note, just behind the last note in the slip-box.
+            - Ch12 Develop Ideas
+                - The first type of links are those on notes that are giving you the overview of a topic. These are notes directly referred to from the index and usually used as an entry point into a topic that has already developed to such a degree that an overview is needed or at least becomes helpful.
+                - The most common form of reference is plain note-to-note links. They have no function other than indicating a relevant connection between two individual notes.
+                - Comparing notes also helps us to detect contradictions, paradoxes or oppositions – important facilitators for insight. When we realise that we used to accept two contradicting ideas as equally true, we know that we have a problem – and problems are good because we now have something to solve. A paradox can be a sign that we haven’t thought thoroughly enough about a problem or, conversely, that we exhausted the possibilities of a certain paradigm. Finally, oppositions help to shape ideas by providing contrast. Albert Rothenberg suggests that the construction of oppositions is the most reliable way of generating new ideas (Rothenberg 1971; 1996; 2015).
+                - Charlie Munger, Warren Buffett’s partner and vice chairman of Berkshire Hathaway, stresses the importance of having a broad theoretical toolbox – not to be a good academic, but to have a good, pragmatic grip on reality. #Quotes
+                - A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes.
+                - Instruction of the slip-box
+                    - 1. Pay attention to what you want to remember. 
+                    - 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.) 
+                    - 3. Practice recall. (Ibid., 31)
+                - But the reason why Watson and Crick or Kekulé had these insights and not a random person on the street is that they already had spent a very long time thinking hard about the problems, tinkered with other possible solutions and tried countless other ways of looking at the problem.
+                - Most often, innovation is not the result of a sudden moment of realization, anyway, but incremental steps toward improvement. Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea.
+                - The brain is more likely to notice details when it scans than when it focuses.” (Zull 2002, 142f) This is one of the reasons why thinking works so much better when we have the very things we think about in front of our eyes. It is in our nature.
+                - The real enemy of independent thinking is not an external authority, but our own inertia. The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible.
+                - Our brains just love routines. Before new information prompts our brains to think differently about something, they make the new information fit into the known or let it disappear completely from our perception.
+                - Often, companies don’t even keep track of their own failed attempts, providing McMath with whole series in which one kind of mistake was made in multiple variations, sometimes from each generation of developers in the same company (McMath and Forbes 1999).
+                - One possibility to deal with this tendency is to ask counterfactual questions, like “what if?” (Markman, Lindberg, Kray and Galinsky, 2007).
+                - Taking simple ideas seriously.
+                - The next level of understanding is reached when you realise what you buy if you buy a stock: a part of a company.
+                - But the only thing Warren Buffett thinks about it is the relationship between price and value – he doesn’t even look at the price from yesterday. He understands that simple is not the same as easy, and that the worst thing you can do is to make a simple task unnecessarily complicated. A stock is a share in a company. The price is set by the market, which means by supply and demand, which touches on the rationality of market participants as well as the question of valuation, which means you have to understand something about the business you are considering investing in, including competition, competitive advantages, technological developments, etc.
+                - Simple ideas can be tied together into consistent theories and build up enormous complexity. This just doesn’t work with complicated ideas.
+                - Literature is condensed on a note saying, “On page x, it says y,”
+                - Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997).
+            - Ch13 Share your insight
+                - It makes things worse that we tend to like our first ideas the best and are very reluctant to let go of them, irrespective of their actual relevance (Strack and Mussweiler 1997).
+                - supervisor: I read so much, but what should I write about? On the other hand, we who have already accompanied our studies by writing and collecting notes in a smart way simply don’t have the need for brainstorming anymore.
+                - Good questions are in the sweet spot of being relevant and interesting, not too easy to answer but possible to tackle with material that is available or at least within our reach.
+                - It is not surprising that motivation is shown to be one of the most important indicators for successful students – next to the feeling of being in control of one’s own learning course.
+                - These findings are an important argument for academic freedom. Nothing motivates us more than seeing a project we can identify with moving forward, and nothing is more demotivating than being stuck with a project that doesn’t seem to be worth doing.
+                - “When people experienced a sense of autonomy with regard to the choice, their energy for subsequent tasks was not diminished. An important question that deserved empirical attention concerns the potential for autonomous choice to vitalise or enhance self-regulatory strength for subsequent tasks.
+                - The key is to structure the draft visibly. It is not so much about deciding once and for all what to write in which chapter or paragraph, but what does not need to be written in a particular part of the manuscript. By looking at the (always preliminary) structure, you can see if information will be mentioned in another part.
+                - The lesson to draw is to be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal.
+                - The other lesson is not that we can’t learn from our experiences, but that we can only learn from our experiences if feedback follows shortly afterwards – and maybe more than once in a while.
+                - If we instead set out to write, say, three notes on a specific day, review one paragraph we wrote the day before or check all the literature we discovered in an article, we know exactly at the end of the day what we were able to accomplish and can adjust our expectations for the next day.
+                - If we have the finish line in sight, we tend to speed up, as everyone knows who has ever run a marathon. That means that the most important step is to get started. Rituals help, too (Currey 2013).
+            - Ch14 Make it a habit
+                - The most reliable predictor of our behaviour in the immediate future is – surprise, surprise – the intention to do it. If we decide to go to the gym now, the chance is that we really do go to the gym now.
+                - The trick is not to try to break with old habits and also not to use willpower to force oneself to do something else, but to strategically build up new habits that have a chance to replace the old ones
+                - Watching others reading books and doing nothing other than underlining some sentences or making unsystematic notes that will end up nowhere will soon be a painful sight.
+                - First of all, the long-term, cross-topic organization of notes, which is guided only by one’s own understanding and interest, is very much at odds with the modular, compartmentalised and top-down approach in which the curricula of universities and colleges are organised. Teaching is still set up for review, and students are not really encouraged to independently build a network of connections between heterogeneous information – despite the radical change in our understanding on how our memory and learning works.
+    - [[Literature Notes]]
+        - writing is [[Thinking]].
+        - Thinking about the content, the argument and the ideas are the most important to [[Thinking]].
+        - A structure to work in is flexible.
+        - A structure to work in can free you from decisions distracted away from your objectives.
+        - A plan is inflexible.
+        - A concise objectives is essential to [[GTD]].
+        - writing requires insights.
+        - writing should be built from ground-up to maintain flexibility.
+        - The main work for people who studies, does research or writes is [[Thinking]], reading, learning, understanding and generating ideas.
+        - [[Permanent Notes]] is for developing ideas, arguments and discussions.
+        - When adding to [[Permanent Notes]], look for whether it is contradict, correct, support or added to what you already have?
+        - What triggers you to add that piece of information to [[Permanent Notes]]?
+        - Can you combine the new stuff to generate new [[ideas]] in your [[Permanent Notes]]
+        - [[ideas]] kept private is as good as one you never had.
+        - Malcom McLean doesn't invent containers. He make necessary change in containers.
+        - [[[[GOGOX]] Project Flywheel]] can draw a very good reference from Malcom McLean
+        - We need to add to [[Permanent Notes]] selectively and think about them thoroughly.
+        - Most [[ideas]] will not stand the test of time, while others might become the seed for a major project.
+        - [[management]] is about improving your teammates and peers.
+        - Focus on the gist of the literature.
+        - To GTD, all tasks should be small and actionable and measurable.
+        - To [[think critically]], one needs to be able to spot patterns.
+        - To [[think critically]], one needs to be able to question the mental model
+        - To [[think critically]], one needs to be able to detect the distinctions made by others.
+        - Don't take shortcut.
+    - #questions
+        - Let's say A plan is inflexible., but A structure to work in is flexible., how can we apply a structure to work with in a company? Does agile means a structure to work with? What can be done to increase the learning rate [[GOGOX]] [[learning]] [[learning about customers]] [[product]] [[Ergon]]
+        - Why I am working in [[GOGOX]] [[Ergon]] in [[2021]]? [[Gilbert Wat]]
+        - What is the number one investment topics I would like to jump until at least [[2026]]? [[Gilbert Wat]]
+        - For the Malcom McLean container stories, how can [[GOGOX]] draws parallel to it
+            - Skip the current shipping solutions.
+            - Think from first principle.
+        - For writing, there are tasks to require different parts of the brain and attention, what about [[management]]what about [[software]]
+        - To be a good manager, a good manager means to develop your peers and organization, and to be an experts, they have to be able to roam free and make the right mistakes they need. What is the boundary? Where should a manager step in?
+            - To be able to become an expert, we need the freedom to make our own decisions and all the necessary mistakes that help us learn.
+            - Because trainees lack the experience to judge a situation correctly and confidently, they need to stick to the rules they were taught, much to the delight of their teachers.
+            - Here, gut feeling is not a mysterious force, but an incorporated history of experience.
+        - How can you gauge the experience level of an engineer, manager or even directors in an [[job interview]]?
+        - I really think writing in the slip-box / Zettelkasten way is too information intensed, how to be more easy to digest?
+        - What am I fooling myself? [[Gilbert Wat]]
+            - I finally understand what I am always doing spariodically but not consistently, with my mind but not with a tool - connecting the new information with the knowledge I already know
+- [[Metadata]]
+    - **Author:** [[Sönke Ahrens]]
+    - **Start date:** [[December 25th, 2020]]
+    - **Reading status:** [[read]]
+    - [[Topics]]
+        - [[Knowledge management]] [[writings]]
+    - Why I #[[decision]] to read this book?
+        - I want to read this book because I need to be effective in learning and understanding the world with a new systems.
+    - TLDR:
+        - How to become an effective knowledge worker?
+            - Write in your own words, build connection with existing knowledge, leverage systems and focus on what matters: writing.
+            - Deliberate practice
+    - [[Excerpts]]
+        - Ch 1 Everything You Need to Know
+            - A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in your head and you can start focusing on what is important: The content, the argument and the ideas.
+            - Having a clear structure to work in is completely different from making plans about something. If you make a plan, you impose a structure on yourself; it makes you inflexible.
+            - The best way to deal with complexity is to keep things as simple as possible and to follow a few basic principles.
+            - There is really no need to reorganise anything you already have. Just deal with things differently the moment you have to deal with them anyway.
+            - Even the best tool will not improve your productivity considerably if you don’t change your daily routines the tool is embedded in,
+            - The first reason is that GTD relies on clearly defined objectives, whereas insight cannot be predetermined by definition. We usually start with rather vague ideas that are bound to change until they become clearer in the course of our research (cf. Ahrens, 2014, 134f.).
+            - Writing is not a linear process.
+            - That is why we need a note-taking system that is as comprehensive as GTD, but one that is suitable for the open-ended process of writing, learning and thinking. Enter the slip-box.
+            - he would write the bibliographic information on one side of a card and make brief notes about the content on the other side (Schmidt 2013, 170). These notes would end up in the bibliographic slip-box. In a second step, shortly after, he would look at his brief notes and think about their relevance for his own thinking and writing.
+        - Ch2 Everything You Need to Do
+            - Make fleeting notes. Capture every idea that pops into your mind.
+            - Make literature notes. Capture contents in your reading. Be selective, short and your own words.
+            - Make permanent notes. Think about Make fleeting notes. Capture every idea that pops into your mind. and Make literature notes. Capture contents in your reading. Be selective, short and your own words. how they related to your own researches, interest and thinking. Once per day is ideal.
+            - Add new permanent notes and file it, link it with existing notes
+            - Develop your projects bottom up from within the system.
+            - Decide on a topic to write about only after a while when the [[ideas]] is matured enough.
+            - Turn your notes into a rough draft.
+            - Edit the rough draft.
+            - Work on multiple projects.
+        - Ch3 Everything You Need to Have
+            - Something to write on
+            - Ref Management System
+            - Slip-box
+            - Editor
+        - Ch4 A few things to Keep in Mind
+            - Tools is easy. Thinking and handling is not.
+            - Keep a few basic principles in mind and understanding the logic behind to be successful.
+        - 4 basic principles
+            - Ch5 Writing Is the only thing that matters
+                - An idea kept private is as good as one you never had.
+                - Focusing on writing also doesn’t mean to stop giving presentations or finding other ways of making your thoughts public. Where else could you get feedback for your ideas?
+            - Ch6 Simplicity is paramount
+                - But more often than not, it is the simplicity of an idea that makes it so powerful (and often overlooked in the beginning).
+                - The ship owners tried to integrate the container into their usual way of working without changing the infrastructure and their routines.
+                - Only after aligning every single part of the delivery chain, from packaging to delivery, from the design of the ships to the design of the harbours, was the full potential of the container unleashed.
+                - everything is streamlined towards one thing only: insight that can be published.
+                - A typical mistake is made by many diligent students who are adhering to the advice to keep a scientific journal. A friend of mine does not let any idea, interesting finding or quote he stumbles upon dwindle away and writes everything down.
+                - The second typical mistake is to collect notes only related to specific projects.
+                - The third typical mistake is, of course, to treat all notes as fleeting ones.
+                - a quick note is the best you can do without interrupting what you are in the middle of doing.
+                - It is important to understand, though, that underlining sentences or writing comments in the margins are also just fleeting notes and do nothing to elaborate on a text. They will very soon become completely useless – unless you do something with them.
+                - Most ideas will not stand the test of time, while others might become the seed for a major project.
+                - Every intellectual endeavour starts from an already existing preconception, which then can be transformed during further inquires and can serve as a starting point for following endeavours.
+            - Ch7 Nobody ever starts from scratch
+                - By focusing on what is interesting and keeping written track of your own intellectual development, topics, questions and arguments will emerge from the material without force.
+                - The material will cluster around the questions they returned to most often, so they don’t risk too far of a departure from their interest.
+            - Ch8 Let the Work Carry You Forward
+                - A good workflow can easily turn into a virtuous circle, where the positive experience motivates us to take on the next task with ease, which helps us to get better at what we are doing, which in return makes it more likely for us to enjoy the work, and so on.
+                - Only if the work itself becomes rewarding can the dynamic of motivation and reward become self-sustainable and propel the whole process forward (DePasque and Tricomi, 2015).
+                - They enter the virtuous circle where willpower isn’t needed anymore because they feel like doing it anyway.
+                - Those who fear and avoid feedback because it might damage their cherished positive self-image image might feel better in the short term, but will quickly fall behind in actual performance (Dweck 2006; 2013).
+                - The ability to express understanding in one’s own words is a fundamental competency for everyone who writes
+                - Yes, our ability to learn isolated facts is indeed limited and probably decreases with age. But if facts are not kept isolated nor learned in an isolated fashion, but hang together in a network of ideas, or “latticework of mental models”
+                    - This is also applicable to changing people's mind. Sometimes you need to understand the fundamental belief of the person.
+        - The 6 steps to successful writing
+            - Ch9 Seperate and Interlocking Tasks
+                - According to a widely cited study, the constant interruption of emails and text messages cuts our productivity by about 40% and makes us at least 10 IQ points dumber.
+                - more than one thing tries to catch your attention, the temptation is great to look at more than one thing at the same time – to multitask.
+                - Writing a paper involves much more than just typing on the keyboard. It also means reading, understanding, reflecting, getting ideas, making connections, distinguishing terms, finding the right words, structuring, organizing, editing, correcting and rewriting.
+                - Proofreading, for example, is obviously part of the writing process, but requires a very different state of mind than the attempt to find the right words.
+                - The mental flexibility to be extremely focused for one moment and playfully explore ideas in the next is just one side of the equation. To be flexible, we need an equally flexible work structure that doesn’t break down every time we depart from a preconceived plan. One can be the best driver with the quickest reactions, able to adjust flexibly to different street and weather conditions.
+                - The moment we stop making plans is the moment we start to learn.
+                - To be able to become an expert, we need the freedom to make our own decisions and all the necessary mistakes that help us learn.
+                - It allows you to become better by giving you the opportunity for deliberate practice. The more experience you gain, the more you will be able to rely on your intuition to tell you what to do next.
+                - Open tasks tend to occupy our short-term memory – until they are done.
+                - The brain doesn't distinguish between an actual finished task and one that is postponed by taking a note.
+                - the brain cannot help but play around with the last unsolved problem it came across.
+                - Rather, we may solve a crucial problem while we run errands.
+                - By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced. That leaves us with much more mental energy that we can direct towards more useful tasks, like trying to solve the problems in question.
+            - Ch10 Read for Understanding
+                - How extensive the literature notes should be really depends on the text and what we need it for. It also depends on our ability to be concise, the complexity of the text and how difficult it is to understand.
+                - Because students can’t write fast enough to keep up with everything that is said in a lecture, they are forced to focus on the gist of what is being said, not the details. But to be able to note down the gist of a lecture, you have to understand it in the first place.
+                - Developing arguments and ideas bottom-up instead of top-down is the first and most important step to opening ourselves up for insight.
+                    - Confirm that we have separated tasks and focus on understanding the text we read
+                    - Find the relevance of it and make connections.
+                    - Make sure we have given a true account of its content 
+                - The ability to distinguish relevant from less relevant information is another skill that can only be learned by doing. It is the practice of looking for the gist and distinguishing it from mere supporting details.
+                - The ability to spot patterns, to question the frames used and detect the distinctions made by others, is the precondition to thinking critically and looking behind the assertions of a text or a talk.
+                - “The principle is that you must not fool yourself, and you are the easiest person to fool,” Feynman stressed in a speech to young scientists (Feynman 1985, 342). #Quotes
+                - Learning requires effort, because we have to think to understand and we need to actively retrieve old knowledge to convince our brains to connect it with new ideas as cues.
+            - Ch11 Take Smart Notes
+                - It does make sense to break down the work into manageable and measurable steps, but pages per day don’t work that well as a unit when you also have to read, do research and think.
+                - Putting notes into the slip-box, however, is like investing and reaping the rewards of compounded interest (which would in this example almost pay for the whole flat).
+                - Taking literature notes is a form of deliberate practice as it gives us feedback on our understanding or lack of it, while the effort to put into our own words the gist of something is at the same time the best approach to understanding what we read.
+                - Almost all agree nowadays that real thinking requires some kind of externalization, especially in the form of writing.
+                - People facing deadlines sometimes switch frantically between all kinds of tasks. People with little money sometimes spend it on seeming luxuries like take-away food. From the outside, it would make more sense to do one thing at a time, or buy food in bulk and cook for yourself.
+                - By explicitly writing down how something connects or leads to something else, we force ourselves to clarify and distinguish ideas from each other.
+                - but about building connections and bridges between pieces of information to circumvent the inhibition mechanism in the right moment.
+                - It is about making sure that the right “cues” trigger the right memory, about how we can think strategically to remember the most useful information when we need it.
+                - What does help for true, useful learning is to connect a piece of information to as many meaningful contexts as possible, which is what we do when we connect our notes in the slip-box with other notes.
+                - His famous Feynman diagrams are primarily tools to make understanding easier and his lectures are famous because they help students to really understand physics.
+                - The slip-box forces us to ask numerous elaborating questions: What does it mean? How does it connect to … ? What is the difference between … ? What is it similar to? That the slip-box is not sorted by topics is the precondition for actively building connections between notes.
+                - Add a note to the slip-box either behind the note you directly refer to or, if you do not follow up on a specific note, just behind the last note in the slip-box.
+            - Ch12 Develop Ideas
+                - The first type of links are those on notes that are giving you the overview of a topic. These are notes directly referred to from the index and usually used as an entry point into a topic that has already developed to such a degree that an overview is needed or at least becomes helpful.
+                - The most common form of reference is plain note-to-note links. They have no function other than indicating a relevant connection between two individual notes.
+                - Comparing notes also helps us to detect contradictions, paradoxes or oppositions – important facilitators for insight. When we realise that we used to accept two contradicting ideas as equally true, we know that we have a problem – and problems are good because we now have something to solve. A paradox can be a sign that we haven’t thought thoroughly enough about a problem or, conversely, that we exhausted the possibilities of a certain paradigm. Finally, oppositions help to shape ideas by providing contrast. Albert Rothenberg suggests that the construction of oppositions is the most reliable way of generating new ideas (Rothenberg 1971; 1996; 2015).
+                - Charlie Munger, Warren Buffett’s partner and vice chairman of Berkshire Hathaway, stresses the importance of having a broad theoretical toolbox – not to be a good academic, but to have a good, pragmatic grip on reality. #Quotes
+                - A truly wise person is not someone who knows everything, but someone who is able to make sense of things by drawing from an extended resource of interpretation schemes.
+                - Instruction of the slip-box
+                    - 1. Pay attention to what you want to remember. 
+                    - 2. Properly encode the information you want to keep. (This includes thinking about suitable cues.) 
+                    - 3. Practice recall. (Ibid., 31)
+                - But the reason why Watson and Crick or Kekulé had these insights and not a random person on the street is that they already had spent a very long time thinking hard about the problems, tinkered with other possible solutions and tried countless other ways of looking at the problem.
+                - Most often, innovation is not the result of a sudden moment of realization, anyway, but incremental steps toward improvement. Even groundbreaking paradigm shifts are most often the consequence of many small moves in the right direction instead of one big idea.
+                - The brain is more likely to notice details when it scans than when it focuses.” (Zull 2002, 142f) This is one of the reasons why thinking works so much better when we have the very things we think about in front of our eyes. It is in our nature.
+                - The real enemy of independent thinking is not an external authority, but our own inertia. The ability to generate new ideas has more to do with breaking with old habits of thinking than with coming up with as many ideas as possible.
+                - Our brains just love routines. Before new information prompts our brains to think differently about something, they make the new information fit into the known or let it disappear completely from our perception.
+                - Often, companies don’t even keep track of their own failed attempts, providing McMath with whole series in which one kind of mistake was made in multiple variations, sometimes from each generation of developers in the same company (McMath and Forbes 1999).
+                - One possibility to deal with this tendency is to ask counterfactual questions, like “what if?” (Markman, Lindberg, Kray and Galinsky, 2007).
+                - Taking simple ideas seriously.
+                - The next level of understanding is reached when you realise what you buy if you buy a stock: a part of a company.
+                - But the only thing Warren Buffett thinks about it is the relationship between price and value – he doesn’t even look at the price from yesterday. He understands that simple is not the same as easy, and that the worst thing you can do is to make a simple task unnecessarily complicated. A stock is a share in a company. The price is set by the market, which means by supply and demand, which touches on the rationality of market participants as well as the question of valuation, which means you have to understand something about the business you are considering investing in, including competition, competitive advantages, technological developments, etc.
+                - Simple ideas can be tied together into consistent theories and build up enormous complexity. This just doesn’t work with complicated ideas.
+                - Literature is condensed on a note saying, “On page x, it says y,”
+                - Thinking and creativity can flourish under restricted conditions and there are plenty of studies to back that claim (cf. Stokes 2001; Rheinberger 1997).
+            - Ch13 Share your insight
+                - It makes things worse that we tend to like our first ideas the best and are very reluctant to let go of them, irrespective of their actual relevance (Strack and Mussweiler 1997).
+                - supervisor: I read so much, but what should I write about? On the other hand, we who have already accompanied our studies by writing and collecting notes in a smart way simply don’t have the need for brainstorming anymore.
+                - Good questions are in the sweet spot of being relevant and interesting, not too easy to answer but possible to tackle with material that is available or at least within our reach.
+                - It is not surprising that motivation is shown to be one of the most important indicators for successful students – next to the feeling of being in control of one’s own learning course.
+                - These findings are an important argument for academic freedom. Nothing motivates us more than seeing a project we can identify with moving forward, and nothing is more demotivating than being stuck with a project that doesn’t seem to be worth doing.
+                - “When people experienced a sense of autonomy with regard to the choice, their energy for subsequent tasks was not diminished. An important question that deserved empirical attention concerns the potential for autonomous choice to vitalise or enhance self-regulatory strength for subsequent tasks.
+                - The key is to structure the draft visibly. It is not so much about deciding once and for all what to write in which chapter or paragraph, but what does not need to be written in a particular part of the manuscript. By looking at the (always preliminary) structure, you can see if information will be mentioned in another part.
+                - The lesson to draw is to be generally sceptical about planning, especially if it is merely focused on the outcome, not on the actual work and the steps required to achieve a goal.
+                - The other lesson is not that we can’t learn from our experiences, but that we can only learn from our experiences if feedback follows shortly afterwards – and maybe more than once in a while.
+                - If we instead set out to write, say, three notes on a specific day, review one paragraph we wrote the day before or check all the literature we discovered in an article, we know exactly at the end of the day what we were able to accomplish and can adjust our expectations for the next day.
+                - If we have the finish line in sight, we tend to speed up, as everyone knows who has ever run a marathon. That means that the most important step is to get started. Rituals help, too (Currey 2013).
+            - Ch14 Make it a habit
+                - The most reliable predictor of our behaviour in the immediate future is – surprise, surprise – the intention to do it. If we decide to go to the gym now, the chance is that we really do go to the gym now.
+                - The trick is not to try to break with old habits and also not to use willpower to force oneself to do something else, but to strategically build up new habits that have a chance to replace the old ones
+                - Watching others reading books and doing nothing other than underlining some sentences or making unsystematic notes that will end up nowhere will soon be a painful sight.
+                - First of all, the long-term, cross-topic organization of notes, which is guided only by one’s own understanding and interest, is very much at odds with the modular, compartmentalised and top-down approach in which the curricula of universities and colleges are organised. Teaching is still set up for review, and students are not really encouraged to independently build a network of connections between heterogeneous information – despite the radical change in our understanding on how our memory and learning works.
+    - Takeaways
+        - [[writings]] is [[Thinking]].
+        - Thinking about the content, the argument and the ideas are the most important to [[Thinking]].
+        - A structure to work in is flexible.
+        - A structure to work in can free you from decisions distracted away from your objectives.
+        - A plan is inflexible.
+        - A concise objectives is essential to [[GTD]].
+        - [[writings]] requires insights.
+        - [[writings]] should be built from ground-up to maintain flexibility.
+        - The main work for people who studies, does research or writes is [[Thinking]], reading, learning, understanding and generating ideas.
+        - [[Permanent Notes]] is for developing ideas, arguments and discussions.
+        - When adding to [[Permanent Notes]], look for whether it is contradict, correct, support or added to what you already have?
+        - What triggers you to add that piece of information to [[Permanent Notes]]?
+        - Can you combine the new stuff to generate new [[ideas]] in your [[Permanent Notes]]
+        - An [[ideas]] kept private is as good as one you never had.
+        - Malcom McLean doesn't invent containers. He make necessary change in containers.
+        - [[[[GOGOX]] Project Flywheel]] can draw a very good reference from Malcom McLean
+        - We need to add to [[Permanent Notes]] selectively and think about them thoroughly.
+        - Most [[ideas]] will not stand the test of time, while others might become the seed for a major project.
+        - [[management]] is about improving your teammates and peers.
+        - Focus on the gist of the literature.
+        - To GTD, all tasks should be small and actionable and measurable.
+        - To [[think critically]], one needs to be able to spot patterns.
+        - To [[think critically]], one needs to be able to question the mental model
+        - To [[think critically]], one needs to be able to detect the distinctions made by others.
+        - Don't take shortcut.
+    - [[🤔 Questions]]
+        - Let's say A plan is inflexible., but A structure to work in is flexible., how can we apply a structure to work with in a company? Does agile means a structure to work with? What can be done to increase the learning rate? #[[GOGOX]] [[learning]] [[learning about customers]] #[[product]] #[[Ergon]]
+        - Why I am working in [[GOGOX]] [[Ergon]] in [[2021]]? #[[🧘🏻‍♂️ Self Awareness]] 
+        - What is the number one investment topics I would like to jump until at least [[2026]]? #[[🧘🏻‍♂️ Self Awareness]]
+        - For the Malcom McLean container stories, how can [[GOGOX]] draws parallel to it?
+            - Skip the current shipping solutions.
+            - Think from first principle.
+        - For writing, there are tasks to require different parts of the brain and attention, what about [[management]]? what about [[🔢 Software Development]]
+        - To be a good manager, a good manager means to develop your peers and organization, and to be an experts, they have to be able to roam free and make the right mistakes they need. What is the boundary? Where should a manager step in? 
+            - To be able to become an expert, we need the freedom to make our own decisions and all the necessary mistakes that help us learn.
+        - Because trainees lack the experience to judge a situation correctly and confidently, they need to stick to the rules they were taught, much to the delight of their teachers.
+        - Here, gut feeling is not a mysterious force, but an incorporated history of experience.
+        - How can you gauge the experience level of an engineer, manager or even directors in an [[job interview]]
+        - I really think [[writings]] in the slip-box / Zettelkasten way is too information intensed, how to be more easy to digest?
+        - What am I fooling myself? #[[🧘🏻‍♂️ Self Awareness]]
+            - I finally understand what I am always doing spariodically but not consistently, with my mind but not with a tool - connecting the new information with the knowledge I already know

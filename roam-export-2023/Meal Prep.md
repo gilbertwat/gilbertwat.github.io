@@ -1,0 +1,5 @@
+- Goals:
+    - To dice or slice the vegetable before weekday lunches and dinners so that we can save some effort in weekdays to decide and prep the meal.
+    - 
+- [[🍲 Recipes]]
+- 

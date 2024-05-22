@@ -1,0 +1,161 @@
+- Status: `RFC` untill May 22nd, 2020
+- # Table of Contents
+- *[Overview](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#c13c0e73ea6e4ec39ed2c77a0e389392)*
+- [*Recap of current process*](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#b1e7a9c157fd4af0b9f9465bf02d7007)
+- *[Pain points](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#fb56aaec194a44c4b5c7dcb568ea9f2e)*
+- *[Suggested solutions](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#083b99f239504f6f93d5ad91dfcdf897)*
+- *[Updated process](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#083b99f239504f6f93d5ad91dfcdf897)*
+- *[Success Metrics](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#71adb2bce1b84130acc266254f4699e7)*
+- # Overview
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- In the current delivery process, there are different parties with different responsibilities working together to solve customer problems and capture values. We all benefit from a common ground of process to provide ease of mind and basis of understanding.
+- Some history of our iteration of agile process:
+- ## 1.0
+- [Proposed Development workflow and JIRA transformation](https://www.notion.so/Proposed-Development-workflow-and-JIRA-transformation-b7079687a31041cfb38ad40a4266b37b)
+- ## 1.1
+- [GGV Scrum](https://www.notion.so/GGV-Scrum-385bd8be877b489d92629e0cbc2c8dde) 
+- [Misc.](https://www.notion.so/Misc-b54ba5ce21ff4bd0b36bc94e7169176d)
+- ## 2.0 (Current)
+- [Agile Process 2.0 #1 : Direction Alignment and next steps](https://www.notion.so/Agile-Process-2-0-1-Direction-Alignment-and-next-steps-2ad57b91b633493c90e0041e22e6a540) 
+- [Ideal Workflow Alignment](https://www.notion.so/Ideal-Workflow-Alignment-c5a41e86dd964f5b8ad9bb843c8ee040)
+- [Speed Up Delivery](https://www.notion.so/Speed-Up-Delivery-3b53f58f83584db6b0e62687d351232a) 
+- # Recap
+- ![GGV%20Agile%202%201%2093a50a18afe84e6e9a750cff7dfc950a/Copy_of_The_Flow_(1).jpg](GGV%20Agile%202%201%2093a50a18afe84e6e9a750cff7dfc950a/Copy_of_The_Flow_(1).jpg)
+- # Current roles in our value delivery
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- Feel free to add your interpretation
+- ## Common Goals
+- To deliver values to our customers with great user experience and state of the art technology
+- Feel progression and satisfaction in the process
+- ## Engineers
+- Suggest and deliver solutions
+    - [](https://www.notion.so/1795bdf24dda4e6aaf28059f4bd09d8f)
+- Increase technical capabilities
+    - [](https://www.notion.so/b4d50f1297c14f1db36e7920e0b9ebce)
+- communication
+- ## PMs
+- Product Discovery
+    - [Continuous Discovery](https://www.notion.so/Continuous-Discovery-af3cc23c2720436b8d11d8985735fc0b)
+- Product Validation
+- External communications with stakeholders
+    - [](https://www.notion.so/7b65a4c551b34815b938344f4676003f) BET
+    - [](https://www.notion.so/1952fa2e7bc8434c9a7550ee79c52ea2)
+    - [](https://www.notion.so/36ab1b6eb6804f1494c591d6e9699a4a)
+    - ... etc.
+- communicate
+- ## QAs
+- Validate solution
+- Process governance
+- Increase validation capabilities
+    - [Speed Up Delivery](https://www.notion.so/Speed-Up-Delivery-3b53f58f83584db6b0e62687d351232a) 
+- Facilitate communications
+- ## Designers
+- Product Validation
+- Suggest UX solutions
+- Build UI mockups
+- communicate designs and rationales
+- # Current pain points
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- [Unsorted problem list](https://www.notion.so/Unsorted-problem-list-91a051922cb84956bb9bc96d8f70e46d)
+- ## Technical
+- Legacy Codebase (Especially in Driver App iOS, D2 APIs, Pricing model)
+- Long testing cycle increase error chance and break momentum
+- Mobile testing is hard (Especially Android)
+- ## Project Management
+- Unclear sprint goals
+- Not an easy way to do cross theme collaboration
+- ## Culture
+- End-to-end ownership of the team is hard to achieve
+- Not enough shared contexts to make the bet more probable to succeed
+- # Suggested changes to resolve some pain points
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- Please suggest anything!
+- ## Pain points selected to deal with
+- Cross theme collaboration
+- Effective communication start with clear expectation & goals
+- End-to-end ownership
+- ## Prerequisites
+- Everyone need to be transparent to each other on expectation and progress. (Radical Candor)
+- Everyone need to share the common definition of done.
+- Everyone is accountable and responsible for different part of shipping the product, and as a whole everyone is accountable for our speed and quality to ship the feature to the customers.
+- # Updated process workflow
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- So we are ***NOT*** trying to define the whole process. We are an agile team, each theme team will be responsible to iterate their process to achieve **full team ownership and shipping our product in the best quality achievable.** 
+- Taken into account of the needs of delivery leadership and release management, our goals will be shifted to coach theme team members to solve customer problems, provide building blocks of delivery process for theme team, evolve software architecture in different components in the system and provide governance in the delivery process and solution architecture.
+- ## Building Blocks in JIRA
+- Enforcing stricter definition in a certain issue types in JIRA. In summary:
+- `Epic`: A group of user stories **within or across themes** that can provide a unified experience of user values, or a group of user stories that combine multiple theme team effort as a MVP.
+- `User Story`: A unit of effort that can benefit the user. We **will not** limit to a whole stack approach as coupling a story consist of iOS + Web + Android + BE
+- `Sub task`: A unit of effort for **1 teammate** on completing a user story.
+- `Task` : A unit of effort to advance certain non-customer related aspect. It must be having an end state.pr
+- `Bug` : A defect of product implementation deviate with user stories specification. (Could be obsolete as we should have no bugs after staging and afterward they can be enhancement )
+- `Release`: A deployment to production
+- `Story point`: A scale for non-technical stakeholder to understand the effort needed for 1 user story.
+- To learn more
+- [Term Glossary](https://www.notion.so/Term-Glossary-acbb94adcdfc4508a108fac25ce97f89) 
+- ## Cross theme features
+- All related stories are umbrella under an `Epic`.
+- The assignee of the stories are taking the role of **project management** of the feature, and the theme team members of the assignee will be the lead of their functions, responsible for the success of their functionalities.
+- The teams involved will sort out dependencies and agree a set of deadline. The teams involved will also set up regular cadence of sync up until the feature is [rolled out](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce).
+- ## Architectures
+- [](https://www.notion.so/1795bdf24dda4e6aaf28059f4bd09d8f) will be the tools for tech leads and engineers to discuss and decide solutions and architecture related.
+- ## Routine communication
+- In the start of the sprint, we need to put up the sprint goal in an obvious space for **every teammates to see**, for example slack channel / theme board.
+- Whenever ad-hoc tasks come in, **share with teammates** before act on the ad-hoc tasks, this will help teammates adjust to new reality.
+- Include ***How to validate*** in user stories by all teammates to align validation expectation,
+- ## Example from BET:
+- ### GGB web redefinition of JIRA swimlane:
+- Trial for BET/DT GGB ticket. Redefinition of swimlane: 
+- **Ready for QA:** ticket available to be shipped
+- **QA in progress:** tickets that are included in the next release and to be tested in the staging and production
+- **Done:** released and tested in production
+- Benefits:
+- JIRA board shows the complete flow of a story. PM would be able to see what stories are released to production.
+- Done column wont mixup up ticket that are tested in review app and ticket that are released to production
+- Allow PM to pick up which ticket to be in the next release from the Ready for QA swimlane
+- ****We wont have the situation where a ticket that is DONE but not shipped yet. And lost during the creation of a new sprint.
+- More detail there : [GGB CI CD Review ](https://www.notion.so/GGB-CI-CD-Review-eff2fd5449c8486f83b1b1df050ee165) 
+- ## Other minor changes
+- ### Engineers
+- No more `Ready for QA` in sub-tasks
+- No more `Code Review` in epics and user stories.
+- Standardized use of `Epics`, `User Stories` 
+- Total ownership on execution of `Sub-Tasks`
+- Accountable in shipping of `User Stories` and even `Epics` for senior engineers to the customers
+- Engineers are ***responsible*** for reopen tickets.
+- `Sub-Tasks` to include refactoring.
+- To level up our collaboration, daily updates and attend meeting on time is a must.
+- Putting Engineering task into sprint goal
+- Theme team engineers are aligning **How to validate** with QA on the `User Stories` level
+- ### PMs
+- Standardized use of `Epics`, `User Stories` 
+- No longer care about `sub-tasks`.
+- No longer has the suggestions / restrictions on how should a user story looks like. For example we can have Android specific user stories, API only user stories...etc.
+- Theme team engineers are aligning **How to validate** with QA on the `User Stories` level
+- ### QA
+- Standardized use of `Epics`, `User Stories` 
+- No longer care about `sub-tasks`, only validate when the story is `Ready for QA`
+- In the loop of solution creation with Designers, PMs and Engineers.
+- Theme team engineers are aligning **How to validate** with QA on the `User Stories` level
+- ### Designers
+- Standardized use of `Epics`, `User Stories` 
+- In the loop of `Ready for QA` 
+- ### What if shit happens:
+- Production issues: All hands on deck + Post mortem with the whole team
+- UAT issues: All hands on deck + Post mortem
+- Reopen tickets when acceptance criteria are not met.
+    - Engineers are ***responsible*** for them.
+    - Responsibilities also means introducing tools to prevent same hiccups to occur again.
+- # Success Metrics / Criteria
+- [Back to content](https://www.notion.so/gogovan/GGV-Agile-2-1-d22f61a8abf546948bc62262bedfa2ce#9b8eea3455fe48c09e411be72ba33d05)*
+- Need your input!
+- ## NPS > 40
+- NPS will be about the overall satisfaction
+- ## Release cadence can be more frequent and less dependencies
+- ## Clear metrics for further improvement
+- Cadence
+- Consistency
+- Quality
+- # References:
+- [https://docs.google.com/presentation/d/1xYOuDkL_VdKuvMz1ZQaaB7TADRmsP02TnEThHu2KZhQ/edit#slide=id.g803b55d72e_0_65](https://docs.google.com/presentation/d/1xYOuDkL_VdKuvMz1ZQaaB7TADRmsP02TnEThHu2KZhQ/edit#slide=id.g803b55d72e_0_65)
+- 

@@ -1,0 +1,20 @@
+- 10:00
+    - Fixing [[chachaanteng.co]]
+        - Blocked by connecting [[DNS]] of [[Cloudflare]] with [[Replit]]
+        - https://support.dnsimple.com/articles/differences-a-cname-records/
+            - [[Literature Notes]]
+                - [[A Name]] in [[DNS]] is pointing to an IP.
+                - [[CNAME]] in [[DNS]] is pointing to another name.
+- 12:30
+    - Meeting with [[Chi Lam Wun]] for [[Spaceship]] for lunch
+        - Shared some stories in [[GOGOX]]
+        - A lot of founder problems are actually management problems with tech team
+        - A lot of unappreciated stories hidden from the
+    - Overtime and a good vibe
+- 17:00
+    - Hairdressing
+- 19:00
+    - Dinner
+- 22:00
+    - Exercise [[Pull [[exercise]]]]
+- 

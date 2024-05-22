@@ -1,0 +1,12 @@
+- Benchmark: Index of the exchange
+- If the stock is growing more than 10% + the index of the exchange, we will keep
+- Revisit quarterly
+- Sell whenever -15%.
+- Stock
+    - [[MSFT]]
+- Analysis
+    - [[RSI]]
+    - [[moving average]]
+    - [[revenue]]
+    - [[cost of revenue]]
+    - major moves

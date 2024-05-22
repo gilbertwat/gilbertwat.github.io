@@ -1,0 +1,27 @@
+- 09:15 - 10:15 [[coding exercise]]
+    - Leetcode is not for modern software development
+        - Fast feedback??
+        - Opinionated??
+        - UX/UI??
+        - promote premature optimization??
+        - Visual feedback??
+- 10:15 - 10:30 Distracted
+- 10:30 - 10:45 #[[💦 Workout]]
+- 10:45 - 12:00 Reading Email + research on [[[[GOGOX]] Project Flywheel]]
+    - Bought an item on a group buy group
+        - A huge confidence problem on the group buy, I am very skeptical to 
+        - And there is another confidence problem after pay
+        - And response time in after payment and before delivery is crucial
+    - I don't like the waiting
+- 12:00 - 14:30 Lunch with bro [[Eason Yim]] [[Keni Ng]] [[Pizza Chung]]
+    - [[[[GOGOX]] Project Flywheel]] The number one reason of [[Eason Yim]] is not continuing the IG shop is the political pressure
+        - Sell hand made soap and candle, made by 手足
+        - Has a social agenda for starting the IG shop.
+        - Feel tired and not high margin.
+        - A lot of consideration and everything has to be done and decided by owners.
+            - Not much of a confidence on whether they take the right approach
+- 14:30 - 16:00 Email
+- 16:00 - 16:20 Nap
+- 16:20 - 16:45 Email + research on [[[[GOGOX]] Project Flywheel]]
+- 16:45 - 17:30 Interview Prep
+- 

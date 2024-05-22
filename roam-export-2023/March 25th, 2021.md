@@ -1,0 +1,134 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- The genius part of Visa - the credit card system. #[[blogs]] #[[ideas]]
+    - How credit works?
+    - How credit card works?
+    - How all parties benefits from it?
+    - What if it fails?
+    - Where is the black swan?
+- [[Interview]] [[Cow Cheng]] [[Platform [[Team]]]] [[GOGOX]]
+    - Proactive in learning with little guidances
+    - Already done some research work
+    - Asked about the project he worked in
+        - DeepSpeech
+        - Already have tune machine learning model
+    - Clearly explain why he is doing some decision
+    - User centric
+    - Project / Task oriented in language choosing
+    - choose Java springboot for personal 
+    - Want to do bigger projects for more customers
+    - Very clear understanding of GOGOVAN
+- [[Interview]] [[Amit Roy]]
+    - Confident fellow
+    - Learning curve in to Serverless to Kubernetes?
+        - Kubernetes is more customization
+        - YAML memorization
+    - Main Challenge
+        - control user traffic to a marketing promotion project
+            - main concerns: **COST**
+                - JWT + Redis already in OpenShift
+                - Simple
+                - Every year
+                - Licensing fee
+            - What if user experience
+                - cloudflare
+                - cloud front
+                - restriction
+                - Kong API Gateway's system owner
+            - System Owner in AXA
+                - Deploy 
+                - Performance inside system
+                - Naming of external facing APIs
+                - Authentication (Security + Cloud team)
+                - Cost
+            - Jenkins Owner too
+    - Mobile app
+        - Node JS
+    - Question: Monolith to microservice Why?
+        - maintainable 
+        - CI/CD friendly
+        - Finetuning
+    - Question: which language?
+    - Management OpenShift perf in nodeJS
+    - CI/CD part
+    - React Native + React:
+        - My focus: nodeJS to Mulesoft
+    - Guidance to PoC and migration from AWS to Azure
+        - mentorship of DevOps best practices
+        - mentorship of Kong + Istio + Kafka
+    - Questions: Conflict resolution
+    - Questions: Cost? How do you define?
+        - Great JSON processing example
+    - Next role: good architect in cloud
+    - Viability test
+    - PoC to learn
+    - API team
+- [[Interview]] [[Richard Lee]] [[Platform [[Team]]]] [[GOGOX]]
+    - Abstract in explaining stuff
+    - A bit fresh
+    - Django easy to develop, increase development speed.
+        - A lot of collaboration effort in Flask
+    - Standard usage??
+    - Read & Write more.
+    - Backend
+    - Peers 
+    - Hackathon
+        - Idea pitching
+    - Code Jam
+    - Self Awareness good
+        - Web Browser
+        - Memory issue
+        - Math not good
+        - Humble 
+        - Interested in coding
+- [[Nathan Ng]] [[1:1]] [[GOGOX]] [[QA team]]
+    - bug workflow
+    - Stories completed
+    - Sprint
+    - Ideal problems
+        - Smoke test release: Day 8
+        - Resource problem
+        - Loop in process
+            - workgroup
+    - 1 QA 1 product line
+    - QA sync up
+    - sprint goals and released
+    - [[Lucien Lu]] [[Tracy Fung]] helps DET to manually test
+    - Day to day
+        - Week 1
+            - understand requirement. test case drafting
+            - smoke test case management
+                - Structure maintanence
+                - Diversity increase
+            - Force update and feature release
+            - PISD for CA triage
+            - user stories testing
+            - bug fix testing
+        - Test case Practitest
+            - Detail
+    - Not clear of QA role map
+        - QAE
+            - should be part of dev team
+            - Mock data in app / admin portal
+            - CI/CD
+            - cypress.io
+        - Manual or not
+            - is there value / changes
+        - workflow / management interest
+        - Manual has value 
+- [[1:1]] with [[Shamiya Patel]] [[GOGOX]] [[QA team]]
+    - Day 8 <- DET choose ticket kinda solve it
+    - Automation scope?
+    - Holding to 
+    - Roadmap
+    - Language barrier
+    - Quality of application
+    - Start of automation learn and improve
+    - daily activities is fine, cannot meet OKRs
+    - Not focus
+    - test case management -> [[Nathan Ng]]
+    - Smoke test is > 2 days
+    - Device Farm
+    - Sause Lab knowledge transfer with [[Paul Leung]]
+    - Gkerkin and 

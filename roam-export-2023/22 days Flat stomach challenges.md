@@ -1,0 +1,43 @@
+- #[[keeping fit]]
+- 22 days challenges
+    - Initial test
+        - https://youtu.be/CMKw77fbkOs?t=219
+    - Static
+    - Day 1
+        - https://youtu.be/CMKw77fbkOs?t=281
+    - Day 2
+        - https://youtu.be/CMKw77fbkOs?t=310
+    - Day 3
+        - https://youtu.be/CMKw77fbkOs?t=334
+    - Day 4
+        - https://youtu.be/CMKw77fbkOs?t=348
+    - Day 5
+        - https://youtu.be/CMKw77fbkOs?t=370
+    - Day 6
+        - https://youtu.be/CMKw77fbkOs?t=385
+    - Day 7
+        - https://youtu.be/CMKw77fbkOs?t=402
+    - Day 8
+        - https://youtu.be/CMKw77fbkOs?t=433
+    - Day 9
+        - https://youtu.be/CMKw77fbkOs?t=464
+    - Day 10
+        - https://youtu.be/CMKw77fbkOs?t=483
+    - Day 11
+        - https://youtu.be/CMKw77fbkOs?t=497
+    - Day 12
+        - https://youtu.be/CMKw77fbkOs?t=519
+    - Day 13
+        - https://youtu.be/CMKw77fbkOs?t=530
+    - Day 14
+        - https://youtu.be/CMKw77fbkOs?t=531
+    - Day 15
+        - https://youtu.be/CMKw77fbkOs?t=547
+    - Day 16
+    - Day 17
+    - Day 18
+    - Day 19
+    - Day 20
+    - Day 21
+    - Day 22
+- 

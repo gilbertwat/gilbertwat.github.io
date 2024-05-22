@@ -1,0 +1,71 @@
+- #[[05 2023]]
+- {{[[DONE]]}}  Fixed International bootcamp URL in webflow
+- {{[[DONE]]}}  Fixed [[[[Preface]] [[product]]: Blog]]
+- {{[[DONE]]}}  Add customer portal to [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]] 👏🏼 finished on [[March 13th, 2023]]
+    - {{[[DONE]]}} Able to add a new blank screen
+- {{[[ARCHIVED]]}}  Work on {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]]
+- [[Golan]] Interview
+    - Branding agency
+        - Concept artists
+        - 3D artists
+        - Creating a brand for seed stage
+        - Whole suite of branding
+            - Print
+            - Web app 
+            - App website
+            - Typograpghy
+            - 
+        - Consistency across all platform
+        - Brand experience wor!!!!!
+            - Champion
+            - B2B / B2C??
+            - Core of brand.
+        - Illustration
+        - storytelling aspect & feeling
+    - UI/UX example
+        - Cynet
+        - Branding Toolkit
+        - Storytelling
+        - Tailor made process
+            - Repitation
+            - Visually 
+        - Legacy colors based on color
+        - Color identity
+        - Lightico
+            - branding is relationship
+        - Font
+        - Color
+        - Story / Narrative
+        - Imagery
+        - Online 2 Offline experience
+            - Testing Color Saturation Dark grey
+            - Pantone printer
+    - Detailed oriented, super experienced
+    - Why HK?
+        - Wife here
+    - Why Preface?
+    - How to update Preface website?
+        - up and sleeky
+        - kids
+        - brand confusion
+        - pillar
+            - kid
+            - adult tech training
+            - coffee & wine (cafe)
+            - strategy leader
+            - logo is more adult
+                - kids is sub brand
+            - Design choice needs 
+    - How to improve shopping UI/UX?
+        - Doesn't 
+        - CTA has too much clicks
+        - Flow is confusing
+        - Recommendation
+        - Footprint New User / Customer
+        - Based of more cafe
+        - Blue need to be another tone.
+        - Sleek and bold
+        - Iconography
+    - What kind of challenge you are looking for?
+    - What expectation of teammates?
+    - Mentoring / IC?

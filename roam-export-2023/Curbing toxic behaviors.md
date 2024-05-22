@@ -1,0 +1,14 @@
+- A higher [[self-esteem]] person is resistant to taking [[criticism]]s personally.
+- A leader must radiate [[Energy]].
+- Not taking [[criticism]]s personally is the key factor of [[teamwork]].
+- A leader must radiate  [[positivity]].
+- [[Toxicity]] in team is defined as a particular teammate cannot reach meaningful alignment and make progress for a prolonged period of time.
+- [[Toxicity]] in team can be also defined as a particular teammate has no objective in every discussion and try to slow down the alignment and decision progress for a prolonged period of time.
+- [[Toxicity]] destroys [[Trust]].
+- [[Toxicity]] destroys [[morale]].
+- [[Toxicity]] drains [[Energy]].
+- [[Toxicity]] distracts [[focus]].
+- [[Toxicity]] lowers [[self-esteem]]. 
+- Another solution to [[Toxicity]] is to call him/her out.
+- One of the solution to [[Toxicity]] is to ask the culprit questions about his/her [[goals]].
+- A culture shift is not done by email and policies, but by interactions and relationship.

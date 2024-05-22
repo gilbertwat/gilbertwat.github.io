@@ -1,0 +1,24 @@
+- OSS [[ideas]]
+    - smart rspec
+        - How do rspec run? [[🏗️Technology]]
+            - https://github.com/rspec/rspec-dev
+        - How do we know which branch of code it have run?
+            - https://github.com/colszowka/simplecov/blob/94eca165ce5456c3631565c1fa4a6b9a63e70c06/lib/simplecov.rb#L316
+            - Different in ruby <1.9, 2.5, > 2.5
+                - https://github.com/ruby/ruby/blob/v2_6_3/ext/coverage/coverage.c
+                - https://github.com/ruby/ruby/blob/v1_9_3_374/ext/coverage/coverage.c
+        - How to minimize search
+            - Indexing, How?
+            - Tree data structure?
+            - ctags [[🏗️Technology]] [[tools]]
+                - https://github.com/universal-ctags/ctags
+                - ctags.io
+                - To provide tagging on object method on different languages
+            - Simplecov [[🏗️Technology]]
+                - https://github.com/colszowka/simplecov
+    - Marketing
+        - Github Actions
+        - Gitlab Actions
+        - Testimonials
+        - Plugin to simplecov
+        - plugin to rspec

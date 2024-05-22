@@ -1,0 +1,10 @@
+- {{[[DONE]]}} treat [[Alia Bei]] a lunch next week
+- 10:00 - 10:30 [[1:1]] with [[Young]]
+    - Nothing much
+    - {{[[DONE]]}} Hire 1 [[Backend]] [[software engineer]] for [[GOGOX]]
+- 15:30 - 16:00 [[1:1]] with [[Ben Cheng]]
+- 16:00 - 17:00 [[Interview]] [[[[Backend]] [[software engineer]]]]
+    - Team lead experience
+        - Delegate 
+    - Experience in understanding business
+    - Assumption: A bit hard to work with as he called teammates immature

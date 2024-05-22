@@ -1,0 +1,30 @@
+- 11:00
+    - [[Meeting]] with [[Yoon Kim]] [[Jeffy Fung]] [[Alexander Li]] [[Gilbert Wat]]  [[weekly meeting on [[Preface]] research on AI]]
+        - Do we still want to use Logseq?  
+            - Yes we can.  
+            - Git part is a bit annoying  
+                - `git rebase -i origin/master` to squash all local commit first before `git pull`  
+                    - So when we merge we can only resolve conflicts in 1 commit  
+        - How do we find the research effort so far?  
+            - A lot of What the industry can possibly do in our research  
+            - But none is about What we **should** do or what we **can** do  
+                - [[Bite Sized Learning]]  
+                    - {{[[DONE]]}} [[Gilbert Wat]] Next step: connect content team with AI team.  
+            - Where do we start from?  
+                - Whether we start from the dataset we have?  
+                - OR we start replicating some more advanced models out there and apply to us?  
+            - How people apply machine learning in general?  
+        - Key questions  
+            - Facilitate Preface operations  
+                - Lok's SEO web scraping efforts  
+            - OR ground breaking education tech  
+                - [[100tal]] is doing  
+            - Middle ground?  
+                - Ideas: Recommend content to students  
+        - {{[[DONE]]}} [[Alexander Li]] To enhance the list of contents with education related websites   Finished at 11:10 [[November 17th, 2022]]
+        - Direction next week  
+            - continue to go broad on researching possibilities on applying AI to our Preface operations.  
+            - {{[[DONE]]}} Writing Learnings in [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 11:10 [[November 17th, 2022]]
+- 16:35
+    - Testing on [[GPT-2]]
+        - https://huggingface.co/gpt2

@@ -1,0 +1,5 @@
+- {{[[DONE]]}}  [[[[[[Preface]] tech team]] [[weekly [[report]]]] [[August 8th, 2023]]]]
+- {{[[DONE]]}} Resolved mailchimp problem
+    - The full flow has no ownership
+- {{[[DONE]]}} Resolve billing with [[James Cheuk]]
+- Tech X Content Meeting

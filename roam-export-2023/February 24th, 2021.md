@@ -1,0 +1,40 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - [[sleep]] 1am last night
+- Start the day **strong**!
+- [[1:1]] with [[Belda Chan]]
+    - Private notes
+        - Preparation
+            - I am very concerned about her engagement. I am very insecure about her tendency to stay especially after [[Kavin Wong]] left the team.
+            - "Let's see how its go."
+            - I admire the honesty.
+            - Why? How should we discuss about this?
+            - There is a lot of assumptions over here.
+                - engagement low
+                - Will be leavings
+                - She is feeling bad
+        - Turns out my assumption is correct. She is not very happy with the management on handling the platform team short of hands situation.
+    - Public notes
+        - [[1:1]] Belda concerns 
+            - the team is small and responsibilities is huge, we cannot do a good job in shipping new features and managing complexity.
+                - Management should be able to foresee the difficulties posed in platform team and try to prevent that.
+                    - {{[[DONE]]}}  [[Myself]] will think about the better approach.
+            - In the project [[[[GOGOX]] Partner Wallet]], some expectation is badly communicated, creating a great hassles to the engineers and we cannot ship according to the expectation.
+                - [[Belda Chan]] is under the impression that the deadline mindset from business operation team is creating a lot of stress in engineers and we will ship substandard product feature to the customers.
+                    - {{[[DONE]]}}  [[Myself]] will keep everyone in sync that the estimated date of delivery is **not** deadline, engineers will do their best to meet that but if there is red flag we are going to communicate the updated timetable as soon as possible.
+                - The team should change the plan accordingly to the reality. A change in teammates ([[Kavin Wong]] leaving) should adjust the plan accordingly.
+                - Engineers know how to safely release the software but currently how we are releasing our software is depending on the input of driver ops team.
+                    - {{[[DONE]]}}  [[Myself]] is working on an aligned schedule with [[Phoenix Lau]] and business teammates and make sure we are following the safest way to minimize risks of customer dissatisfaction and production incidents.
+            - PMs comes to [[Belda Chan]] and ask a lot of questions, it will take her focus and time to answer those instead of making sure the solution is complete and implemented.
+- [[1:1]] with [[Phoenix Lau]]
+    - There is some misunderstanding with my view on problems in the company. There is a lot of division between tech team and business team, especially with the incidents in [[[[GOGOX]] Driver Experience Theme]] about [[[[GOGOX]] Unified order list in DA [[project]]]].
+        - Clarification done. No misunderstanding now.
+            - Reinforce the consistent message of there is no business team vs tech team. There is only [[GOGOX]] team.
+    - Discussed a bit about the information flow about [[Kavin Wong]] leaving.
+        - [[Phoenix Lau]] expressed her difficulties on the project management side when the announcement is delayed. I also expressed my concerns on team morale hit if I don't have anything substantial to fix the problem. [[Myself]] will do a more timely job in communication and making sure everyone knows 

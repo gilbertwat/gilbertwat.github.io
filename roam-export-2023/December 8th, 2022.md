@@ -1,0 +1,1 @@
+- Experiment with ChatGPT for the whole day

@@ -1,0 +1,14 @@
+- Why is this questions of utmost important?
+    - The logical answer
+        - {{mermaid}}
+            - graph LR
+                - Market --has many subset of --> Customers
+                - Customers --shapes--> Company
+                - Company --use different sophistication of--> Technology
+                - Technology --creates new --> Market
+                - Technology --delights--> Customers
+                - Technology --improve efficiency --> Company 
+    - The selfish answer
+        - Motivation is key to preservance
+        - Serving what types of customers will shape who you are.
+            - For example, serving the customers in CCP turns you to CCP as you spend most of your time to serve them.

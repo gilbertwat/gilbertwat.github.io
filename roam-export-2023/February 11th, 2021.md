@@ -1,0 +1,33 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- {{embed: TODOs}}
+- [[stacks.co]] 
+- [[Juypter Notebook]]
+- https://alistapart.com/article/taking-the-guesswork-out-of-design/
+    - Clear goals of your design
+        - what is the goal of my personal website?
+        - Our goals is (a measurable output) because  (we want to achieve 1 level up goals ) so that (we can achieve some downstream impact).
+    - score card your goals
+    - Raw layout based on the score card
+    - set up our clear personality
+        - Innocent
+        - Explorer
+        - Sage
+        - Hero
+        - Outlaw
+        - Magician
+        - Regular Guy/Gal
+        - Lover
+        - Jester
+        - Caregiver
+        - Creator
+        - Ruler
+    - Use opposing traits to create boundaries
+    - 
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

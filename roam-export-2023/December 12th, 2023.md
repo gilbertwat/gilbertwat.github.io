@@ -1,0 +1,4 @@
+- #[[16 2023]]
+- Work on {{[[DONE]]}}  Ship Home page for [[[[Preface]] [[project]]: Website Revamp 2023]] 
+- Work on a presentation on [[December 13th, 2023]] on [[[[[[Preface]] leadership team]] weekly meeting]]
+    - Digital touchpoints

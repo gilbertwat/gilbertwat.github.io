@@ -1,0 +1,42 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - not [[sleep]] too good
+- Start the day **strong**!
+- [[Ergon]] sync up
+    - Edit is not candidate editable
+    - Work History
+    - Education
+    - data claridi
+    - Upwork & Fiverr
+        - crawler
+        - image recognition
+        - Data cleaning
+    - Update of autocompletion in admin portal in internal job code
+- [[Interview]]
+    - Self introduction
+        - Very communicative
+        - Although not very on points
+    - Wallet System Design
+        - Very easy to work with
+        - username:
+        - good take in feedback
+        - not much security concerns
+        - Very smart (pros&cons x2 and already picking it up)
+        - Say I don't know quite easily
+        - Quite green technically
+        - very smart
+    - Culture + Team questions 
+        - What is your expectation?
+            - More tech stack.
+        - Product manager, Operation Team (Data engineering)
+    - Q&A
+        - What is my expectation?
+        - 
+- [[[[GOGOX]] Driver Experience Theme]] grooming
+- [[1:1]] with [[Rob Dong]]

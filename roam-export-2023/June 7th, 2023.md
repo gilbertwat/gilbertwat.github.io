@@ -1,0 +1,4 @@
+- {{[[DONE]]}}  Handling Finance of [[Preface]] Finished on [[June 9th, 2023]]
+- [[1:1]] with [[Viktor Chan]]
+    - New Director of Digital Product and Head of Japan
+- [[Tanush Changani]] onboarding

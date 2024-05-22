@@ -1,0 +1,27 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - weird dream
+- Start the day **strong**!
+- {{embed: TODOs}}
+- {{[[DONE]]}}  [[Ergon]] [[web scraping]] [[project]]
+    - https://www.upwork.com/services/product/i-will-do-web-scraping-data-extraction-and-data-scraping-1314858087162126336
+    - https://www.upwork.com/services/product/a-custom-data-extraction-tools-1349766296465190912
+    - https://www.upwork.com/services/product/a-simple-but-effective-price-tracking-system-1315390102598156288
+    - https://www.upwork.com/services/product/data-scraping-and-data-mining-service-1335272654791401472
+    - https://www.upwork.com/services/product/data-scraped-from-any-website-1321903894800666624
+- [[Turks]]
+    - 1. 俄羅斯遠東區勒那河 -- 薩哈共和國/雅庫特 (Saha/Yakutia)
+    - 2. 俄羅斯阿爾泰山 -- 哈卡斯(Khakasia)、圖瓦(Tuva)、阿爾泰(Altai)共和國、索爾人(Shor)
+    - 3. 中國新疆 -- 維吾爾(Uygur)
+    - 4. 中亞四國 -- 哈薩克(Kazakhstan)、吉爾吉斯(Kyrgyzstan)、烏茲別克(Uzbekistan)/卡拉卡帕克自治國(Karakalpakstan)、土庫曼(Turkmenistan)、阿富汗Hazaristan
+    - 5. 俄羅斯烏拉山伏爾加河 -- 楚瓦什(Chuvashiya)、巴什基爾(Bashkir-Bashkortostan)、韃靼(Tatarstan)共和國、諾蓋人(Nogai)
+    - 6. 俄羅斯北高加索 -- 庫梅克人(Kumyk)、巴爾卡爾人(Balkar)、諾蓋人(Nogai)
+    - 7. 南高加索 -- 亞塞拜然(Azerbaijan)、土耳其(Turkey)、伊朗西北部亞塞拜然省、東北部呼羅珊省(Turkmen Sahra)
+    - 8. 東歐巴爾幹半島 -- 摩爾多瓦Gagauzia、保加利亞、羅馬尼亞、南斯拉夫、希臘境內
+    - 9. 克里米亞韃靼人(Crimean Tartar)
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

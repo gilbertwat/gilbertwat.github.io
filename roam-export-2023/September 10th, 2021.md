@@ -1,0 +1,12 @@
+- https://twitter.com/jenistyping/status/1385393700855943170?s=20
+- [[dream]] #[[🧘🏻‍♂️ Self Awareness]]
+    - In the dream, there is a corpse cut into half, and we are in the war transport plane ready to fly. And I am scare to touch the corpse, which turns out is a gooly skeleton. Lionel is poking the gooly skeleton curiously and quite excitingly. But I am quite afraid. I am afraid because of the others' opinions.
+    - Intepretation:
+        - I am going to face an enormous challenges. They could be quite interesting and exciting for me. But a part of me is very afraid of the judgement of the others. The loss of "status" and "power" is making me very very nervous. But my subconscious (Lionel) is telling the conscious me not to, because it will be fun and exciting. I am going to be successful(the plane is taking off), although hard AF. And I need [[discipline]] and [[routine]] to help me achieve that.
+    - Action / Changes:
+        - Focus on [[[[GOGOX]] Project Flywheel]] and lead a breakthrough for the company and myself.
+- [[[[books]]: The Laws of Human Nature]]
+- https://twitter.com/RomeenSheth/status/1435396694578024452?s=20
+- The new backend engineer quit after 4 days.
+    - #[[🧘🏻‍♂️ Self Awareness]] #Defeated #Feeling
+        - Maybe because of #Hungry I cannot control my temper.

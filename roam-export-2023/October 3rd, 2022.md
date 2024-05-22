@@ -1,0 +1,63 @@
+- [[[[2022]] Week 40]] [[goals]]
+    - https://tails.boum.org/about/index.en.html
+    - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 12:00 [[October 7th, 2022]]
+    - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Customer Portal]] [[MVP]] [[[[product]] requirement document]]]] Phase 2 Finished at 13:00 [[October 17th, 2022]]
+    - {{[[DONE]]}} [[Anna Yu]] SG trip Prep Finished at 10:54 [[November 17th, 2022]]
+    - {{[[DONE]]}}  #spoken [[hard conversation]] with [[Ehsan Ayaz]] Finished at 15:00
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+- [[day start]]
+    - [[Energy]]
+        - OK and feeling creative even [[Theodore]] wake me up 3 times at night.
+- 09:30
+    - {{[[DONE]]}}  Confirm with [[Gemmy Wong]] on 25-30 hours of [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 10:00 
+- 10:00
+    - [[[[2022]] Week 39]] review
+- 11:00
+    - {{[[DONE]]}}  #spoken [[hard conversation]] with [[Ehsan Ayaz]] Finished at 15:00 Prep
+        - Key message
+            - In the past quarter, not as productive as we all want.
+            - Went through the PRs on Github, a lot of back and forth. It is a sign.
+            - Further investigate into detail, See some current key issues, those are blocking to the team productivity
+                - Assigned responsibility is not fulfilled timely.
+                    - Function is not completed when it is claimed to be ready for code review
+                    - Communication such as git commit message or the description in the PR is not clear.
+            - Those are **red flags** in our team as we cannot fulfill team goal.
+            - I believe it is a will issue, instead of a capabilities issue.
+            - If you resolve these **red flags**, we will consider you as a capable "Lead", equivalent to an intermediate engineer.
+            - You are now Assistant Manager, so we should consider you as a capable senior software engineer, with more expectation.
+            - If you cannot resolve it in this quarter, I am afraid we cannot work together.
+        - Suggested solution
+            - Before coding on a certain task, Have a brief plan of
+                - expected customer experience
+                - component to be upgrade and its behavior
+                - APIs to call
+            - Finally, make an estimated total time needed for the tasks
+            - AND share the brief plan with [[Gilbert Wat]] and [[Ben Cheng]] as soon as it is done (1/2 day max)
+        - **Help the team win together.**
+        - Tone
+            - As objective and factual as possible
+            - encouraging and believing
+- 12:59
+    - {{[[DONE]]}} #spoken [[hard conversation]] Shared Slack sentiments with [[Hema Shah]] on the immediate responses need and stress. Finished at 12:59
+        - [[Hema Shah]] will give more context of the ideas and share in a document in clickup or google documents, instead of throwing ideas on Slack without context.
+- 13:00
+    - Lunch
+- 14:15
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[[[product]] discovery]] Finished at 14:22 
+- 15:00
+    - {{[[DONE]]}}  #spoken [[hard conversation]] with [[Ehsan Ayaz]] Finished at 15:00 Delivery
+- [[day end evaluation]]
+    - #Energy
+        - 
+    - [[Theodore]] growth milestone
+        - 
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - 

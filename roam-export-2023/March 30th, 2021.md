@@ -1,0 +1,99 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[promotion]] for [[[[2021]] Q2]]
+    - Candidates
+        - [[Rob Dong]]
+        - [[Keith Chan]]
+        - [[Ivo Wu]]
+        - [[Henry Tang]]
+        - [[Ben Cheng]]
+        - [[Peter Wong]]
+        - [[Mohammad Ahmad]]
+        - [[Matthew Ng]]
+- [[Hon Chan]] off-boarding message
+    - @here As you may already know this is Hon’s last week with us. I just want to take this opportunity
+- [[1:1]] with [[Tom Lui]]
+    - Q1 retro (10min)
+    - Q2 planning (5min)
+        - Intercity
+            - Order Amendment
+        - Driver Subscription
+        - Commission change
+        - Fountain integration for HK
+            - Ops and Product mismatching
+        - Contentful upgrade
+            - Intercom or Zendesk?
+        - New incidents on data team help for [[Ming Tse]] and [[Hubert Chan]]
+            - [[Tom Lui]] is not invited (Culture)
+            - KPI metrics ownership and solution
+                - For example: completion rate
+                - Sophistication on data driven decision
+        - Demand increase?
+    - QA expectation (15min)
+        - Current role as perceived
+        - The expectation of QA
+            - William Cheung set up Francine Wong
+            - Feature Release Planning
+            - In sprint QA
+            - Global feature communication
+            - Ops as testers????
+            - **After execution phase, PMs can hands off.**t
+        - Individual interaction and perception
+            - [[Shamiya Patel]]
+                - Production bug triage
+            - [[Lucien Lu]]
+                - Very meticulous
+            - [[Tracy Fung]]
+                - Very meticulous
+            - [[Nathan Ng]]
+            - [[Chris Lee]]
+- [[1:1]] with [[Waikit Kan]]
+    - Q1 retro (10min)
+        - Resource
+        - Knowledge Transfer will cost project failure
+            - Lack of Documentation
+            - Rely on People more
+        - Cross theme collaboration
+        - How to test partner wallet?
+    - Q2 planning (5min)
+    - QA expectation (15min)
+        - Current role as perceived
+            - 
+        - The expectation of QA
+            - Ideally
+                - No production bugs
+            - Currently spread too thin
+            - QA automation?????????
+            - Not enough domain knowledge
+            - More product feedback
+        - Individual interaction and perception
+            - [[Shamiya Patel]]
+                - spread too thin
+        - JIRA is not adequate
+- Interview [[Daniel Kwan]]
+    - Self introduction
+        - Querying technical projects
+            - Next.js
+                - Very easy to use
+                - Hot reloading
+                - Vue.js 
+            - Python
+                - scripting language
+        - Querying the reason of switch job
+            - Hybrid role, get things done
+                - can try a lot of angle of jobs
+            - Development
+                - Personal interest
+                    - like to write Beautiful code
+                        - What is beautiful code?
+                            - indentation
+                            - camel case follow language
+                            - modular?
+                                - Separation of concerns
+                            - documentation?
+                - Hire a lot of interns?
+            - Wallet system
+                - A lot of reason is (I remember) =(
+                - Have a lot of basic knowledge
+                - Immediately google for model answer

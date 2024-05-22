@@ -1,0 +1,11 @@
+- Weekly [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] meeting
+    - [[[[[[Preface]] Coding]] [[Tap & Go]] Integration]] retrospective
+    - Hybrid meeting support
+- [[1:1]] [[Kenneth She]]
+    - Our priority is increase revenue by all means
+        - {{[[DONE]]}} Looking for creative ways to connect to take RTTP from government together with business partner.
+            - I am giving up on this front as I am not good at networking and this is not my strength.
+- [[security]] [[Phishing]] Attempts 2
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2Ft3x6KINFLx.27.17.png?alt=media&token=063d1606-5346-47cb-b2d0-caebd8633d63)
+    - Potential risks from bambooHR
+- 

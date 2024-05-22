@@ -1,0 +1,41 @@
+- https://hbr.org/2020/06/what-leading-with-optimism-really-looks-like?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+harvardbusiness+%28HBR.org%29
+    - #Management
+    - How to lead with optimism
+        - Gratitude exercises will let employees feel valued. 
+            - Trust leads to collaboration. Collaboration leads to commitment. Commitment leads to accountability. Accountability leads to result.
+        - Orange is also a color of optimism
+        - Role model from the top
+        - Connect with employees with before asking them to change
+            - Praise and encouragement build trust.
+        - Making change a routine way of doing work
+        - Track outcomes to make the change sustainable
+    - {{[[DONE]]}} Takeaways
+        - Tracking the outcomes is a good way to motivate and build [[Trust]] 
+- #Notes https://hbr.org/2020/06/you-might-not-be-hearing-your-teams-best-ideas
+    - #Management
+    - Listen to the best ideas from your employees
+        - Believe there is an impact to the organization
+        - burnout is possible if the feedback is not taken
+        - Managing voice
+            - Consult
+                - Ahead of meetings, explicitly invite people to come with ideas, suggestions, and concerns.
+            - Consider
+                - Do you tell people that you paid attention to what they voiced?
+            - Communicate
+                - Follow up to let people know what eventually happened to their ideas.
+        - Managing silence
+            - Monitor
+                - Watch out for negative interpersonal behaviors, from scoffing to shutting people down.
+            - Protect
+                - In many firms, people are on the hook for the ideas they suggest.
+            - Ritualize
+                - For example, have certain meetings in a different space, outside of the office, or in a non-formal arrangement, to signal that this is a time to bring up issues people might not usually bring up.
+            - Frame and reframe
+                - Experimenting with different framings of questions signals it is safe to speak candidly.
+        - Never assume loud people don't hold off, silent people have deliberately hold off
+    - {{[[DONE]]}} Takeaways
+        - One of the possible cause of [[Burnout]] is that employees keep their voice to themselves.
+        - Never assume so we are not missing any information that may affect our [[judgement]]s and [[action]]s.
+        - Switch around a bit on the setup, environment and mindset to experiment effectiveness of feedback.
+        - Follow up on everything is a key to let people feel [[psychologically safe]] and heard. 
+        - Comfort and support people when their ideas are not adopted. 

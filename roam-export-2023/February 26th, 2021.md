@@ -1,0 +1,67 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Top of my mind]] reorganization
+    - Why the reorganization?
+        - I need to get a clear picture to visualize my work and my team work to upper management.
+    - Me and my team is on the brink of [[Burnout]]
+    - As a manager, [[Managing projects]] is a must.
+    - I need a routine to check up all the ongoing projects.
+- Archived [[Top of my mind]]
+    - {{[[DONE]]}}  Migrate out [[Personal Website v9.0]]
+        - {{[[DONE]]}} Email
+        - {{[[DONE]]}}  G-Drive
+        - {{[[DONE]]}} Accounts 
+    - Write 3 blog posts about something I care 
+        - {{[[DONE]]}}  January Publish [[6 shades of project management tools - Which one should I use?]]
+        - {{[[DONE]]}}  Feburary
+        - {{[[DONE]]}}  March
+    - {{[[DONE]]}} #[[keeping fit]] Fix my lower back
+    - {{[[DONE]]}}  [[Fixing my burnout]] #[[🧘🏻‍♂️ Self Awareness]]
+    - {{[[DONE]]}} Read [[[[books]]: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers]]
+        - {{[[DONE]]}} Read [[[[books]]: Alexander Hamilton]]
+    - [[Globalized self]]
+        - {{[[DONE]]}} Find a OSS project that I deeply care and contribute
+            - I have since switched to decentralised projects.
+                - [[Polkadot]]
+                - [[stacks.co]]
+                - [[AAVE]]
+                - [[Open Zeppelin]]
+                - [[Maker DAO]]
+                - [[VEChain]]
+            - https://github.com/ledger/ledger
+    - [[GOGOX]]
+        - {{[[DONE]]}} Publish [[GOGOX]] [[[[2021]] Q1]] [[OKR]]s
+        - {{[[DONE]]}} Publish [[[[Praise]] my team]] 
+        - {{[[DONE]]}} [[Talent Plan for [[[[GOGOX]] Project Flywheel]]]]
+        - {{[[DONE]]}} Research [[[[GOGOX]] Project Flywheel]] related and delivery a sound plan for 1Q-3Q
+        - {{[[DONE]]}}  Praise [[Tony Lee]] and [[Joseph Cheng]] on GGE migration and development
+    - [[Ergon]]
+        - {{[[DONE]]}} Bounce off [[Ergon]] [[2021]] direction, OKRs and KPIs with [[Kingson Kwan]]
+    - [[Explore DAO with [[Dominic Wong]] [[James Cheuk]] and [[Joseph Cheng]]]]
+        - {{[[DONE]]}} Looking at problems in crypto space about technology
+            - Related to Coming up a [[business]] idea and find a co-founder for a entrepreneurial journey. 
+- {{[[DONE]]}} [[Victor Lam]] returning projects and work
+- [[Top of my mind]] updates
+    - [[[[GOGOX]] Partner Wallet]]
+        - The current situation is a bit hairy. We have a target date of [[March 22nd, 2021]] and it is about money so correctness is of utmost important.
+    - [[[[GOGOX]] Project Flywheel]]
+        - Currently we are in time to insight phase, [[Leslie Lai]] and [[Tom Lui]] is gathering insights from social sellers.
+        - Engineering research topics
+            - user auth??
+            - integration with delivery services?
+            - Other new techs to the social commerce?
+            - integration with existing service shopfront & delivery??
+            - Prototype with [[Matilda]]???
+            - Cryptocurrency :troll:???
+        - How the market segments?
+            - [[Gemmy Wong]]
+    - [[[[GOGOX]] subscription module]]
+        - Currently we are discussing if we are to combine development with [[[[GOGOX]] Driver Experience Theme]] and [[[[GOGOX]] Business Experience Theme]]
+- Turns out it is much better, sometimes to rely on table structures than this nested lists.

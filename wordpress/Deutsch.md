@@ -1,0 +1,7 @@
+# Deutsch
+
+<p lang="de-DE">Das ist mein erst Aufsatz. Entschudigen Sie für unrichtig Grammertik. Ich lerne in den Deutsch A1 Kurs jetzt.</p>
+<p lang="de-DE">Ich heiße Gilbert. Mein Familiename ist Wat. Ich komme aus Hong Kong und vor zwei Monaten  bin ich in Deutschland gekommen. Ich habe in Unterhaching bei München seit acht Wochen gelebt. Ich bin 23 Jahre alt. Ich habe vor nur zwei Monaten mein Bachelor degree genommen. Ich hatte Informatik in The University of Hong Kong studiert. Ich arbeite als Programmierer aber jetzt bin ich arbeitlos. Ich möchte in Deutschland Deutsch lernen und das Geld für Europa Reisen verdienen. Aber Jetzt hat das Haus kein Internet, deswegen ich kann momenten nur Deutsch lernen.</p>
+<p lang="de-DE">Ich lebe in Unterhaching mit meine Freundin. Meine Freundin ist 22 Jahre alt. Sie hießt Ellen Yu. Sie kommt auch aus Hong Kong. Sie hatte auch in The University of Hong Kong studiert. Sie hatte Statistik studiert. Sie hatte in Hong Kong von 2007 bis 2008 Deutsch gelernt. Aber sie vergisst viel und sie braucht Übungen.</p>
+<p lang="de-DE">Jeden Tag Übungen wir Deutsch zu Hause. Aber immer stört Unser Vermieter uns. Er ist ein schlecht Mann. Er ist dumm und arrogant und wahlsinnig. Er hatte vor einer Woche den Keller zugemacht weil uns findet er eine Waschmaschine im Keller machen. Aber sein mieter Moritz hatte Strom shalten auf gebraucht, weil er hatte Lampe machen gebraucht. Nächte Tag, er ist Hier zrückgekommen und er hat den Keller aufgemacht.</p>
+<p lang="de-DE">Gaben Sie einig Gutachten bitte.</p>

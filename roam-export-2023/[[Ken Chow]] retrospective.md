@@ -1,0 +1,63 @@
+- Timeline
+    - July 15th, 2022: Initial talk of reorganization
+    - July 19th, 2022: MVP for buy link start
+    - July 20th, 2022: Reorganization confirmed. start to work very closely with him
+    - July 22nd, 2022: Tried to take his word and improve the workflow aimed to enable him.
+    - August 5th, 2022: Discovered a lot of problems in his work and he claimed to be a work in progress and he is not understanding the standard.
+    - August 9th, 2022: Discovered culture mis-fit
+    - August 10th, 2022: Some improvement of work quality based on the requirement
+    - August 19th, 2022: Based on the current team constraint and an expectation of he is able to keep up the improvement.
+    - August 22nd, 2022: Shared how to work with him with the leadership team
+    - August 24th, 2022: Quality of work deteriorated again on the Checkout success page.
+    - August 26th, 2022: Hard conversion with our expectation and warn him with little avail
+    - August 30th, 2022: Tried to be specific as possible to his work and limit his scope of work
+    - September 2nd, 2022: Through another [[hard conversation]], understand more about his work ethics and the conversation breaks my trust on his words. Not to see he is being disrespectful and rude.
+    - September 6th, 2022: Decision of ending our collaboration with him
+    - September 9th, 2022: Execute termination
+- Intention of our decision along the way
+    - We want to be fair and square to him, his underperformance could be a lot of reason
+    - We don't want to slow down our development in customer portal
+    - We need to be fair with other teammates
+    - We want to believe he is of good intention and believe what he is complaining is valid
+    - Lastly, I lost all trust in him to perform in his job, his inability sucks in other teammates time and his insistence that he is right aggravated the total output of the team
+- Decision criteria of my termination with his collaboration
+    - Bad work ethics
+        - Non-responsive to IM communication and comments on design from his teammates and supervisors
+            - Not only that, he is unable to accept it is a bad behavior and refuse to change.
+                - It is a bad behavior because it doesn't create trust and rapport in a newly formed product team and not in the alignment of creating a functional remote team.
+        - Rude
+            - Not being respectful to both of his supervisors.
+                - Unable to create rapport and bring a good team dynamics.
+            - Talking behind the back of teammates and gossiping
+                - Unproductive and create distrust among the team
+        - Blaming others when it is his responsibility to do a good job.
+            - Anna Ben Hema Carmen and I are all contributing to his underperformance.
+            - Sucking others attention to him and prevent a good work to be built with 
+    - Unprofessional
+        - Not iterating his sub-standard design until asked when he claimed he was given too much time constraint
+        - Depends on engineering lead and product manager to make UI/UX professional decisions
+        - Not able to adhere to UI/UX principles that is common across the industry and battle tested without a better alternative, saying it is subjective for the standard of his supervisor
+            - Overuse of separator
+            - Unable to group relevant information
+            - form in a form
+            - no UI element in his design
+            - No emphasis using fonts styling
+            - No use of F theory or Z theory to organize information
+        - Not working closely with brand experience to make sure his work is on brand
+        - Asking his supervisor to perform his job on collaborating with non-tech teammates
+    - Culture unfit
+        - Not believing Preface mission
+            - Always cynical and unable to be productively critical.
+        - Cannot grow and change
+            - Unable to learn from the best when there is countless resource on Instagram.
+        - Cannot work as one team
+            - Never ask graphic designers to help on UI elements that he is not good at.
+            - After a number of time stressing, never able to come to an alignment of a good enough workflow
+        - Not open to share
+            - Some of his "work" is not for comment
+    - Chance of improvement
+        - tends to zero in forseeable future as there is no trust, no respect and no kindness in our collaboration
+- Learnings
+    - We are too naive to take his word seriously. As a leader, we need to hone our bullshit detector.
+    - We need to define certain intolerable behaviors.
+    - We need to recruit based on our shared values and culture

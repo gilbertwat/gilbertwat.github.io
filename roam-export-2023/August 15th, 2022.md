@@ -1,0 +1,22 @@
+- Settle [[Grandpa]] into the hospital
+    - Some hassles with the communication with [[Mum]] and [[Dad]]
+- {{[[DONE]]}}  digital garden tending #progress
+- {{[[DONE]]}} Get Cherry to prepare for [[Grandpa]] return
+    - Soup to drink?
+    - New food?
+    - Wee wee / poo poo?
+- {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes
+- {{[[DONE]]}}  Read [[Bible]] to [[Theodore]]
+- {{[[DONE]]}}  Add 1-3 [[Permanent Notes]]
+- {{[[DONE]]}}  Expand my professional network in tech
+    - Know someone who is in the field of [[Metaverse]]
+    - Know someone who is in the field of [[Deep Learning]]
+    - Know someone who is in the field of [[Blockchain]]
+- #decided
+    - To set the bar of quality of [[[[Preface]] Seamless Buy Link]] in the highest possible.
+        - It is the first project I lead.
+        - It is the precedence of all other projects.
+- #Energy
+    - Feeling not very energtic
+- 
+- {{[[DONE]]}}  Finished writing up review for [[[[books]]/The Invention of China]] 

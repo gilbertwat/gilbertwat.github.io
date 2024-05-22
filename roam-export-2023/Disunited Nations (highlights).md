@@ -1,0 +1,6 @@
+- Author:: [[Peter Zeihan]]
+- Full Title:: Disunited Nations
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41EWsJYD4hL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[August 8th, 2023]]
+    - In each case, simply finding the floor took at least half a decade. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B07RB1HMRM&location=2506))

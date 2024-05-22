@@ -1,0 +1,5 @@
+- #[[05 2023]]
+- {{[[DONE]]}} Add to build and deploy on [EAS](https://expo.dev) 👏🏼 finished on [[February 6th, 2023]]
+- [[gratitude dairy]]
+    - It is a sunny and chill Sunday.
+    - Me and [[Wifey]] able to hold our anger when we are both hungry and tired, and we are able to amend afterwards.

@@ -1,0 +1,183 @@
+- Context
+    - There is a potential investment to build our TechBites
+- Assumption
+    - Part of the capital is to invest in building TechBites
+- Current Budget
+    - supporting 1.5m HKD / month revenue -> 2m USD / year
+    - 420K USD / year
+    - Manpower
+        - 1 UI/UX (Joseph)
+        - 2 Tech Lead (Ben, Gilbert)
+        - 1 Engineer (Kit)
+        - 2 Engineer Trainee (Cheryl, Jeffy, Chloe)
+        - 1 Data Engineer (Yoon)
+    - System
+        - [[[[Preface]] [[product]]: website]]
+        - [[[[Preface]] [[product]]: Customer Portal]]
+        - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+        - [[[[Preface]] [[product]]: Coffee App]]
+        - [[[[Preface]] [[product]]: data ecosystem]]
+        - [[[[Preface]] [[product]]: Course Recommendation Engine]]
+        - [[[[Preface]] [[product]]: Credits]]
+        - [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+- Development
+    - Maintain current expenses
+        - System resource allocation (420K)
+            - [[[[Preface]] [[product]]: website]]
+                - 5% 21K
+            - [[[[Preface]] [[product]]: Customer Portal]]
+                - 15% 63K
+            - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+                - 30% 126K
+            - [[[[Preface]] [[product]]: Coffee App]]
+                - 1% 4.2K
+            - [[[[Preface]] [[product]]: data ecosystem]]
+                - 5% 21K
+            - [[[[Preface]] [[product]]: Course Recommendation Engine]]
+                - 5% 21K
+            - [[[[Preface]] [[product]]: Credits]]
+                - 10% 42K
+            - [[[[Preface]] [[product]]: A.I. Coffee 2.0]]
+                - 1% 4.2K
+            - New Projects
+                - 9% 37.8K
+        - Projects in 20232H - 20241H [[[[2023]] Q3 Planning]]
+            - Group (Platform)
+                - Go Global: Update our website to support multi-region and multi-lingual [[[[Preface]] [[product]]: website]]
+                - Credits to support third party consumption [[[[Preface]] [[product]]: Credits]]
+                - New research project such as [[LLM]] applications [[Blockchain]] application
+            - PST
+                - Reliable Operations on the full customer journey [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] / [[[[Preface]] [[product]]: website]]
+                    - Content Creation
+                    - Content Delivery
+                    - Teacher Delivery
+                    - Feedback to Content and Teacher
+            - PTB
+                - Expand customer data collection categories to increase the confidence of our fast contents [[[[Preface]] [[product]]: data ecosystem]] [[[[Preface]] [[product]]: Customer Portal]]
+                - Expand customer data collection categories to increase the confidence of our deep contents [[[[Preface]] [[product]]: data ecosystem]] [[[[Preface]] [[product]]: Customer Portal]]
+                - Expand social listening [[[[Preface]] [[product]]: data ecosystem]]
+                - Social Login
+                - Subscription with credits
+                - Terms & Conditions
+                - 
+            - PCW
+                - First trial on consuming Preface Credit with Coffee App [[[[Preface]] [[product]]: Coffee App]]
+            - PTL
+                - None
+    - 3m USD
+        - 10% Tech R&D
+            - 300K USD in 2 years -> 150K USD
+            - Staff Increment
+                - 1.5 Staff Engineer (Ben)
+                - or 3 aspiring senior engineers (Kit)
+                - or 1 UI/UX designer + 1 Product Manager + 1 senior engineer
+            - Themes
+                - Group (Platform)
+                    - New revenue model around Credit System
+                - PTB
+                    - Enable a Global Audience for TechBites
+                - PST
+                    - Stable and Reliable Course Operation
+                    - Sable and Reliable Class Operation
+                - PCW
+            - Projects in 20232H - 20241H
+                - Enable a Global Audience for Website
+                    - Templates for list of courses
+                    - Shared template for course details
+                    - Customized Location based homepage
+                    - Customized Language for each locations.
+                - Enable a Global Audience for TechBites
+                    - Customized Location based homepage
+                    - Customized Language for each locations.
+                    - Content Feedback Loop
+                - Stable and Reliable Course Operations
+                    - Set up content
+                    - 
+                - Blockchain Certification
+                - Data-enabled learning experience
+                - 
+                - Credit System
+                    - Third Party System
+        - 20% Tech R&D
+            - 600K USD in 2 Years -> 300K USD
+                - 3 Staff Engineer (Ben)
+                - or 6 aspiring senior engineers (Kit)
+                - or 2 UI/UX designer + 2 Product Manager + 2 senior Engineer
+            - Projection
+                - Everything in 
+                    - Projects in 20232H - 20241H
+                        - Enable a Global Audience for Website
+                            - Templates for list of courses
+                            - Shared template for course details
+                            - Customized Location based homepage
+                            - Customized Language for each locations.
+                        - Enable a Global Audience for TechBites
+                            - Customized Location based homepage
+                            - Customized Language for each locations.
+                            - Content Feedback Loop
+                        - Stable and Reliable Course Operations
+                            - Set up content
+                            - 
+                        - Blockchain Certification
+                        - Data-enabled learning experience
+                        - 
+                        - Credit System
+                            - Third Party System
+                    - Enable a Global Audience for TechBites
+                        - Internationalization of Customer Portal + Public Website
+                        - UI/UX up to Disney+ Standard
+                        - Review And Notes
+                        - Quiz
+                        - Mobile App
+                        - Mini Content ge Recommendation Engine
+                    - Blockchain Certification Prototyping
+                    - Data-enabled learning experience
+                        - Review And Notes
+                        - Parents' Review from Teacher
+                    - Kid-friendly Portal
+                        - 
+    - 5m USD
+        - 10% Tech R&D
+            - 500K USD in 2 years -> 250K USD
+            - 2.5 Staff Engineer (Ben)
+            - 
+            - Projection
+                - Same as 
+                    - Projection
+                        - Everything in 
+                            - Projects in 20232H - 20241H
+                                - Enable a Global Audience for Website
+                                    - Templates for list of courses
+                                    - Shared template for course details
+                                    - Customized Location based homepage
+                                    - Customized Language for each locations.
+                                - Enable a Global Audience for TechBites
+                                    - Customized Location based homepage
+                                    - Customized Language for each locations.
+                                    - Content Feedback Loop
+                                - Stable and Reliable Course Operations
+                                    - Set up content
+                                    - 
+                                - Blockchain Certification
+                                - Data-enabled learning experience
+                                - 
+                                - Credit System
+                                    - Third Party System
+                            - Enable a Global Audience for TechBites
+                                - Internationalization of Customer Portal + Public Website
+                                - UI/UX up to Disney+ Standard
+                                - Review And Notes
+                                - Quiz
+                                - Mobile App
+                                - Mini Content ge Recommendation Engine
+                            - Blockchain Certification Prototyping
+                            - Data-enabled learning experience
+                                - Review And Notes
+                                - Parents' Review from Teacher
+                            - Kid-friendly Portal
+                                - 
+        - 20% Tech R&D
+            - 1M USD in 2 Years -> 500K USD
+            - 5 Staff Engineer (Ben)
+            - or 3 aspiring senior engineers (Kit)
+            - Projection

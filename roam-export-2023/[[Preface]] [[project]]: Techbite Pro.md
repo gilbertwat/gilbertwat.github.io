@@ -1,0 +1,44 @@
+- {{[[DONE]]}}  Deadline: [[April 24th, 2023]] -> [[May 5th, 2023]] 👏🏼 finished on [[May 7th, 2023]]
+- [[[[Preface]] [[product]]: Customer Portal]]
+    - {{[[DONE]]}}  Add Techbite Tab 👏🏼 finished on [[April 19th, 2023]]
+    - {{[[DONE]]}}  Add Techbite Page `/techbites` with a coming soon. 👏🏼 finished on [[April 19th, 2023]]
+        - {{[[DONE]]}}  Add checking if the user has authorization of Techbite Content 👏🏼 finished on [[April 19th, 2023]]
+            - {{[[ARCHIVED]]}}  Add code input in Techbite Tab if the user is not subscribe to Techbite
+            - {{[[DONE]]}}  Add latest episode to Techbite Page if the user is subscribe to Techbite 👏🏼 finished on [[April 19th, 2023]]
+        - {{[[ARCHIVED]]}}  Add Past Episode page and link to Techbite Page
+    - {{[[ARCHIVED]]}}  Add code input in the profile page (optional)
+- [[[[Preface]] [[product]]: website]]
+    - {{[[DONE]]}}  Remove techbite
+- [[[[Preface]] infrastructure]]
+    - {{[[ARCHIVED]]}}  Add security on Techbite Content to prevent public access (Phase 2)
+- [[[[Preface]] [[product]]: AI Services]]
+    - {{[[DONE]]}}  Retire first AI Services and comment on it.
+- Youtube channel
+    - {{[[DONE]]}}  Remove techbite [[Joseph Chan]]
+- [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+    - {{[[DONE]]}}  Add `subscription_expire_at` to User model 👏🏼 finished on [[April 19th, 2023]]
+        - Turns out I am going for the more comprehensive method by adding reference to `subscription`
+    - {{[[DONE]]}}  Add new table `subscriptions` 👏🏼 finished on [[April 19th, 2023]]
+        - Table structure
+            - `by_user_id`: purchased by user ID
+            - `activated_at`: Activated at
+            - `code`: The code to be shared with partner and customers, customers can use the code and enroll to our plans
+            - `subscription_plan_id`: The reference to `subscription_plan`
+            - duration_month: a copy of duration_month from `subscription_plan`
+                - Changed to `start_at` and `end_at`
+            - `id`: ID of the code
+    - {{[[DONE]]}}  Add new table `subscription_plan` 👏🏼 finished on [[April 19th, 2023]]
+        - Table structure
+            - `id`: id of the subscription plan
+            - `duration_month`: how many month will the subscriber need to renew
+            -  `description`: No Logic Only description json for the subscription plan
+    - {{[[DONE]]}}  Bulk generate new code based on the subscription_plan 👏🏼 finished on [[April 19th, 2023]]
+        - `UserService.bulkCreateSubscriptionCode(subscription_plan: , count: )`
+            - The random function is based on the timestamp of the generation and it has to be unique
+            - and also add new library [activerecord-import]()
+    - {{[[DONE]]}}  Add functions to use the subscription_code 👏🏼 finished on [[April 19th, 2023]]
+        - `UserService.useSubscriptionCode(subscription_code:, user: )`
+    - {{[[ARCHIVED]]}}  Add email notification to the users for successfully redeeming subscription code
+        - Congratulations
+        - Link to app.preface.ai/techbites/
+    - 

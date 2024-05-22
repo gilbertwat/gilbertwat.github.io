@@ -1,0 +1,34 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- [[[[1:1]] with [[Kavin Wong]]]]
+    - How do you feel recently?
+        - OKOK
+    - How is your {personal project / family}?
+    - How is your theme / project?
+    - How is your function?
+        - Sync up with [[Ben Cheng]] quite well
+            - Back up
+            - System improvement 
+        - Sync up with [[Victor Lam]] ok
+            - Listen to feedback 
+            - Have useful feedback
+        - More effective collaboration with data team
+            - [[[[2021]] Q2]] revisit this suggestion
+                - Not applicable anymore as [[Kavin Wong]] quits 😅
+    - #CircleBack topics
+        - Next steps for growth
+            - Growth with the system
+            - Use different technology
+            - Be more effective and impactful (lazy)
+            - Bring in new technology
+            - involve in architectural discussion
+        - Refactoring
+            - Locale
+            - Old configurations
+- [[How do you feel when you wind down?]]
+    - {{slider}}
+- #[[Quick Capture]]
+    - [[Government 4.0]] 白羅斯總統秘密宣誓就任，令到我覺得如果我哋令到啲獨裁者係柒嘅話，咁後生仔女就唔會支持獨裁者，咁就會令到獨裁者斷咗線，然之後我哋就可以成功，因為獨裁係柒嘅而民主係型嘅

@@ -1,0 +1,24 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[Ergon]] meeting
+    - G&P -> R&D
+        - [[🤔 Questions]] What is tech team role in here?
+    - Customer Success
+        - [[🤔 Questions]] What is tech team role in here?
+    - Brand & Marketing
+        - [[🤔 Questions]] What is tech team role in here?
+    - Tech support all of them
+        - [[🤔 Questions]] What is tech team own objective?
+    - Admin portal
+        - Cron Job
+        - Admin Portal
+    - App strategy
+        - organic growth
+        - stickiness
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

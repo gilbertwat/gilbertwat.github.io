@@ -1,0 +1,12 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- [[cryptocurrency]] to-read
+- [[books]] Reorganization
+- [[廣東話]]係[[自由]]嘅[[語言]]
+- 

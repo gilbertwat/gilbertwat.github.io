@@ -1,0 +1,15 @@
+- Radiate your gratitude and good vibe; Focus; Pace yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- #Notes Read https://www.facebook.com/Psychologist.Hung/posts/4058572584159021 
+    - Topics
+        - #[[☝🏻 Leadership]] #Trust
+    - Excerpt
+        - 
+    - Takeaways 
+        - [[Trust]] can be from 4 interlocking aspects: competence, care, virtues, consistent.
+        - No one can fulfill all 4 aspects.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

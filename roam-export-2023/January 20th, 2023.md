@@ -1,0 +1,55 @@
+- #[[22 2023]]
+- 11:30
+    - [[1:1]] [[Tommie Lo]]
+        - [[[[Preface]] [[strategy]]: product metrics]] discussion
+        - Sacrifice
+        - Hard conversation
+            - I think it is making me uneasy recently.
+                - We must do great things. We must create a safe environment.
+- 12:45
+    - [[Jennifer Ling]] on [[[[Preface]] [[strategy]]: product metrics]]
+        - 2 pipeline
+            - new lead
+                - 1:1
+                    - Different Ecosystem (Queena)
+                        - Top up pattern
+                            - Research pending
+                        - Size of packages
+                            - Small vs Big
+                        - VIP
+                    - IBC candidates
+                    - [[Ellen Lau]]
+            - ecosystem member activity
+                - 3 types of customers
+                    - BC only
+                        - How to upsell to membership ???????
+                    - 1:1 only
+                    - Membership
+                        - IBC candidates
+                    - Overlap
+                    - [[Clara Ho]] / [[Hema Shah]]
+                    - Goals
+                        - All customers are members 100%
+                        - Membership Activity level
+                            - Pattern of purchasing
+                            - 1 session of bootcamp
+                                - season / month
+                            - holiday buyer
+                            - Events (Hackathon / Family fun days)
+                                - Stickiness (Loyalty)
+                                - Tiering of customers
+                        - 2C high ticket size
+                            - Proactive
+                            - Customer Success scalability (Product)
+                                - rely on Chong gor Ron Ellen Koey (ComEx)
+                        - Review of customer (ComExs) #c:blue **VERY IMPORTANT**
+                            - Learning review
+- 16:30
+    - [[Carmen Yeung]] on [[[[Preface]] [[strategy]]: product metrics]]
+        - Support marketing on the effectiveness 
+        - [[Larry Lee]]'s situation
+- 17:00
+    - [[Joseph Chan]] on [[[[Preface]] [[strategy]]: product metrics]]
+- [[gratitude dairy]]
+    - Have a lot of support in [[Preface]].
+    - Support a lot of colleague in [[Preface]].

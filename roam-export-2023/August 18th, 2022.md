@@ -1,0 +1,3 @@
+- {{[[DONE]]}} [[exercise]] for 15 - 30 minutes
+- #Energy
+    - High energy level because [[[[Preface]] Seamless Buy Link]] [[[[UI]]/[[UX]]]] design has a lot of #progress

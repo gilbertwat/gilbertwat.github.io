@@ -1,0 +1,104 @@
+- #[[08 2023]]
+- 08:30
+    - [[Preface]] leadership team offsite
+        - {{[[ARCHIVED]]}}  Share the concept of [[idea state machine]] with management on the offsite
+            - Will need to delay a bit to the next chance in [[January 10th, 2023]] weekly leadership meetings
+        - 2022 card I choose - "Fear" with a creepy doll baby #[[understand myself]]
+        - New product X new markets
+        - Competition analysis
+        - B2C 3x Revenue 38m HKD
+            - 198 1:1 per month
+            - 300 Bootcamp per months
+            - 10% techbite
+            - By geography
+                - Tokyo 10%
+                - London 10%
+                - Singapore 10%
+                - Hong Kong 70%
+            - 25% salary
+        - B2B 38m HKD
+            - 2 partnership per month
+            - 120 Corporate customers 
+                - bundled with 10% techbites
+            - 25% salary
+        - B2G 120m HKD
+            - More compliance
+        - Everyone is so afraid of the single revenue stream.
+        - Product
+            - Certificate
+        - PCW
+            - "This is their places." for our ideal customers.
+        - Preface Coding SaaS
+            - "Learn better on internet with us."
+        - Key metrics to measure tech team
+            - On time delivery
+            - Idea to Production Lead time
+            - DAU
+            - number of user generated contents
+            - Credit Purchased
+            - (Uptime)
+        - Key metric:
+            - BR team
+                - quota securing
+                - status tracking
+        - Meeting
+            - 25% of weekly time
+            - Input gathering
+            - Alignment / Infomation sharing
+            - Decision making
+            - brainstorming
+            - FEELING
+- 16:00
+    - Debriefing with [[Ben Cheng]]
+        - 2023 plan
+            - Growth of the team
+                - [[Yoon Kim]]
+                    - Solid contributor.
+                - [[Alex Li]]
+                    - need to understand his view on the business as we input more to him
+                - [[Anna Yu]]
+                    - Growth: Consolidate requirement to a cohesive product flow.
+                        - Need to collaborate with UI/UX
+                - [[Moses Ngan]]
+                    - No way to further leverage
+                - [[Akash]]
+                - [[Cheryl Lai]]
+                    - Steady improvement to be a solid contributor in 2023 Q2
+                - [[Jeffy Fung]]
+                    - Steady improvement to be a solid contributor in 2023 Q1
+                - [[Ben Cheng]]
+                    - Growth:
+                        - Manage vendors
+                    - Hard to use freelancer in a separate project.
+                - [[Myself]]
+                    - Growth
+                        - Stable state of mind.
+            - Separate my team to research and development
+                - research
+                    - SaaS product prototype
+                    - Techbites
+                - development
+                    - portal to support current B2C and B2B business.
+            - Shared struggle
+                - Concisely coined what I am thinking in 1 liner
+                    - 我唔想俾人包養lol.
+                    - 我唔想Dap 雞Pang.
+- 23:06
+    - [[gratitude dairy]]
+        - A chance to open up and share my struggle in 2022 with the wider team.
+        - A courage to talk and get unstuck.
+        - Feeling the [[idea state machine]] is freeing me from facing the fear to taking actions to resolve the fear.
+        - [[Theodore]] and [[Wifey]] welcome me with a smile.
+        - [[Wifey mum]] is helping 
+- 23:42
+    - [[ideas]]: A suites of definitive guide to get the cloud certificate
+        - status: #Mockup
+        - Simple business: create a material to help people to get the cloud certificate
+    - {{[[DONE]]}}  [[Lunch and learn on ChatGPT]] on [[January 27th, 2023]]
+    - {{[[DONE]]}}  Finish https://courses.jordanbpeterson.com/
+        - If children is raised correctly, the children will be very difference.
+        - More authoritrian, the children will be more similar
+        - Big five test
+        - Listen and paid attention
+            - food for thought
+        - Conventional vs liberal need to appreciate each other.

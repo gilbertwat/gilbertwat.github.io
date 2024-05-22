@@ -1,0 +1,5 @@
+- 09:30
+    - Simutaneously working on three projects
+        - {{[[ARCHIVED]]}}  [[[[Preface]] Q2 Tech Roadmap]]
+        - {{[[DONE]]}}  [[[[Preface]] [[project]]: Techbites MVP]] 👏🏼 finished on [[April 5th, 2023]]
+        - {{[[DONE]]}}  [[[[Preface]] Chat GPT API demo]] 👏🏼 finished on [[April 5th, 2023]]

@@ -1,0 +1,39 @@
+- Why are we exploring this?
+    - Easier to accumulate written knowledge on all levels if we have a working work from home policy, so that we can make better decisions moving way forwards
+    - Clearer and more rational communication and decision making.
+    - Work from home arrangement is common practice among technology teams around the globe currently, without a working work from home arrangement is a competitive disadvantage in acquiring quality talents to our company.
+    - Easier to hire good tech team members if we have a working work from home policy
+    - Easier to onboard new team members as documents are closer to the reality.gmai
+- Why now (2022/01/24)?
+    - Hong Kong, where our headquarter is located, is experiencing an outbreak of the Omicron variant of COVID.
+- What are the considerations?
+    - Maintaining our culture, vibes, teamwork, communication and creativity.
+        - Preface is in the business with a heavy emphasis on vibes and branding, unlike other technology firms.
+        - Face-to-face communication can generate more solid ideas.
+    - Maintaining our productivity
+        - We need to communicate our productivity quantitatively
+            - Story points, count of stories completed …etc.
+    - Maintaining our quality
+        - Product quality, platform quality, decision quality, communication quality …etc.
+- What are the expectations?
+    - This is an experiment in Preface context.
+    - The house rules are for a guidance only purpose and the success of this policy will gradually loosen those house rules.
+    - The success of this policy will be decided by team heads with the guiding principle of:
+        - The culture within Preface remains positive.
+        - The communication remains on-time and on-point between tech team and other teams.
+        - The delivery of our projects is successful.
+            - Successful means on-schedule, on-scope and on-quality.
+- What are the house rules?
+    - If you choose to work from home, you have to follow the rules below.
+        - You have to announce you are working remotely on the day-start through Slack and change Slack status to “working remotely”
+        - You have to announce if you want to be away from the keyboard.
+        - Response to official instant communication channels(Whatsapp & Slack) within 15 minutes.
+        - Response to email within the day, depending on the nature of the email.
+        - Decision making and a summary of consideration and context have to be written and shared among team members in due course.
+        - You have to share your plans for the day with your team head when day-start.
+        - You have to share your review of the day with your team head when day-end.
+        - You have to join meetings punctually with all audio and video properly set up.
+        - You should organize ad-hoc video conferences whenever discussion is needed.
+        - You have to attend all cross-team meetings in person whenever possible.
+- Delivery
+    - https://docs.google.com/document/d/1yI343x2BhYHPiJgP9ON52BzgwxieygrxVs13-38pUas/edit?usp=sharing

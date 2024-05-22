@@ -1,0 +1,56 @@
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - I feel very burnt out. #Venting
+            - I feel like my input is not being recognized.
+            - I feel like I am being cheated.
+            - I feel under appreciated.
+            - I feel like I am stuck
+            - I feel like it is unfair.
+                - I have been leading a team of 20 for 2 years.
+                - Under my leadership the mean attrition period is 1 year 10 months.
+                - Implemented remote work culture in the wake of pandemic and shift to a more document based culture.
+                - I am sure I am doing something right.
+                - And now I am being demoted as one of my direct report will become peer to me.
+                    - I am not against the promotion, He is very good at managerial work.
+                        - it will be very hard for me to work effectively with him with such arrangement.
+                            - Especially on project flywheel.
+                    - And if it is according to the standard we have for promotion:
+                        - Show that there is track record. Yes or no.
+                        - Business has expanded. No.
+                - My superior can manage him directly no problem
+                - Winnie and Kylie relationship building is on me.
+- Start the day **strong**!
+- No one deserve promotion because
+- [[Rob Kealey]] [[1:1]]
+    - prevent missing stuff
+        - managing release
+        - First line of defense
+        - product knowledge
+    - spread too thin
+    - workflow manual
+    - Developer write tests and managing release
+    - [[Chris Lee]]
+        - enjoy
+        - deep understanding of [[GOGOX]]
+        - Onboarding new team member is very useful
+        - 
+- [[Leslie Lai]] [[1:1]]
+    - In app chat project
+        - scope creep
+        - force update
+            - TW
+            - HK
+            - SG
+        - Always have challenge in push notification
+        - Always have P0/P1
+    - 3DS
+    - [[QA team]] very helpful
+        - no P0/P1 bugs
+        - Automation 
+        - [[Nathan Ng]] 
+            - edge cases
+            - proactive
+            - detailed and completed communication on spreadsheet
+            - suggestion on everything on the product
+            - exploratory testing for very experienced
+    - Morale is low

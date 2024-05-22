@@ -1,0 +1,121 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - everything's fine now ✨
+- #Notes URL https://medium.com/@ashleymayer/its-okay-that-your-startup-doesn-t-have-a-communications-strategy-e92f3016c4d9 
+    - [[Topics]]
+        - [[marketing]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - In today’s crowded startup landscape, it’s rarely obvious what will cut 
+- through the noise. You’re not just competing with direct competitors for
+    - customers, you’re competing with __everyone__ for attention (and all the potential future hires, partnerships and funding rounds that awareness can help drive).
+        - Storytelling
+            - Iteration
+                - The status quo and why it sucks (context)
+                - Why this problem is so important (passion)
+                - What’s changed about the world — new tech, behavior, regulations— that enables us to finally solve it (timeliness)
+                - Why we’re the right team to take it on (credibility)
+                - What traction we’re seeing (momentum)
+                - What you, the recipient of this message, should do now (call to action)
+        - Even more importantly, openly talking about what’s hard 
+        - builds trust. As a general rule, you should assume your audience is intelligent and informed.
+        - The “relationships” I’m talking about really come down to having 
+- somewhat regular and hopefully interesting conversations, including ones
+    - where you aren’t trying to convince anyone to write about your company.
+        - They tend to be the best barometers for what’s compelling about your 
+- story, because they have to keep their readers’ interests and attention 
+- spans in mind.
+    - Don’t trust that others will take the time to understand the gravity 
+- of your news. Figure out how to signal its importance and timeliness, 
+- and let that effort take you in new and exciting directions.
+    - {{[[DONE]]}} Takeaways
+        - [[ideas]] needs to address the current status and why it sucks.
+        - [[ideas]] needs to be utmost important.
+        - [[ideas]] needs to be addressing the changes in the world.
+        - [[ideas]] needs to be executable with the current team.
+        - [[ideas]] needs to be calling for action now.
+        - [[marketing]] is about timeliness.
+        - [[marketing]] is about building [[rapport]] and [[Trust]] with customers.
+- #Notes URL https://youtu.be/bGNfKEKnEbk 
+    - [[Topics]]
+        - [[☝🏻 Leadership]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - Engineering leaders create the right environments for engineers to stay and strive
+        - Engineers can apply job anywhere
+        - Impact
+            - Customers impacts
+                - Too far away from customers
+                - Feature factory: Solve problems not ship features
+                - Too solution focus
+            - Traps
+                - Too many handsoff
+                - Slow feedback loop
+                - Multiple projects
+                - Output over outcome
+                - Just delivering to plans
+                - lack of celebration/feedback
+        - Choice
+            - Shadow CS
+            - Smaller releases
+            - OKRs for alignment
+                - Understand why they are contribute
+            - Set up a goal and step out of the way
+            - Principal > rules
+                - Reversible vs irreversible
+            - Non-prescriptive process
+        - Personal Growth
+            - Repetitive
+            - Lack of feedback and support
+            - Create psychological safety
+                - Leadership
+        - Step to mission
+            - Clear prioritizaton
+                - 6 level of prioritization
+            - Initiative to step towards mission 
+            - Documentation
+        - Improvement
+            - Post-Mortem
+                - Initiatives
+                - Incidents
+            - Creating a forum
+                - Guild
+                - Lunch and Learn
+            - Define growth path
+                - Personalized, based on environment
+                - IC/tech leads/managerial
+        - Actions
+            - Gather information
+                - 3 simples
+                    - Hands-off number
+                    - Solve / implement
+                    - Opportunities for engineers to grow.
+            - Publish cultures
+            - Repeat
+        - Cultivate culture of X
+            - Learning what's blocking them
+            - What's encourage them
+            - As a leader, amplify signals
+        - Q&A
+            - B2B --> Customer = external partners
+            - Even CTO with 20 years are struggling to choose what to have autonomous and what to dictate.
+    - {{[[DONE]]}} Takeaways 
+        - Good [[☝🏻 Leadership]] means creating [[psychologically safe]].
+        - A good [[☝🏻 Leadership]] is to know what to delegate.
+        - A good [[☝🏻 Leadership]] is to know what to control.
+        - [[OKR]]s are for alignment.
+        - A good environment is for engineers to be as close to users/customers as usual.
+        - Too many hand-offs are slowing down [[feedback loops]].
+        - Celebration and feedback are essential to engage the team.
+        - Outcome over output is essential to provide positive impact to the product.
+    - [[🤔 Questions]]
+        - How to create an environment that is [[psychologically safe]]?
+- So delegate a testing task to [[Paul Leung]] with effectiveI think I figure out know how to work with [[Paul Leung]] effectively.
+    - Big him Use ranking as your advantage (SMT is watching)
+    - treat him as a machine provide enough detail for him to operate (provide every single detail of the request / initiatives)
+    - Build a cage around him delegate a set boundary for him (That's your decision, my expectation is XXX works very well)
+- [[How do you feel when you wind down?]]
+    - {{slider}}

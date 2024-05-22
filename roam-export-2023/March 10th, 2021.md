@@ -1,0 +1,20 @@
+- # Note to self
+    - [[🆕 Input]]
+    - [[Collections of motivation snippets]]
+    - #NoteToSelf
+    - [[Life lessons]]
+- {{embed: TODOs}}
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+- Start the day **strong**!
+- https://webmention.io [[Cha Chaan Teng Software]] may want to integrate it.
+- {{[[DONE]]}} [[Vijay]]
+    - Vijay has been a trustworthy partner all along. His dedication to our relationship and responsiveness are unmatched. He always gives prompt responses. Not only his responsiveness, but also he is also able to understand our specific needs and adjust our candidate pool accordingly, hence greatly reduced our screening effort. With he and his team's help, we are able to deliver features on our mobile apps and provide more value to our customers.
+- {{[[DONE]]}} [[Venkata Narasimha]]
+    - Venkata is our core member in gogodelivery team. He is always collaborative and give valuable input to our product with his deep knowledge in iOS and our RIBs architecture. He was always able to clarify requirements before implementing. In addition, he also kept PMs and teammates posted on his latest status. Discussion with platform teammates was always smooth. Without his contribution, we cannot ship our revamp of client app and various feature in GOGODelivery with current quality.
+- {{[[DONE]]}} [[Subbarao Venkata Mothe]]
+    - Subbarao is our core member in the client experience team. He possesses great knowledge and understanding of our RIBs architecture and iOS fundamentals. Not only his technical skills, he is also making sure the requirements were aligned before shipping. He is a great contributor in our client app revamp effort.
+- {{[[DONE]]}} [[Ajay]]
+    - Ajay is our latest joiner in our Android team. He helps us a lot in refactoring our Android codebase and makes us more efficient in feature delivery. He shows great interest in building a product, which is a big plus for us.
+- {{[[DONE]]}} [[Hrishikesh Moghe]]     
+    - Hrishikesh is our QA automation engineer. He is a superb communicator with a way to figure things out in an experimental context. He has laid a solid fundamental knowledge with us and we are able to build on that with our QA automation effort.

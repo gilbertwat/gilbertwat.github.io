@@ -1,0 +1,3 @@
+- https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g
+- Quick [[prototyping]] of [[machine learning]] or [[AI]] models
+- #tools

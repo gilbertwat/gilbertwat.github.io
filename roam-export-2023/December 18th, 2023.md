@@ -1,0 +1,21 @@
+- #[[23 2023]]
+- 16:12
+    - {{[[DONE]]}} Done a bit of cost optimization on GSuite for [[Preface]]
+- 10:00
+    - {{[[DONE]]}}  Weekly Plan and Review
+- 12:00
+    - Lunch
+- 13:30
+    - Work on {{[[DONE]]}}  Renew Passports to get hold of an Off-shore account in OCBC Bank
+- 14:30
+    - Running
+- 15:00
+    - Bath
+- 16:00
+    - {{[[DONE]]}}  Reboot [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]] from [[Charlie Mak]]
+- 18:00
+    - Dinner
+- 20:00
+    - {{[[DONE]]}}  Reboot [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]] from [[Charlie Mak]] done
+- 21:00
+    - 

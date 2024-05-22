@@ -1,0 +1,10 @@
+- # Coffee and Wine
+- This repository contains everything about our Coffee and Wine App related information. Here you should be able to completely understand the architecture of the whole application and pointers to everything related to further develop the application.
+- ## Architecture
+- Coffee and Wine App uses [Flutter](https://flutter.dev) as the mobile application development framework.
+- Our backend uses [Moleculer](https://moleculer.services) as the backend application development framework.
+- Our API is documented and tested on [Postman](https://www.postman.com/)
+- # How to contribute
+- Get the postman collection from the [Preface tech team](mailto:techdevelopment@preface.education)
+- If you are contributing on the mobile side, click here to go to the [mobile repository](https://github.com/preface-ai/coffee-app).
+- If you are contributing on the server side, click here to go to the [backend repository](https://github.com/preface-ai/coffee-app-backend)

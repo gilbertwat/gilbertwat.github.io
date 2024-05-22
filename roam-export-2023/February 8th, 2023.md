@@ -1,0 +1,23 @@
+- #[[12 2023]]
+- [[Lionel]] #birthday next [[February 8th, 2024]]
+- 09:30
+    - [[Anna Yu]] on [[[[Preface]] [[project]]: Nomad payment scheme update]]
+        - {{[[DONE]]}}  Check for requirement on [[February 10th, 2023]] 👏🏼 finished on [[February 14th, 2023]]
+    - [[Anna Yu]] on [[[[Preface]] [[project]]: Customer Portal MVP]]
+        - {{[[DONE]]}}  Check for requirement on [[February 10th, 2023]] 👏🏼 finished on [[February 14th, 2023]]
+- 10:00
+    - Onboard [[Charlie Mak]]
+- 14:00
+    - Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[ARCHIVED]]}}  Migrate `Button` to the shared folder
+- 15:00
+    - Worked with [[Ben Cheng]] [[Charlie Mak]] on [[[[Preface]] [[project]]: Credit System MVP]]
+- 16:55
+    - Work on [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[ARCHIVED]]}}  Migrate `Button` to the shared folder
+        - {{[[DONE]]}}  Ultimately really need to choose a UI Kit to merge the look and feel mobile and web 👏🏼 finished on [[February 24th, 2023]]
+- 18:45
+    - {{[[DONE]]}}  Build a basic blog page in preface.ai 👏🏼 finished on [[February 9th, 2023]]
+- [[gratitude dairy]
+    - [[Lionel]] is 33 years old and we are good friends.
+    - 

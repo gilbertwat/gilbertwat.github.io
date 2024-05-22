@@ -1,0 +1,6 @@
+- 2023 development plan
+    - 10x strength
+        - Patience
+    - 1.1x weakness
+- [[💪🏻 Commitments]]
+    - {{{[[DONE]]}}}} Strategize with [[Ben Cheng]]

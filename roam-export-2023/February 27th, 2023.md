@@ -1,0 +1,9 @@
+- 09:30
+    - {{[[ARCHIVED]]}}  Demo App for [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]] for tomorrow Leadership team meeting
+        - {{[[DONE]]}} For iOS / Android to jump to the next `TextInput` in the soft keyboard 👏🏼 finished on [[February 27th, 2023]]
+- 12:30
+    - {{[[DONE]]}}  Reply Email 👏🏼 finished on [[March 13th, 2023]]
+- {{[[DONE]]}}  Continue {{[[ARCHIVED]]}} Finish [Advanced Product Management Course](https://www.udemy.com/share/101YMA3@-cdBMZ_wVfh4IW-83oDuWsJdJvMm0xiB2C9E7dOysR3EQBMxXqTZxJc3mJcWndxY) and share learnings on or before [[February 28th, 2023]] 
+- {{[[DONE]]}}  Weekly update [[Preface]] 👏🏼 finished on [[March 13th, 2023]]
+- {{[[DONE]]}}  [[[[Preface]] Company Dashboard]] for tomorrow Leadership team meeting 👏🏼 finished on [[March 13th, 2023]]
+- {{[[ARCHIVED]]}}  [[Personal [[product]]: Ship some MVPs]]

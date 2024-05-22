@@ -1,0 +1,14 @@
+- [[Preface]] motto: There is nothing that cannot be learnt.
+- New [[bitcoin]] realization
+    - Why [[bitcoin]] matters?
+        - [[bitcoin]] is building a totally decentralized money platform outside the states.
+        - [[bitcoin]] is well engineered as an internet money.
+        - How we could apply to my [[Family [[finance]]]] and [[[[Gilbert Wat]] [[brand]]]]?
+            - Buying [[bitcoin]] to hedge against the current USD, debt-based capitalistic economy.
+                - The current economy is building on the trust of the enforceability of contracts.
+                    - The enforceability is based on force.
+        - [[Proof of work]] is using energy to determine the probability to contribute to the network
+            - [[bitcoin]] uses [[Proof of work]] to determine which miner validate a block of transactions.
+        - [[Proof of stake]] is using stake to determine the probability to contribute to the network
+            - [[ethereum]] uses [[Proof of stake]] to determine which staker validate a block of transactions.
+        - 

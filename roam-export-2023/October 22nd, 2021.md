@@ -1,0 +1,37 @@
+- #Notes Read - {{[[ARCHIVED]]}}  Watch [[Shopify]] https://www.youtube.com/watch?v=KgQkG_ZXs_w&t=0s
+    - Why are you reading this?
+        - 
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- [[October 29th, 2021]] will have a Presentation of [[[[GOGOX]] Project Flywheel]] to our HK manager
+    - {{[[ARCHIVED]]}} Prep [[[[[[GOGOX]] Project Flywheel]] updates for HK manager]] 
+- {{[[DONE]]}}  Watch [[Shopify]] https://www.youtube.com/watch?v=KgQkG_ZXs_w&t=0s
+- {{[[DONE]]}} #Notes Read https://twitter.com/blakeaburge/status/1451156360167444488?s=20 
+    - Why are you reading this?
+        - To be better in [[Making the right enough [[decision]]]]
+    - Excerpts from the article and some scribble
+    - Takeaways to be insert into [[Permanent Notes]]
+        - To [[Making the right enough [[decision]]]], consider if it is life-altering to determine energy needed to give.
+        - To [[Making the right enough [[decision]]]], consider what kind of outcomes we will be in if we make that decision.
+        - To [[Making the right enough [[decision]]]], consider your own [[🤔 Biases]].
+        - To [[Making the right enough [[decision]]]], ask your trusted network.
+        - To [[Making the right enough [[decision]]]], pause and think or even [[sleep]] on it.
+        - To [[Making the right enough [[decision]]]], align the decision with your value.
+        - To [[Making the right enough [[decision]]]], know what you don't know and ask for help.
+        - To [[Making the right enough [[decision]]]], embrace uncertainty and ready for pivot.
+    - Further [[🤔 Questions]] to think about
+- {{[[ARCHIVED]]}} #Notes Read -  https://twitter.com/katebour/status/1451262731659751425?s=21
+    - Why are you reading this?
+        - I want to learn marketing
+    - Excerpts from the article and some scribble
+        - 
+    - Takeaways to be insert into [[Permanent Notes]]
+    - Further [[🤔 Questions]] to think about
+- #[[Quick Capture]]
+    - diversity.   focus on impact
+    - be open
+    - how to hold hard conversations with assume good intentions?
+    - p value, sample size = 6 figures
+    - 2-4 week per experiment 
+    - search query is very noisy

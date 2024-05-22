@@ -1,0 +1,40 @@
+- #[[15 2023]]
+- 08:30
+    - [[Preface]] Weekly leadership meeting
+        - International bootcamp website Project 
+        - pricing is very important
+        - currency issue in credit system buy-in
+- 10:30
+    - [[1:1]] with [[Ben Cheng]] to sort things out
+        - Finally sort out our current view of the team's bottleneck and company.
+            - Perceived vibe in Tech team: we have a low perceived energy. OGs in tech team has a particularly low perceived buy-in in where the company is going.
+            - Personal trust in Ben and I are still high (thank you).
+            - The vibe is because a lack of visible impact to the company growth, and demotivation from parked projects.
+            - The vibe and lack of a running app give us a disadvantage on talent acquisition and talent retention.
+            - The product requirements laying out and system designs are now mostly on me and Ben's shoulder, Momo and Anna and Alex is gradually taking up (60%-70%). But I am hesitant to pump up "hands" to the team with less involvement from me and Ben, which is ok as their pay currently is in HK senior grade.
+            - Adding new capacity(freelance or full time) is very difficult. So we are stuck.
+            - A lack of decision from the top about budget and headcount is making us very passive in unstucking ourselves.
+                - This is the key root cause that I have to figure out and resolve the hesitation of leadership team.
+        - Solution to be proposed
+            - We need to get customer portal out ASAP. This will enable us on recruitment, retention and actual product development and investor point of view.
+                - Since we cannot count on the current candidates pool we can reach for full time, we can onboard freelance (remote or not, just like Gemmy) with good communication skills to sort out requirements and build with us, I can renegotiate with my friends to see if we can afford their hourly rate ($400~$600).
+            - For the motivation and energy, what I can do is to align 1-3 north star product metrics that we are aiming to improve in our digital products in 2023. With a set of customer centric metrics to chase we will be more aligned with what value we are creating for our customers, hence the overall alignment in the company about product(content / digital).
+            - Passively showcasing their growth by having our AM or above teammates to sit across the office to get an infusion of vibe there.
+            - Another passive showcasing will be hosting our own tech sharing session in the common area. this is more manageable for us (mentally and material wise). Other colleagues can join and leave anytime.
+            - Keep repeatedly addressing the parked projects(NFT, Coffee App) and make sure I do my part of job that leadership team appreciate their hard work but for business reasons we cannot continue the endeavors.
+        - Assumption we have made
+            - The job nature of tech team is requiring us to be less conversational and more asynchronous(input -> process -> output), so the perceived vibe has to be less chatty and more thoughtful. The proactiveness will be shown in our works.
+            - For the 3 years goal we need tech team to build solid (instead of fluffy <--- I saw this on the Glassdoor) product that our customers love.
+            - As long as the OGs are productive and not spreading negativity we are good with them on our ship.
+- 18:00
+    - Shared a long-ish message with [[Tommie Lo]]
+    - [[Tommie Lo]] response
+        - Regarding proactiveness and nature of Tech engineers; Ben and you are showing the right level of energy and proactiveness indeed, so it’s the juniors’ work to learn to be proactive when they do tech work. The importance of proactiveness comes from the communication work to be smooth between teams; the ways you and Ben communicate with other players in the company are good; while they need more work in communication and buy in (which they used to be able to show it, not now); I totally understand the nature of tech people to be more reserved in general and I am happy with that.
+        - regarding the ceased projects (NFT and coffee apps); I think if their buy-in and communication were right, they should be happy that we didn’t push for that in the end, particularly the NFT project. The majority of the reason for these ceased project also comes with the timing, and a little delay in the past may affect the optimal time for them to be released.
+        - it brings to the third point that, the last of proactiveness and communication will lead to not agreeing with the vision and future of Preface in the coming years; I expect them to be as positive as how you see it that Tech will be an integral part of us in the coming years; but not to lose faith.
+        - Regarding the comment - fluffy; no worries about it, it comes from the most fluffiest person Basil who had performance and moral issue when he was in the team; so I don’t really worry about his comment.
+        - I am very ok to invest more on tech and product; particularly new freelancer or teammates; to expand the investment on the new members, as long as we have the existing ones who are also contributing positively to the team and up to the standard of who will come onboard soon, I am also positive to keep them.
+        - Overall, the primal strategy is to launch the App first, to make it running so that we will be able to attract talent and retain good talents to work in the team and build solid tech things together.
+- 23:30
+    - [[gratitude dairy]]
+        - I finally sort out all the anxiety at work.

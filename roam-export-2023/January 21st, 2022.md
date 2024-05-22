@@ -1,0 +1,19 @@
+- [[Infobip]]
+    - #culture #observation #morale The recording problem is not addressed in a speedy way that I would like them to be
+        - Is it the motivation that is lacking?
+        - Is it the know-how that is lacking?
+        - Is it the confidence that is lacking?
+- 14:30
+    - Checkout https://gtoolkit.com/download/
+- 15:23
+    - https://blog.crunchydata.com/blog/postgres-indexes-for-newbies
+        - [[Literature Notes]]
+            - **B-tree indexes** are the most common type of index and would be the default if you create an index and don’t specify the type. B-tree indexes are great for general purpose indexing on information you frequently query.
+            - **BRIN indexes** are block range indexes, specially targeted at very large datasets where the data you’re searching is in blocks, like timestamps and date ranges. They are known to be very performant and space efficient.
+            - **GIST indexes** build a search tree inside your database and are most often used for spatial databases and full-text search use cases.
+            - **GIN indexes** are useful when you have multiple values in a single column which is very common when you’re storing array or json data.
+- 15:59
+    - [[[[Preface]] [[NFT]]]] 2nd alignment
+        - How does membership link with (opensea members)?
+        - Update of roadmaps
+        - Mint and airdrop by ourselves, rather than using the current marketplace

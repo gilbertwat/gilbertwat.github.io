@@ -1,0 +1,3 @@
+- {{[[DONE]]}} Investigate [[Hackintosh]]
+    - https://github.com/dortania/OpenCore-Desktop-Guide/blob/master/README.md
+    - https://news.ycombinator.com/item?id=22916281

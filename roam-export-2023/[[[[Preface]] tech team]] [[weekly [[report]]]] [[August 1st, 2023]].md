@@ -1,0 +1,44 @@
+- **Group**
+    - SEO blog
+    - Course Offering Done on 👍🏻
+    - Schedule System working with ComOps
+    - Credit system 3 party integration buy coffee coupons
+    - Blockchain project draft on Wed
+- **PST **
+    - 4 stream
+        - Bundling Operations to be more flexible
+    - Mailchimp adoption on more sophisticated use to enhance data collection and experimentation
+    - **Review System to Joseph**
+        - **Non registered users**
+    - Metrics in Customer Acquisition
+- **PTB **
+    - First time ask about metrics 5 CSL customers
+    - Current: Social Login
+    - Upnext: Buy subscription with credit
+    - **Ideation: Enrollments thru techbites X Content X Ops**
+- **Remarks**
+- 20230801
+- content validation
+- TechBites live is Edutainment.
+- Livine
+- School Projects
+    - Member Plus not renews
+        - Not enough content
+        - Still deciding
+    - School
+- rttp
+- 7.8M
+- onboarding challenges
+- attendence challenges 100 client convert to 100 student per week next month Hema take charge
+- __It is a responsibility of our clients__
+- ____
+- __RTTP credit for the reminding amount 750000__
+- ____
+- __Freelancer revamp__
+- ____
+- __London team payroll__
+- 20230722
+- Preface Hub
+- November 2 big event
+- September 2 big event
+- Previously: [[[[[[Preface]] tech team]] [[weekly [[report]]]] [[July 25th, 2023]]]]

@@ -1,0 +1,13 @@
+- 10:00
+    - {{[[DONE]]}}  Resolved financial issue with [[Charlie Mak]] [[Inspect Element]] [[Vincent So]]
+        - It has been a very painful conversation. #learning
+            - The problem is that I am in a loss of reputation in a few ways.
+                - The reputation of [[Gilbert Wat]] inside [[Preface]] as I slipped on basic admin work such as summiting payment request and budget request.
+                - The reputation of [[Gilbert Wat]] outside [[Preface]] as money is the fundamental of trust and commerce
+                - The reputation of [[Preface]] as we wronged twice to [[Inspect Element]]
+            - I created a lose-lose situation because we de-prioritized some very major stuff.
+- 11:00
+    - [[1:1]] with [[Tommie Lo]] on new Blockchain project
+- 11:30
+    - [[[[Preface]] [[product]]: Reviews]] sync up with [[Carmen Yeung]] [[Alfred Tse]] and [[Joseph Chan]]
+- 

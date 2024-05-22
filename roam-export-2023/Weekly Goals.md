@@ -1,0 +1,13 @@
+- ((Week 21))
+    - 📆Weekly Routine
+    - [[Ergon]]
+        - [[Simple plan to rectify tech delivery for 
+        - 
+- ((Week 13))
+    - {{{[[DONE]]}}}} Promotion Plan
+    - {{{[[DONE]]}}}} Github Negotiation
+    - {{{[[DONE]]}}}}Common OKRs 
+    - {{{[[DONE]]}}}} Mock API + Authentication
+    - {{{[[DONE]]}}}} Webhook Retry Test 
+    - {{{[[DONE]]}}}} 10 [[business]] Ideas
+    - 📆Weekly Routine 

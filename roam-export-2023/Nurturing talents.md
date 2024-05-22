@@ -1,0 +1,8 @@
+- Appreciation exercise from leaders can make leaders consciously looking for the [[strength]] of his/her team members.
+- Playing [[strength]] has a higher chance of fulfilling one's commitments.
+- Fulfilling one's commitments raise the [[Trust]] to oneself.
+    - A [[Trust]] to oneself lead to higher [[self-esteem]].
+- A higher [[self-esteem]] person is resistant to taking [[criticism]]s personally.
+- Not taking [[criticism]]s personally is the key factor of [[teamwork]].
+- Only through [[teamwork]] you can achieve more.
+- Playing devil's advocate key to train the team to be able to take in [[alternative opinions]] and [[criticism]].

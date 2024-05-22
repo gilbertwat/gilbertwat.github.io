@@ -1,0 +1,51 @@
+- [[idea state machine]] concepts
+- # Definition
+    - The relevance of these facts and theories to your life, work, or curiosity
+    - Your interpretation of facts and theories
+    - Represents information to answer your questions
+    - you understand the note independent from its source
+    - You rephrase ideas from your mind
+    - Distillation from [[Literature Notes]]
+- When [[operating a [[system]]]], [[profiling]] is a way to understand how a system perform.
+- [[Instrumental [[profiling]]]] traces each functions's entry and exit.
+- [[Sampled [[profiling]]]] poll the stack at regular intervals to determine what's running.
+- [[Relaxing [[breathing technique]]]] can help relaxing the [[parasympathetic nervous [[system]]]] of our human body.
+- The notion of a [[breathing technique]] is `in`-`hold`-`out`.
+- A [[Relaxing [[breathing technique]]]] can be 4-7-8 or 2-1-3.
+- A relaxed [[parasympathetic nervous [[system]]]] can help us to [[sleep]] better.
+- [[job description]] describes the [[roles and responsibilities]] of the position you are [[hiring]].
+- [[job description]] can help the [[hiring]] [[manager]] to set the [[expectation]] clear.
+- A clear [[expectation]] creates [[focus]].
+- A [[ideal team]] is [[focus]].
+- [[true positive]] means given the prediction is positive, it actually is positive.
+- [[false positive]] means given the prediction is positive, it actually is negative.
+- [[true negative]] means given the prediction is negative, it actually is negative.
+- [[false negative]] means given the prediction is negative, it actually is positive.
+- [[precision]] is [[true positive]] divided by the sum of [[true positive]] and [[false positive]], $$\frac{TP}{TP+FP}$$
+- [[precision]] the higher the better.
+- [[recall]] is [[true positive]] divided by the sum of [[true positive]] and [[false negative]], $$\frac{TP}{TP+FN}$$
+- [[recall]] the hight the better.
+- [[recall]] is always in tension with [[precision]].
+- [[accuracy]] in [[machine learning]] is the sum of [[true positive]] and [[true negative]] divided by the sum of all [[true positive]], [[true negative]], [[false negative]] and [[false positive]].
+- [[f1 score]] is the harmonic mean of precision and recall
+- [[f1 score]] = 2 * ([[precision]] * [[recall]]) / ([[precision]] + [[recall]]), $$2 \times \frac{Precision \times Recall}{Precision + Recall}$$
+- One of the [[symptoms of [[toxic [[culture]]]]]] is asking who is responsible for what.
+- [[Anderson-Darling single-sample test]] is a test to see if a set of data can fit into a certain distribution.
+- [[Anderson-Darling single-sample test]] can be done in [[SciPy]]
+- [[EBITDA]] is a way to show [[finance]] health of a [[company]].
+- [[EBITDA]] = a measurement of cashflow
+- [[EBITDA]] means Earning before Interest, Tax, Depreciation and Amortization
+- [[gross profit]] = [[revenue]] - [[cost of goods sold]]
+- [[EBITDA]] = [[gross profit]] - [[overheads]]
+- [[EBIT]] =  [[EBITDA]] - [[depreciation]] - [[amortization]]
+- [[net profit]] =[[EBIT]] - [[interest]] - [[tax]]
+- [[salary]] for [[software development]] can be an [[amortization]] as it can be counted as investment.
+- [[cashflow]] is the only way to really understand a business performance
+- [[high-grade [[emotions]]]] is a form of powerful [[emotions]].
+- [[high-grade [[emotions]]]] comes from one's experience in his/her youth.
+- [[high-grade [[emotions]]]] has an obsessive quality.
+- Intensely childish and out of character behaviors could comes from [[high-grade [[emotions]]]].
+- [[Trie]] is a tree [[data structure]].
+- [[Trie]] is used to retrieve a [[string]] value by [[depth-first]] traversal.
+- Global [[Learning style]] in [[Felder-Silverman Model]] means the person is learning by topic and jump from concepts to concepts.
+- Sequential [[Learning style]] in [[Felder-Silverman Model]] means the person is learning by sequence.

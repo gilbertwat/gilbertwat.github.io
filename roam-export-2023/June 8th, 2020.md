@@ -1,0 +1,15 @@
+- {{embed: ((T0YFimL-T))}}
+- 
+    - {{[[DONE]]}} Continue to figure out [[🧘🏻‍♂️ Self Awareness]]
+    - {{[[DONE]]}} Tamper the commitment of taking AWS exam
+        - https://aws.amazon.com/certification/
+    - {{{[[DONE]]}}}} Research on [[👀 Refractive eye surgery]]
+    - {{[[DONE]]}} [[css]]
+    - {{[[DONE]]}} Reorganize [[[[1:1]] with [[Vincent Chan]]]]
+    - 
+- How do you feel when you wake up?
+    - I am pretty content now.
+    - I still have problems to fix but I am confident that I can fix those.
+- 
+- ((menlSYjzi))
+- 

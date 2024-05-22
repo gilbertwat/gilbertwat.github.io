@@ -1,0 +1,16 @@
+- 10:25
+    - Got Scammed all ENS is lost -3KUSD
+    - I don't know how but it is sooooooooooooooooooooooo bad from me
+    - Gonna need to make it bad with contribution in ENS
+- 10:41
+    - Called [[Vincent So]] for [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+    - Called [[James Cheuk]] for [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+    - Called [[Ravic Poon]] for [[BUD application: Plans to enhance [[[[Preface]] [[product]]: Customer Portal]]]]
+    - The default of my execution is always execute from my own first.
+    - Leveraging others is not my default.
+- 11:00
+    - [[Tylor Ng]] want to resign.
+        - Go to the robotics
+- 15:00
+    - {{[[DONE]]}}  Investor visit Finished at 18:50 [[November 16th, 2022]]
+        - 

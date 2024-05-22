@@ -1,0 +1,24 @@
+- {{[[DONE]]}} #Notes Read https://shitlassian.com/ and [comments from HN](https://news.ycombinator.com/item?id=28555480)
+    - Why are you reading this?
+        - I want to learn from others' mistakes in [[management]] and [[people]]
+    - Excerpts from the article and some scribble
+        - The first 🚩 red flag was when my manager said multiple times that my salary was high.
+        - I received no promotion or salary increase in 2.5 years.
+        - Lesson learned: Atlassian doesn't hesitate to lie. They promise perks that do not even exist. They lie at all levels: managers, HRs, founders.
+        - When I requested my PTO, the manager just said "no". Not because I took too much PTO in the past - I haven't taken any for quite some time. It's just "no" because they can. He didn't explain too much, just sent me a link to their policy, where they say how exactly it is "unlimited" - it's quite limited.
+        - "team short on resources, including R." - that guy was a manager, who didn't let me use my hard-earned vacation, took himself 1 month of PTO, came back and gave his notice. He left the company, and S., who is the manager of my manager R., approved that. But didn't approve vacation I earned.
+        - "Deadlines" point is bullshit by itself, because the same manager who didn't approve the use of vacation I earned got himself one month of PTO and left the organization right after that.
+        - Lesson learned: your employment termination will happen at the time you're the most vulnerable, when you or your loved one is between surgeries, fighting cancer, you ran out of money, and have nobody to ask for help.
+        - Atlassian introduced lots of levels of uncertainty and complications to our treatment, Atlassian the worst employer ever, because they're unpredictable. You never know what to expect.
+        - Be sure that Atlassian top management is well aware of everything mentioned here. They people ops, top management knew all of that well in advance. They had opportunity to establish a healthy dialog. I put a lot of effort into explaining what's going on. I asked for their understanding, empathy, and compassion multiple times, in multiple meetings.
+    - [[Takeaways]] to be insert into [[Permanent Notes]]
+        - Unlimited [[Paid Time Off]] is worse than capped [[Paid Time Off]] because employers need to pay for the unused [[Paid Time Off]] to the employees.
+        - Be absolutely clear in compensation, in written form.
+        - [[Fairness]] is a must in leading a team.
+        - [[Favoritism]] is toxic.
+        - Be predictable is what employees are looking for.
+    - Further [[🤔 Questions]] to think about
+- 15:00 - 15:30 [[Interview]] for [[[[Backend]] [[software engineer]]]]
+    - Ref: Sample questions for [[[[Backend]] [[software engineer]]]]
+    - Notes
+- #[[Quick Capture]]

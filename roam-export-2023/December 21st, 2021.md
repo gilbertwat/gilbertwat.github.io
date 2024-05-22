@@ -1,0 +1,23 @@
+- #[[sleep]]
+    - Quality: mama day as I played computers before [[sleep]]
+    - Hrs 6
+- 09:00 Read Email
+- 10:00 Write [[[[GOGOEnergy]] 2022 Tech Plan]]
+- 12:00 [[Meditation]] with a group
+    - Deep breathing 4-6
+        - Still very defensive
+    - Deep Inhale - Hold - Exhale 2-1-4
+        - Total fatigue on shoulder
+    - Mindfulness exercise to the beach
+        - Deep [[sleep]] immediately
+- 14:00 Chat with [[Franco Solis]]
+- 15:15 Chat with [[Joseph Cheng]] [[GOGOEnergy]]
+    - Tech vendor problem
+        - Actually the budget of time and money is not enough for our group of friends
+            - Solution: find non HK vendors
+    - [[[[Preface]] Coding]] challenges
+        - Non tech, not sure how to get buy-ins
+    - [[GOGOX]] current situation
+        - Shared my side of the stories
+        - Even leadership team is demotivated.
+- Plan [[December 22nd, 2021]]

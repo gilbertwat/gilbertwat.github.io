@@ -1,0 +1,40 @@
+- Retrospective of [[2021]] Week 32
+    - What went well?
+        - #[[health]]
+            - [[💦 Workout]] is quite on the momentum.
+            - [[sleep]] quality is better after [[Hot-cold alternate bath]]
+            - [[Drink]] less [[Milk Tea]] and [[soft drink]]s to reduce sugar input
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - Discovered [[Jordan B. Peterson]]
+        - #[[Family]]
+            - Talked with [[姑姐]]
+        - #[[🛠️ Work]]
+            - [[meme]] production is getting better and better.
+    - What went wrong?
+        - #[[health]]
+            - [[sleep]] is not enough in Monday and Tuesday
+            - [[Lower back spasm]] is not enough addressed
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[read]]ing is not always before [[sleep]]
+        - #[[Family]]
+            - [[Mum]] is very nervous when organizing for dinner at [[August 18th, 2021]]
+        - #[[🛠️ Work]]
+            - [[Engagement]] to [[🛠️ Work]] is decreased dramatically
+            - [[Chris Tsang]] resigned from [[Ergon]]
+            - [[Distraction]] is heavy when [[coding]] because I am very into [[Jordan B. Peterson]]'s Biblical lecture
+    - What can be improved?
+        - #[[health]]
+            - [[sleep]] at 12am sharp
+            - No [[social media scrolling]] 22:00 - 18:00
+            - Continue [[Hot-cold alternate bath]]
+            - Continue and focus more in [[💦 Workout]]
+            - Continue drinking more [[water]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - [[read]] consistently
+            - limit [[Facebook]] [[Twitter]] [[Lihkg]] [[RED App]] scrolling in 45 min.
+            - [[Diary]] daily
+        - #[[Family]]
+        - #[[🛠️ Work]]
+            - Keep producing [[meme]]
+            - Keep improving coding efficiency
+            - Make [[🎯 Major [[decision]]]] on joining [[Preface Coding]] or not

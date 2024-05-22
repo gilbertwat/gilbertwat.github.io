@@ -1,0 +1,23 @@
+- 09:30
+    - [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+        - {{[[DONE]]}}  Migrate `login` to the shared folder. 👏🏼 finished on [[March 13th, 2023]]
+            - {{[[DONE]]}}  Really formulate the steps to migrate the UI components 👏🏼 finished on [[February 24th, 2023]]
+                - {{[[DONE]]}}  Ultimately really need to choose a UI Kit to merge the look and feel mobile and web 👏🏼 finished on [[February 24th, 2023]]
+                    - I choose [Tamagui](https://tamagui.dev/docs/intro/introduction) to test out 
+                        - [Media Query](https://tamagui.dev/docs/core/configuration#setup-media-query-driver)
+                        - Replace `@mui/system` and `@mui/core` with the library we have chosen
+                        - 
+- 11:00
+    - Help [[Theodore]] to nap
+- 11:30
+    - Continue [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- 12:30
+    - Lunch
+- 13:08
+    - Continue [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- 14:30
+    - Grocery
+- 15:30
+    - Continue [[[[Preface]] [[project]]: Build apps with the same codebase of customer portal]]
+- [[gratitude dairy]]
+    - Able to focus on the project and have the clear mind to pivot as my ideal solution doesn't fit the current team.

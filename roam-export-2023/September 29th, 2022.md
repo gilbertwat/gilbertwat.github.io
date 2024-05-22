@@ -1,0 +1,87 @@
+- [[[[2022]] Week 39]] [[goals]]
+    - [[[[2022]] Week 38]] [[goals]] Carry over
+        - {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+    - {{[[DONE]]}} Ability to receive email for preface.ai #shipped Finished at 08:08 [[September 29th, 2022]]
+    - {{[[DONE]]}}  #decided how to proceed with nomad payment Finished at 09:44 [[September 28th, 2022]]
+        - Related to {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+        - Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]]
+        - [[Vegas Ho]] and [[Ellen Lau]] agree on the Sort out the next step for [[[[Preface]] nomad payment enhancement]] with [[Anna Yu]] [[Ben Cheng]] and [[Moses Ngan]] solution to delay to [[[[2023]] Q1]]
+        - {{[[DONE]]}}  Reply the decision to [[Vegas Ho]] Finished at 09:55 [[September 28th, 2022]]
+    - Share [[[[Preface]] [[product]]: Customer Portal]] MVP scope on [[All Hands [[meetings]]]]
+        - Delayed to [[October 12th, 2022]] [[[[2022]] Week 41]]
+    - 
+    - 
+    - {{[[DONE]]}}  #written 5E Evaluation for https://docs.google.com/presentation/d/1vqwyOYLifx0MkqlmpnhBRZKrU19XZdIZTmX8ShYHF6E/edit#slide=id.g1360d0d603c_0_1 Finished
+        - {{[[DONE]]}} #written [[Alexander Li]] Finished
+        - {{[[DONE]]}}  #written [[Ehsan Ayaz]] Finished
+        - {{[[DONE]]}}  #written [[Anna Yu]] Finished
+        - {{[[DONE]]}}  #written [[Cheryl Lai]] Finished 
+        - {{[[DONE]]}} #written [[Ben Cheng]] Finished
+        - {{[[DONE]]}}  #written [[Moses Ngan]] Finished
+        - {{[[DONE]]}}  #written [[Jeffy Fung]] Finished
+        - {{[[DONE]]}}  #written [[Yoon Kim]] Finished
+        - {{[[DONE]]}}  #written [[Ken Chow]] Finished at 14:00 
+    - {{[[DONE]]}} Complete UX with [[Gemmy Wong]] on [[[[Preface]] [[product]]: Customer Portal]] Phase 1 Finished at 14:42 [[October 3rd, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - OK not bad
+- 08:00
+    - Working on {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+- 12:00
+    - Lunch
+- 14:00
+    - Nap
+- 15:00
+    - Conintue working on {{[[DONE]]}}  [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]] #written Finished at 18:29 [[September 29th, 2022]]
+- 17:30
+    - {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes Finished at 17:43 
+- 19:00
+    - {{[[DONE]]}}  Read [[Bible]] to [[Theodore]] Finished at 19:43 
+- 21:00
+    - {{[[DONE]]}}  #read https://twitter.com/OnlyCFO/status/1575097649077710848?s=20&t=8S4q6OPMnk694sgMMtzsjg Finished at 21:34 
+        - [[Literature Notes]]
+            - [[investment]] should based on the [[Leadership]] team of the [[company]].
+            - A function of [[Leadership]] team is the driver of culture.
+            - A function of [[Leadership]] team is the driver of innovation.
+            - A function of [[Leadership]] team is the drivers of vision.
+            - [[investment]] should based on the [[moat]] of the [[company]].
+            - All [[moat]] of a [[business]] is temporary.
+            - The function of a [[management]] is to widen the moat.
+            - [[moat]] can be the [[product]].
+            - [[moat]] can be the high switching costs.
+            - [[moat]] can be the network effects.
+            - [[moat]] can be the [[brand]].
+            - [[moat]] can be the pricing & cost power.
+            - [[investment]] should based on the [[leverage at scale]] of the [[company]].
+            - [[leverage at scale]] means reduce [[cost]] as the percentage of [[revenue]] at scale.
+            - [[leverage at scale]] means [[operating expenses]] should decrease at scale.
+            - [[investment]] should based on the [[[[investment]] return potential]] of the [[company]].
+            - [[[[investment]] return potential]] based on current [[valuation]].
+            - [[[[investment]] return potential]] based on belief in vision and opportunity.
+            - [[[[investment]] return potential]] based on [[TAM]], [[SAM]], [[SOM]] and [[market]] expansion potential.
+            - [[TAM]] is total addressable market.
+            - [[SAM]] is Serviceable Available Market.
+            - [[SOM]] is Serviceable Obtainable Market.
+- 22:00
+    - {{[[DONE]]}}  #read https://twitter.com/claire_designs/status/1575292160789819392?s=20&t=tJS9E4of5vWaHcgZQ0S06A Finished at 22:04 
+        - [[Literature Notes]]
+            - One of the [[CTO]] contribution to [[valuation]] is saving [[cost of goods sold]].
+            - Saving [[cost of goods sold]] can be saving [[cost]] in [[cloud infrastructure]].
+            - Saving [[cost]] in [[cloud infrastructure]] can be using contractual types of [[cloud provider]].
+            - Reserved instances is a contractual types of [[cloud provider]] to save [[cost]]
+            - Saving Plans is a contractual types of [[cloud provider]] to save [[cost]]
+            - Enterprise Agreements is a contractual types of [[cloud provider]] to save [[cost]].
+            - Partner reseller of a [[cloud provider]] can be very helpful in reducing [[cloud infrastructure]] cost.
+            - Consultant with aligned incentives of a [[cloud provider]] can be very helpful in reducing [[cloud infrastructure]] cost.
+            - SaaS tools can be very helpful in reducing [[cloud infrastructure]] cost.
+- 22:10
+    - {{[[DONE]]}} Add 1-3 [[Permanent Notes]] from [[April 21st, 2022]] Finished at 22:16 
+- 22:30
+    - {{[[DONE]]}}  Read [[Bible]] for 10 minutes Finished at 22:42 
+- [[day end evaluation]]
+    - #Energy
+        - Quite good but a bit tired physically
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - ~2 hours

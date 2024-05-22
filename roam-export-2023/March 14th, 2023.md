@@ -1,0 +1,40 @@
+- 08:30
+    - Leadership meeting
+- 10:00
+    - Weekly team meeting
+- Think [[[[Preface]] [[project]]: Techbites MVP]] demo hacking as a lead generation tools
+    - Send summary feature can be a email collection tools.
+- 14:30
+    - [[1:1]] [[Alex Li]]
+        - Lose confidence in bring the business online
+        - Not much guidance in technical stuff
+- 16:30
+    - [[1:1]] [[Ben Cheng]]
+        - Q1 Review
+            - great success speed has greatly increase
+        - Q2
+            - Discussion of [[Preface]] [[culture]]
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2FD0QyJaynLu.png?alt=media&token=82798aba-98f9-4408-b887-d1febc238390)
+                - Be Autonomous
+                    - Win & Learn Together
+                        - Celebrate small wins
+                        - Be transparent
+                        - Dare to take risks
+                        - No Small Things
+                        - Fearless to share
+                    - Solve customers' problems
+                        - Fast feedback loop
+                        - domain expert
+                        - grow with company
+                        - problem driven mindset
+                    - No Junior anymore
+                        - T-shape engineer
+                        - problem solving
+                        - embrace unknown
+            - Role switch if the team is autonomous
+                - More experimental
+                    - Can potentially be product-led growth
+- 18:30
+    - [[[[Preface]] [[project]]: Website Revamp 2023]] sync up with [[Yuki Law]]
+        - Not much progress now.
+        - 

@@ -1,0 +1,33 @@
+- When I join
+    - Low morale of tech team
+    - Loss of direction of tech team
+    - Inter-personal conflict
+    - Not much guidance on technical skills
+- In the end of year
+    - [[[[Preface]] tech team prioritization framework]]
+    - [[[[Preface]] [[[[2022]] Q1]] [[OKR]]s]]
+    - [[[[Preface]] [[[[2022]] Q2]] [[OKR]]s]]
+    - [[[[Preface]] [[[[2022]] Q3]] [[OKR]]s]]
+    - [[[[Preface]] [[[[2022]] Q4]] [[OKR]]s]]
+    - [[2022 Tech Plan [[Preface]]: High level]]
+    - [[[[Preface]] Tech roadmap [[[[2022]] Q2]]]]
+    - [[[[Preface]] tech strategy 2022-2023]]
+    - Delivered
+        - [[[[Preface]] [[data warehouse]]]]
+        - [[[[Preface]] tag-based courses [[recommender]] system]]
+        - [[[[Preface]] Seamless Buy Link]]
+        - [[[[Preface]] [[product]]: Customer Portal]]
+    - Upgraded
+        - [[[[Preface]] blog]]
+        - [[[[Preface]] [[product]]: website]]
+        - [[[[Preface]] project [[recommender]] in 1 on 1 courses]]
+        - A lot of efficiency dashboard for community, nomad and sales & marketing on B2C side
+        - Reports on data studio and metabase
+        - Business Health reporting on B2C
+    - Failed to delivered
+        - [[[[Preface]] [[product]]: Coffee App]]
+        - [[[[Preface]] [[NFT]]]]
+- References:
+    - {{[[ARCHIVED]]}}  #to-write [[[[Ehsan Ayaz]] [[post mortem]]]]
+    - https://twitter.com/GergelyOrosz/status/1602312952526344192?s=20&t=WttRE0QvM1i8KfbD0OIkXw
+    - 

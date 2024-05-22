@@ -1,0 +1,218 @@
+- [[[[2022]] Week 41]] #goals
+    - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+        - {{[[DONE]]}}  Choose photo to print Finished at 23:13 
+        - {{[[DONE]]}}  Print photo Finished at 13:58 [[October 16th, 2022]]
+    - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+    - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+    - {{[[DONE]]}}  [[Anna Yu]] SG trip prep Finished at 16:01 [[October 14th, 2022]]
+        - {{[[DONE]]}}  #shared with [[Anna Yu]] for B2B sales https://www.sofuckingagile.com/blog/i-listened-to-1000-b2b-saas-sales-calls [[October 10th, 2022]] Finished at 21:25 [[October 10th, 2022]]
+    - [[post mortem]] [[Ehsan Ayaz]] Finished at 12:31 [[October 13th, 2022]]
+        - [[Ehsan Ayaz]] may stay so we will wait
+    - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+    - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+        - {{[[DONE]]}}  [[[[[[Preface]] [[product]]: Coffee App]] onboarding dev documents]] Finished at 10:35 [[October 24th, 2022]]
+        - {{[[DONE]]}}  1 Akash Finished at 10:35 [[October 21st, 2022]]
+        - {{[[DONE]]}}  2  Finished at 10:35 [[October 21st, 2022]]
+        - {{[[DONE]]}}  3 Finished at 10:35 [[October 21st, 2022]]
+    - {{[[DONE]]}} #spoken on the [[[[Preface]] [[product]]: Customer Portal]] [[product]] process and include the company to suggest features by [[Anna Yu]] Finished at 18:00 [[October 12th, 2022]]
+    - Carry over:
+        - {{[[DONE]]}} Improve [[Preface data strategy from 2022 Q4 onwards]] to include new insight in here. by [[September 16th, 2022]] -> [[September 23rd, 2022]] -> [[October 14th, 2022]] #written Finished at 10:51 [[October 17th, 2022]]
+- [[day start]]
+    - [[Energy]]
+        - Exhausted still as [[Theodore]] is unable to [[sleep]] in 3-5am and [[Wifey]] is dealing with him.
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Brand message of [[[[Preface]] Coffee & Wine]] currently?
+        - Habit building for [[[[Preface]] Coffee & Wine]]?
+            - What is the same for [[[[Preface]] [[product]]: Customer Portal]]?
+                - Why are people checking our [[[[Preface]] [[product]]: Customer Portal]] daily / weekly / periodically ?
+                    - Upcoming happening
+                    - Notes
+                    - Review
+                    - Techbites
+        - Content strategy
+            - Knowledge point
+            - iterative curation
+            - ComExcellence for first draft
+            - Content team for depth
+            - Product mindset
+            - 
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+- 11:30
+    - [[weekly meeting on [[Preface]] research on AI]] -> [[[[Preface]] Data/AI weekly meeting]]
+- 12:00
+    - Convoy fund management
+- 14:00
+    - Follow up on Scheduling discussion with [[Ben Cheng]] [[Anna Yu]] [[Hema Shah]] with [[Anna Yu]] [[Hema Shah]] [[Ben Cheng]]
+        - Hard constraints we need to deal with
+            - On nomad timeslots
+                - Impossible for nomads to commit for schedules far from today (realistically they cannot confirm their schedules yet)
+                    - explore non-digital solutions by other teams e.g. full-time nomads
+                - Availabilities of nomads specific for students (nomads willing to take the class for only certain students
+            - Customer portal should be able to support an internal workflow which is better and more inconvenient for teammates to use than excel spreadsheets or other tools
+        - Out of scope 
+            - Some specific clients request for nomad profiles before they are willing to pay
+                - will not cater to this group yet due to the unknown size of issue / impact
+        - Confirm our focus on 1 on 1 and bootcamp
+            - Rationales
+                - Growth strategy we are using now is through referral and organized
+                - High retention is key to increase [[ARR]]
+                - More knowledge from the team about these two class types
+            - 1 on 1 Scheduling scope should focus on:
+                - First scheduling experience (new customers)
+                - Optimization of the Nth-session scheduling (recurring customers)
+                - Should also cater to customers' preferences including: (A) "Preferred" / Favourite nomad (B) Preference on substitute nomad (if first choice nomad is not available)
+            - Bootcamp Scheduling scope:
+                - Focus on user-friendly display and purchase of available camps
+                - Support rescheduling of whole bootcamp
+                - Support rescheduling of individual make-up class (current restrictions quite relaxed, not required under curriculum structure to first complete missed class before the next session)
+                - To be discussed in more detail in the next session
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 15:00
+    - Interview with [[Akash]]
+        - Pros:
+            - Very community driven kinda guy
+            - Will be a long term employee as what he plans to do is a master degree in Hong Kong.
+            - 
+        - Cons:
+            - Very junior
+            - Need a lot of guidance
+        - 
+- 16:30
+    - [[Cheryl Lai]] [[1:1]]
+        - Last meeting: [[1:1]] [[Cheryl Lai]]
+        - Recurring topic for [[Cheryl Lai]]
+            - Hobbies of [[Cheryl Lai]]
+            - Last week dim?
+        - What is your top of your mind since our last 1:1?
+            - Doing tasks using her own way
+            - express her comments on the UI/UX
+                - Guide her to add one more step by coming with suggestion
+        - What is my top of my mind since our last 1:1?
+- 17:00
+    - [[Jeffy Fung]] [[1:1]]
+        - Last meeting: [[1:1]] [[Jeffy Fung]]
+            - Hobbies of [[Jeffy Fung]]
+            - Last week dim?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?
+- [[day end evaluation]]
+    - #Energy
+        - 
+    - [[Theodore]] growth milestone
+        - 
+    - #metric
+        - IG + Facebook + lihkg + Twitter + Linkedin scrolling time
+            - 

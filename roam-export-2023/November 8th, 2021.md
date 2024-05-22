@@ -1,0 +1,4 @@
+- [[🤔 Questions]]
+    - What is non-obvious problems every my audiences has?
+    - What is my audience?
+- [[Replan my life [[2022]] onward]]

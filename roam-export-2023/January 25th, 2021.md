@@ -1,0 +1,15 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - not [[sleep]]ing well
+- Start the day **strong**!
+- [[Ergon]] sync up x 1 hour
+- {{[[DONE]]}}  [[Ergon]] Timesheet from [[December 23rd, 2020]] to [[January 22nd, 2021]]
+    - Total: 11 hours
+- {{[[DONE]]}} [[1:1]] with [[Matthew Ng]]
+    - Teeth bracing
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

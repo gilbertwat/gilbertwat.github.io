@@ -1,0 +1,3 @@
+- Worked on Fixing bug
+- ChatGPT program support
+- New Project [[[[Preface]] [[project]]: A.I. Coffee 2.0]]

@@ -1,0 +1,2 @@
+- Some interesting traditions:
+    - Buying toilet roll for [[House warming]] to wish dwellers well.

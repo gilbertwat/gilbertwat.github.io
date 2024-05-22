@@ -1,0 +1,14 @@
+- 10:00 [[1:1]] with [[Young]]
+    - Questions: Why we need to do an extra calls for senior software engineer but not senior iOS engineer?
+    - Questions: I saw we are hiring Head of engineering in Vietnam, If I want to be promoted to Head of Engineering in HK, what should I be doing?
+    - [[🎯 Major [[decision]]]] to quit [[GOGOX]] or not
+        - So I am practically demoted to engineering manager of 1 team of one.
+        - There will be a head of engineering in new Initiative that manages me.
+        - #[[🧘🏻‍♂️ Self Awareness]] and #emotions is I have been cheated
+            - I am expecting to lead the new initiatives and promoted to be a head of engineering.
+            - Although we are not achieving something yet I think we are going to the right direction, slowly.
+            - and now there is a guy with "experience" which I doubt very much.
+                - #rant What kind of experience about innovation this unknown fellows have?
+                    - What kind of innovation experience I have? 
+                        - 99.9% SLA? Project Unite? Solution Documents?
+            - 

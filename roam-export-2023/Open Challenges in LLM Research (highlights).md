@@ -1,0 +1,18 @@
+- Author:: [[Chip Huyen]]
+- Full Title:: Open Challenges in LLM Research
+- Category:: #articles
+- URL:: https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
+- ![](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_343371/10-open-challenges-llm-research.png)
+- ### Highlights first synced by #Readwise [[August 17th, 2023]]
+    - Mitigating hallucination and developing metrics to measure hallucination is a blossoming research topic, and I’ve seen many startups focus on this problem. ([View Highlight](https://read.readwise.io/read/01h81erk54je6n6e3dhr60wt9b))
+    - ![Context needed for a customer support query](https://huyenchip.com/assets/pics/llm-research/2-context.png) ([View Highlight](https://read.readwise.io/read/01h81er20f1s2n524jpygjct8k))
+    - First, there are many use cases where multimodal data is required, ([View Highlight](https://read.readwise.io/read/01h81esbmz3swght2xgtnn7rbg))
+    - Quantization ([View Highlight](https://read.readwise.io/read/01h81ev1tagch1ctm5zdh3p0nr))
+    - Knowledge distillation ([View Highlight](https://read.readwise.io/read/01h81ev6e9e1jxy31eyrd17cjg))
+    - Low-rank factorization ([View Highlight](https://read.readwise.io/read/01h81ev978yde3w9gztfs5nx25))
+    - Pruning ([View Highlight](https://read.readwise.io/read/01h81evb7w5pym3e2csa9z7xxj))
+    - Despite the excitement, there is still doubt about whether LLMs are reliable and performant enough to be entrusted with the power to act. ([View Highlight](https://read.readwise.io/read/01h81exbrj20k7addza6acc13h))
+    - How to mathematically represent human preference? ([View Highlight](https://read.readwise.io/read/01h81eytrjk5byjz79rqy1wb3x))
+    - What’s human preference? ([View Highlight](https://read.readwise.io/read/01h81eyy5cwhgrcmph5a3hd5e2))
+    - **Whose preference is “human” preference, taking into account the differences in cultures, religions, political leanings, etc.?** ([View Highlight](https://read.readwise.io/read/01h81ez1ywxawvcvsjhfqypfvk))
+    - We know that current English-first LLMs don’t work well for many other languages, both in terms of performance, latency, and speed. ([View Highlight](https://read.readwise.io/read/01h81f04m3gz0ezmqrp65p6hh3))

@@ -1,0 +1,4 @@
+- import
+    - calendars
+    - format
+        - {summary} ({start:hh:mm a} - {end:hh:mm a}){confLink}

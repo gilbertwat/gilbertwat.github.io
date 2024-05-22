@@ -1,0 +1,15 @@
+- #[[sleep]]
+    - Quality: good, wake up once to pee at 0700
+    - Hrs: 0100 - 1000 9 hours
+- [[decided]] to deep dive into [[urbit]] #software
+    - git clone the source code from [github](https://github.com/urbit/urbit)
+    - install [[nix]] and learn about nix in [nix menu](https://nixos.org/manual/nix/unstable/command-ref/nix-env.html)
+        - blocked by the scandir test cannot be run in m1 chips
+            - `ERROR: test_dir_entry (test_scandir.TestScandirPython)`
+        - Switched to digitalocean
+            - Killed the old droplet as I want a clean environment
+            - blocked by mapping memory
+                - `boot: mapping 2048MB failed`
+- #[[Quick Capture]]
+    - https://twitter.com/mar15sa/status/1475251302569447426?s=21
+    - https://twitter.com/simonsinek/status/1475440076188491779?s=21

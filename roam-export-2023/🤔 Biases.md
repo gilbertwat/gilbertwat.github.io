@@ -1,0 +1,193 @@
+- # Biases is neither good nor bad. It is just human nature.
+- Decision-making, belief and hebavioral biases
+    - Agent detection
+    - Ambiguity effect
+    - Anchoring
+    - Anthropocentric thinking
+    - Personification
+    - Attentional bias
+    - Attribute substitution
+    - Automation bias
+    - Availability heuristic
+    - Availability cascade
+    - Backfire effect
+    - Bandwagon effect
+    - Base rate fallacy
+    - Belief bias
+    - Ben Franklin effect
+    - Berkson's paradox
+    - Bias blind spot
+    - Choice-supportive bias
+    - Clustering illusion
+    - Compassion fade
+    - Confirmation bias
+    - Conjunction fallacy
+    - Conservatism
+    - Continued influence effect
+    - Contrast effect
+    - Courtesy bias
+    - Curse of knowledge
+    - Declinism
+    - Decoy effect
+    - Default effect
+    - Denomination effect
+    - Disposition effect
+    - Distinction bias
+    - Dread aversion
+    - Dunning-Kruger effect
+    - Duration neglect
+    - Empathy gap
+    - End-of-history illusion
+    - Endowment effect
+    - Exaggerated expectation
+    - Expectation bias
+    - Focusing effect
+    - Forer effect
+    - Form function attribution bias
+    - Framing effect
+    - Frequency illusion
+    - Function fixedness
+    - Gambler's fallacy
+    - Gender bias
+    - Groupthink
+    - Hard-easy effect
+    - Hindsight bias
+    - Hostile attribution bias
+    - Hot-hand fallacy
+    - Hyperbolic discounting
+    - IKEA effect
+    - Illicit transference
+    - illusion of control
+    - illusion of validity
+    - illusory correlation
+    - illusory truth effect
+    - Impact bias
+    - Implicit association
+    - Information bias
+    - Insensitivity to sample size
+    - Interoceptive bias
+    - Irration escalation / sunk cost fallacy
+    - Law of the intrument
+    - Less-is-better
+    - Look-elsewhere
+    - Loss aversion
+    - Mere exposure effect
+    - Money illusion
+    - Moral credential effect
+    - Negativity bias
+    - Neglect of probability
+    - Normalcy bias
+    - Observer-expectancy effect
+    - Omission bias
+    - Optimism bias
+    - Ostrich effect
+    - Outcome bias
+    - Overconfidence effect
+    - Pareidolia
+    - Pygmalion effect
+    - Pessimism bias
+    - Plan contiunation bias
+    - Planning fallacy
+    - Present bias
+    - Plant blindness
+    - Pro-innovation bias
+    - Projection bias
+    - Proportionality bias
+    - Pseudocernatinty
+    - Reactive devaluation
+    - Recency illusion
+    - Restraint bias
+    - Systematic bias
+    - Rhyme as reason effect
+    - Risk compensation
+    - Salience bias
+    - Selection bias
+    - Selective Perception
+    - Sexual over/perception bias
+    - Social comparison bias
+    - Social desirability bias
+    - Status quo bias
+    - Stereo typing
+    - Subadditivity effect
+    - Time-saving bias
+    - Third-person effect
+    - Parkinson's law of triviality
+    - Unit bias
+    - Weber-Fechner law
+    - Well travelled road effect
+    - Women are wonderful effect
+    - Zero-risk bias
+    - Zero-sum bias
+- Social biases
+    - Actor-observer bias
+    - Authority bias
+    - Cheerleader effect
+    - Defensive attribution hypothesis
+    - Egocentric bias
+    - Extrinsic incentives bias
+    - False consensus effect
+    - False uniqueness bias
+    - Fundamental attribution error
+    - Group attribution error
+    - Halo effect
+    - Illusion of asymmetric insight
+    - Illusion of external agency
+    - Illusion of transparency
+    - Illusory superiority
+    - Ingroup bias
+    - Intentionality bias
+    - Just-world hypothesis
+    - Moral luck
+    - Naive cynicism
+    - Naive realism
+    - Outgroup homogeneity bias
+    - Puritanical bias
+    - Self-serving bias
+    - Shared information bias
+    - System justification
+    - Trait ascription bias
+    - Ultimate attribution error
+    - Worse-than-average effect
+- Memory errors and biases
+    - Bizarreness effect
+    - Conservatiam / Regressive bias
+    - Consistency bias
+    - Context effect
+    - Cross-race effect
+    - Cryptomnesia
+    - Egocentric bias
+    - Fading affect bias
+    - False memory
+    - Generation effect
+    - Google effect
+    - Humor effect
+    - Lag effect
+    - Leveling and sharpening
+    - Levels-of-processing effect
+    - List-length effect
+    - Misinformation effect
+    - Modality effect
+    - Mood-congruent memory bias
+    - Next-in-line effect
+    - Part-list cueing effect
+    - Peak-end rule
+    - Picture superiority effect
+    - Positivity effect
+    - Serial position effect
+    - Processing difficulty effect
+    - Reminiscence bump
+    - Self-relevance effect
+    - Source confusion
+    - Spacing effect
+    - Spotlight effect
+    - Stereotypical bias
+    - Suffic effect
+    - Suggestibility
+    - Tachypsychia
+    - Telescoping effect
+    - Testing effect
+    - Tipof the tongue
+    - Travis Syndrome
+    - Verbatim effect
+    - von Restorff effect
+    - Zeigarnik effect

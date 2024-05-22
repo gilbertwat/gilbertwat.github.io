@@ -1,0 +1,4 @@
+- Port my personal website to a newer stack
+    - Checkout [11ty](https://www.11ty.dev/)
+    - Checkout [Bridgetown](https://www.bridgetownrb.com/)
+- 🌕 Mid Autumn Festival

@@ -1,0 +1,8 @@
+- What went well? 😄
+    - Very busy but productive week, working on [[Ergon]] and [[GOGOX]]
+- What went wrong? 😞
+    - Current affair is affecting my [[peace of mind]] and rollback some of my [[Fixing my burnout]] effort
+    - Doomscroll after some uncontrollable current affairs (All social media banned Donald Trump, triggering a lot of distrust and chaos from the me on the future of software technology)
+- What can I improve? 💪🏻
+    - Focus on the actionable information.
+    - Focus on 1 thing to move the needle every meetings / decisions / project session.

@@ -1,0 +1,1 @@
+- A [[strong team]] focus on results.

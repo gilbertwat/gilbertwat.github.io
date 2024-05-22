@@ -1,0 +1,98 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- {{[[DONE]]}}   [[1:1]] with [[Young]]
+    - November TW Team onboarding
+    - [[Roger Ho]]
+        - Within this year (est).
+        - approach HR for more details
+    - Join with operation need to quite current team
+- {{[[DONE]]}} [[[[GOGOX]] Driver Experience Theme]] [[[[2020]] Q4]] [[planning]] discussion
+    - Q3
+        - TW Delivery box
+            - Scope change 
+        - TW verify driver doc
+        - AR 2.0
+        - Driving mode
+        - Radius Filter
+            - 90%
+        - SG iteration
+            - dependency
+            - pricing experiments
+        - IET no person
+        - [[Victor Lam]] bao factory
+        - A lot of business process inefficiency
+        - Refactoring of App OK 
+        - Android not so stable
+            - Performance / UX UI
+        - legacy code refactoring done a bit on feature delivery
+        - 85/100
+    - Q4
+        - Outcome KPI as OKRs
+        - Driver rating
+            - Problem: More care about driver rating
+            - DEsign sprint????
+        - Driver Subscription (More like Payment)
+            - depends on Founders
+            - must charge
+            - driving mode behind paywall
+            - PM fit outscope
+            - feedback mechanism
+        - Customerized surcharge
+        - AR2.0 SG
+            - decimal place
+        - pricing revamp
+        - Knowledge map
+            - Location updar\te\\
+            - dispatch window
+        - Holiday rollover 
+        - Velocity calculation
+        - AUtomation tests
+        - MObile Design system
+        - Tighter Estimation feedback loop
+        - Area 災情 estimation
+            - Platform
+            - iOS
+            - Android
+        - DA order list refactoring
+- {{[[DONE]]}} [[[[1:1]] with [[Matthew Ng]]]]
+    - How do you feel recently?
+        - Stable
+    - How is your {personal project / family }?
+    - How is your theme / project?
+        - DT grooming ✅
+        - BET task assign by [[Rob Dong]]
+            - participate in grooming faster than in DT
+            - GGV VN bulk orders can reference from GGD bulk orders.
+        - Difficulties++
+            - Outcome almost the same
+            - Approach is different
+            - More complex data structure and interaction of UI / data model
+            - Feature flag
+            - Retrofit feature flag because of accident
+                - Learn to use git advanced feature (revert / cherry-pick)
+    - How is your function?
+        - Onboard [[Mohammad Ahmad]]
+            - Proactive to present
+    - #CircleBack topics
+        - Grooming participation to take some more planning from [[Rob Dong]]
+- {{{[[DONE]]}}}}  [[[[1:1]] with [[Karl Tai]]]]
+    - How do you feel recently?
+        - Nothing special
+    - How is your {personal project / family}?
+        - Nothing special
+    - How is your theme / project?
+        - Refactoring DA Order
+            - Know what is the goal but slow
+            - Legacy code has to be reorganize
+            - A lot of thinking 
+            - [[Keith Chan]] has given direction
+            - Detailed implementation figure out by [[Karl Tai]]
+            - Sync up by PR.
+        - Bugfix too not challenging, now better
+    - #CircleBack topics
+        - Sync up more with [[Keith Chan]] on DA order list refactoring
+- How do you feel when you wind down?
+    - {{slider}}

@@ -1,0 +1,5 @@
+- [[finance]] [[risk]]s exposed
+    - Currency risk
+        - HKD heavy
+        - ourworldindata
+            - 

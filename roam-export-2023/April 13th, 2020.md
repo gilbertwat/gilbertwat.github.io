@@ -1,0 +1,6 @@
+- [[books]] [[[[books]]: Disunited Nations]]
+    - USA no goals
+    - Drone + Mortar = Cruise Missile
+    - Theater affairs Disconnect from local politics
+    - Trump alienate a lot of allies
+    - Global Business Leader != American Populace

@@ -1,0 +1,49 @@
+- 11:17
+    - {{[[DONE]]}} [Attend writing course](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/learn/lecture/4395688#content) #writings Finish on [[January 1st, 2023]]
+        - Sentences (continue.)
+            - Structure to create rhythm
+                - Subject in the start of, middle of and the end of
+                - Backing in
+                    - Not only will, ... I will
+                    - Even though, .... I rather.
+                - Forward
+                    - I will....., not only
+                    - I rather.... even though.
+            - Poetic structure
+                - Rhythm and tone
+            - Whip up Drama
+                - strongly emotion verb in the writing
+                - Bring the drama in the forefront
+                - Reduce the information to strictly neccessary
+                - Switch the subject to a more spicy one
+                - Exercise
+                    - Australia will increase diplomatic pressure on Indonesia to save the live of her two citizens as their new president JW comes to power, warning that .... . The two Australians were convicted of drug trafficking on the holiday island of Bali.
+            - Don't Give Reader Whiplash
+                - Up, down, up, down. left right left right
+                - Focus your idea to direction
+            - Stick to what is necessary
+                - No non-sense
+            - Avoid back reference
+                - Detail that get in the way of  readers. 
+            - Avoid Run-on ambiguity
+                -  Make the effort to smoothen out
+            - Tactics to unblock writer's block: Write on your grandma
+                - Explain me like I'm five.
+            - Tactics to tighten / sharpen sentence, in 1 breath readback 
+            - Read through the doc in one sitting
+            - Read the document backwards to catch typos
+            - Check the symmetry of any headings
+        - Words
+            - Choose precise words
+            - Avoid technical, abstract words
+                - Replace cold words with warm word as default
+            - Use colorful words
+                - precise and colorful
+                - look -> search -> explore -> rummage (solutions)
+                - zombie idea ->雞肋
+            - Notice Implied words
+            - Avoid pointless distinctions
+                - Depends on the audience and context
+            - Degree of orderliness
+                - categories of words
+                - Transition of categories

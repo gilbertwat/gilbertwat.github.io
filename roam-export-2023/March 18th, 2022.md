@@ -1,0 +1,35 @@
+- 09:30
+    - [[1:1]] with [[Tommie Lo]]
+        - Recap last [[1:1]]
+            - 09:30 [[1:1]] [[Tommie Lo]]
+                - []] [[virtual onboarding SoP]]
+                - {{[[DONE]]}} [[[[Preface]] Pre-Series B plan]] Finished at 11:20 [[November 17th, 2022]]
+                    - IT audit
+                    - Engineering team + AI team expansion
+                - {{[[DONE]]}}  [[[[Preface]] tech debt overview and planning]]
+                    - [[[[Preface]] Pre-Series B plan]] is depending on this
+        - Onboarding [[Ben Cheng]]
+        - Engineering
+            - Iterate the current systems
+                - Split internal portal to
+                    - Scheduling System
+                    - Curriculum System
+                    - Nomad Relationship
+                    - Student Retention
+                    - Classroom Engagement
+                - Public Website Iteration
+                - NFT / web3 projects
+            - Integration with external systems
+                - Data pipeline
+                - Content Recommender System
+            - IT audit + legal + compliance
+            - productionize machine learning models
+        - Technology
+            - Test new deep technology tools
+                - Transform into Curriculum
+                - Transform into efficiency boosting for company
+                - Look for new business opportunities
+            - Test new machine learning models
+- Tech roadmap
+- Curriculum of NFT
+- Curriculum team is not confidence enough

@@ -1,0 +1,34 @@
+- 08:30
+    - Leadership meeting [[Preface]]
+        - Meta engagement
+        - Project management issues
+        - Company dashboard to take
+- 10:15
+    - {{[[DONE]]}} [[->]] [[Anna Yu]] to help communicate with 101domains {{[[∆]]}}
+        - Resolved
+            -  Write [[[[Preface]] [[post mortem]] 2]]
+- 13:00 - 16:00 Compulsory testing and brainstorming
+    - [[Ellen Lau]] on data reliability
+        - {{[[DONE]]}} [[Preface]] Why Cancelling schedule is now through ticketing system.?
+            - **Last min cancellation of class (within 2 hours before class) - Insufficient time to cancel class (by ComOps team)**
+                - from clients
+                - from nomads
+            - **2. Last min reassignment of class (by Nomad / ComOps team)**
+                - sub teacher taking over a class when a Nomad last min report sick // no show
+            - **3. Bootcamps / regular course students - data mismatch (by ComOps team)**
+                - student absent from a bootcamp (both adult / kids) > no time / no way to change the data until after class
+                - student absent from a bootcamp (both adult / kids) > no one knows until Nomad points out after class
+            - **4. Special class arrangement**
+                - Insufficient time for ComOps to communicate with tech team for special class opening (e.g. private class // bootcamp content taught with 1:1 format)
+            - **5. Students' shift of course**
+                - Insufficient time for ComOps to communicate with tech team for change of course before class starts (e.g. From Scratch Jr > Scratch)
+        - {{[[DONE]]}} Why does a QR Code after the class is not working to guarantee the attendance?
+            - ^ we tried to implement it. **But when it comes to operations, there were many hiccups**
+                - **ComOps: **Onsite support forgot to take out the QR code for teachers to scan // Too much work for them
+                - **QR code failure**
+                - **Nomad Team:** Difficult to understand the class schedule, reporting time, and whether a teacher is late
+            - So, now, we have left trial run behind
+- 16:00 - 17:30
+    - [[TC Ng]] [[Anton Kwan]] [[Carmen Yeung]] [[Anna Yu]]
+        - [[[[Preface]] [[NFT]]]] project update and alignment
+        - [[[[Preface]] blog]] reliability issues.

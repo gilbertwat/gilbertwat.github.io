@@ -1,0 +1,8 @@
+- 09:00 - 11:30 Ultra-sonic [[Baby]] [[Wifey]]
+- 11:30 - 13:30 Lunch with [[Wifey]]
+- 13:30 - 14:00 Reading
+- 14:00 - 15:00 [[Interview]]
+- 15:30 - 16:00 [[Interview]]
+- 16:00 - 17:00 [[Interview]]
+- 17:30 - 
+    - [[X [[programming principles]] you need to abandon when you are the tech leads]] prep

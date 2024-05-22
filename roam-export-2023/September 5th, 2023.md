@@ -1,0 +1,13 @@
+- [[ideas]] Headless LMS or Headless event management system
+- {{[[TODO]]}}  [[writings]] a short #learning for handling unclean data in the data warehouse #Data [[data warehouse]]
+    - So in our data warehouse we have a field `dob` that can be erroranous
+    - Also in production database we have testing data
+    - It will pollute our analysis
+    - how do we handle it in the data warehouse?
+    - New account
+- {{[[TODO]]}}  [[writings]] [[Why I have to convert to Catholicism?]]
+- {{[[TODO]]}}  [[project]] Convert to catholicism.
+- {{[[DONE]]}} [[gratitude dairy]]
+    - [[Wifey]] is very forgiving or easy to console or emotionally discharged
+    - I have to oriented myself to focus on the present and stay on course for work and family.
+        - Cell phone addiction is a avoidance to pain in my anxiety of bills in work and family.

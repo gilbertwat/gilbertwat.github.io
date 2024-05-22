@@ -1,0 +1,74 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+    - AL after 😌
+- #Notes URL https://www.shopify.com/blog/local-delivery?utm_source=exacttarget&utm_medium=email&utm_campaign=digest&utm_content=digest 
+    - [[Topics]]
+        - [[GOGOX]] [[How to write an effective how-to]]
+    - {{[[DONE]]}} [[Excerpts]]
+    - {{[[DONE]]}} Takeaways
+        - Real examples are very important.
+        - Go through the journey of your customers.
+        - Go step-by-step for newbies.
+- What is the next big things for [[GOGOX]]?
+    - Challenging questions for [[Vincent Chan]], [[Steven Lam]] and [[Kelvin Chan]]
+        - So our country business is not doing very fine, the fly-wheel is not working since I join. Did we do a blame-less retrospective company wide and share the learnings (revamp CA delay?)? How can we do better in the next pivot?
+        - How does this fly-wheels exploration align with group strategy?
+        - Do tech team align well with each countries strategy? What challenges we are facing in the country level?
+        - How do we align country ops with tech team?
+        - How are we allocating resource with Kwaigou?
+        - What is the expectation of SMT / CM on the fly-wheels design sprint?
+- [[1:1]] with [[Tom Lui]] [[[[GOGOX]] Driver Experience Theme]]
+    - Non functional "bugs"
+        - Driver feedback loop is ok
+            - Driver not always report
+            - Bypassed HK ops 😉
+        - Ops feedback loop is slow (HK only)
+            - Ops doesn't sync up with us on the driver's call.
+        - Multiple user flows 
+        - Some non core flow is not able to get tested / feedback loop
+            - E.g GOCoins Topup in Circle K
+    - [[1:1]] with [[Shamiya Patel]]
+        - on [[[[GOGOX]] Driver Experience Theme]], difficulties she has been facing
+            - [[Driver App]] is to complicated, hence testing it is difficult
+                - Country specific logic and configurations is too much for [[Shamiya Patel]] and QA team to handle
+                    - Easy to miss test cases
+                    - Documentation is missing / too much
+            - Sometimes there is no clear acceptance criteria for user stories
+                - Until she ask the questions, engineers need to clarify with [[Tom Lui]].
+                - No unified understanding in the user stories.
+            - Not able to grasp the whole scope and functionalities in [[Driver App]]. Low confidence in her work / the quality of the app. (Mentioned to [[Paul Leung]])
+                - Some knowledge in Lucien / local driver ops
+                - Lack of an overview in [[Driver App]]
+                - Mainly there is low confidence in old feature
+        - Action items:
+            - To fix [[Driver App]] is to complicated, hence testing it is difficult, 
+                - Need long term fix
+                - How can developers provide visibility on that??
+            - To fix Sometimes there is no clear acceptance criteria for user stories,
+                - [[Shamiya Patel]] will act as our last line of defense
+                - Urge developers to think through those
+            - To fix Not able to grasp the whole scope and functionalities in [[Driver App]]. Low confidence in her work / the quality of the app. (Mentioned to [[Paul Leung]]),
+                - Identify critical components or flows with [[Tom Lui]] and acknowledge the less confidence part
+    - Some of the feature should be in internal efficiency
+    - Driver ops is not responsive to our communication
+        - What is the effective communication channel?
+    - Mindset difference, scope of work of driver ops
+        - passive, reactive, public relation focus
+            - Wrong mindset in [[Tom Lui]] opinion
+    - Anti corruption layer
+    - Not staying on top of things
+        - Not professional
+    - Low morale for DET in HK
+    - Impact for each countries
+        - kinda ok for expected outcome
+        - not all features has expected outcome
+    - Action item:
+        - [[Myself]] talk with Vincent, Young and Steven possibly on driver ops
+        - [[Tom Lui]] share more driver qualitative and quantitative feedback / metrics on new features / iterations to the team
+- [[How do you feel when you wind down?]]
+    - {{slider}}

@@ -1,0 +1,267 @@
+- Author: [[Bill Hayton]]
+- Why am I reading this book?
+    - I want to affirm my believe that China is a recent construct and contribute to the discourse to delegitimize CCP and free [[🏴Hong Kong]]
+- Excerpt
+    - By robbing ‘the Chinese people’ of their agency, it avoids having to ask or answer difficult questions about how change came about.
+    - LOCATION: 121
+    - Peter Bol, professor of Chinese language at Harvard University, argues that the consistent element through the intermittent uses of the term spread over 3,000 years was not to name a particular state but to maintain a sense of cultural difference between those within the zhong guo and those outside it: the barbarians, or Yi di.
+    - LOCATION: 347
+    - Zhong guo was not intended to be the name of a country but a claim to legitimacy.
+    - LOCATION: 350
+    - The Jing/Chu heartland lay in what is now Hubei province and was associated with the Miao people,
+    - LOCATION: 380
+    - A mountain people in the southwestern Chinese province of Yunnan are known today in Chinese as the ‘Yelang’.
+    - LOCATION: 383
+    - ‘Cathay’ was reached by land, whereas ‘China’ was reached by sea, but they were, in effect, rival names for the same ‘East Asian Heartland’.
+    - LOCATION: 400
+    - But finally, on 6 September 1689, the negotiations were complete and an agreement, the Treaty of Nerchinsk, was signed.
+    - LOCATION: 455
+    - The Jesuits and Belobotski agreed the final text in Latin and each side subsequently made their own translations into Russian and into Manchu – the language of the Qing court.
+    - LOCATION: 457
+    - It does not seem to have been made public until around 200 years after the original Treaty of Nerchinsk was signed. This was a time, in the late nineteenth century, when the Qing state was again being forced to deal with Russia at the point of a gun and it had an interest in making use of the original treaty.
+    - LOCATION: 480
+    - When the Jesuits chose ‘Zhongguo’ to represent the Qing Great-State in its dealings with Russia they did far more than translate a name.
+    - LOCATION: 488
+    - He lists several others, including: Zhong hua – ‘Central florescence’; Shen zhou – ‘Spiritual region’; Jiu zhou – ‘the Nine regions’; Zhong ru – ‘Central land’; and Tian xia – ‘All under heaven’.
+    - LOCATION: 497
+    - Huang didn’t like Zhong, with its meaning of ‘centrality’. In his 1887 essay he had argued instead for the more grandiose Huaxia, a name that literally translates as ‘flourishing greatness’ but also incorporates ‘Hua’ and ‘Xia’: ancient names for the peoples he considered to be the essence of his nation.
+    - LOCATION: 555
+    - According to the Australian Sinologist John Fitzgerald, the lack of a name was, for Liang, proof of the Chinese people’s cultural and intellectual immaturity: Liang called it a conceptual error ‘lodged in every person’s brain’.
+    - LOCATION: 571
+    - Foreigners were besieged in Beijing in June 1900 and an eight-nation army was despatched to rescue them.
+    - LOCATION: 597
+    - In the Rangshu, Liu listed several possibilities based upon traditional documents. They included: Xia, Da Xia (great Xia), Zhu Xia (various Xia), Zhu Hua (various Hua) and the combination word: Huaxia
+    - LOCATION: 635
+    - Almost all his teachers had been British or American30 and, like the other members of the Xingzhonghui meeting that day in Hawaii, he spoke English and was well used to people asking him where he came from.
+    - LOCATION: 648
+    - As Peter Zarrow has observed, Zhang, having endured prison, had enormous prestige in revolutionary circles and his arguments carried particular weight.
+    - LOCATION: 700
+    - The idea of the ‘zhong hua’ continues to drive China’s internal policies. It encapsulates the notion of a homeland that can expand as its culture encounters new peoples, and transforms and assimilates them.
+    - LOCATION: 725
+    - As we shall see in subsequent chapters, what Arif Dirlik called ‘proprietary perceptions’ – a sense of ownership – still drive Beijing’s policies towards minority regions under its control.
+    - LOCATION: 726
+    - But it would be more accurate to say the Chinese government was vehemently opposed to internationally agreed numbers, together with a regime of inspection to verify those numbers.
+    - LOCATION: 760
+    - China had delayed international agreement on climate change for six critical years in order to make sure that it could not be forced by an outside power to do something that it said it wanted to do anyway.4 It was the principle of ‘sovereignty’ that was non-negotiable.
+    - LOCATION: 772
+    - the Qing rulers did not present themselves as equal members of an international community of separate, sovereign states.
+    - LOCATION: 814
+    - ‘The ruler of China claimed the mandate of Heaven to rule all mankind. If the rest of mankind did not acknowledge his rule, how long could he expect China to do so?’10 Tianxia had no formal boundaries: it was potentially universal.
+    - LOCATION: 824
+    - Trust in the money weakened, making it harder for traders to do deals, lend or borrow.
+    - LOCATION: 856
+    - Peasants who were paid in copper found it increasingly difficult to afford silver and fell behind with their taxes.
+    - LOCATION: 863
+    - Perhaps the most famous were William Jardine and James Matheson, ‘country traders’ outside the control of any government, who used floating warehouses to smuggle millions of pounds worth of contraband, including opium, into China to meet the demands that official channels were not satisfying.
+    - LOCATION: 890
+    - ‘We have only one thing to learn from the barbarians: solid ships and effective guns.’26 These were the ideas that would guide what became known as the ‘self-strengthening movement’ pioneered by Feng, Zeng and Li – learning the foreigners’ techniques while remaining aloof from their ideas.
+    - LOCATION: 1030
+    - At this time, Prince Gong, by his own account, was under the impression that the foreigners might want to keep their precious text secret. Hart, however, was extremely keen to share it.
+    - LOCATION: 1079
+    - The literal meaning of zhuquan, therefore, can be both ‘the legitimate power of the state’ and also ‘the arbitrary power of the ruler’.
+    - LOCATION: 1098
+    - If modern Chinese use the term with the implicit meaning of ‘the authority of the ruler’, then sovereignty can only be absolute, not relative. What ruler would want their authority diminished? From that difference emerges a different framework of international relations: the ‘community of common destiny’.
+    - LOCATION: 1102
+    - Gong used his newly acquired knowledge of Wheaton’s text to argue that such an act inside another country’s territorial waters was illegal. He was impressed to see the Prussians acknowledge this, release the ships and even pay compensation to the Danes.
+    - LOCATION: 1111
+    - But even though Gong was interested in using Wheaton’s book as a tool to manage the foreigners, he saw no reason why it should govern his own court’s behaviour.
+    - LOCATION: 1115
+    - As the peso supply resumed, the economy recovered. And as silver became more available, Western merchants moved away from trading opium. Instead, home-grown supplies of the drug rocketed. By the end of the 1860s more opium was grown domestically than imported.
+    - LOCATION: 1168
+    - William N. Pethick
+    - LOCATION: 1181
+    - By November 1874 Robert Hart of the Maritime Customs Service was describing him as ‘one of Li’s most useful and trusted employees’.
+    - LOCATION: 1190
+    - For around 250 years, with direct trade between the Qing Great-State and Japan banned, they had played the middleman and enjoyed the profits.
+    - LOCATION: 1213
+    - The board had managed relations between Beijing and Seoul for centuries but in the spring of 1881 this role was transferred to the Zongli Yamen.
+    - NOTE: Only after 2 major conflicts with the western power since 1842, until 1881 Qing is able to grasp the change of "world view" AKA ideology.
+    - LOCATION: 1287
+    - On 30 August 1884 the court, in the presence of French diplomats, destroyed the official seal that the Qing had given to the Vietnamese court in 1804. Six kilograms of beautifully engraved silver were melted into an ugly blob.
+    - LOCATION: 1352
+    - For the British, ‘tribute’ was a pointless piece of symbolism which could be tolerated while they got on with the business of empire.
+    - LOCATION: 1364
+    - The immediate cause of the war with Japan was the status of Korea. Li’s attempts to use the Western barbarians to control the Japanese barbarians had not prevented the militant faction in Tokyo from trying to seize control of the peninsula.
+    - LOCATION: 1385
+    - At each stage in that process he was advised by outsiders – predominantly Americans: Pethick, Grant, Shufeldt, Young and Foster.
+    - LOCATION: 1441
+    - In the new world order, only the strong triumphed: law without power meant nothing; might trumped right.
+    - LOCATION: 1445
+    - For them, tianxia and the moral superiority it both required and engendered were the natural order.
+    - LOCATION: 1447
+    - We have come full circle. Wang’s predecessors fought in vain to prevent the concept of sovereignty taking root in Beijing. Wang now claims China invented it and wants to own and control its meaning.
+    - LOCATION: 1465
+    - In 1855 long-simmering disputes between communities in the southern province of Guangdong erupted into a vicious civil war that lasted twelve years.
+    - LOCATION: 1547
+    - Punti and Hakka
+    - LOCATION: 1558
+    - Discipline among the Manchu was breaking down, rule-breaking was increasing and the court’s response was to impose order through separateness.
+    - LOCATION: 1603
+    - In 1870 he had visited the British colony of Hong Kong and been both impressed and outraged by the opulence and sophistication of a foreign city implanted within the Qing realm.
+    - LOCATION: 1629
+    - Nonetheless, he seems to have absorbed some ‘pan-Asian’ sentiments; in particular, he started to use the term Yaxiya – the Chinese transliteration of the Japanese transliteration of the Western word ‘Asia’.
+    - LOCATION: 1654
+    - The Chinese word that Huang chose as an equivalent to ‘race’ – zhong – was an innovation. (It’s a different zhong to the zhong in zhong guo.) As the Sinologist Frank Dikötter has observed, it originally meant ‘seed’ or ‘breed’ when applied to plants or animals.
+    - LOCATION: 1663
+    - The Japanese reformers liked Spencer because Spencer used Darwin to justify his ideas about the struggle for survival between individuals. Yan Fu took the idea of the struggle for survival but turned it into a struggle between groups.
+    - LOCATION: 1792
+    - As Dikötter points out, Yan took Spencer’s ideas of competition and Huxley’s ideas of cooperation and inflected both with his own ideas about race to argue that ‘science’ told us that the ‘yellow race’ is locked in a death struggle with the ‘white race’ and would end up in the same state as the ‘black race’ and the ‘red race’ unless it instituted political reform.
+    - LOCATION: 1822
+    - He adopted the word zu – meaning ‘lineage’ – as a marker of difference.
+    - LOCATION: 1870
+    - Frank Dikötter has shown, many Han families drew up long family trees as a survival strategy: to demonstrate their pedigree and also to strengthen their kinship connections with neighbours.
+    - LOCATION: 1871
+    - Zhang Binglin took zu and enlarged it from the local to the national: the Han became the Hanzu and Manchu, the Manzu. The two groups were rival lineages and therefore conflict between them became not just thinkable but logical.
+    - LOCATION: 1874
+    - The Han belonged to the ‘yellow race’ but he created the idea of the ‘race-surname’ – zhong xing – to demonstrate that they were different from the Manchus. The term zhongxing was a contraction of the characters in ‘race-lineage’ (zhongzu) and ‘surname’ (xingshi). Han and Manchu may have been part of the same zhong, but they were not part of the same zhongzu, and lineage surnames were a vital way to discern the two. This was not the only innovation in the Qiushu. In it he also gave the world his lasting legacy, the notion that the ancestor of all the Han was Huangdi: the Yellow Emperor.
+    - LOCATION: 1878
+    - But Zhang needed
+    - LOCATION: 1892
+    - a rationale to demarcate the boundary between the two groups he was trying to create. He found it in the logic of the lineage.
+    - LOCATION: 1892
+    - and the non-Chinese-speaking minorities. Indigenous groups were relegated to the status of ‘browns’ or ‘blacks’ for whom Social Darwinism predicted only one fate: they could be ignored in the coming struggle.
+    - LOCATION: 1908
+    - However, a controversy that year would demonstrate the arbitrariness of the whole concept of a Han race and bring the pioneer of Chinese racial thinking, Huang Zunxian, back into the public eye one final time.
+    - LOCATION: 1929
+    - Rather than simply being proud of being Hua and having ancestral connections to villages in faraway provinces, the leadership in Beijing wants these audiences to see themselves as sons and grandsons of the Yellow Emperor and be loyal to his lineage, embodied today in the People’s Republic of China.
+    - LOCATION: 1957
+    - The ideological war over the events of three and four hundred years ago is alive and apparently still vital to the survival of today’s People’s Republic.
+    - LOCATION: 1998
+    - It is important to understand that in 1901 Liang was not describing an already existing Chinese nation but was actually creating one by writing its history. By choosing which groups were included in the Zhongguo minzu and which were excluded, he drew a boundary around the nation that has endured to this day.
+    - LOCATION: 2127
+    - He felt no need to explain why he was writing a history of this particular group of people: the necessity appeared simply self-evident.
+    - LOCATION: 2129
+    - This had equally ‘obvious’ implications for the territory of Zhongguo – it should include all the territories on which those peoples lived: Zhongguo Benbu (‘China proper’, the former Ming realm) plus Tibet, Xinjiang, Mongolia and Manchuria.
+    - LOCATION: 2143
+    - The logic is inconsistent and, as the Sinologist Julia C. Schneider has shown, it demonstrates that the prime motivation behind Liang’s historical ideas was to justify the survival of the Qing Great-State and the extent of its realm.29
+    - LOCATION: 2181
+    - Chinese ‘national history’ is, to this day, usually written as a history of a territory that was not actually ‘fixed’ until the middle of the twentieth century.
+    - LOCATION: 2191
+    - Bluntschli mentioned eight criteria: language, religion, physical appearance, way of life, occupation, tradition, living together and political union.
+    - LOCATION: 2198
+    - Liang was seeking a narrative of continuity, a history like those European histories he had been absorbing since his encounter with Timothy Richard in 1895.
+    - LOCATION: 2221
+    - Again, in the face of plenty of evidence to the contrary, Liang denied any differences between the
+    - LOCATION: 2236
+    - other groups, even though plenty of regional differences in language and tradition existed then and survive to this day.
+    - LOCATION: 2237
+    - By then, it may have appeared to its readers that the book was simply describing the natural order of things. But the story of the book demonstrates that the origins of the history it tells lie with the exiled thoughts of Xia Zengyou and Liang Qichao and, further back, with Liang’s meeting with Timothy Richard in 1895.
+    - LOCATION: 2268
+    - The story should be framed in a regional context, highlighting how peoples moved, states rose and fell, frontiers fluctuated, trade flowed and cultures hybridised. If we avoid assumptions about superiority and inferiority, we start to see the flows in the past as multi-directional.
+    - LOCATION: 2321
+    - Its job is to edit and re-present the history of the previous dynasty in order to legitimise the current regime and delegitimise its critics through allegations of ‘historical nihilism’.
+    - LOCATION: 2393
+    - But Xi Jinping has declared China to be a great power and great powers need a great history – something like 5,000 years long. And great powers aren’t invaded or humiliated; they are
+    - LOCATION: 2397
+    - winners – always. The nation that Liang Qichao conjured into being, the Zhonghua minzu, was always there and always will be.
+    - LOCATION: 2398
+    - The world had changed, they claimed, and the new ‘League of Nations’ supported by the ‘righteous’ United States and ‘democratic’ Britain and France would ensure that China would be fairly treated.
+    - LOCATION: 2449
+    - Xi has repeatedly stressed the importance of what he
+    - LOCATION: 2545
+    - calls the ‘five identifications’ required of all Chinese citizens. They must identify with the motherland, with the Chinese nation (Zhonghua minzu), with Chinese culture, the Chinese socialist road and the Communist Party itself.
+    - LOCATION: 2545
+    - Kang, however, was still not prepared to work with the ‘uneducated bandit’ infatuated with Western materialism. Sun was equally hostile to the ‘corrupt Confucian’ obsessed with pointless theorising.
+    - LOCATION: 2593
+    - Within months, the Japanese had lost patience with Kang and in March 1899 he left for Canada to seek more sympathetic company among the Chinese communities there.
+    - LOCATION: 2595
+    - Their shared obsession was the Social Darwinist fear of yellow race extinction at the hands of whites.
+    - LOCATION: 2600
+    - While Liang wrote and thought, Sun plotted and acted.
+    - LOCATION: 2680
+    - In the hope of bringing about a revolution, he made all kinds of deals with secret societies, domestic warlords and foreign powers.
+    - LOCATION: 2681
+    - His journey through the United States seems to have persuaded him of the importance of a cultural ‘melting pot’ and he wrote of the necessity of the various minzu to ‘smelt together in the same furnace’.
+    - LOCATION: 2714
+    - All of them were failures but each one increased his prestige.
+    - LOCATION: 2735
+    - While admitting that there were, in fact, other minzu in the country, he said they could be ignored because they would be assimilated into the superior Han lineage: ‘China’s minzu total four hundred million people.
+    - LOCATION: 2959
+    - Speaking at the ‘Central Ethnic Work Forum’, he made clear that there would be a change of direction, that the Communist Party would pay more attention to integration and less to institutionalising diversity. ‘We should
+    - LOCATION: 3027
+    - not continue with what is rotten,’ he is reported to have told the gathering.
+    - LOCATION: 3029
+    - But the issue did not go away: instead, it became more emotive. Under the Qing, the language question had been a discussion about efficiency, learning and the best way to strengthen the state. Under the Republic, it became one of fundamental identity.
+    - LOCATION: 3373
+    - Language was one way to impose a single identity on a nation – even if that nation did not yet know that it existed.
+    - LOCATION: 3381
+    - They would not agree to a Western or Japanese-style phonetic script, the solution had to be ‘authentically’ Chinese.
+    - LOCATION: 3410
+    - There could be no logical or neutral way to resolve disputes over the different ways to say a word like ‘fish’ in different topolects.
+    - LOCATION: 3413
+    - NOTE: Even Potunghua is a work of mixing just like the symbol of dragon
+    - LOCATION: 3448
+    - The idea that Hong Kong or Taiwan – or Guangzhou or Shanghai – might have their own identities that are stronger than their Chinese national identity is literally unimaginable for those who lead the People’s Republic.
+    - LOCATION: 3584
+    - The traditional term was jiangyu, which literally meant the boundary (jiang) of the imperial realm (yu). In dynastic times the yu stretched as far as the emperor’s authority and so, in theory at least, could have included tributary and vassal states.12 Its meaning was vague and certainly did not imply the existence of a defined border.
+    - LOCATION: 3702
+    - Article 3 became the apparently tautological ‘The territory [lingtu] of the Chinese Republic remains the same as the domain [jiangyu] of the former empire’.
+    - LOCATION: 3731
+    - The Qing Great-State had constructed, in effect, a multi-ethnic federation in which five ‘script regions’ – Chinese, Manchu, Mongol, Tibetan and Turkic – were ruled separately through different structures and according to different rules.
+    - LOCATION: 3750
+    - His conservative instincts led him towards a more ‘fuzzy’ definition of the state, while the modernisers’ search for clarity on the national question led them to seek something more precise.
+    - LOCATION: 3757
+    - But the more they tried to impose unity on strong local rulers, the more the warlords broke away, causing the fragmentation of the very state they were trying to unify.
+    - LOCATION: 3758
+    - The Kham area of eastern Tibet, for example, had long been ruled by autonomous chieftains who were only nominally subordinate to the rulers based in Lhasa and, through them, even more nominally to the emperor in Beijing.
+    - LOCATION: 3766
+    - But we Chinese are exceptional! No matter how hot or cold an environment is, there are Chinese footprints. . . .
+    - LOCATION: 3817
+    - the Guomindang had no intention of offering such a choice to the inhabitants of Tibet, Xinjiang, Mongolia or Manchuria.
+    - LOCATION: 3844
+    - Under these circumstances, the Guomindang weaponised the study of history and geography.
+    - LOCATION: 3849
+    - Zhang, and the other authors of these books, were nationalists who sought to evince emotions of loyalty to a state and its territory in the hearts of their young audiences. They faced a problem that was both pedagogic and deeply political.
+    - LOCATION: 3889
+    - Eliminating their barbarism and changing their customs and habits is the responsibility of the Han people.’
+    - LOCATION: 3909
+    - For Zhang, the Han provided the ‘norm’ against which the other groups needed to be measured in order to judge their level of civilisation: they had to be made ‘Han’.
+    - LOCATION: 3910
+    - The neat black dashed-and-dotted line that ran around the Republic was more an expression of desire than reality.
+    - LOCATION: 3973
+    - In December 1928 the government had ordered every province and county to compile a new ‘gazetteer’ – fangzhi – of the area under its administration.
+    - LOCATION: 3978
+    - In retrospect, what is remarkable is how uncontroversial this was at the time. The Communist Party had long supported independence for Taiwan, rather than reincorporation into China.
+    - LOCATION: 4055
+    - In mid-1942 it began to use the term retrocession (guangfu), a word with particular nationalistic significance.
+    - LOCATION: 4076
+    - Protests finally exploded on 28 February 1947 and were met with extreme violence. By the end of March, at least 5,000 Taiwanese (some say 20,000) had been killed by Chen Yi’s mainland forces. All of this undermined the nationalist proclamations of unity that had underpinned the calls for guangfu.
+    - LOCATION: 4105
+    - This was, in effect, a new colonialism: expanding ‘Han’ Chinese rule into places it had never reached before. The geographers’ maps and surveys led the way and their textbooks and national humiliation maps built support for the project back in the heartland.
+    - LOCATION: 4154
+    - Teachers don’t explain to their children why this piece of non-territory should rightfully belong to China. Almost no one in China actually knows. A typical response to the question is to say that it has been Chinese ‘since ancient times’.
+    - LOCATION: 4196
+    - China has never made clear the exact legal basis of its claim to the marine resources so close to other countries’ coasts.
+    - LOCATION: 4207
+    - In recent years, China has raised the status of this line to a near religious level by printing it in passports and legislating to ensure that every map published in the country includes it. Leaders vow to defend every inch of it and threaten war on anyone who tries to violate it.
+    - LOCATION: 4210
+    - It is the birds that make Pratas an attractive prize for one Japanese entrepreneur.
+    - LOCATION: 4238
+    - Shortly before Secretary Taft’s visit, the British authorities in Hong Kong resolved to do something about the worsening piracy problem in the waters around their colony. As order slowly collapsed across Guangdong it was sometimes hard to tell which criminals were revolutionaries, which were bandits and which had official connections.
+    - LOCATION: 4252
+    - The man who caused China to claim non-existent islands hundreds of kilometres from its shores was a Manchu who probably never went to sea in his life. Bai Meichu
+    - LOCATION: 4463
+    - Members of the China Earth-Study Society were profoundly influenced by Social-Darwinism.
+    - NOTE: Social Darwinism sucks.
+    - LOCATION: 4485
+    - He no longer saw territorial arrangements as reflections of the ebb and flow of civilisation but as the result of conspiracies by predatory states to rob the weaker ones.
+    - LOCATION: 4508
+    - The defence of far-flung borders became critically important, particularly as knowledge about mineral resources in remote areas became more widely known. In his view, it was up to the Chinese people to protect the nation’s land.
+    - LOCATION: 4510
+    - The mission was only possible because of the recent arrival of ships and training provided by the United States and Britain.
+    - LOCATION: 4565
+    - European states spent a blood-soaked century – 1848 to 1945 – working through the questions of nations and states and nation-states.
+    - LOCATION: 4762
+    - They also decentralised power and created federal systems to give more space for minorities. The result has been decades of peace, freedom and an upsurge in prosperity.
+    - LOCATION: 4765
+    - This is one of the ironies of China’s contemporary situation. While it rejects foreign interference in its affairs, its obsession with sovereignty and its fundamentalist attitudes towards territory are distinctly foreign ideas.
+    - LOCATION: 4782
+    - How should the region and the world respond to these historical myths? They need to be taken seriously as drivers of Chinese behaviour but not as statements of historical truth, still less as a guide to the correct order of society or regional relations.
+    - LOCATION: 4795
+    - Xi’s China is not a happy place. It is dogmatic and coercive, anxious and unsure, fearful that its unity may come unzipped at any moment. The myths will hold it together for a while, but the fracture lines within the Zhonghua minzu were there from the start.
+    - LOCATION: 4807
+- [[Permanent Notes]] candidates
+    - Chinese people has a lack of [[agency]].
+    - [[Chu]] heartlan was associated with [[Miao]] people.
+    - [[Yelang]] is a group of people living in southwestern China.
+    - [[HuaXia]] is invented by 

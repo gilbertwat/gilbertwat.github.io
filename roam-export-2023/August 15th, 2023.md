@@ -1,0 +1,8 @@
+- [[[[[[Preface]] leadership team]] weekly meeting]]
+    - Group
+        - Loyalty program discussion
+        - Review System
+    - PST
+        - Nomad Matching 
+            - 
+    - PTB

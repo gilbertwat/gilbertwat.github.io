@@ -1,0 +1,70 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - choked
+- #[[Globalized self]] A new perspectives on #Geopolitics
+    - 原文回應叢提及，經濟封鎖圍堵，有效的就只有能源和芯片科技。對於沒掌握到這兩樣資源的國家來說，作為跟班，就非常危險了。要說經典的圍堵，拿破崙的大陸政策固然是失敗例子，二戰時日本卻的確因美國不給石油，就只好開戰了，其實這說明日軍作戰條件很受制約。
+    - 近年的戰爭和圍堵也根本不少，在中東一帶尤其明顯，這些被稱為邪惡的國家，往往都能開採原油，但提煉的技術卻很有限，除了油外甚麼工業都不發達，一旦發生災荒，糧食缺席就會造成致命傷。像是北韓，根本不理會人民死活，飢荒就飢荒，政府和軍隊有得吃便行。而像緬甸，則是一次零八風災，就促成政治改革，但好景也沒有延續多久，現在又面臨制裁危機。對於中國，要知道中國近乎甚麼也有，但現實卻是很多必需品內部生產仍是不足，供應鏈的彈性也有限，所以在中美貿易談判的緊張時期，就連大豆也令中國拆騰起來。拆騰完了，sourcing 拓寬了，再談判時，美國農民便感到吃虧已無法逆轉了。
+    - 唯一擊中要害的，就是芯片，缺芯使中國難以維持技術優勢，美國也有條件近乎單方面阻止中國追近。中國芯片的產能和技術仍會不斷提升，問題是得先得退五年，生產技術差距維持在五至十年級次。Trump 下台後，美國大概仍會維持核心技術生產條件封鎖，但力度不會加大，比如不會強令蘋果 intel 等放棄中國市場，中國使用技術的成本大概也不會變高，只是在參與生產和獲取生產資料的攻略，會被拖慢。對沒有芯片這王牌的其他國家來說，他們要搞清楚本身對中共的依賴，以及有沒有轉移的市場。
+    - 坦白說，現在根本沒有別一個國家的工業產能和品質穩定度，可以跟中國比擬。我此行從不同的投資者、採購的商務領事口中，都得出武漢工業圈在 COVID 後的產能和營收都大幅提升。輸出病毒的是武漢，輸出足夠便宜量大的衛生耗材和設備的，也是武漢。想談好大宗交易的詳細條件，請務必到武漢，而國家也撥了大量資源、優惠政策，優先刺激武漢的就業、科研、貿易服務仲裁所需要人材轉移。所以自五月以來，武漢可能是中國增長最快的大城市，而且當地人也是目前最感到有希望，朝氣勃勃的一群，比深圳上海尤甚。
+    - 相比起來，對中國打情報戰時拉起的五眼聯盟，擴展到七眼，但新加入的日本以及老隊友澳洲，很快又回到  RCEP 的懷抱。如果看五眼以外最重要的，莫過於德國和以色列。德國不止在能源上出賣了東歐諸國而取俄羅斯的北溪輸氣管，在物資上，更儼重充當中歐專列的集散點，現在德國簡直就像當年的香港，是中國大廠的前舖，把中國貨包裝分發給歐洲小朋友。
+    - 其他國家不止在吃中美俄的啞巴虧，也吃德國的虧。
+    - 那些駐德 KOL ，有甚麼能量做些實事？老老實實，他們先把德國的所作所為和具體經濟數字、影響，去講清楚，分得出講判中各派的定位和利益考量點，已經不簡單了。
+    - 囚犯的困境
+    - 中共幾十年來的策略其實都很一致，就是不斷創造「囚犯的困境」（prisoner‘s dilemma），只是有些人看不明白。
+    - 北京用龐大的貿易、投資和市場，去吸引西方國家與其合作，並且不要批評中國。這種各個擊破的策略，幾十年來屢試不爽。舉例來說，美國政府可能在某些時期會想要圍堵中國，但英法基於自身的利益，就不會同意美國的作法，而會自行跟中國有進一步的往來。這時，中共一般來說也會給他們一些好處，讓其不至於白費力氣。
+    - 這時，其他的西方國家、亞洲國家看到，先跟中國往來的國家拿到經貿上的好處之後，不少人就會倒過去。因為大家都不想當最後一個囚犯、最後一隻老鼠，而且出賣「隊友」可以得到更多好處的話，很多國家就會動心。反正我英法出賣一下美國，你美國也不能對我怎樣嘛。
+    - 最終的結果就是，最後放棄圍堵的那個國家就會最慘。不但什麼好處都拿不到，還會得到北京的政治報復。所以聰明人，不要只押寶美國，而是要看其他西方國家、亞洲國家的動態，以確保自己不要成為最後一個囚犯和老鼠。
+    - 哎呦，我在說澳洲政府啦，想到哪裡去了。
+    - 有些事情要逆向思考
+    - 綠營是一個很會選舉、很會宣傳的政府、政黨、機器。所以，如果你很長時間沒有聽到什麼宣傳，那其實代表這個領域，民進黨完全沒有成果。譬如說，當年不斷宣傳跟安倍晉三在飯店巧遇，但不知道大家最近有無發現，我們已經很久沒有聽到大內宣告訴我們說，台日關係又有什麼新的進展。為什麼，因為局勢不好嘛。
+    - 結果這兩天，哇，日本簽了RCEP。
+    - 而且大家要知道，日本之前是公開放話說，印度如果不參加，它就不簽的。然後就......。
+    - 就像我們很久也沒聽到，新南向有什麼成果了。
+    - 然後就，哇，東協10國簽RCEP簽了。
+    - 最大的突破
+    - 其實RCEP最大的突破是在中日韓的部分。因為東協十國彼此之間，還有東協跟紐澳之間，甚至東協跟中國大陸之間，有些國家已經有簽過雙邊的貿易協議。
+    - 像除了中澳FTA外，紐澳跟泰國本來也就有FTA，所以RCEP也就是錦上添花。澳洲市面上現在滿地都是泰國做的東西，聖誕樹是泰國做的、冰箱是泰國做的、車子是泰國做的、亞洲食品是泰國做的。
+    - 但特別值得注意的是：這是中日史上第一次達成關稅減讓協議，而日韓之間也有很大的妥協。像中韓都承諾會降低日本清酒的關稅。而且長期而言，要將日本清酒的進口到中韓的關稅降至0%。
+    - 結論，所以日本媽媽出賣起來，出賣的得更快。
+    - 最大的問題在哪裡
+    - RCEP最大的問題，就是中國大陸是創始國之一。這種關稅協定，就算台灣未來想要加入，也要取得所有既有成員國（創始國）們的同意。換句話說，只要有任何一個創始國不同意，台灣就無法再加入。因此，中共在RCEP等於有一票否決新會員加入的權力。這還跟聯合國、WHO不一樣。人家那個可以動員投票，這是一票否決。
+    - 所以台灣要融入世界、融入亞洲，不跟中共談判根本是不可能的。北京事實上就是比華盛頓重要。而跟北京談判，接受92共識是基本，以後會有多少更高的要求，不知道。
+    - 更不要說台灣大部分的對外投資，都在東協和中國大陸，根本沒有多少投資在歐美。所以民進黨政府把華盛頓抱的緊緊的，完全無助於台灣融入亞洲。
+    - 我也不知道是誰被包圍了
+    - 這幾年吧，各類訊息一直說，川普助台、圍堵中國，大家也很樂於接受這樣的說法，這是真的嗎？
+    - 雖然印度退出，但就在明天、11月15日，全球最大的自由貿易區之一，佔全球經濟的約30%、佔全球人口的約30%，「區域全面經濟夥伴關係協定」（RCEP），預定將在明天的第四屆RCEP各國領導人視訊高峰會中簽署。
+    - RCEP牽涉15個亞太主要國家，可以分類為東協+5，也就是東協十國：汶萊、柬埔寨、印尼、寮國、馬來西亞、緬甸、菲律賓、新加坡、越南、泰國。而所謂的+5，就是中國大陸、日本、南韓、澳洲、紐西蘭。
+    - 未來，東協+5將互相降低關稅，也可能還會有更進一步的經貿合作。亞太區域整合的力量將會更強。
+    - 巧合的是，東協+5，或者說是所謂的RCEP國家，剛好也是疫情管控較好的國家。目前，除了商務泡泡外，新加坡已經全面開放遊客從中國大陸和澳洲入境，澳洲也全面開放紐西蘭入境。預料應該還會出現更多的旅遊泡泡。
+    - 所以啊，我也不知道是誰被包圍了。
+- Geopolitics
+    - So many things is happening and the effect are unknown currently. With the lack of background and context to read from the news is very hard to discern the impact to [[🏴Hong Kong]], [[GOGOX]] and [[Globalized self]]
+    - One of the difficulties is that the world is changing in a rapid pace filled with information that masked the complexity to fact check it.
+    - What is the KPIs or quantitative sign of some basic information in the economy and security of a region? #[[🤔 Questions]]
+    - Logistics KPI is a lagging indicators. But a very reliable indicator of commerce.
+    - We are in SEA, how does it play out in the coming decade? Will it become more liberal? If not investing in SEA is not as "profitable".
+    - Or do I really treasure freedom as much as I claim? #[[🧘🏻‍♂️ Self Awareness]]
+- RECP seems a big deal?
+- Logistics [[business]]
+    - Why do we have free shipping from the US to Hong Kong?
+    - https://mp.weixin.qq.com/s/PejvUreEmcOIxIqI2cBnsw
+    - There is a lot of demand shipping container from China to US.
+    - Not vice versa.
+    - So for US to ship something to Hong Kong / China, it should be very cheap.
+    - Same goes for ...eggs
+    - US eggs are super expensive when Wuhan virus
+- Banking [[business]]
+    - Why do Standard Charter Mahattan willing to give up 1800 + late charge to [[Wifey]]?
+        - Cost is bigger
+        - No matter what, [[Wifey]] will terminate??
+        - By allowing my wife to spend the 700, there is less costy
+            - In time and process
+- https://twitter.com/Julian/status/1327765347936522240?s=20
+    - 
+- [[How do you feel when you wind down?]]
+    - {{slider}}

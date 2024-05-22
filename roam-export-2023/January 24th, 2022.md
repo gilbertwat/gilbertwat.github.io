@@ -1,0 +1,61 @@
+- #[[sleep]]
+    - Cannot fall into [[sleep]] very soon last night (45 minutes gut feeling)
+- [[Week 5]] [[goals]]
+    - #experiment to the #routine to reach my [[2022]] [[goals]]
+        - [[Pull [[exercise]]]] Workout x2 2 hours
+        - [[Push]] Workout x2 2 hours
+        - Good [[sleep]] x3
+        - [[Run]] x 2 2 hours
+        - [[Diary]] x 3 1.5 hours
+    - [[[[Preface]] Coding]]
+        - Learn about other department and get a whole picture of the company and prepare for a presentation of challenges perceived and on [[January 28th, 2022]]
+    - New #routine to #experiment
+        - last 30-45 minutes of work to reorganize daily notes (2.5 hours) per week
+- 10:00
+    - [[1:1]] with [[Hema Shah]]
+        - Team
+            - [[Alexander Li]] has the most concern from her point of view
+        - Project handling
+            - Ask her to give a more holistic approach on our projects running in the 
+        - Data architecture
+        - Quality discussion
+- 12:00
+    - [[1:1]] with [[Billy Wong]]
+        - Head of community operation team
+            - Experiencing changes in the team roles
+                - considering the additional relation manager 
+            - Already has a lot of knowledge on data collections want to be more on the completeness side
+                - Good news for our data side of work
+            - [[Perceived team dynamic]]
+                - [[Tommie Lo]] has some tendency to take the execute and be in charge
+        - [[Expectation of a [[Preface]] tech team]]
+            - IT procurement strategy
+                - Too technical previously with [[Hema Shah]]
+            - Give a feeling of technology throughout user experience
+        - Personal
+            - Love to travel, has been a flight crew like [[Ellen Lau]] before
+- 15:00
+    - [[1:1]] with [[Alfred Tse]]
+        - [[Expectation of a [[Preface]] tech team]]
+            - Want to introduce system thinking in organization design
+            - Shared a lot of stages of data transformation and experiences
+                - On stage 2 of data transformation
+        - [[Perceived team dynamic]]
+            - Would like to change a lot of thinking about solution
+                - Too much emotions
+            - Would like to make faster decision and more rational
+- 16:00
+    - [[1:1]] with [[Jeffrey Chan]]
+        - Head of Finance and Business Excellence
+            - There is still some unknown amount in our bank account.
+        - [[Expectation of a [[Preface]] tech team]]
+            - Finance team is not very satisfied with the IT system procurement procedure now
+                - Always has to approve
+                    - [[Infobip]] system experience is very hectic, he would like to avoid it in the future
+                    - Hubspot
+            - The admin panel should be able to draw reliable financial data and work on it.
+- 17:00
+    - Draft [[[[Preface]] WFH policy]]
+- 17:30
+    - [[1:1]] with [[Carmen Yeung]]
+        - Bounce off idea of [[[[Preface]] WFH policy]]

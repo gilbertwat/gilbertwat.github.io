@@ -1,0 +1,3 @@
+- 12:39
+    - [[Intro to [[Deep Learning]] MIT 6.S191]]
+    - 

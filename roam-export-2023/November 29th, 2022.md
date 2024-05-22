@@ -1,0 +1,19 @@
+- 08:30
+    - [[[[[[Preface]] leadership team]] weekly meeting]]
+        - Study abroad tour
+- 11:00
+    - [[[[[[Preface]] tech team]] weekly meeting]]
+        - 
+- 11:30
+    - [[[[Preface]] Data/AI weekly meeting]]
+- 12:00
+    - [[Family [[finance]]]] with [[Bonny Sun]]
+- 14:00
+    - [[Family [[finance]]]] with [[Kelvin]] from [[citibank]]
+- 16:30
+    - [[1:1]] [[Cheryl Lai]]
+        - How do you feel last week? [Mood meter](https://docs.google.com/spreadsheets/d/1S09bR1Auj6DvPvcmK30CCWBzk8ycyaUAFgsVqLDd35U/edit#gid=0)
+            - Think [[Tylor Ng]]'s code is good.
+        - What is our recurring topics?
+        - What is your top of your mind since our last 1:1?
+        - What is my top of my mind since our last 1:1?

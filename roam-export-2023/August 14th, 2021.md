@@ -1,0 +1,4 @@
+- #[[Permanent Notes]]
+    - the responsibility of CEO is to sale,  no one can help it
+    - the responsibility of CTO is to sale and research
+- [[Steven Lam]] [[YPO]] event as helpers

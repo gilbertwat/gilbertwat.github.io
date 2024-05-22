@@ -1,0 +1,19 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[Retrospective]] of [[Week 36]]
+    - {{[[DONE]]}} Read https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/building-a-digital-new-york-times-ceo-mark-thompson
+        - so six or seven hours of debate, every Friday, from early April to November. Ultimately, through lots of kicking and screaming and argument, we ended up with a genuinely shared vision that we eventually produced as a single page of bullet points, including doubling our digital revenue in five years, being a subscription-first company—advertising, yes, but subscription first—and needing to become a daily habit, being a destination.
+            - #[[☝🏻 Leadership]] is hard with a lot of debate and thinking and collaborating and ... human factors to align everyone on the
+        - It’s a kind of Rubik’s Cube of audience data, of behavioral science and ergonomics, of how the thing’s going to be packaged, of the pure gold of the actual journalism itself, of the integration of different media—and within that, a customer journey for people to register and ultimately become subscribers. You’ve got a very complex entity there, which is a team project where everyone has to be in the room. So we needed a cultural shift from a very strict division of labor to something that was far more integrated.
+        - have power over the product and tech road maps and can make decisions based on what they learn from the testing-and-learning platforms, without regard to senior leadership.
+    - {{{[[DONE]]}}}} Read https://www.tomtunguz.com/five-data-trends-one-mega-trend-data-lifecycle/
+        - Data pipeline
+        - Compute query separate with storage
+        - Data modeling
+        - Data products
+        - Data quality tools 
+- How do you feel when you wind down?
+    - {{slider}}

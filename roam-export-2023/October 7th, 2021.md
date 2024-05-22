@@ -1,0 +1,58 @@
+- Q4 managers' meeting [[[[Quarterly Hong Kong manager meetings]] [[[[2021]] Q4]]]]
+    - [[Amethyst Lau]] [[business]] development
+        - Technology
+            - Insurance Tech ** Tech can help 
+        - Ecommerce (Flywheel)
+        - GGB slowing down
+        - GGD slowing down
+    - [[Ming Tse]] Driver Ops
+        - DP 
+            - not good completion rate **Tech can help
+            - SIgn up 
+            - Rythm of the GGD supply is not right
+            - Courier need 60-80 /HKD
+            - 3-5 kg is good
+        - Transport
+            - completion rate very good
+            - Gamify **Major investment needed Tech
+    - [[Ivan Chan]] Enterprise team
+        - Anything that can bring business 
+        - No tech investment in their BU
+        - Data integration **************
+            - Connected Insurance Tech ** Tech can help 
+            - Connected DP 
+                - not good completion rate **Tech can help
+            - Connected Heavy Order Consolidation
+            - Connected Whatsapp social commerce
+            - Connected CA place order is slower than call up 
+            - Connected Off-shore
+            - Connected CRM 
+            - Connected Marketing targeting
+        - Heavy Order Consolidation
+        - Freight Forwarder 
+            - 做識做，Business development *********** 
+        - ROI / time 
+            - Execution + Sohpisticaiton
+    - [[Kylie Kwan]] [[GOGOEnergy]]
+        - More volume more margin
+        - Whatsapp social commerce
+    - [[Jackie Yam]] CS
+        - Salary adjustment leads to 
+        - Hiring problems
+        - Business is changing
+        - CA place order is slower than call up 
+        - Off-shore
+        - CRM 
+        - Why people call to place order
+            - Traditional
+            - Ask crucial information
+            - 10-20 second
+    - [[Niko So]] Marketing HK 
+        - Missing industrial know-how
+        - Catchy terms
+        - Marketing targeting
+    - [[Kate Lai]] Growth
+    - 
+- [[🧘🏻‍♂️ Self Awareness]] I am a more step back person
+- [[🧘🏻‍♂️ Self Awareness]] Don't override subordinate 
+- 

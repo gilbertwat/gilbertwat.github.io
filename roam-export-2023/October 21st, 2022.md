@@ -1,0 +1,69 @@
+- [[[[2022]] Week 42]] #goals
+    - {{[[DONE]]}}  List out the hypothesis of the [[[[Preface]] project [[recommender]] in 1 on 1 courses]] Finished at 22:00 [[October 20th, 2022]]
+    - {{[[DONE]]}}  [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 2 quotation for [[Gemmy Wong]] Finished at 10:10 [[October 21st, 2022]]
+        - {{[[DONE]]}}  Decide filter logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+        - {{[[DONE]]}}  Decide adult courses logic in [[[[Preface]] [[product]]: Customer Portal]] Finished at 09:49 [[October 19th, 2022]]
+    - [[[[2022]] Week 41]] carry over
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  #sent Thank you card for 呂醫生 Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}}  #sent Thank card for 劉醫師 family Finished at 13:12 [[October 31st, 2022]]
+            - {{[[DONE]]}}  buy thank you card Finished at 16:30 [[October 25th, 2022]]
+        - {{[[DONE]]}} confirm branding marketing on illustration + photos with [[Carmen Yeung]] [[Gemmy Wong]] in [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Finished at 17:30 [[October 18th, 2022]]
+        - {{[[DONE]]}} Finalize [[[[Preface]] [[product]]: Customer Portal]] [[MVP]] Phase 1 Design Finished at 13:58 [[October 18th, 2022]]
+        - {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+- 
+- 10:01
+    - {{[[DONE]]}}  Answer Esquel Venture [[due diligence]] Finished at 16:51 [[October 21st, 2022]]
+- Work on {{[[DONE]]}}  Find 3 vendors to quote for [[[[[[Preface]] [[product]]: Coffee App]] [[[[2022]] Q4]] product requirement documents]] Finished at 11:14 [[October 21st, 2022]]
+    - [[[[2022]] Week 43]] need to
+        - {{[[DONE]]}} Onboard the whole project to be able to run and test locally Finished at 11:24 [[November 7th, 2022]]
+            - {{[[DONE]]}}  Make sure the project has no security and privacy concerns Finished at 09:59 [[November 7th, 2022]]
+            - {{[[DONE]]}}  Make sure onboarding document is ready Finished at 11:19 [[November 17th, 2022]]
+            - {{[[DONE]]}}  Make sure product requirement is done Finished at 09:59 [[November 7th, 2022]]
+            - {{[[DONE]]}}  Make sure test case is ready Finished at 18:30
+        - {{[[DONE]]}} Craft out criteria and choose 1 vendor to work with Finished at 11:19 [[November 17th, 2022]]
+            - [[criteria of selecting software vendor for [[Preface]]]]
+- {{[[DONE]]}}  [[exercise]] for 30 minutes Finished at 08:00 
+    -  [[Pull [[exercise]]]] + [[core [[exercise]]]]
+- 14:00
+- 16:00
+    - Work on {{[[DONE]]}}  Answer Esquel Venture [[due diligence]] Finished at 16:51 [[October 21st, 2022]]
+        - AI note customization – any samples/demo available?
+        - We just want to see a hands-on example of how students are profiled and how notes may differ between students.
+- 17:00
+    - Chat with [[Anne Rommero]]
+        - Context
+            - Want to join tech team originally
+            - Instructor
+            - Curriculum -> Trainer
+            - Uni
+                - Scratch + JS + ML in Python
+            - Like
+                - Creating
+            - Dislike
+                - Documentation
+        - See what is the motivation of her to switch team.
+            - Fulfill her destiny
+        - See what is the aptitude of her
+            - detail minded
+            - Not easily offended
+            - resourceful but not aggressive
+        - See how much drive does she have to switch team.
+            - Yes and yes
+        - Ideal software engineering life
+            - Asking questions
+        - Polite
+- {{[[DONE]]}}  [[[[2022]] Week 42]] review email to [[Tommie Lo]] Finished at 09:08 [[October 31st, 2022]]
+    - Projects
+        - **Customer Portal**: We are on phase 1 implementation and we will ship it next week for phase 1. Phase 2 Gemmy has already started designing. Phase 3 and 4 will need Anna's input when she is back.
+        - **Coffee App**: 77 engineers applied for the project. I need to speed up the prep work and choose 1 to 2 to work on the features we decided on for this quarter. (White label, credit for non-crew) We will need more UI/UX investment to start the next phase(If-then-else, external API).
+        - **Data**: After talking with Hema, we might be severely underutilized Hubspot and we need to make a decision on how to proceed with Hubspot, we will find out more next week with Growth.
+        - **AI**: We are building automation on the existing content recommendation engine to alleviate our operations. Also we are designing the next system [here](https://docs.google.com/document/d/1pLJzPjslKFDPKHKNihRO8uVT56B7-iVbaUB-1yj_LEk/edit).
+    - Team:
+        - Ehsan will be on leave starting next week.
+        - Anne expressed interest to join our software engineering team, Ben and I will have weekly conversation with her and assign extra tasks for her outside current workload.
+    - Discussion/Decision:
+        - In Coffee App "code your coffee experience" We may need to leverage Replit app (FYR: https://youtu.be/Cmq3TrS3ccU) What do you think?
+        - My web3 friends offer to build a PoC loyalty program in 3 months using Polygon, do you have an urgency to build such?
+        - We will hit a bottleneck in the AI front with not enough content to recommend, I think we need a Preface company level alignment on the expectation on the AI side given the constraint we have, really need your input and we need to jam a plan on this.

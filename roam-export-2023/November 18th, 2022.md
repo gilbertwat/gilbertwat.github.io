@@ -1,0 +1,5 @@
+- 17:00
+    - [[Anne Rommero]] check up
+        - {{[[DONE]]}} Circle back on TODO MVC on [[November 25th, 2022]] Finished at 15:19 [[November 27th, 2022]]
+- #[[Sick Leave]]
+- {{[[DONE]]}}  #read [[[[books]]: The unbearable lightness of being]] Finished at 23:42

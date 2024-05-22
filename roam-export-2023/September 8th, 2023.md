@@ -1,0 +1,3 @@
+- {{[[TODO]]}}  [[writings]] my latest career blockers
+    - active listening
+- https://zerotomastery.io/tech-career-path-quiz/

@@ -1,0 +1,56 @@
+- Always radiate your gratitude, good vibe and hope.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Less energtic
+- [[1:1]] with [[Anthony Chan]]
+    - Newest technology: next.js
+    - Switch his focus to build product instead of chasing newest technology
+    - DA iOS fixing is much appreciated
+        - Engaged, but not very enjoyable
+    - [[Anthony Chan]] doesn't know the goal to use architecture / better design to avoid the SIGABRT problem of RealmDB
+        - A sign of something in my hunch
+            - Deep inside I am not happy with the goal is not shared with teammates
+        - {{[[DONE]]}} Investigate why [[Keith Chan]] hasn't share the goal of this refactoring effort. 
+            - I need to know why.
+                - 點解冇講清楚？
+                    - [[Keith Chan]] 唔知要講？
+                    - [[Keith Chan]] 想自己做唔講？
+                    - [[Keith Chan]] 性格決定左？
+            - How to share this findings with [[Keith Chan]]?
+    - Shared suggestion to [[[[GOGOX]] Driver Experience Theme]] but no one is following it up.
+        - Prioritization about maintanence
+    - Still think product manager is "above" engineers. 😞
+    - 
+- [[1:1]] with [[Ivo Wu]]
+    - QA Role and Responsibility problem
+        - [[Shamiya Patel]] is not a full scrum master
+        - [[Shamiya Patel]] is not customer driven
+            - Always think about completing test cases
+        - Both agree to discuss about it
+    - {{[[DONE]]}} Set up meetings with [[Tom Lui]], [[Shamiya Patel]] and [[Ivo Wu]] to discuss about the team dynamics and roles 
+- [[1:1]] with [[Feiko Lai]] lunch catch up
+    - Executing on an idea that I had 4 years ago
+        - Whatsapp to Google Form
+        - 
+- [[1:1]] with [[Karl Tai]]
+    - Open up more
+        - with camera opened?
+        - I asked him about his health?
+    - Express concerns about doesn't know how to speed up code review
+        - Voluntarily want his teammates to comment more
+    - There is no coding standard discussion yet in iOS 
+- [[GOGOEnergy]] catch up
+    - Using whatsapp as project management
+    - [[Young]] want to switch to JIRA and Slack
+        - But I disagree with the timing of the switch
+            - There are a lot to switch for [[Winnie Fung]] and [[Kylie Kwan]]
+                - They are not very technical
+                - They need to work with the new Engineer [[Kether Chau]]
+        - Apparently I am showing discontent
+        - And I don't feel heard.
+- [[How do you feel when you wind down?]]
+    - {{slider}}

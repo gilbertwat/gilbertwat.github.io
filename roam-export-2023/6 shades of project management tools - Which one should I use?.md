@@ -1,0 +1,98 @@
+- Everyone use some kinds of project management tools to get things done. The space is [HOT](https://www.theinformation.com/articles/a-200-million-seed-valuation-for-roam-shows-investor-frenzy-for-note-taking-apps?shared=931cbf4ce58ed9bd). There are some newcomers such as Notion and Airtable. Most of the companies are using some established one such as JIRA and MS Project. Sometimes we even go low-tech to use stickers and markers. We are surrounded by amazing tools, but why are people still complain about their project management tools relentlessly?
+- Every project management tools should, obviously, help us complete our projects. To complete our projects smoothly, we need our tools to:
+    - visualize clearly our project goals.
+    - accumulate technical and business knowledge in the project and research
+    - easily access related knowledge inside the company
+    - easily comprehend project detail and complexity
+    - easily follow ongoing discussion 
+    - easily track our progress
+- So story time. 
+- Let's see how Tom our PM, Vic our developer and Gem our designer develop a new feature in a typical technology company. They have to be aligned on delivering some enhancement in the products, that is 
+- Besides a clear goal, they must have an effective way to collaborate and put in their best knowledge to create a solution effectively. They may chat on IM, do some meetings, draw or write. They have a lot to learn from each other and fellow teammates in same functionalities. Tom may share customers' pain point with the team and Vic and Gem have to co-create some solutions with the help of their functional colleagues.
+- And when the solution is kinda set, Vic needs to break it down to simple tasks so Vic can keep Gem and Tom informed. And when problems surface Vic, Gem and Tom have to resolve them collaboratively. 
+- After the MVP is shipped, Tom needs to keep track of its impact, and iterating with Gem and Vic to hit their desired outcome. Those iterations and learnings need to be accessible easily for others in their company to improve their understanding of customers and increase their work efficiency.
+- So you can see working in a knowledge driven workplace, we need to acquire new knowledge everyday and apply it to our works. So there is quite an overlapping for project management and knowledge management. A ticketing system is always essential to compose project progress and report the delivery cadence. And a text-based documentation tools can provide detail contexts. Some examples include decision rationales, user interview results and what customers should expect. The merging of both tools is quite popular. For example Notion can be both a knowledge management tool and a simple project management tool. Another example is Atlassian is always trying to pull you to integrate ticket based project management tool __JIRA__ with their knowledge management tool __Confluence__.
+- But a ticket based project management tool and a text-based documentation tool are not enough. In the current increasingly complex software engineering space, we need some tools to give an overview of the problems and system we are dealing with and sharing complex contexts such as UI design and system design. Now a diagram based tools may be useful.
+- We need a lot of different tools to assist us to get our job done. Briefly let's categorize their into 6 categories and list out the pros and cons:
+    - {{table}}
+        - Type
+            - Pros
+                - Cons
+                    - Examples
+        - Conversational
+            - - Easy to access
+- High touch
+- Highly effective if run well
+    - - Context is always hard to obtain and retain
+- messy
+- Signal to noise ratio can be varied
+- trying to organize slack channel, anyone? 😞
+- Not scalable
+- expensive in terms of human capital
+    - instant message
+- Meetings
+- Face to face
+    - Ticketing
+        - - Clear responsible person
+- Clear status of tasks
+- Clear dependencies of tasks
+    - - Does not facilitate high level discussions
+- Hard to imagine project complexity, try to figure out what is story point, anyone? 😞
+- Get messy when there is more than 8 people
+- Hard to put context together
+- No project overview other than progress
+    - Asana 
+- JIRA
+- MS Projects
+    - Text-based documents
+        - - Easy to contribute
+- Easy to search
+- Easy to reorganize
+- Easy to link together
+- Flexible
+    - - Opinionated organization, different teams have different ways to organize
+- Take times to understand
+- Need a lot of investment to be useful
+    - MS Words / OneNotes
+- Notion
+- Evernote
+- Confluence
+- Roamresearch
+    - Diagram
+        - - Easy to understand
+- Easy to create
+    - - Easy to miss context
+- Can be overly complicated
+- Hard to collaborate online
+- Shallow
+    - Figma
+- miro
+- draw.io
+    - Roadmap
+        - - Easy to visualize progress
+- Easy to visualize priorities
+    - - Hard to change
+- Hard to represent project detail
+- Hard to visualize changes in constraints and context
+    - ProductBoard
+- MS Project
+- JIRA Portfolio
+    - Misc.
+        - - Extremely flexible
+            - - Extremely hard to get organized
+- Extremely hard to read
+- Extremely hard to link together
+    - Spreadsheets
+- Pen & Paper
+- After we did this comparison, we can see each of the tools has its own strengths and weaknesses. But those strengths and weaknesses are 
+    - Go lightweight first, consolidate later.
+        - You need to catch the creative spark and synergy with the team. This creative process is best in a high touch tools such as IM and face to face. Through these medium you can build the trust and momentum with your teammates easier than any other tools. Afterwards you need text-based documentation to reinforce the learnings and discoveries in those sessions of magic.
+    - Links, links everywhere.
+        - You never understand how the connection can be formed between different piece of information and knowledge, you may want to put in links so that the next one to read can gain more contexts. 
+    - Build a new "View" when you are jumping on a new topic.
+        - Everyone has a different model of thinking and communication, so the best way to understand a new context is do your own consolidation and build a new "View" of it. You may want to share it with teammates too to build synergy.
+    - Summarization is key. It takes a lot of practices but it will be well worth it.
+        - A good summarization can help your teammates to understand your point of view quickly and act accordingly. Especially in a cross functional collaboration, able to summarize your own specialties in plain English and allow your teammates with other expertises to act in tune is crucial to the velocity of your team.
+- Last but not least, as a tool wielder to make the best product, we should always focus on getting our customers' problems solved and not too much on the tools. But at the same time having a fundamental understanding of different tools can be powerful. With this knowledge, we are more capable to determine which tools can facilitate us the best in delivering values to customers under our own constraints and team dynamics.
+- This piece is possible by me personally made the mistake. I have chased the rabbit hole. I have tried to fit everything into a ticketing system. My mistake have been worsen by me trying to optimize and tune the ticketing system, even getting other leaders in our team to adopt. Precious time was wasted. 
+- Don't be the idiot who try to unscrew with a hammer.

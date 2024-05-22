@@ -1,0 +1,29 @@
+- Always radiate your gratitude🙏🏻, good vibe👍🏻 and hope🌅.
+- Pace yourself, put in effort everyday.
+- Kill people with kindness 😉
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- [[How do you feel when you wake up?]]
+    - {{slider}}
+        - Surprisingly well slept.
+- Start the day **strong**!
+- #Notes URL https://blog.ycombinator.com/convoy-the-future-of-truck-freight/ 
+    - [[Topics]]
+        - [[operating a marketplace]]
+    - {{[[DONE]]}} [[Excerpts]]
+        - By building a network that aggregates supply and demand, Convoy has replaced middlemen with efficient algorithms. Complex matching logistics are becoming fast, seamless, and less costly. And, like many rich data marketplaces, the economics will only improve dramatically with experience and scale.
+        - It’s an extraordinarily inefficient system, with each match costing 1–2 hours and $40–80 per load[4](https://blog.ycombinator.com/convoy-the-future-of-truck-freight/#footnote4). On top of this, brokers are incentivized to maximize carrier margins rather than plan efficient routes. As a result, almost [35% of all miles driven](http://%20https://convoy.com/blog/empty-miles-in-trucking/) by trucks in the US aren’t actually transporting any freight.
+        - Fragmented supply and demand is a problem for incumbents, [but a great opportunity for a digital marketplace](https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/). On the supply side of the US freight market, there are 1.6 million carriers, 95% of which operate 10 or fewer trucks[2](https://blog.ycombinator.com/convoy-the-future-of-truck-freight/#footnote2).
+        - Unlike ride-hailing services, Convoy cannot easily increase the number of drivers in the US. Trucking requires commercial licenses and special vehicles. But Convoy’s software-driven approach can help make trucking more attractive to new potential drivers in the long run.
+        - Convoy’s initial strategy was to support only two large shippers. 
+- Instead of launching nationwide, Convoy narrowed its focus to these shippers’ highest-volume routes. There are ~2,000 trucking lanes nationally, and 60% of freight moves through the top 10% of those lanes. Convoy prioritized the top 10% of lanes serviced by the two large shippers. Once Convoy had enough demand to service loads, they used bookings to attract more supply in those lanes. As supply grew, Convoy scaled its capacity to take on other large shippers in these same routes, and eventually shippers of all sizes in additional routes.
+    - Convoy’s automated matching and servicing translates to lower operating cost per load and higher long-term cash flows. Today, Convoy’s operating cost per load for enterprise loads is about one-third of incumbents’ operating cost per load. The advantage is durable; legacy shipping giants like CH Robinson scale with mostly manual operations, and new entrants lack the scale to match the costs. As Convoy continues to grow, neither incumbents nor new competitors will be able to match its low operating costs.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FIndieHacker%2FeptE8-vRlz.png?alt=media&token=39981126-9f25-476f-a945-201dcef494f3)
+    - {{[[DONE]]}} Takeaways
+        - Increase the efficiency of an computer-aided [[♾️ Marketplace]] will drive for profit margins.
+        - A strategic increase of capacity and demand is crucial to scale a [[♾️ Marketplace]].
+        - Both market efficiency and strategic increase in capacity and demand is crucial in building the [[[[GOGOX]] Project Flywheel]]
+    - [[🤔 Questions]]
+- [[Personal Website v9.0]]
+    - Theme selected: https://nicoelayda.github.io/celeste/blog/
+- Remember to update your [habit tracker](https://docs.google.com/spreadsheets/d/1rVOW_AvAsjRBhm2VjXzHcHkOJ14dviBUIPj3M5xvICs/edit#gid=1376149734)!

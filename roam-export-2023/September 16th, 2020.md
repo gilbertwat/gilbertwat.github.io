@@ -1,0 +1,90 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- Show me your incentive and I will show you the outcome.
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- {{{[[DONE]]}}}}  [[CD]] [[POSTman]] Integration
+    - Our CI/CD has domain knowledge already
+    - master -> agent (kubernetes only)
+- {{{[[DONE]]}}}} [[[[1:1]] with [[Peter Wong]]]]
+    - How do you feel recently?
+        - 8/10
+    - How is your {personal project / family}?
+        - Nothing special
+    - How is your theme / project?
+        - 9/10
+        - BAU
+    - How is your function?
+        - DA 
+            - code coverage 45% ++
+                - Very edge case
+                - minor feature
+                - View Model
+                - Exclude Activity & Fragment
+                - functional tests
+                    - Mock server and third party
+                - Just need to visualize 🔥🔥🔥🔥🔥🔥🔥🔥
+            - Dexguard discussion
+                - Library only dexguard
+                - PoC
+                - Cert pinning ()Q4 maybe)
+                    - Infra & Platform
+    - #CircleBack topics
+        - Include visualizing code coverage for instrumental test in Android
+        - Dexguard discussion
+- {{{[[DONE]]}}}} [[[[1:1]] with [[Vincent Chan]]]]
+    - [[Paul Leung]]
+        - Not able to communicate what he wants 
+        - Negative relationship with PMs and Designers
+        - Burn all bridge with Engineers
+        - What does he want?
+        - What does we want?
+        - What is the next step?
+        - 
+- {{{[[DONE]]}}}} [[[[1:1]] with [[Jim Wong]]]]
+    - How do you feel recently?
+        - 幾好
+    - How is your {personal project / family }?
+    - How is your theme / project?
+        - CET additional requirement 2.0
+    - How is your function?
+        - Code coverage from unit and instrumental tests
+            - command can generate
+- {{{[[DONE]]}}}}  [[post mortem]] of server incidents
+    - 
+- {{{[[DONE]]}}}}  [[[[1:1]] with [[Ka Kui Tsang]]]]
+    - How do you feel recently?
+        - Nothing much[]()
+    - How is your {personal project / family }?
+        - New project learning
+            - Color theory
+            - Figma
+            - Dribbble
+            - Morgagate Tracker
+            - SwiftUI
+            - UI 
+    - How is your theme / project?
+        - Focusing on in-app chat
+    - How is your function?
+        - Nothing much
+    - #CircleBack topics
+        - {{query: {and: [[CircleBack]] [[Ka Kui Tsang]]}}}
+- {{[[DONE]]}}  [[[[1:1]] with [[Jay Chang]]]]
+    - How do you feel recently?
+        - nothing special
+    - How is your {personal project / family }?
+    - How is your theme / project?
+    - How is your function?
+        - okr code coverage too chur
+            - next time ask teams input before set
+        - UI awareness started in android team
+- {{[[DONE]]}}  [[[[1:1]] with [[Jackson Chung]]]]
+    - How do you feel recently?
+    - How is your {personal project / family }?
+    - How is your theme / project?
+    - How is your function?
+- https://www.getrocket.com/ #[[Ergon]]
+- https://www.headstart.io/ #[[Ergon]]
+- 
+- How do you feel when you wind down?
+    - {{slider}}

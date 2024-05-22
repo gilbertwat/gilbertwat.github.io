@@ -1,0 +1,182 @@
+- 00:00
+    - https://future.a16z.com/product-thinking/
+        - [[[[product]] thinking]] is the basis of [[design thinking]] and [[[[product]] vision]]
+        - [[[[product]] thinking]] is about inquiry the why behind each product / feature / service.
+        - [[[[product]] thinking]] is about observation of how user interacts with products
+            - your own
+            - your friends and family
+            - the world's
+        - habit to build [[[[product]] thinking]]
+            - Every week
+                - Try at least one new product/ feature/service
+                - 1 conversation or reflection about how a specific product decision impact its intended audience
+        - {{[[DONE]]}} How to apply [[[[product]] thinking]] into [[engineering [[management]]]] or [[software development]] ?
+- 01:00
+    - Director for Marketing
+        - housekeeping #[[presentation skill]]
+            - code conduct
+        - 20 stakeholders for a software purchase
+    - COO
+        - New architecture
+            - Faster to iterate
+            - Better collaboration within team
+    - Total Estimation of Impact
+        - Total cost of ownership v2.0
+        - Quantitative + Qualitative
+        - 4 parts
+            - Benefit
+            - Cost
+            - Flexibility
+            - Risk
+        - Case study
+            - Company
+            - Bad stuff
+                - Weeks to deploy new page
+                - Poor SEO
+                - low developer agility
+                - expensive and hard-to-find dev talent
+            - Investment Objectives
+                - serve to customer As fast as possible
+                - search engine rankings
+                - 80 blog pages
+            - ROI 3 years 151%
+            - 2.5 million
+            - NPV 9month 1.5M
+            - First in search ranking
+            - Video problem ..... 😞 #[[presentation skill]]
+            - Benefit
+                - + velocity
+                    - 4-6 week -> 2-3 days
+                    - -$13,000 per landing page
+                    - 25-minutes deployment
+                -  + efficiency
+                    - - workstreams
+                    - HTML editing
+                    - + Git integration
+                - - contract labor 53%
+                    - generalized 
+                    - saving 80-260 per hour, -45 hours
+                    - 3x JS dev than PHP dev
+                - + traffic by 10%
+                    - 35+ desktop 
+                    - 63+ in mobile
+                    - 5x in 18 months to domain's total number
+                    - 2 -> 100+ blog post / month
+                - conversion rate
+                    - 3-4x A/B split
+                    - + 2%
+                    - +3780 new customers
+                    - [[presentation skill]] Quantification + Qualification in the same point
+                    - [[presentation skill]] stories on each point
+                - Qualitative
+                    - architectural
+                    - jamstack
+                    - recruit + retain
+                    - saving from retiring legacy software
+                    - improved web security
+                        - 230 pages of security check
+                    - onboarding and compliance efficiencies
+                - 3 year risk adjusted costs
+                - flexibility
+                    - migration strategy is flexible
+                    - internationalization
+        - Q&A
+            - Large enterprise Fortune 10
+                - Change management
+                - People x Process
+- 10:00
+    - teachablemachine.withgoogle.com
+- 11:00
+    - [[[[Preface]] [[product]]: Coffee App]] review
+        - Missed
+- 14:00
+    - [[1:1]] [[Ehsan Ayaz]]
+        - Refocus on immediate stuff
+- 14:30
+    - [[1:1]] [[Tommie Lo]]
+        - CEO top of his mind ???
+            - Recap last [[1:1]]
+                - [[1:1]] [[Tommie Lo]]
+                    - CTO top of his mind
+                        - morale hit for coffee app not delivering to customers
+                        - Solana
+                            - theft
+                            - Solana BonFida incident
+                        - bunch.ai research
+                        - coursera find course 49 USD business model
+                    - CEO top of his mind
+                        - membership ideation
+                            - tweet personalization
+                            - health personalized coffee
+                        - Agree to hide scripting in coffee app #decided
+                            - api already integrated for if else
+                        - train barrister to be tech savvy
+                        - {{[[DONE]]}} To fix the system issues, start from both the public facing component AND also the data layer
+                        - {{[[DONE]]}} Strategic positioning of investment in other department
+            - Guess
+                - Following {{[[DONE]]}} To fix the system issues, start from both the public facing component AND also the data layer
+                    - [[Ehsan Ayaz]] is researching [[[[[[Preface]] [[product]]: website]] migration]]
+                    - [[Alexander Li]] is working on [[[[Preface]] data [[architecture]]]] to build the right dataflow
+                    - [[Moses Ngan]] is working on assisting [[[[Preface]] [[product]]: website]] and [[[[Preface]] data [[architecture]]]] on the [[[[Preface]] membership scheme]]
+                - Following Agree to hide scripting in coffee app #decided
+                    - [[Ronald Kwok]] has compile a list of public launch check list and we have prioritized on me and [[Carmen Yeung]]
+                        - Seek alignment
+                - work from home arrangement
+                - gauge morale of the leadership team
+                - Assure the morale of my team
+                - Membership system
+        - CTO top of my mind
+            - Membership system formation of team
+            - Division of labor problem and solution
+                - A clear cut for product -> tech -> sales -> ops is hard
+                    - For example product is "define what we sell / solve"
+                        - It requires an input for 
+                            - "what we can build" from tech
+                            - "what is our customer feedback" from sales
+                            - "what can we fulfill" from ops
+                    - For example tech is "build what we sell" (and optimize, and innovate new capabilities to product)
+                        - It requires a clear understanding of 
+                            - "define what we sell" from tech
+                            - "what does our customers like" from sales
+                            - "how can we fulfill" from ops
+                - Suggested solution in [[Preface]] context
+                    - Allow Directors to oversee projects (as a senior generalist + project management) and ensure conversation + decision happens (basically Directors are not half-product manager)
+                    - Allow IC to collaborate and contribute their expertises (tech/BGM/sales/ops)
+                    - groom product managers to alleviate Directors so Directors can focus on deep dive on departmental problems and high level strategy conversation
+                        - setting and communicating product direction
+                            - Define problems
+                            - Prioritize customer problem to solve to create (and capture) value.
+                        - Stakeholder management (expectation, timeline, budget ..etc.)
+                        - managing product delivery
+                        - (Nice to have) compose product marketing narratives
+        - Result
+            - Only project updates
+            - Very rushed closing
+            - Shared https://www.learnworlds.com/ perhaps a replacement for [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+- 15:15
+    - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] weekly planning
+        - [[[[[[Preface]] [[product]]: website]] migration]]
+        - [[[[Preface]] 2.0: credit system]] public website update
+        - [[[[Preface]] [[NFT]]]] public website update
+- 
+- 18:00
+    - [[Week 6]] review
+        - References
+            - {{query: {and: [[DONE]] {between: [[[[January 31st, 2022]]]] [[[[February 10th, 2022]]]]}}}}
+        - What did you #achievements this week?
+            - Decided that...
+                - {{query: {and: [[decided]] {between: [[[[January 31st, 2022]]]] [[[[February 10th, 2022]]]]}}}}
+            - Fixed
+                - [[[[Preface]] [[post mortem]] 3]]
+                    - The DNS is set wrongly hence a lot of email cannot be received
+            - Shipped
+            - Moved X to <next step>
+        - How did you #feel this week?
+            - I felt ...
+- {{[[DONE]]}} [[Meditation]] 2 {{[[moved]]}}[*](((86KluZ94v)))
+- {{[[DONE]]}}  [[[[[[Preface]] [[NFT]]]] initial launch]] {{[[∆]]}}
+- {{[[DONE]]}}  [[2022 Tech Plan [[Preface]]: High level]] {{[[∆]]}}
+- [[Launch Plan for [[[[Preface]] [[product]]: Coffee App]]]] {{[[∆]]}}
+- {{[[DONE]]}} [[[[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] next phase update]] {{[[∆]]}}
+- {{[[DONE]]}} Write [[[[Preface]] [[post mortem]] 2]]  {{[[∆]]}}
+- {{[[DONE]]}}  [[->]] [[Ehsan Ayaz]] API route in [[nextjs]] {{[[∆]]}}

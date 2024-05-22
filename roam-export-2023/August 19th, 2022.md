@@ -1,0 +1,45 @@
+- {{[[DONE]]}}  [[exercise]] for 15 - 30 minutes
+- #Energy
+    - Exhausted
+- 09:30
+    - [[1:1]] with [[Tommie Lo]]
+        - Shared the [[web3]] thinking with [[Tommie Lo]]
+            - I think I have mistaken the focus of the [[web3]] it is actually [[Metaverse]] instead
+                - [[[[tokenomics]] of [[Preface]]]] is not the focus
+                - but the [[[[Metaverse]] of [[Preface]]]]
+- 10:30
+    - [[Hema Shah]] consultation
+        - Conclusion is that we cannot have a good [[data quality]] governance without a clear enough [[SOP]]
+        - [[Hema Shah]] is looking for solution for the [[data quality]] problem in [[Hubspot]]
+            - [[Hubspot]] has a lot of unused contacts and they costs a lot (5HKD per contacts)
+- 11:00
+    - [[weekly meeting on [[Preface]] research on AI]]
+        - Decide we have to increase our visibility by publishing
+            - {{[[DONE]]}}  Monthly summary for the company to understand the category of our research and where are we now? Finished at 11:10 [[November 17th, 2022]]
+- 11:30
+    - [[Anna Yu]] on [[[[product]] requirement document]] of [[[[Preface]] Seamless Buy Link]]
+        - {{[[DONE]]}}  Added tracking out of scope in MVP for [[Anna Yu]] and will circle back in [[August 31st, 2022]]
+- 12:00
+    - Visit [[Grandpa]]
+- 14:30
+    - Chat with [[Vegas Ho]] on people's matter
+        - #decided
+            - {{[[DONE]]}}  Make sure [[Ken Chow]] is well handled for all decisions we have made
+                - Made a #decided based on the quality of work and the current market situation and the current company situation to keep [[Ken Chow]]
+        - #progress
+            - Articulate the reason of disillusioned employees, individually
+- 15:00
+    - Interview
+        - Failed
+            - will report to the team in [[[[[[Preface]] tech team]] weekly meeting]] [[August 23rd, 2022]]
+- 16:00
+    - [[1:1]] with [[Ben Cheng]]
+        - On [[setting up standard]] in his [[manager]] career
+            - need to be able to articulate the standard to our teammates
+                - Very hard and need practice.
+- 16:30
+    - [[1:1]] with [[Yoon Kim]]
+        - Presentation of Data team
+        - Current tasks on data warehouse
+- 17:00
+    - {{[[DONE]]}}  Finished UI UX design with [[Ken Chow]]

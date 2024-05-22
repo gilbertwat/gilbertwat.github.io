@@ -1,0 +1,47 @@
+- 10:15 
+    - [[Hema Shah]]
+        - Prioritization framework
+            - Weekly reward for new feature
+- 10:45
+    - [[[[Preface]] membership scheme]] calls with [[Tommie Lo]] [[Anton Kwan]] [[Ronald Kwok]] [[TC Ng]] [[Carmen Yeung]] [[Anna Yu]]
+        - {{[[DONE]]}} [[->]] minting fees for 2 options: Self mint or Airdrop [[Ronald Kwok]]
+    - {{[[DONE]]}}  [[[[Preface]] [[NFT]]]] task: [[Guide for layman in operating Ethereum wallet]] [[Billy Wong]]
+- 11:15
+    - [[Hema Shah]]
+        - Expose the [[[[Preface]] [[product]]: Coffee App]] concerns
+- 14:00
+    - [[Moses Ngan]] [[1:1]] [[Pairing]]
+        - Effort for maintaining business reliability for data update request.
+        - [[[[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] next phase update]]
+            - Separation of systems, the internal portal can be divided into
+                - Student Profile
+                - Nomad Profile
+                - Scheduling
+                - Curriculum Contructing
+                - Finance
+                - [[[[Preface]] [[product]]: website]]
+- 16:00
+    - [[Alexander Li]] #Pairing
+        - discuss about data cleansing work
+        - Discovered that [[[[Preface]] data [[architecture]]]] has a lot of non-analysis report / dashboard
+            - Those are operational dashboards for our business
+        - #decided about the [[[[Preface]] data [[architecture]]]]
+            - To research a way to incorporate real time data to google data studio
+            - To play around with different dashboarding tools
+- 18:00 [[Ronald Kwok]]
+    - About the [[[[Preface]] [[NFT]]]] minting fee 
+    - {{[[DONE]]}} [[->]] [[Ronald Kwok]] how can we verify the wallet is owned by the member? [[[[Preface]] [[NFT]]]]
+
+- 19:00
+    - Fixed Gmail cannot receive email problem
+- 21:00
+    - Reorganizing Notes for
+        - {{[[DONE]]}}  [[February 7th, 2022]] 
+        - {{[[DONE]]}}  [[February 8th, 2022]] 
+        - {{[[DONE]]}}  [[February 9th, 2022]] 
+        - {{[[DONE]]}} [[February 10th, 2022]]
+- 22:00
+    - Conversation about online learning to combat 5th wave of [[Wuhan Virus]]
+        - Our brand position is different from amazingtalker
+            - So they are like 現代，selling their 名師, we are like EF / Kaplan, selling our brand. if I understand correctly.
+        - Consolidate [[[[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] next phase update]]

@@ -1,0 +1,6 @@
+- 
+- [[GOGOX]] next step
+- [[strategic thinking]] need to play out key decisions before making it.
+- [[strategic thinking]] need to shift the perspective to someone else.
+- [[strategic thinking]] need to lay out the the assumptions, supported by evidence, context and falsifiable.
+- 

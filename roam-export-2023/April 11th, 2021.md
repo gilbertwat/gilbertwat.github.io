@@ -1,0 +1,2 @@
+- https://www.kennedytrainingsystem.com/screen/page/exerciselibrary/language/en [[💦 Workout]]
+- 

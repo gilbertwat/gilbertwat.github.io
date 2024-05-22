@@ -1,0 +1,106 @@
+- Overview
+- Company situation
+    - Wuhan Virus
+    - Instability in the regions (HK, TW, CN)
+    - Tight tech budget
+    - Legacy components in tech
+        - Admin Panel
+        - Pricing
+            - Additional Requirement
+            - Driver Amendment
+            - Promo Code
+            - Vehicle Type
+            - Special Pricing Day
+            - Pricing model
+    - Split between Biz and Tech
+- Long term vision
+    - Fulfillment
+- Company 2020 OKRs
+    - Continued & sustainable growth
+    - Achieve solid growth outside HK
+    - Maintain burn and improve efficiencies
+    - Test expansion via lean launches and/or agent model
+- Product Top line metrics
+    - Order Requests
+    - completion Rate
+    - Avg GMV per orders
+    - Avg. comm. per orders
+    - Themes
+        - DT
+            - Top metrics
+                - # New User
+                    - Promo code (Scope??)
+                    - VN (Scope??)
+                    - Public API
+                - # Retention Rate
+                    - ???
+                - Completion Rate
+                    - Order bundling for courier
+                - Daily Active Courier
+                - Orders per courier
+                    - Public API
+                - Revenue
+                    - Public API
+                    - Commission
+                        - How much operation hours are we expecting to save?
+                    - Fountain
+                        - How many are we going to save??
+            - Big bet
+                - Hub & spoke
+        - PT
+            - Top metrics
+                - Payment Preferences
+                - response time
+                    - HK
+                    - SG
+                - Retention
+                - Client wallet topup $
+                    - New Payment Options
+                - Premium services $
+                - Driver wallet Topup
+                    - GGD support
+                - User #
+                    - Coupon
+                - Retention
+                    - Coupon
+                - Chargeback protection (Not in top line metrics / NPS??)
+                    - PaymentIntent
+        - GMT
+            - App review process
+        - BET
+            - Top Metrics
+                - GMV
+                - MAU
+                - Order Completed
+                    - Location
+                    - Favorite Address
+                    - Favorite driver
+                - Retention LTV
+            - Big Bet
+                - bulk Import
+                - additional requirement
+                - Revamp
+        - IT
+            - New Capability
+            - NPS
+        - IET
+            - NPS
+        - CET
+            - Top metrics
+                - Completed orders
+                    - HK
+                    - SG
+                    - TW
+                    - Route Selection Enhancement
+                - Margin
+                - Incentivize Driver Behavior
+            - Big Bet
+                - Dynamic Additional Requirement
+        - DET
+            - Topline metrics
+                - Driver > 10 orders, > 7 days in last 28 days
+            - Bet
+                - Addition Requirement
+                - Surcharge
+                - Route Filter
+                    - [[Keith Chan]], [[Henry Tang]], [[Ivo Wu]]

@@ -1,0 +1,33 @@
+- {{[[ARCHIVED]]}} #to-audit current liquid assets #finance
+    - 
+- [[[[2022]] Week 48]] review
+    - Projects
+        - `Decided that...
+Fixed...
+Shipped...
+Moved X to <next step>`
+        - Coffee App
+            - Fixed yet another security concerns, our SMS is safe now.
+            - James our contractor will come back with a quote in next week.
+        - Customer Portal
+            - New system design for "happenings" is done.
+            - Recommendation engine integration
+        - Content Recommendation System
+            - Brainstorming new model
+            - Collection of data needs to be feeding the flywheel
+        - Lead database
+            - As progress as we are consolidating all data sources from operation team and sales and marketing team
+        - BUD
+    - Overall Strategy
+        - Data strategy
+        - Tech strategy
+    - Team matters
+        - Everything is normal for now
+    - Bottleneck
+        - Still a lot of negotiation on my plate for now
+    - Decision needed
+    - References
+        - [[[[2022]] Week 47]] #goals
+        - 
+        - 
+        - {{[[query]]: {and:[[DONE]] {between:[[November 20th, 2022]] [[November 26th, 2022]]}}}}

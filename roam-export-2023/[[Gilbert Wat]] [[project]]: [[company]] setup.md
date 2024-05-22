@@ -1,0 +1,5 @@
+- Where should we set up?
+- 
+- https://www.firstbase.io/pricing
+- https://startfleet.io/#intro-procedure
+- https://www.zenbusiness.com/small-business-taxes/

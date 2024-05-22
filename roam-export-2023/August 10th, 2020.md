@@ -1,0 +1,29 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[meetings]] [[Tom Lui]] for [[[[GOGOX]] Driver Experience Theme]]
+    - {{{[[DONE]]}}}} [[[[GOGOX]] Weekly [[Sync up]]: Delivery [[meetings]] ]]
+    - {{{[[DONE]]}}}} [[1:1]] with [[Young]]
+    - {{{[[DONE]]}}}} [[[[Interview]] [[[[QA]] [[Engineer]]]]]]
+    - 
+    - {{{[[DONE]]}}}} [[[[Sprint Retrospective]] and [[Sprint Planning]] for [[[[GOGOX]] Driver Experience Theme]]]]
+        - Mood is ??
+        - Sprint Goal is ??
+        - Sprint Retrospective
+            - Win?
+            - Learnings?
+            - Next Sprint Actionable?
+            - Last sprint actionable follow up?
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Rob Dong]]]]
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Ravic Poon]]]]
+        - #CircleBack Immigration 
+        - #CircleBack QA problem
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

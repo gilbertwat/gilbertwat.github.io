@@ -1,0 +1,432 @@
+- Metadata
+    - **Author:** [[Ron Chernow]]
+    - **Start date:** [[August 13th, 2020]]
+    - **Reading status:** [[read]]
+    - [[Topics]]
+        - [[Biography]] [[History]] 
+- Excerpts:
+    - NOTE: I am starting to appreciate the meticulousness of historian on such a trivial matter. It is an attitude, a pride not a necessity. If we are too pragmatic this will be deemed unnecessary
+    - LOCATION: 542
+    - NOTE: The racism is so strong, it has been lingered for a several centuries.
+    - LOCATION: 605
+    - I have often been powerfully affected by the fervor and eloquence of his prayers.
+    - LOCATION: 1335
+    - They also curbed popular assemblies, restricted trial by jury, subjected Massachusetts to ham-handed military rule, and guaranteed that the Boston streets would be blanketed with British troops in an overpowering show of force. On May 13, General Thomas Gage, the new military commander, arrived in Boston with four regiments to enforce these acts, which dealt a crippling blow to the free-spirited maritime town. The British response triggered a still tenuous unity among colonists who balked at the notion that Parliament could impose taxes without their consent. Until this point, the colonies had been tantamount to separate countries, joined by little sense of common mission or identity. Now committees of correspondence in each colony began to communicate with one another, issuing calls for a trade embargo against British goods and summoning a Continental Congress in Philadelphia in September.
+    - NOTE: It is almost the same as here in Hong Kong.
+    - LOCATION: 1381
+    - If true to his later style, Hamilton gained energy as he spoke.
+    - LOCATION: 1396
+    - The task of government was not to stop selfish striving—a hopeless task—but to harness it for the public good.
+    - LOCATION: 1518
+    - the crowd pulled George III down from his pedestal, decapitating him in the process. The four thousand pounds of gilded lead was rushed off to Litchfield, Connecticut, where it was melted down to make 42,088 musket bullets. One wit predicted that the king’s soldiers “will probably have melted majesty fired at them.”56
+    - NOTE: This will be very satisfying
+    - LOCATION: 1909
+    - but the general dissipation of troops addicted to whoring and drinking was more likely to blame.
+    - LOCATION: 1920
+    - The war was beginning to look like a farcical mismatch. The patriots were a slovenly, dejected bunch, while the redcoats, in their trim uniforms and brandishing polished bayonets, stepped smartly into battle to the inspirational strains of a military band.
+    - LOCATION: 1996
+    - With these back-to-back victories, Washington saved Philadelphia from enemy forces
+    - NOTE: A slim success is essential to morale
+    - LOCATION: 2058
+    - homoerotic overtones in their relationship.
+    - LOCATION: 2294
+    - “There is a note of romance in their friendship, quite unusual even in those days, and Lafayette, especially during his early sojourn in this country, was on the closest terms with Hamilton”?
+    - LOCATION: 2331
+    - The broader point is that Alexander Hamilton, the outsider from the West Indies, had a rare capacity for friendship and was already attracting a circle of devoted, well-placed people who were to help to propel him to the highest political plateau.
+    - LOCATION: 2340
+    - With reluctance, he invested Hamilton with tyrannical powers and placed one hundred men at his disposal, authorizing him to requisition supplies from Philadelphia residents.
+    - NOTE: This is the best part, hiw can one force sacrifice from the meass in a democratic revolution?
+    - LOCATION: 2391
+    - To endure such suffering required stoicism reminiscent of the ancient Romans, so Washington had his favorite play, Addison’s Cato, the story of a self-sacrificing Roman statesman, staged at Valley Forge to buck up his weary men.
+    - NOTE: To boost the morale of the troop
+    - LOCATION: 2568
+    - Hamilton began to meditate on the deeper causes of the surrounding misery. Because the colonies had been forced to rely on England for textiles, the patriots lacked clothing. Because the colonies had relied on England for munitions, they lacked weapons.
+    - LOCATION: 2578
+    - America’s idolatry of George Washington may have truly begun at the battle of Monmouth.
+    - NOTE: Similar in the movie of
+    - LOCATION: 2731
+    - Tell me, my pretty damsel, have you made up your mind upon the subject of housekeeping?
+    - NOTE: I do want to ask too
+    - LOCATION: 3442
+    - Some of your sex possess every requisite to please, delight, and inspire esteem, friendship, and affection. But there are too few of this description. We are full of vices.
+    - LOCATION: 3454
+    - growing hot under the collar
+    - LOCATION: 3623
+    - “My principal concern arises from an apprehension that you will impute my refusal of your request to other motives than these I have expressed.”
+    - NOTE: The candor of Washington is marvelous
+    - LOCATION: 3626
+    - Where others saw only lofty ships and massed bodies of redcoats, Hamilton perceived a military establishment propped up by a “vast fabric of credit. . . .
+    - NOTE: This is very relevant to current war.
+    - LOCATION: 3655
+    - This was an extremely subtle, sophisticated analysis for a young man immersed in wartime details for four years: America could defeat the British in the bond market more readily than on the battlefield.
+    - LOCATION: 3660
+    - The whole jerry-built structure—the endless ad hoc committees, the voting rules that encouraged states to veto vital measures, the term limits that restricted congressmen to three one-year terms in a six-year period—guaranteed paralysis.
+    - NOTE: USA started with a shitty system too.
+    - LOCATION: 4036
+    - The incident again showed that Hamilton, far from being a crafty plotter, often could not muzzle his opinions.
+    - NOTE: I need to be able to write equal stories with people i hv interact with dearly.
+    - LOCATION: 4099
+    - Washington perceived the importance of enshrining the principle that military power should be subordinated to civilian control.
+    - NOTE: It is because of George Washington principled decision, US is out of the control of junta for 250 years. Trump is destroying that.
+    - LOCATION: 4147
+    - Hamilton still clung to the notion that a convincing bluff of armed force could help spur congressional action, but that was as far as he would venture. “As to any combination of force,” he observed, “it would only be productive of the horrors of a civil war, might end in the ruin of the country, and would certainly end in the ruin of the army.”
+    - NOTE: He is self aware
+    - LOCATION: 4169
+    - Its flagrant weaknesses stemmed from its constitution, not from its administration.
+    - NOTE: Hamilton understands the system.
+    - LOCATION: 4249
+    - He was not a politician seeking popularity but a statesman determined to change minds.
+    - NOTE: This is a good exmple of objectivity
+    - LOCATION: 4582
+    - Hamilton’s marriage into the Schuyler family may have created complications in his stand on slavery.
+    - NOTE: Same kinds of dilemma for me to work for chinese investor and support democracy
+    - LOCATION: 4849
+    - Washington was so stung by the uproar that at the society’s first general meeting in Philadelphia in May 1784 he prevailed upon the members to delete the provision for hereditary membership.
+    - NOTE: Another chance that USA evolve into aristocracy or miltary junta
+    - LOCATION: 5000
+    - Hamilton’s besetting fear was that American democracy would be spoiled by demagogues who would mouth populist shibboleths to conceal their despotism.
+    - NOTE: 240years later, USA is in this crossroad again
+    - LOCATION: 5064
+    - Hamilton might have tolerated such flaws had it not been for one unforgivable sin: Clinton favored New York to the detriment of national unity.
+    - NOTE: Your nemesis should be at least represebt the same level of yourself.
+    - LOCATION: 5070
+    - Whether through luck, premeditation, or a knack for making things happen, Hamilton continued to demonstrate his unique flair for materializing at every major turning point in the early history of the republic.
+    - LOCATION: 5105
+    - The sage had opposed salaries for executive-branch officers, hoping such a measure would produce civic-minded leaders, not government officials feeding at the public trough.
+    - LOCATION: 5278
+    - He said people were tiring in their enthusiasm for “democracy,” by which he meant direct representation or even mob rule, as opposed to public opinion filtered through educated representatives.
+    - LOCATION: 5320
+    - Behind the conviviality lurked unspoken fears, and Washington, for one, doubted that the new federal government would survive twenty years.
+    - NOTE: The histiry is not written in that time.
+    - LOCATION: 5558
+    - This flexibility has always been honored as a sign of political maturity, whereas Hamilton’s concessions have often been given a conspiratorial twist.
+    - NOTE: Maturity Equals flexibility.
+    - LOCATION: 5567
+    - Despite Hamilton’s reputation as the elitist, the starting point of Madison’s most famous essay, Federalist number 10, is that people possess different natural endowments, leading to an unequal distribution of property and conflicts of classes and interests. In a big, heterogeneous country, Madison argued, these conflicting interests would neutralize one another, checking abuses of power. “Let ambition counteract ambition,” he wrote in Federalist number 51.
+    - NOTE: The logic is assume people have different inclines, a monoculture is suppressive and not effective with different people.
+        - {{[[DONE]]}} is that true?
+    - LOCATION: 5784
+    - While conceding that republics had produced disorders in the past, Hamilton noted that progress in the “science of politics” had fostered principles that would prevent most abuses: the division of powers among departments, legislative checks and balances, an independent judiciary, and representation by elected legislators.
+    - LOCATION: 5823
+    - Not only would taxes underwrite operating expenses, but they would enable the country to pay off its debt, restore its credit, and raise large loans in wartime. From his reading of history, Hamilton concluded a few essays later that war was an inescapable fact of life: “the fiery and destructive passions of war reign in the human breast with much more powerful sway than the mild and beneficent sentiments of peace.”54
+    - LOCATION: 5877
+    - especially the monarch’s lack of accountability. Every president “ought to be personally responsible for his behaviour in office.”64
+    - LOCATION: 5935
+    - That same day, Governor Clinton argued that the United States covered so vast a territory and possessed such a variety of peoples “that no general free government can suit” all the states.99 In rebuttal, Hamilton outlined his vision of American nationalism, showing that a true nation, with a unified culture, had been fused from the diverse groups and regions of the original colonies.
+    - LOCATION: 6096
+    - That Hamilton could be so sensitive to criticisms of himself and so insensitive to the effect his words had on others was a central mystery of his psyche.
+    - LOCATION: 6318
+    - Like other founding fathers, Hamilton inhabited two diametrically opposed worlds. There was the Olympian sphere of constitutional debate and dignified discourse—the way many prefer to remember these stately figures—and the gutter world of personal sniping, furtive machinations, and tabloid-style press attacks.
+    - LOCATION: 6325
+    - If Washington lacked the first-rate intellect of Hamilton, Jefferson, Madison, Franklin, and Adams, he was gifted with superb judgment. When presented with options, he almost invariably chose the right one. Never a pliant tool in Hamilton’s hands, as critics alleged, he often overrode his treasury secretary.
+    - LOCATION: 6658
+    - “He consulted much, pondered much, resolved slowly, resolved surely,” Hamilton later said of the president.76 Washington could weigh all sides of an issue and coolly appraise the political repercussions.
+    - LOCATION: 6666
+    - He said that the first holders were not simply noble victims, nor were the current buyers simply predatory speculators. The original investors had gotten cash when they wanted it and had shown little faith in the country’s future. Speculators, meanwhile, had hazarded their money and should be rewarded for the risk.
+    - LOCATION: 6843
+    - It was simply that he had been outsmarted by Hamilton, who had embedded an enduring political system in the details of the funding scheme.
+    - LOCATION: 7606
+    - As an alternative, Hamilton touted a central bank that could issue paper currency in the form of banknotes redeemable for coins. This would set in motion a self-correcting system. If the bank issued too much paper, holders would question its value and exchange it for gold and silver; this would then force the bank to curtail its supply of paper, restoring its value.
+    - LOCATION: 7986
+    - It was in the nature of Hamilton’s achievement as treasury secretary that each of his programs was designed to mesh with the others to form a single interlocking whole.
+    - LOCATION: 8003
+    - Madison accused him of exploiting that power and “levelling all the barriers which limit the powers of the general government and protect those of the state governments.”25
+    - NOTE: The debate of overpower is always the center of a democratic society.
+    - LOCATION: 8030
+    - Hamilton and Coxe teamed up in a daring assault on British industrial secrets. Coxe decided that the best way to achieve industrial parity with England was to woo knowledgeable British textile managers to America, even if this meant defying English law.
+    - LOCATION: 8509
+    - Hamilton evoked a thriving future economy that bore scant resemblance to the static, stratified society his enemies claimed he wanted to impose. His America would be a meritocracy of infinite variety, with a diversified marketplace absorbing people from all nations and backgrounds.
+    - LOCATION: 8606
+    - The founders, however, viewed parties, or “factions” as they termed them, as monarchical vestiges that had no legitimate place in a true republic.
+    - NOTE: Even The founders doesn't get everything right in the first place
+    - LOCATION: 8923
+    - Since politicians considered parties bad, they denied involvement in them, bristled at charges that they harbored partisan feelings, and were quick to perceive hypocrisy in others. And because parties were frightening new phenomena, they could be easily mistaken for evil conspiracies, lending a paranoid tinge to political discourse. The Federalists saw themselves as saving America from anarchy, while Republicans believed they were rescuing America from counterrevolution. Each side possessed a lurid, distorted view of the other, buttressed by an idealized sense of itself.
+    - NOTE: Conflicting since 1792
+    - LOCATION: 8953
+    - “Madison tended to think that those who opposed what seemed to him the obvious truth must have evil motives.”41
+    - LOCATION: 9142
+    - If he had wanted to impose a monarchy upon America, Hamilton said, he would follow the classic path of a populist demagogue: “I would mount the hobbyhorse of popularity, I would cry out usurpation, danger to liberty etc. etc. I would endeavour to prostrate the national government, raise a ferment, and then ride in the whirlwind and direct the storm.”
+    - NOTE: Trump
+    - LOCATION: 9188
+    - The great irony was that the man who repeatedly accused Hamilton of meddling
+    - NOTE: This menuveur can only do cannot say.
+    - LOCATION: 9756
+    - Though vice president, Adams felt so vulnerable to attack that he had a cache of arms smuggled through back lanes from the war office to his home so that he could defend his family, friends, and servants. The new republic remained an unsettled place, rife with fears of foreign plots, civil war, chaos, and disunion.
+    - LOCATION: 10053
+    - he was greeted “by a volley of stones, one of which struck his forehead.
+    - NOTE: Why are we not doing that already?
+    - LOCATION: 11175
+    - Hamilton was not content to write as Camillus alone. Two days after his second essay appeared, he began to publish, in the same paper, a parallel series as “Philo Camillus.” For several weeks, Philo Camillus indulged in extravagant praise of Camillus and kept up a running attack on their Republican adversaries. The prolific Hamilton was now writing pseudonymous commentaries on his own pseudonymous essays. He also tossed in two trenchant essays under the name “Horatius” in which he accused Jeffersonians of “a servile and criminal subserviency to the views of France.”
+    - NOTE: Fake news circa 1800s
+    - LOCATION: 11287
+    - they had established forever the principle of executive-branch leadership in foreign policy.
+    - LOCATION: 11413
+    - It is difficult to disentangle the contributions of Washington and Hamilton because their ideas overlapped on many issues.
+    - NOTE: Teamwork
+    - LOCATION: 11544
+    - The conundrum can be solved partly by noting that the political stars were never suitably aligned for Hamilton.
+    - LOCATION: 11605
+    - Hamilton lived in a world of moral absolutes and was not especially prone to compromise or consensus building. Where Washington and Jefferson had a gift for voicing the hopes of ordinary people, Hamilton had no special interest in echoing popular preferences. Much too avowedly elitist to become president, he lacked what Woodrow Wilson defined as an essential ingredient for political leadership: “profound sympathy with those whom he leads—a sympathy which is insight—an insight which is of the heart rather than of the intellect.”36
+    - LOCATION: 11613
+    - NOTE: Heart rather than intellect.
+    - LOCATION: 11617
+    - George Washington, who “consulted much, pondered much, resolved slowly, resolved surely,”
+    - LOCATION: 11647
+    - John Adams, by contrast, was fiery and dyspeptic, as volatile as Washington was steady.
+    - LOCATION: 11648
+    - Many Republicans deplored standing armies as tools used by oppressive kings to subdue popular legislatures.
+    - LOCATION: 12614
+    - Adams, who sometimes portrayed himself as a passive spectator of his presidency,
+    - NOTE: I feel despise. I think he is trying to evade responsibility.
+    - LOCATION: 12638
+    - Had the army taken on a more bipartisan complexion, it might well have been more popular.
+    - NOTE: There was a time talents and hard skills is not suffice to secure a top posts, balance of power is also important
+    - LOCATION: 12853
+    - Like other Federalists infected with war fever, Hamilton increasingly mistook dissent for treason and engaged in hyperbole.
+    - LOCATION: 13003
+    - Jefferson acknowledged the strategic power of these papers for Federalists and Republicans alike. “The engine is the press,” he told Madison. “Every man must lay his purse and his pen under contribution.”
+    - LOCATION: 13034
+    - What Adams could not admit was that he had failed to exercise strong leadership and had allowed the feud with Hamilton and his cabinet to fester. Escaping to his home in Quincy was not the most effective way to deal with intramural clashes.
+    - LOCATION: 13241
+    - “a great deal of fun and honor and profit.” [[Gilbert Wat]]
+        - NOTE: I should choose my endeavors with these criteria #[[Gilbert Wat]]
+    - LOCATION: 13858
+    - Jefferson had no true respect for Burr, much less affection. Their partnership was to last as long as it served their mutual interests and not a second longer.
+    - NOTE: Rapport and trust is hard to come by
+    - LOCATION: 13935
+    - one that may explain its ultimate failure to survive: the elitist nature of its politics. James McHenry complained to Oliver Wolcott, Jr., of their adherents, “They write private letters to each other, but do nothing to give a proper direction to the public mind.”
+    - NOTE: Do not try this in company
+    - LOCATION: 14309
+    - For years, he had experienced all the self-imposed pressures of the prodigy, the autodidact, the self-made man.
+    - LOCATION: 15194
+    - No impulse was more deeply rooted in his nature.
+    - NOTE: What is sth i am impossible to escape from ro resist?
+    - LOCATION: 15571
+    - Hamilton could have mollified Burr by saying that he had no personal quarrel with him and offering a bland statement of apology or regret. Instead, he adopted the slightly irritated tone of a busy man being unjustly harassed. In niggling, hairsplitting style, Hamilton objected that Burr’s charge against him was too general and that “if Mr. Burr would refer to any particular expressions, he would recognize or disavow them.”21
+    - NOTE: Only here I suddenly realize that my tone and choice of words with Paul can be considered as irritating and condescending
+    - LOCATION: 15627
+    - The final letters written by Hamilton and Burr provide an instructive comparison. As the two men contemplated eternity,
+    - NOTE: How will i think and write so?
+    - LOCATION: 15936
+- The most off-my-mind learning after reading:
+    - USA has been dealing with fake news and completely different version of reality since 1792.
+    - USA challenges faced today has always been the challenge from 1792.
+    - France and England is two of the greatest foreign influence in USA.
+    - Words are to be interpreted in a very different way if there is very low trust between parties.
+    - fun, honor and profit is how I will find my next [[business]]. #[[Gilbert Wat]]
+- [[Metadata]]
+    - **Author:** [[Ron Chernow]]
+    - **Start date:** [[August 13th, 2020]]
+    - **Reading status:** [[read]]
+    - [[Topics]]
+        - [[Biography]] [[🏛️ History]] 
+- Excerpts:
+    - NOTE: I am starting to appreciate the meticulousness of historian on such a trivial matter. It is an attitude, a pride not a necessity. If we are too pragmatic this will be deemed unnecessary
+    - LOCATION: 542
+    - NOTE: The racism is so strong, it has been lingered for a several centuries.
+    - LOCATION: 605
+    - I have often been powerfully affected by the fervor and eloquence of his prayers.
+    - LOCATION: 1335
+    - They also curbed popular assemblies, restricted trial by jury, subjected Massachusetts to ham-handed military rule, and guaranteed that the Boston streets would be blanketed with British troops in an overpowering show of force. On May 13, General Thomas Gage, the new military commander, arrived in Boston with four regiments to enforce these acts, which dealt a crippling blow to the free-spirited maritime town. The British response triggered a still tenuous unity among colonists who balked at the notion that Parliament could impose taxes without their consent. Until this point, the colonies had been tantamount to separate countries, joined by little sense of common mission or identity. Now committees of correspondence in each colony began to communicate with one another, issuing calls for a trade embargo against British goods and summoning a Continental Congress in Philadelphia in September.
+    - NOTE: It is almost the same as here in Hong Kong.
+    - LOCATION: 1381
+    - If true to his later style, Hamilton gained energy as he spoke.
+    - LOCATION: 1396
+    - The task of government was not to stop selfish striving—a hopeless task—but to harness it for the public good.
+    - LOCATION: 1518
+    - the crowd pulled George III down from his pedestal, decapitating him in the process. The four thousand pounds of gilded lead was rushed off to Litchfield, Connecticut, where it was melted down to make 42,088 musket bullets. One wit predicted that the king’s soldiers “will probably have melted majesty fired at them.”56
+    - NOTE: This will be very satisfying
+    - LOCATION: 1909
+    - but the general dissipation of troops addicted to whoring and drinking was more likely to blame.
+    - LOCATION: 1920
+    - The war was beginning to look like a farcical mismatch. The patriots were a slovenly, dejected bunch, while the redcoats, in their trim uniforms and brandishing polished bayonets, stepped smartly into battle to the inspirational strains of a military band.
+    - LOCATION: 1996
+    - With these back-to-back victories, Washington saved Philadelphia from enemy forces
+    - NOTE: A slim success is essential to morale
+    - LOCATION: 2058
+    - homoerotic overtones in their relationship.
+    - LOCATION: 2294
+    - “There is a note of romance in their friendship, quite unusual even in those days, and Lafayette, especially during his early sojourn in this country, was on the closest terms with Hamilton”?
+    - LOCATION: 2331
+    - The broader point is that Alexander Hamilton, the outsider from the West Indies, had a rare capacity for friendship and was already attracting a circle of devoted, well-placed people who were to help to propel him to the highest political plateau.
+    - LOCATION: 2340
+    - With reluctance, he invested Hamilton with tyrannical powers and placed one hundred men at his disposal, authorizing him to requisition supplies from Philadelphia residents.
+    - NOTE: This is the best part, hiw can one force sacrifice from the meass in a democratic revolution?
+    - LOCATION: 2391
+    - To endure such suffering required stoicism reminiscent of the ancient Romans, so Washington had his favorite play, Addison’s Cato, the story of a self-sacrificing Roman statesman, staged at Valley Forge to buck up his weary men.
+    - NOTE: To boost the morale of the troop
+    - LOCATION: 2568
+    - Hamilton began to meditate on the deeper causes of the surrounding misery. Because the colonies had been forced to rely on England for textiles, the patriots lacked clothing. Because the colonies had relied on England for munitions, they lacked weapons.
+    - LOCATION: 2578
+    - America’s idolatry of George Washington may have truly begun at the battle of Monmouth.
+    - NOTE: Similar in the movie of
+    - LOCATION: 2731
+    - Tell me, my pretty damsel, have you made up your mind upon the subject of housekeeping?
+    - NOTE: I do want to ask too
+    - LOCATION: 3442
+    - Some of your sex possess every requisite to please, delight, and inspire esteem, friendship, and affection. But there are too few of this description. We are full of vices.
+    - LOCATION: 3454
+    - growing hot under the collar
+    - LOCATION: 3623
+    - “My principal concern arises from an apprehension that you will impute my refusal of your request to other motives than these I have expressed.”
+    - NOTE: The candor of Washington is marvelous
+    - LOCATION: 3626
+    - Where others saw only lofty ships and massed bodies of redcoats, Hamilton perceived a military establishment propped up by a “vast fabric of credit. . . .
+    - NOTE: This is very relevant to current war.
+    - LOCATION: 3655
+    - This was an extremely subtle, sophisticated analysis for a young man immersed in wartime details for four years: America could defeat the British in the bond market more readily than on the battlefield.
+    - LOCATION: 3660
+    - The whole jerry-built structure—the endless ad hoc committees, the voting rules that encouraged states to veto vital measures, the term limits that restricted congressmen to three one-year terms in a six-year period—guaranteed paralysis.
+    - NOTE: USA started with a shitty system too.
+    - LOCATION: 4036
+    - The incident again showed that Hamilton, far from being a crafty plotter, often could not muzzle his opinions.
+    - NOTE: I need to be able to write equal stories with people i hv interact with dearly.
+    - LOCATION: 4099
+    - Washington perceived the importance of enshrining the principle that military power should be subordinated to civilian control.
+    - NOTE: It is because of George Washington principled decision, US is out of the control of junta for 250 years. Trump is destroying that.
+    - LOCATION: 4147
+    - Hamilton still clung to the notion that a convincing bluff of armed force could help spur congressional action, but that was as far as he would venture. “As to any combination of force,” he observed, “it would only be productive of the horrors of a civil war, might end in the ruin of the country, and would certainly end in the ruin of the army.”
+    - NOTE: He is self aware
+    - LOCATION: 4169
+    - Its flagrant weaknesses stemmed from its constitution, not from its administration.
+    - NOTE: Hamilton understands the system.
+    - LOCATION: 4249
+    - He was not a politician seeking popularity but a statesman determined to change minds.
+    - NOTE: This is a good exmple of objectivity
+    - LOCATION: 4582
+    - Hamilton’s marriage into the Schuyler family may have created complications in his stand on slavery.
+    - NOTE: Same kinds of dilemma for me to work for chinese investor and support democracy
+    - LOCATION: 4849
+    - Washington was so stung by the uproar that at the society’s first general meeting in Philadelphia in May 1784 he prevailed upon the members to delete the provision for hereditary membership.
+    - NOTE: Another chance that USA evolve into aristocracy or miltary junta
+    - LOCATION: 5000
+    - Hamilton’s besetting fear was that American democracy would be spoiled by demagogues who would mouth populist shibboleths to conceal their despotism.
+    - NOTE: 240years later, USA is in this crossroad again
+    - LOCATION: 5064
+    - Hamilton might have tolerated such flaws had it not been for one unforgivable sin: Clinton favored New York to the detriment of national unity.
+    - NOTE: Your nemesis should be at least represebt the same level of yourself.
+    - LOCATION: 5070
+    - Whether through luck, premeditation, or a knack for making things happen, Hamilton continued to demonstrate his unique flair for materializing at every major turning point in the early history of the republic.
+    - LOCATION: 5105
+    - The sage had opposed salaries for executive-branch officers, hoping such a measure would produce civic-minded leaders, not government officials feeding at the public trough.
+    - LOCATION: 5278
+    - He said people were tiring in their enthusiasm for “democracy,” by which he meant direct representation or even mob rule, as opposed to public opinion filtered through educated representatives.
+    - LOCATION: 5320
+    - Behind the conviviality lurked unspoken fears, and Washington, for one, doubted that the new federal government would survive twenty years.
+    - NOTE: The histiry is not written in that time.
+    - LOCATION: 5558
+    - This flexibility has always been honored as a sign of political maturity, whereas Hamilton’s concessions have often been given a conspiratorial twist.
+    - NOTE: Maturity Equals flexibility.
+    - LOCATION: 5567
+    - Despite Hamilton’s reputation as the elitist, the starting point of Madison’s most famous essay, Federalist number 10, is that people possess different natural endowments, leading to an unequal distribution of property and conflicts of classes and interests. In a big, heterogeneous country, Madison argued, these conflicting interests would neutralize one another, checking abuses of power. “Let ambition counteract ambition,” he wrote in Federalist number 51.
+    - NOTE: The logic is assume people have different inclines, a monoculture is suppressive and not effective with different people.
+        - [[🤔 Questions]] is that true?
+    - LOCATION: 5784
+    - While conceding that republics had produced disorders in the past, Hamilton noted that progress in the “science of politics” had fostered principles that would prevent most abuses: the division of powers among departments, legislative checks and balances, an independent judiciary, and representation by elected legislators.
+    - LOCATION: 5823
+    - Not only would taxes underwrite operating expenses, but they would enable the country to pay off its debt, restore its credit, and raise large loans in wartime. From his reading of history, Hamilton concluded a few essays later that war was an inescapable fact of life: “the fiery and destructive passions of war reign in the human breast with much more powerful sway than the mild and beneficent sentiments of peace.”54
+    - LOCATION: 5877
+    - especially the monarch’s lack of accountability. Every president “ought to be personally responsible for his behaviour in office.”64
+    - LOCATION: 5935
+    - That same day, Governor Clinton argued that the United States covered so vast a territory and possessed such a variety of peoples “that no general free government can suit” all the states.99 In rebuttal, Hamilton outlined his vision of American nationalism, showing that a true nation, with a unified culture, had been fused from the diverse groups and regions of the original colonies.
+    - LOCATION: 6096
+    - That Hamilton could be so sensitive to criticisms of himself and so insensitive to the effect his words had on others was a central mystery of his psyche.
+    - LOCATION: 6318
+    - Like other founding fathers, Hamilton inhabited two diametrically opposed worlds. There was the Olympian sphere of constitutional debate and dignified discourse—the way many prefer to remember these stately figures—and the gutter world of personal sniping, furtive machinations, and tabloid-style press attacks.
+    - LOCATION: 6325
+    - If Washington lacked the first-rate intellect of Hamilton, Jefferson, Madison, Franklin, and Adams, he was gifted with superb judgment. When presented with options, he almost invariably chose the right one. Never a pliant tool in Hamilton’s hands, as critics alleged, he often overrode his treasury secretary.
+    - LOCATION: 6658
+    - “He consulted much, pondered much, resolved slowly, resolved surely,” Hamilton later said of the president.76 Washington could weigh all sides of an issue and coolly appraise the political repercussions.
+    - LOCATION: 6666
+    - He said that the first holders were not simply noble victims, nor were the current buyers simply predatory speculators. The original investors had gotten cash when they wanted it and had shown little faith in the country’s future. Speculators, meanwhile, had hazarded their money and should be rewarded for the risk.
+    - LOCATION: 6843
+    - It was simply that he had been outsmarted by Hamilton, who had embedded an enduring political system in the details of the funding scheme.
+    - LOCATION: 7606
+    - As an alternative, Hamilton touted a central bank that could issue paper currency in the form of banknotes redeemable for coins. This would set in motion a self-correcting system. If the bank issued too much paper, holders would question its value and exchange it for gold and silver; this would then force the bank to curtail its supply of paper, restoring its value.
+    - LOCATION: 7986
+    - It was in the nature of Hamilton’s achievement as treasury secretary that each of his programs was designed to mesh with the others to form a single interlocking whole.
+    - LOCATION: 8003
+    - Madison accused him of exploiting that power and “levelling all the barriers which limit the powers of the general government and protect those of the state governments.”25
+    - NOTE: The debate of overpower is always the center of a democratic society.
+    - LOCATION: 8030
+    - Hamilton and Coxe teamed up in a daring assault on British industrial secrets. Coxe decided that the best way to achieve industrial parity with England was to woo knowledgeable British textile managers to America, even if this meant defying English law.
+    - LOCATION: 8509
+    - Hamilton evoked a thriving future economy that bore scant resemblance to the static, stratified society his enemies claimed he wanted to impose. His America would be a meritocracy of infinite variety, with a diversified marketplace absorbing people from all nations and backgrounds.
+    - LOCATION: 8606
+    - The founders, however, viewed parties, or “factions” as they termed them, as monarchical vestiges that had no legitimate place in a true republic.
+    - NOTE: Even The founders doesn't get everything right in the first place
+    - LOCATION: 8923
+    - Since politicians considered parties bad, they denied involvement in them, bristled at charges that they harbored partisan feelings, and were quick to perceive hypocrisy in others. And because parties were frightening new phenomena, they could be easily mistaken for evil conspiracies, lending a paranoid tinge to political discourse. The Federalists saw themselves as saving America from anarchy, while Republicans believed they were rescuing America from counterrevolution. Each side possessed a lurid, distorted view of the other, buttressed by an idealized sense of itself.
+    - NOTE: Conflicting since 1792
+    - LOCATION: 8953
+    - “Madison tended to think that those who opposed what seemed to him the obvious truth must have evil motives.”41
+    - LOCATION: 9142
+    - If he had wanted to impose a monarchy upon America, Hamilton said, he would follow the classic path of a populist demagogue: “I would mount the hobbyhorse of popularity, I would cry out usurpation, danger to liberty etc. etc. I would endeavour to prostrate the national government, raise a ferment, and then ride in the whirlwind and direct the storm.”
+    - NOTE: Trump
+    - LOCATION: 9188
+    - The great irony was that the man who repeatedly accused Hamilton of meddling
+    - NOTE: This menuveur can only do cannot say.
+    - LOCATION: 9756
+    - Though vice president, Adams felt so vulnerable to attack that he had a cache of arms smuggled through back lanes from the war office to his home so that he could defend his family, friends, and servants. The new republic remained an unsettled place, rife with fears of foreign plots, civil war, chaos, and disunion.
+    - LOCATION: 10053
+    - he was greeted “by a volley of stones, one of which struck his forehead.
+    - NOTE: Why are we not doing that already?
+    - LOCATION: 11175
+    - Hamilton was not content to write as Camillus alone. Two days after his second essay appeared, he began to publish, in the same paper, a parallel series as “Philo Camillus.” For several weeks, Philo Camillus indulged in extravagant praise of Camillus and kept up a running attack on their Republican adversaries. The prolific Hamilton was now writing pseudonymous commentaries on his own pseudonymous essays. He also tossed in two trenchant essays under the name “Horatius” in which he accused Jeffersonians of “a servile and criminal subserviency to the views of France.”
+    - NOTE: Fake news circa 1800s
+    - LOCATION: 11287
+    - they had established forever the principle of executive-branch leadership in foreign policy.
+    - LOCATION: 11413
+    - It is difficult to disentangle the contributions of Washington and Hamilton because their ideas overlapped on many issues.
+    - NOTE: Teamwork
+    - LOCATION: 11544
+    - The conundrum can be solved partly by noting that the political stars were never suitably aligned for Hamilton.
+    - LOCATION: 11605
+    - Hamilton lived in a world of moral absolutes and was not especially prone to compromise or consensus building. Where Washington and Jefferson had a gift for voicing the hopes of ordinary people, Hamilton had no special interest in echoing popular preferences. Much too avowedly elitist to become president, he lacked what Woodrow Wilson defined as an essential ingredient for political leadership: “profound sympathy with those whom he leads—a sympathy which is insight—an insight which is of the heart rather than of the intellect.”36
+    - LOCATION: 11613
+    - NOTE: Heart rather than intellect.
+    - LOCATION: 11617
+    - George Washington, who “consulted much, pondered much, resolved slowly, resolved surely,”
+    - LOCATION: 11647
+    - John Adams, by contrast, was fiery and dyspeptic, as volatile as Washington was steady.
+    - LOCATION: 11648
+    - Many Republicans deplored standing armies as tools used by oppressive kings to subdue popular legislatures.
+    - LOCATION: 12614
+    - Adams, who sometimes portrayed himself as a passive spectator of his presidency,
+    - NOTE: I feel despise. I think he is trying to evade responsibility.
+    - LOCATION: 12638
+    - Had the army taken on a more bipartisan complexion, it might well have been more popular.
+    - NOTE: There was a time talents and hard skills is not suffice to secure a top posts, balance of power is also important
+    - LOCATION: 12853
+    - Like other Federalists infected with war fever, Hamilton increasingly mistook dissent for treason and engaged in hyperbole.
+    - LOCATION: 13003
+    - Jefferson acknowledged the strategic power of these papers for Federalists and Republicans alike. “The engine is the press,” he told Madison. “Every man must lay his purse and his pen under contribution.”
+    - LOCATION: 13034
+    - What Adams could not admit was that he had failed to exercise strong leadership and had allowed the feud with Hamilton and his cabinet to fester. Escaping to his home in Quincy was not the most effective way to deal with intramural clashes.
+    - LOCATION: 13241
+    - “a great deal of fun and honor and profit.” #[[🧘🏻‍♂️ Self Awareness]] #[[🤔 Questions]]
+        - NOTE: I should choose my endeavors with these criteria #[[🧘🏻‍♂️ Self Awareness]]
+    - LOCATION: 13858
+    - Jefferson had no true respect for Burr, much less affection. Their partnership was to last as long as it served their mutual interests and not a second longer.
+    - NOTE: Rapport and trust is hard to come by
+    - LOCATION: 13935
+    - one that may explain its ultimate failure to survive: the elitist nature of its politics. James McHenry complained to Oliver Wolcott, Jr., of their adherents, “They write private letters to each other, but do nothing to give a proper direction to the public mind.”
+    - NOTE: Do not try this in company
+    - LOCATION: 14309
+    - For years, he had experienced all the self-imposed pressures of the prodigy, the autodidact, the self-made man.
+    - LOCATION: 15194
+    - No impulse was more deeply rooted in his nature.
+    - NOTE: What is sth i am impossible to escape from ro resist?
+    - LOCATION: 15571
+    - Hamilton could have mollified Burr by saying that he had no personal quarrel with him and offering a bland statement of apology or regret. Instead, he adopted the slightly irritated tone of a busy man being unjustly harassed. In niggling, hairsplitting style, Hamilton objected that Burr’s charge against him was too general and that “if Mr. Burr would refer to any particular expressions, he would recognize or disavow them.”21
+    - NOTE: Only here I suddenly realize that my tone and choice of words with Paul can be considered as irritating and condescending
+    - LOCATION: 15627
+    - The final letters written by Hamilton and Burr provide an instructive comparison. As the two men contemplated eternity,
+    - NOTE: How will i think and write so?
+    - LOCATION: 15936
+- The most off-my-mind learning after reading:
+    - USA has been dealing with fake news and completely different version of reality since 1792.
+    - USA challenges faced today has always been the challenge from 1792.
+    - France and England is two of the greatest foreign influence in USA.
+    - Words are to be interpreted in a very different way if there is very low trust between parties.
+    - fun, honor and profit is how I will find my next [[business]].

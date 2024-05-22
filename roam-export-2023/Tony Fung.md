@@ -1,0 +1,7 @@
+- #[[software engineer]] #Frontend #[[React Native]]
+- Birthday: ??
+- Anniversary: ?? 
+- Super strength (With Examples):
+- Core weakness
+- Actions:
+    - Observe [[[[2020]] Q2]]

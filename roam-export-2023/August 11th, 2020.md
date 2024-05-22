@@ -1,0 +1,69 @@
+- Radiate your gratitude; Focus; Pace Yourself
+- 每一秒都要花係最重要嘅**人同事**上面
+- How do you feel when you wake up?
+    - {{slider}}
+- ((22yK4qEt6))
+    - {{{[[DONE]]}}}} [[daydaycode.io]] Today
+        - {{[[DONE]]}} Registered New Twitter account.
+        - 
+    - 
+    - {{{[[DONE]]}}}} [[1:1]] with [[Young]]
+        - Office meeting with team lead until Aug
+            - Q3 work status
+            - Planning Q4 
+            - Include Ben Lin
+            - Before Lunch
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Roger Ho]]]]
+        - How do you feel recently?
+            - Sad
+        - How is your {personal project / family }?
+            - OK lah
+        - How is your theme / project?
+            - Very busy
+        - How is your function?
+            - Very busy
+        - #CircleBack topics
+            - Junior Programmer
+                - Can discuss problems, not only executors.
+                - Bring brain back.
+            - Remote how to build product effectively.
+    - {{{[[DONE]]}}}} [[[[1:1]] with [[Belda Chan]]]]
+        - How do you feel recently?
+        - How is your {personal project / family }?
+        - How is your theme / project?
+            - What is QA process
+                - Discussion
+        - How is your function?
+            - 2 week release cycle
+            - Hotfix cycle
+                - GIve more confidence to us.
+        - #CircleBack topics
+    - Play along new features. 
+    - [[[[1:1]] with [[Phoenix Lau]]]]
+        - Young Question Description
+            - Possible Problem: 
+                - Mover non-standardization
+                - Driver Amendment free input with max no confirmation from client
+                    - Brainstorming
+                    - Priority
+                        - ???
+                        - Black Swan if Impact to KOL Bad word of mouth
+                    - Platform
+                    - Client
+                    - Driver
+            - Solution
+                - Gilbert brainstorm with Phoenix and Engineer (Roger, Victor, Keith) for a low cost solution
+                    - Mover non-standardization
+                        - SG already done
+                        - Check with Reeve 
+                    - Operational
+                        - only High quality driver can pick mover order
+                - [[Phoenix Lau]] prep [[Vincent Chan]]
+                - Gilbert motivate [[Young]] talk to HK CM ([[Reeve Kwan]]) to discuss about Driver quality problem
+- ((Ua85ewy3A))
+- ((t2QZpu4R_))
+- How do you feel when you wind down?
+    - {{slider}}
+- Winding down...
+    - 25 minutes of retrospective + planning of the next day
+    - 25 minutes of diary writing

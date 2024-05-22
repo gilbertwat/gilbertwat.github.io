@@ -1,0 +1,14 @@
+- Remaining task for [[[[Preface]] [[project]]: Supporting [[Mercendez Benz]] Annual Events]]
+    - {{[[DONE]]}}  List of creation per machine and mark printed page
+    - {{[[DONE]]}}  Email automation
+    - {{[[DONE]]}}  UI update
+    - {{[[DONE]]}}  Vertical version of generation
+    - {{[[DONE]]}}  Filtered latest page to separate different instance
+- Rest
+    - {{[[DONE]]}}  [[sleep]] 7 hours
+    - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+- Body
+    - {{[[DONE]]}}  #exercise 15 minutes
+- Mind
+    - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes
+- #health #discomfort stuffy nose

@@ -1,0 +1,64 @@
+- 09:40
+    - [[1:1]] with [[Tommie Lo]]
+        - The most important metrics are 
+            - LTV
+                - Still have doubt in putting trial class customers as "real" customers
+                - Should be able to pull from [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]]
+            - CAC
+- 11:00
+    - [[Han]] metrics for [[[[Preface]] data [[architecture]]]]
+        - {{[[DONE]]}} Gather enough metrics from all levels and departments to construct an actionable company dashboard
+        - Challenge in demand & supply
+            - There is no way to learn about the coming projects and classes, so it is hard for them to prioritize.
+                - {{[[DONE]]}}  (Gilbert) resolve with [[[[Preface]] leadership team]]
+                    - Strategy problems
+                        - Visuallize business health
+        - Challenge nomad management
+            - It is hard to do quality control.
+                - There is no way to know why are the nomads late for the classes?
+                    - confusing schedule UI
+                - In presence
+            - tier is based on teaching hours
+            - class cancellation report
+            - review from both side.
+                - quality of nomad is not clearly defined
+                    - share NPS score from [[Alexander Li]]
+            - Absense
+            - Parents' complain
+            - CRM
+                - preferences/ location ..etc
+                - currently export from hubspot to spreadsheet
+            - 60-70 active nomad all on [[Han]]
+        - class arrangement schedule
+            - bootcamp schedule
+                - basic information
+            - 1 on 1
+            - No incentives to schedule
+                - Rotate
+                - Supply is not enough
+                    - [[Alexander Li]] good question to confirm
+                        - What is the frequency of asking a low-quality nomad to teach?
+                    - {{[[DONE]]}}  Gilbert discuss with [[Ellen Lau]]
+                - Nomad has 1 month of training
+        - matching teacher and bootcamp
+- 15:00
+    - [[[[Preface]] [[product]]: Admin/Nomad/Student Portal & APIs]] Revamp
+        - Issue: Payment flow iteration
+            - It is very hard to search for the right product and course when sale team generate payment link
+                - quick fix 
+                    - search bar filtering
+                - root cause
+                    - streamline sales payment and self-services payment flow
+                    - a lot of special course not available from [[[[Preface]] [[product]]: website]]
+                    - special deal for our customers (group offer ...etc.)
+                - linked to product OKR: 20min to 5 min
+                - budget: 2 man week
+            - It is very inconvenient to create multiple line items with 1 order
+                - quick fix
+                    - Remove line-items page
+                    - Create new line items in the same order page.
+                - root cause
+                - budget: 2 man week
+            - The UX of sales for enrolling new customers and students is very bad
+- {{[[DONE]]}} Building a metabase PoC on Cloud Run with a postgresql database as backend
+    - For [[[[Preface]] data [[architecture]]]]

@@ -1,0 +1,22 @@
+- GPT-4 is out! #exciting #mood #overwhelmed
+- Google AI assistant in Google Docs Suite is out! #mood #exciting #overwhelmed
+- [[Preface]] [[culture]]
+    - **Believe in what we ****are trying to achieve! **- we might have detours, hiccups, hurdles, but the north star is still the same
+    - **Embrace grow and change! **- genuinely love learning! Excited about what’s new! Constant appetite for learning, want to know and learn more!
+    - **Works as one team!** - no single person is bigger than the team!!! professional, disregard personal feelings, help other team members when needed
+    - **Open to share! **- people are a package, no ego, “I could be wrong instead of I’m always right,” listen
+- Spend the morning on Twitter, Consolidating meeting notes for yesterday and gain access to GPT-4
+    - None of the CEX works for my credit card #frustrated
+    - Go to moonpay.com to recharge my depay credit
+    - Steps to do depay credit card for [[ChatGPT]] Plus  updated
+- 14:00
+    - [[[[Preface]] [[project]]: Website Revamp 2023]] consolidation
+        - #decision to go with the Global B2B page
+        - User Journey
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTengv3%2Fj6rmEhawrE.jpg?alt=media&token=b1525ed1-1ffd-422c-b92b-7777025725e0)
+- 15:50
+    - [[[[Preface]] [[project]]: Techbites MVP]] on [[[[Preface]] [[product]]: website]]
+        - Find out the tech stack is different from [[[[Preface]] [[product]]: Customer Portal]]
+            - swr vs react-query
+            - rebass vs material UI vs react-native paper
+            - Will have a long run cost of learning 

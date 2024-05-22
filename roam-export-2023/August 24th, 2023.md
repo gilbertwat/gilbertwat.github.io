@@ -1,0 +1,13 @@
+- #sourcing solutions for [[[[Preface]] School of Technology]]
+    - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing Knowledge management]]
+        - Improve efficiency of creating content
+        - Stakeholders: Content Team
+    - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing Video delivery platform]] 
+        - Improve the UX of [[[[Preface]] [[product]]: TechBites]]
+        - Gather user behavioral data on engagement
+    - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing CRM]]
+        - Improve the reliability sales journey
+    - {{[[DONE]]}}  [[[[Preface]] [[project]]: #sourcing student management]]
+- #Prototype for 2 topics
+    - {{[[ARCHIVED]]}}  [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]]
+    - {{[[TODO]]}}  [[[[Preface]] [[project]]: [[Generative A.I.]] #Prototype]]

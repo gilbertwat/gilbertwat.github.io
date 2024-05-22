@@ -1,0 +1,21 @@
+- [[Week 34]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[August 22nd, 2022]][[August 28th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - {{query: {and: [[decided]] {between: [[August 22nd, 2022]] [[August 28th, 2022]]}}}}
+        - Fixed...
+            - Lack of feedback loop from customer for [[Preface]] [[[[product]] discovery]]
+        - Shipped...
+            - {{[[DONE]]}}  Sharing the current [[[[UI]]/[[UX]]]] design of [[[[Preface]] Seamless Buy Link]]
+        - Moved X to <next step>
+            - [[[[Preface]] Seamless Buy Link]] to implementation stage
+            - [[[[Preface]] [[product]]: Customer Portal]] to customer interview prep stage
+            - {{query: {and: [[progress]] {between: [[August 22nd, 2022]] [[August 28th, 2022]]}}}}
+    - How did you #feel this week?
+        - {{query: {and: [[Energy]] {between: [[August 22nd, 2022]] [[August 28th, 2022]]}}}}
+        - I felt ...
+- [[August 28th, 2022]] at 00:15
+    - What can I put myself out there to put more skin in the game.
+- [[August 28th, 2022]] at 08:35
+    - https://www.instagram.com/p/ChEikCgvWY9/?igshid=YmMyMTA2M2Y=

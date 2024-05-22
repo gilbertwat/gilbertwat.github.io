@@ -1,0 +1,49 @@
+- 07:00
+    - https://twitter.com/SecretCFO/status/1565027807968862211?s=20&t=QGCkFH0p2d38o9yXwJtRXg #[[transformative activity]]
+        - {{[[DONE]]}}  [[Literature Notes]] to [[Permanent Notes]] Finished at 06:50 [[September 27th, 2022]]
+            - [[EBITDA]] is a way to show [[finance]] health of a [[company]].
+            - [[EBITDA]] = a measurement of cashflow
+            - [[EBITDA]] means Earning before Interest, Tax, Depreciation and Amortization
+            - [[gross profit]] = [[revenue]] - [[cost of goods sold]]
+            - [[EBITDA]] = [[gross profit]] - [[overheads]]
+            - [[EBIT]] =  [[EBITDA]] - [[depreciation]] - [[amortization]]
+            - [[net profit]] =[[EBIT]] - [[interest]] - [[tax]]
+            - [[salary]] for [[software development]] can be an [[amortization]] as it can be counted as investment.
+            - [[cashflow]] is the only way to really understand a business performance
+    - https://twitter.com/paulg/status/1563681954658103296?s=20&t=QGCkFH0p2d38o9yXwJtRXg #[[mindless activity]] turned #[[transformative activity]]
+        - What can be a sufficiently good bet for [[Gilbert Wat]]?
+        - Where can I put myself to synergize and can be a sufficiently good bet for [[Gilbert Wat]]?
+- 11:00
+    - [[weekly meeting on [[Preface]] research on AI]] #[[foundation activity]]
+        - This week we do
+            - [[transformer]] lecture continue
+            - finish up decoder
+            - Decide that maybe there is a lot of knowledge
+            - [huggingface](https://huggingface.co/) trial
+            - Existing model for generating content with curriculum text
+        - Next week
+            - showcasing data warehouse
+            - [huggingface](https://huggingface.co/) exploration
+- 14:30
+    - [[Tommie Lo]] [[1:1]] #[[transformative activity]] #[[foundation activity]]
+        - [[[[tokenomics]] of [[Preface]]]]
+            - Impact project seems a sell this time
+            - Something we release only via credit
+                - https://www.coinbase.com/learn/crypto-basics/what-is-apecoin
+            - Ease of audit
+                - credit usage and cash-in
+        - {{[[DONE]]}}  Find talent to improve [[[[Preface]] [[product]]: Coffee App]] Finished at 11:12 [[November 17th, 2022]]
+        - {{[[DONE]]}}  Find good enough loyalty program SaaS to kick start [[[[Preface]] membership scheme]] Finished at 11:12 [[November 17th, 2022]]
+        - {{[[DONE]]}} Find talent to build [[Preface]] metaverse experience Finished at 11:12 [[November 17th, 2022]]
+        - Talk about [[Ken Chow]]
+            - Manage out
+        - Talk about [[Alexander Li]]
+            - Big chance of promotion need [[Tommie Lo]] very last approval
+- 16:30
+    - [[1:1]] [[Ken Chow]] #[[foundation activity]] #[[draining activity]] [[hard conversation]]
+        - Bridge the communication problem
+        - A lot of crazy disjoint in concepts
+        - MVP can forgone UI/UX details
+        - Will not give 100% in work, or else I will ask for 200% tomorrow
+        - Very rude and demand debate and discussion
+        - "我唔可以阻止你comment 我嘅 design 嘅欲望"

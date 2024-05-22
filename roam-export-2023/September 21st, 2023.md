@@ -1,0 +1,20 @@
+- #security https://owasp.org/www-project-top-ten/
+- [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]] is delayed because [[Tommie Lo]] has decided to pay out [[James Cheuk]] later, and [[James Cheuk]] refused to work before the first installment #learning
+    - [[Gilbert Wat]] should be more clear on start date and payment schedule
+    - [[Gilbert Wat]] should discuss the payment schedule and start date before committing with external party
+    - Heard a story from [[James Cheuk]] regarding [[Inspect Element]]
+        - Got 30% of payment, worked for 66% and with scope change.
+        - Feeling scammed.
+        - Hence the conservative approach.
+- Work on {{[[DONE]]}}  Test printer on [[[[Preface]] [[product]]: A.I. Coffee 2.0]] iteration for [[Mercendez Benz]] show
+- [[All Hands [[meetings]]]] [[Preface]]
+- [[Ellen Lau]] has first fired [[Vanessa Au]] #offboarding
+    - #learning we need to make sure we to revoke all customer facing accounts.
+    - #learning there is a lot of emotional turmoil regarding both parties that people who have never experienced that is hard to understand.
+- [[Tommie Lo]] in a way has give [[Ellen Lau]] his wife an uneccessary suffering. #learning #Wifey #marriage #business
+    - If it is he who doesn't give enough budget to marketing, leading to a lack of new leads.
+    - And he influenced / hired his employee AND trained his wife to be too obedient and unable to discuss with him meaningfully on the prospect of the company.
+    - AND he choose a strategy that requires his wife to meet an unattainable target, based on his own marketing tactics.
+    - AND he choose to demean his wife in front of his leadership team.
+    - That is something I want to avoid.
+- Rejected [[Jeffrey Ng]] for the [[[[Preface]] [[project]]: [[Blockchain]] #Prototype]] collaboration

@@ -1,0 +1,75 @@
+- Sit-in [[[[meetings]] [[[[GOGOX]] Driver Experience Theme]] [[Design Sprint]]]]
+    - - should send out expectation of each session to participant
+    - How can you run an effective meeting?
+    - [[[[1:1]] with [[Vincent Chan]]]]
+        - Notes
+            - **The most important part of your job as a manager**
+                - Developing people
+                    - Unlocking people’s potential to maximize their own performance
+                    - The best managers/leaders can do BOTH
+                - Constantly seek out teaching moments as ways to guide your people to reach their potential
+                    - Most people are not aware of their own potential. As a coach, you are in a position to help them see it.
+                    - Always looking for opportunities that encourage your people to stretch beyond their comfort zone.
+                    - You shouldn’t ask someone to try something that you know they aren’t
+    - ready for, but you need to find things that create some discomfort.
+        - It’s through pushing through the discomfort that people overcome their fears and realize what they’re capable of.
+        - Reaching potential doesn’t just mean addressing gaps in competence. It also means recognizing and developing inherent strengths.
+        - Continually earn the trust of your team
+            - None of your coaching efforts will be effective without trust. This is not something you can demand or expect to happen on its own. It comes from continually demonstrating through your actions your genuine commitment to their success and development.
+        - Listening vs Hearing
+        - **Feedback vs Coaching**
+            - [**The Development Pipeline**](https://miro.medium.com/max/1400/1*wTpzhGf2wijeur9tG2AxKw.jpeg)
+                - by the Director of Executive Coaching & Leadership at Google - David Peterson
+                - captures the five ‘necessary and sufficient conditions for learning’
+                - All five of these conditions need to be met for effective 
+- learning to take place. So, if you want to change behaviours, you have 
+- to ‘unblock’ the narrowest part of the pipeline.
+    - unblock the constraint and increase the learning.
+    - [The GAPS grid](https://miro.medium.com/max/1400/1*-a1xduZGhfo3rzLnl7FrXQ.jpeg):
+    - Conventional wisdom tells us to help others learn with feedback, but 
+- the more productive approach is to help the person reflect on where they
+    - want to go: their goals and success factors.
+        - one-on-one conversations about development can help you go deeper and increase your team’s learning beyond simple feedback.
+        - Your goal is not to improve your insight and motivation for them 
+- to change — it’s to help them find clarity. Remember, learning happens 
+- in their head, not yours.
+    - Help them move from [Perceptions to Goals](https://miro.medium.com/max/1400/1*-a1xduZGhfo3rzLnl7FrXQ.jpeg)
+    - 1) Hypothesise the constraint in the pipeline. 2) Investigate and iterate. 3) Conclude with takeaways and a concrete next step.
+    - Ask them what they will do next. Insights are, sadly, fleeting so
+    - you need to clarify the next step as soon as they find clarity. The 
+- smaller and more concrete the step, the more likely it will be to 
+- happen. Once they have described it, ask them this question: ‘Would you 
+- like some extra accountability on that?’
+    - We need to create a [[dialogue]], we never build that.
+    - I don't truly believe in people
+    - Competitive mindset is deep down everyone we hired
+    - Or is it about the deep distrust in this environment?
+    - Notes
+    - Some [[Actionables]]
+        - Tell good stories
+        - Learn more about coaching and mentoring
+        - Practice active listening
+- + Loop in Ops
+- https://medium.com/swlh/5-letters-for-better-user-story-splitting-a0fe18747aaf
+    - Creating User Stories (INVEST)
+        - Independent
+        - Negotiable
+        - Valuable
+        - Estimable
+        - Small 
+        - Testable
+    - Splitting stories (SPIDR++)
+        - Spike
+            - Research
+        - Paths
+        - Interfaces
+        - Data
+        - Technical Stack
+    - Card, Conversation and Confirmation
+- [[[[meetings]] with Web on sharing workload on IT]]
+    - [[Waikit Kan]] is very happy
+    - The team is very excited
+    - Provide motivation is keys
+- How do you feel when you wake up?
+    - 31st Anniversary
+    - Could be last 

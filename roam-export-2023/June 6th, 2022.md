@@ -1,0 +1,14 @@
+- Re-thinking my [[Twitter]] and online presence
+    - Putting a lot of effort into it with no return
+        - Effort: everyday 30min, 5100 Tweet
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FMgeGVmb7Jm.jpeg?alt=media&token=afbe1939-6ded-4fee-88b8-5748878d0b48)
+        - Result: 306 Followers
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FChaChaanTeng%2FoNtRiyl4hI.19.19.png?alt=media&token=c134cbd7-bbaf-424a-993d-949abd01bc5a)
+    - Do I want to continue?
+        - Yes. It is crucial to my mission of ((wUumwmZUQ))
+            - Twitter is still the hippest place to hang out with like minded person.
+    - What do I need to improve?
+        - I don't think I am working on something interesting in [[Preface]].
+            - OR I am not sharing something I found interesting in [[Preface]]
+                - [[Business Ideas]] ???
+            - OR I need to find something interesting to work on first.

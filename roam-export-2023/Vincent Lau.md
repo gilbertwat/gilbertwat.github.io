@@ -1,0 +1,4 @@
+- Birthday 11/18
+- [[Starr Hall]]
+- ex-cofounders
+- Working on [[3D printing]] and [[plastic recycling]]

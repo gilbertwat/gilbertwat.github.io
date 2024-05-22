@@ -1,0 +1,34 @@
+- #[[04 2023]]
+- {{[[TODO]]}}  [[[[Preface]] School of Technology]] retargeting
+    - {{[[DONE]]}}  Set up Audience
+        - 8+ audience from portal and BAM
+    - Set up 1 copy in 1 angle
+        - ~ Make friends with similar vibe ~
+        - Independent
+        - Chance to know industry experts
+        - Oversea exposure
+    - Set up 1 KV
+        - Happy Kids + 1 CTA
+    - Set up 1 CTA to Sleekflow
+- {{[[DONE]]}}  [[Charlie Mak]] payment chasing
+    - Dear [[Theodore]]
+        - I was very annoyed by the fact the payment is 
+        - Maintaining good relationship with trustable partners and upholding 
+- Working on {{[[TODO]]}}  #project [[Open up a Wyoming LLC]]
+- {{[[DONE]]}}  Firing all expenses
+- [[[[Preface]] [[project]]: #sourcing CRM]] extension
+    - Per campaign we need to be able to track the conversion rate
+        - Start from the beginning and the end first
+            - 2 start
+                - Eventbrite
+                - Facebook Ad
+            - 1 destination
+                - Payment Link
+- #health
+    - Rest
+        - {{[[DONE]]}}  [[sleep]] 7 hours
+        - {{[[DONE]]}}  Accompany [[Wifey]] for 30 minutes
+    - Body
+        - {{[[DONE]]}}  #exercise 15 minutes
+    - Mind
+        - {{[[DONE]]}}  #meditate or [[Read [[Bible]]]] 15 minutes

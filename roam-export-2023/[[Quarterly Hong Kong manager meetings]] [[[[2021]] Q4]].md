@@ -1,0 +1,38 @@
+- Concerns for Hong Kong Team
+    - Expansion of business
+        - GOGO Logistics for corporate enterprise users
+        - Incorporate business analysts skills seems bottleneck for getting closer with customers
+    - Data
+        - Different data requirement for different department
+            - Finance need data to be as accurate as possible
+            - Business team need data to be able to aggregate as low latency as possible
+    - Internal Efficiency
+        - Admin Panel is aging very fast, no one wants to use it at all.
+            - A lot of workaround for different SOPs in different departments, creating a lot of organization debt within a department
+        - Superset is super slow for a lot of usage mentioned in
+            - Data
+                - Different data requirement for different department
+                    - Finance need data to be as accurate as possible
+                    - Business team need data to be able to aggregate as low latency as possible
+    - Hiring
+        - Very hard to hire qualified engineers
+            - A lot of second order effects on our [[business]]
+                - Expansion of business
+                - Data
+                - Internal Efficiency
+- Questions from [[Steven Lam]]:
+    - What kind of [[culture]] we are having right now?
+        - Warmth vs Due process
+    - What kind of [[Process]] we want to have as a team?
+        - Criteria
+            - Maintain current culture
+            - Minimize [[office politics]]
+                - Spliting budget is considered [[office politics]]
+- Problems in our company
+    - Things are not written down
+        - Pros:
+            - Learnings are not shared and consolidated
+        - Cons
+            - We can do old things in a new way.
+        - I don't think it is a good dichotomy. We need to balance creativity and boundary testing with avoiding (costly) amateur mistakes.
+        - 

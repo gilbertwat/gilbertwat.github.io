@@ -1,0 +1,10 @@
+- What is your meme today?
+    - https://twitter.com/gilbertwat/status/1425991778620952576
+- What is the coding you have done for 120 minutes?
+    - alias
+- #[[💦 Workout]] for 45 minutes in [[Pull]]
+- [[Lower back spasm]] stretch
+- [[Ergon]]
+    - [[Kingson Kwan]] suggests we joint venture and I join as CTO of Ergon
+    - [[Code Assessment as a Service]] [[ideas]]
+    - [[🎯 Major [[decision]]]] to be made [[December 31st, 2021]]

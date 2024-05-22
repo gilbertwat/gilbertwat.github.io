@@ -1,0 +1,79 @@
+- 09:43 - 11:08 Retrospective of Week 37
+    - Ref: 23:24 Retrospective of Week 36
+    - What went well?
+        - #[[health]]
+            - Moderate exercises
+                - 1x [[Pull [[💦 Workout]]]]
+                - 1x [[Push [[💦 Workout]]]]
+                - 1x [[🚴🏼‍♂️ Cycling]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - 2 hours of [[🚴🏼‍♂️ Cycling]]
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+        - #[[🛠️ Work]]
+    - What went wrong?
+        - #[[health]]
+            - Body check result is in
+                - Slightly high [[cholesterol]] level
+                - Slightly [[overweight]]
+            - Diary is becoming Week log 😅
+        - #[[🚴🏻‍♂️ Hobbies]]
+        - #[[Family [[finance]]]]
+        - #[[Family]] & #[[Friends]]
+            - Forgot to call [[姑姐]] again
+        - #[[🛠️ Work]]
+            - Totally out of focus in [[[[GOGOX]] Project Flywheel]]
+            - Totally forgot to reply [[Brian Chan [[Maven.hk]]]]
+            - [[beyond.ai]] [[Interview]] rejection
+                - Looking for a flexible but experienced [[manager]], sounds oxymoron
+                    - #learning ask direct questions about the requirements of the position, peers and other related stuff
+    - What can be done next week 38?
+        - #[[health]]
+            - Need to seriously manage my [[diet]]
+            - and [[information diets]] of course
+            - My sin is [[gluttony]] and [[greed]] primarily #[[🧘🏻‍♂️ Self Awareness]]
+            - Complete a task without being distracted [[Distraction]]
+        - #[[🚴🏻‍♂️ Hobbies]]
+            - 1x more cycling (Mid week maybe?)
+        - #[[Family [[finance]]]]
+            - Meet people to brainstorm about what to sell
+        - #[[Family]]  & #[[Friends]]
+            - Call [[姑姐]] to make sure everything's ok in Monday dinner
+            - ask when free for [[Chris Tang]] visit
+        - #[[🛠️ Work]]
+            - [[GOGOX]]
+                - Recalibrate [[[[GOGOX]] Project Flywheel]] with the team
+            - [[Ergon]]
+                - {{[[DONE]]}}  Gather information from [[Chinna]] and [[Jennifer Law]] and give an initial plan on [[September 23rd, 2021]]
+            - [[Grantits.io]]
+                - {{[[DONE]]}} Follow up with [[Lina Sio]] and [[Megan Wong]] and [[Vlad]] on [[September 24th, 2021]]
+            - [[Distribution channels]]
+                - {{[[DONE]]}} Reply [[Brian Chan [[Maven.hk]]]] on [[September 20th, 2021]]
+    - [[Distraction]]
+        - [[Twitter]], [[IM]], [[Discord]]
+- What I understand [[business]], especially [[sales]] and [[marketing]] so far?
+- #Bible Hebrew words for humble = aniva 
+    - Take up the right space on Earth as God pleased.
+        - No more no less.
+    - Humble means taking up the right space on Earth as God pleased. [[Permanent Notes]]
+- 14:30 - 15:00 [[Interview]] for [[[[Backend]] [[software engineer]]]]
+    - Ref: Sample questions for [[[[Backend]] [[software engineer]]]]
+    - Notes
+        - English accent problems
+        - Recent learning
+            - React
+            - Python
+                - Machine Learning
+- 15:00 - 15:30 [[Interview]] for [[[[Backend]] [[software engineer]]]]
+    - Ref: Sample questions for [[[[Backend]] [[software engineer]]]]
+    - Enterpeneur
+    - Good chat
+    - [[decision]]: Code test
+- 16:00 - 17:00 [[OKR]] Meetings
+    - Report about [[[[GOGOX]] Project Flywheel]]
+- 17:00 - 17:30 [[Interview]] for [[[[Backend]] [[software engineer]]]]
+    - Ref: Sample questions for [[[[Backend]] [[software engineer]]]]
+    - Good [[Interview]] question from [[Ben Cheng]]
+        - What do you expect from us?
+- 19:00 - Dinner at home
+    - Call [[姑姐]] to make sure everything's ok in Monday dinner

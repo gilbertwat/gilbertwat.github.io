@@ -1,0 +1,19 @@
+- [[Week 35]] review
+    - References
+        - {{query: {and: [[DONE]] {between: [[August 29th, 2022]][[September 4th, 2022]]}}}}
+    - What did you #achievements this week?
+        - Decided that...
+            - [[[[UI]]/[[UX]]]] aspect we need a new talent
+        - Fixed...
+        - Shipped...
+        - Moved X to <next step>
+            - Hiring 1 senior software engineer has some progress
+            - [[data warehouse]] is almost operational
+            - [[[[Preface]] Seamless Buy Link]] in the real implementation stage
+    - How did you #feel this week?
+        - I felt drained in some of my work, but since [[Theodore]] is 
+- {{[[DONE]]}}  Tend Smartblock page
+- {{[[DONE]]}}  Tend Literature Notes and write new entry to Permanent Notes
+- {{[[DONE]]}}  Mark and audit [[[[Gilbert Wat]]'s activities]]
+    - {{embed-path: ((a8B-UFsDY))}}
+- {{[[DONE]]}} Mark and audit [[nature of [[progress]] and [[achievements]]]]

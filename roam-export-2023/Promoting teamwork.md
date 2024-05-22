@@ -1,0 +1,18 @@
+- [[Trust]] is the foundation of achieving anything with a team.
+- A leader must radiate [[Energy]].
+- [[Trust]] is built by creating bondings among team members.
+- A leader must radiate  [[positivity]].
+- [[Trust]] can be built through consistent delivery of one's commitments. 
+- Genuine appreciation can build real [[Trust]].
+    - Appreciation exercise from leaders can make leaders consciously looking for the [[strength]] of his/her team members.
+    - Playing [[strength]] has a higher chance of fulfilling one's commitments.
+        - Fulfilling one's commitments raise the [[Trust]] to oneself.
+- Not taking [[criticism]]s personally is the key factor of [[teamwork]].
+- Only through [[teamwork]] you can achieve more.
+- Playing devil's advocate key to train the team to be able to take in [[alternative opinions]] and [[criticism]].
+- Measuring and tracking team’s performance can be a very good way to build [[Trust]] in oneself, among teammates and outside the team.
+- If you have more than one team, the measuring and tracking of performance can build [[Trust]] among different teams.
+- Show me the incentive and I can show you the outcome. --Charlie Mungers.
+- [[Energy]] and [[focus]] are of utmost important to the success of the team.
+- [[Trust]] can be from 4 interlocking aspects: competence, care, virtues, consistent.
+- No one can fulfill all 4 aspects of [[Trust]]: competence, care, virtues, consistent.
