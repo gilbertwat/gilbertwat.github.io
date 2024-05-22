@@ -3,6 +3,8 @@ main:
     url: "/"
   - title: "About Me"
     url: "/about"
+  - title: "Manifesto"
+    url: "/manifesto"
   - title: "Archive"
     url: "/archive"
   - title: "Tags"
