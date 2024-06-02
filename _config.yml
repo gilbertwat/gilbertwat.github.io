@@ -159,6 +159,10 @@ include:
   - _pages
 exclude:
   - roam-export-2023
+  - medium
+  - substack
+  - tumblr
+  - wordpress
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
