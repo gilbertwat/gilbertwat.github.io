@@ -3,6 +3,7 @@ layout: single
 title: Manifesto
 permalink: /manifesto/
 ---
+
 The world is changing faster. If we are in a team, we cannot afford guessing in our collaboration. Here is my 5-point manifesto.
 
 1. We focus on our mission and goal. And our mission and goal must be helping the underserved people and make a fair profit.
