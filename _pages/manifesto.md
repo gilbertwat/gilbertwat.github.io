@@ -1,15 +1,18 @@
 ---
 layout: single
-title: Manifesto
+title: Gilbert’s Career Manifesto
 permalink: /manifesto/
 ---
+Creating a great team and product starts with clear values and practices.
 
-The world is changing faster. If we are in a team, we cannot afford guessing in our collaboration. Here is my 5-point manifesto.
+1. __Clear and Frequent Communication__: Regularly update and connect through structured meetings and spontaneous chats.
 
-1. We focus on our mission and goal. And our mission and goal must be helping the underserved people and make a fair profit.
-2. We are all professional and excellent in our duty. Understand the fundamental of your trade is. Relentlessly improve your quality of work.
-3. We are resolving misalignment, executing and making progress in a collective and swift fashion.
-4. We are respecting each others, and assume we are all helping each other out.
-5. We are all human, we are all flawed in some sense. We depend on each other. So be compassionate and kind while we are making progress.
+2. __Team Fulfillment Matters__: Foster fulfillment through promptly recognition, growth opportunities, and balanced autonomy.
 
-But this list is just only something I can articulate. I believe in the vibe and energy of a leader is key for a leader to craft the optimal environment, so I treat this as one of the documents to invite more candid and effective collaboration with me. There are some other virtues of course, but I prioritize these to be my top 5.
+3. __Strive for Excellence__: Set realistic goals and support continuous improvement with adequate rest.
+
+4. __Resolve Conflicts Early__: Address issues promptly with a straightforward 3-step process: listen, mediate and follow through.
+
+5. __Always Accessible__: Be reachable for urgent matters and responsive to all communications.
+
+This manifesto is a just starting point, evolving with your feedback to build something great together.
