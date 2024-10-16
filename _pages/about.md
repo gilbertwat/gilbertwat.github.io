@@ -5,22 +5,24 @@ permalink: /about/
 ---
 ## About Gilbert Wat
 
-I am a tech lead consistently shipping software that achieved business results. My extensive hands-on experience in integrating latest technology into your services, compounded with a drive to make your products and services desirable, I can provide business results to your technology investment.
+I safeguard and bring multiples to your company investment in technology and product. Trusted by multiple companies over a decade, my services now focus on building a digital product mindset across the company, leading technology team and bringing product experience into your leadership team.
 
-My highlights throughout my career so far are:
+Some highlights so far:
 
-- In [Preface](https://www.preface.ai), I introduced [ChatGPT](https://chat.openai.com) within 24 hour of release. This allow Preface to lead the market in education tech space in Hong Kong.
-- In [GOGOX](https://www.gogox.com), I build a stable and scalable Platform and Mobile App, with 99.9% SLA in 6 regions. This achievement can be found in the [application proof of GOGOX IPO](https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0624/sehk22042400132.pdf).
-- In [AndyOS](https://www.andyroid.net), bootstrapped one of the ad products and 4X of revenue in 5 months.
-- Found [Code4HK](https://code4.hk), a community of 2000+ developers in Hong Kong to improve Hong Kong with tech.
-- Contributed as core team in building an Alipay rival in [MPayme](https://www.crunchbase.com/organization/mpayme).
-- Built an Android App and Mobile Web App in Berlin during my working holiday in Germany.
+- In [Preface](https://www.preface.ai) a leading EdTech firm in Hong Kong, I inspired new product line and brought new technology in-house. I introduced [ChatGPT](https://chat.openai.com) to the company within 24 hours of release. I also build digital user engagement touch-points to nurture and convert clients. Preface has led the tech education and training in Hong Kong with fast, relevant and validated training materials since then.
+- In [GOGOX (previously GOGOVAN)](https://www.gogox.com) the first HKExchange listed Hong Kong startup, I supported business growth and initial public offering project in technology. I led 4 software development teams to build a stable and scalable Platform and Mobile App, with 99.9% SLA in 6 operating regions. You can find it in the [application proof of GOGOX IPO](https://www1.hkexnews.hk/listedco/listconews/sehk/2022/0624/sehk22042400132.pdf).
+- In [AndyOS](https://www.andyroid.net) a SF-based startup, I developed and bootstrapped a mobile web video ad product and 4X of revenue in 5 months.
+- Found [Code4HK](https://code4.hk) in Hong Kong to gather a community of 2000+ civic minded developers in Hong Kong to improve our home city with technology.
+- In [MPayme](https://www.crunchbase.com/organization/mpayme), Contributed as the second Android developer to build the Android clients of a mobile payment app, an Alipay rival.
+- Learned German, find a job and built an Android app and a mobile web app in Berlin. All in 6 months time.
 
-Outside work, I am a father, husband, son and elder brother. I spent my free time dedicated to my family and writing. I also love learning new tricks, the latest adventure will be iPhone photography and whistling without using my hands.
+Outside work, I spent my free time dedicated to my family, writing and serving the community.
+
+None of the above would be possible without the support of my family, friends, and mentors. I am grateful for their guidance and encouragement. And also God for His grace, mercy and love through all the ups and downs.
 
 ## About Cha Chaan Teng
 
-Cha4 Chaan1 Teng1(茶餐廳) is a kind of restaurant originated from Hong Kong. They serve a menu of local comfort food. The locals gather in one of those and chat about anything. I love the vibe of a Cha Chaan Teng and wish to discuss the core topic I love: "make things people want" in such a local, chill but occasionally heated vibe.
+Cha Chaan Teng is a space for me to think and share what is challenging me. My inspiration comes from Cha4 Chaan1 Teng1(茶餐廳), a kind of restaurant originated from Hong Kong. Cha Chaan Tengs serve a menu of local comfort food. The locals gather in one of those and chat about anything. I love the vibe of a Cha Chaan Teng and wish to discuss the core topic I love: "make things people want" in such a local, chill but occasionally heated vibe.
 
 If you go to a Cha Chaan Teng and don't know what to order, the go-to combo is a pineapple bun, an egg tart with a cup of hot milk tea (菠蘿包，蛋撻，熱奶茶). Enjoy!
 

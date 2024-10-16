@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-HK"
 title                    : "Gilbert Wat's Blog"
 title_separator          : "|"
-subtitle                 : "share thoughts on technology and experience in building successful products." # site tagline that appears below site title in masthead
+subtitle                 : "sharing my life journey and the (over)thinking behind." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "Gilbert Wat's Blog. Talks about technology, software development and some more."
+description              : "Essays about life, technology, digital products, and everything in between"
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Gilbert Wat"
   avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a tech lead that build good software and new revenue streams. Now I am building an A.I. powered learning experience at Preface."
+  bio              : "Builder of teams, products, technology and most importantly, my family. Now I am building an A.I. powered learning experience at Preface."
   location         : "Hong Kong"
   email            :
   links:
@@ -115,7 +115,7 @@ author:
       url: "mailto:g@chachaanteng.co"
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
-      url: "tel:+18575243173"
+      # url: "tel:+18575243173"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
