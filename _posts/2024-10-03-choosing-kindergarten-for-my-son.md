@@ -1,4 +1,7 @@
-# Choosing Kindergarten for My Son
+---
+title: Choosing Kindergarten for My Son
+tags: ["decision-making", "kindergarten", "education", "parenting"]
+---
 
 ## Introduction
 I feel exceedingly pressured as I am choosing a kindergarten for my son. This is one of the first few major decisions for my son. It will have a great impact in my son’s life in the next 3 years. I hope to consider and weight options as thorough as I could, combine with my intuition and the love of God, my wife and I, my son can access the best education for him available.
