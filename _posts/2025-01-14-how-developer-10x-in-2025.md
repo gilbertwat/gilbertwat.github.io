@@ -1,5 +1,7 @@
 # How developers can 10x their impact with AI in 2025
 
+> It was posted first on [MVA on Substack](https://open.substack.com/pub/mvtechstack/p/how-developers-can-10x-their-impact?r=iqxi6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+
 ## A short guide for developers and tech leads to focus on the controllable
 
 Gen AI shook up software development in 2024\. While predicting what will happen in 2025, some said SaaS is dead. Some said software development is dead. While some of the fearmongers declared so, the reality is more nuanced. The pace of change will accelerate and transform rather than kill the industry. Strong teams will continue to release new tools and models, each promising to reshape the landscape. Strong companies in different industries will continue to figure out the best way to leverage Generative AI to provide the best experience to their customers. How exhilarating\!   
