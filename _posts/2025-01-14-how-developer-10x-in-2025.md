@@ -1,19 +1,21 @@
-# How developers can 10x their impact with AI in 2025
+---
+title: How developers can 10x their impact with AI in 2025
+---
 
-> It was posted first on [MVA on Substack](https://open.substack.com/pub/mvtechstack/p/how-developers-can-10x-their-impact?r=iqxi6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+# How developers can 10x their impact with AI in 2025
 
 ## A short guide for developers and tech leads to focus on the controllable
 
-Gen AI shook up software development in 2024\. While predicting what will happen in 2025, some said SaaS is dead. Some said software development is dead. While some of the fearmongers declared so, the reality is more nuanced. The pace of change will accelerate and transform rather than kill the industry. Strong teams will continue to release new tools and models, each promising to reshape the landscape. Strong companies in different industries will continue to figure out the best way to leverage Generative AI to provide the best experience to their customers. How exhilarating\!   
+Gen AI shook up software development in 2024\. While predicting what will happen in 2025, some said SaaS is dead. Some said software development is dead. While some of the fearmongers declared so, the reality is more nuanced. The pace of change will accelerate and transform rather than kill the industry. Strong teams will continue to release new tools and models, each promising to reshape the landscape. Strong companies in different industries will continue to figure out the best way to leverage Generative AI to provide the best experience to their customers. How exhilarating\!
 Throughout this article, we will explore how we can harness the Generative AI and 10x your career, regardless which stage you are in, and some extra tips for the tech leaders in the end.
 
 # The path forward: How can we transform?
 
 As we move forward in 2025, here are some universal attitudes everyone should be embracing:
 
-* **Be open**: Open source and open weight LLM models are the future. More importantly, an open mind is crucial in thriving in this frontier.  
-* **Be exploratory**: Everyone is figuring out how to leverage Generative AI. Hence solid practice of experimentation will determine who will find the best way to leverage generative AI.  
-* **Be creative**: Experiment through side projects or innovative roles, AI engineers, product engineers, UX engineers and growth engineers could all become more impactful in this new Generative AI era.  
+* **Be open**: Open source and open weight LLM models are the future. More importantly, an open mind is crucial in thriving in this frontier.
+* **Be exploratory**: Everyone is figuring out how to leverage Generative AI. Hence solid practice of experimentation will determine who will find the best way to leverage generative AI.
+* **Be creative**: Experiment through side projects or innovative roles, AI engineers, product engineers, UX engineers and growth engineers could all become more impactful in this new Generative AI era.
 * **Be concise**: Besides, clear communication amplifies your work's impact. With all the text based input for all the LLM model, a clear writing will be critical to direct the impact of both human and machine.
 
 The road looks slightly different depending on where we stand in our careers. Let's start with our padawan\!
@@ -32,7 +34,7 @@ Other than sharing your discovery, you will face a lot of novel problems you mig
 
 ### Be your own Project Manager
 
-When you are solving problems, you need to be independent and dependable. Even if AI speeds up coding tasks, you’re responsible for planning, organization, and accountability in your tasks. Learn the fundamentals of project management, and communicate clearly on the expectation with your seniors.  
+When you are solving problems, you need to be independent and dependable. Even if AI speeds up coding tasks, you’re responsible for planning, organization, and accountability in your tasks. Learn the fundamentals of project management, and communicate clearly on the expectation with your seniors.
 I will write about the essence of project management and its application in my follow up articles.
 
 ### Be a Proficient Code Reader
@@ -45,17 +47,17 @@ Congratulations\! While in your early-career, you prioritize mastering software 
 
 ### Be opinionated in your evaluation of tools
 
-Your passion for technology is now even more valuable as you add experience and insights to your mix. Sharing your experience with insights on how those new tools can help your fellow developers to be even more productive. You may already have some muscle memory on tools you are using (I am a vim guy), keep exploring or even contributing to the AI integration of your favorite toolsets and workflows.   
-Shiny new AI tools may look impressive, and you have to take into consideration your team’s needs, budget, and alignment with long-term goals. 
+Your passion for technology is now even more valuable as you add experience and insights to your mix. Sharing your experience with insights on how those new tools can help your fellow developers to be even more productive. You may already have some muscle memory on tools you are using (I am a vim guy), keep exploring or even contributing to the AI integration of your favorite toolsets and workflows.
+Shiny new AI tools may look impressive, and you have to take into consideration your team’s needs, budget, and alignment with long-term goals.
 
 ### Be a system thinker
 
-Beside sharing your evaluation of tools, your primary goal should be to design and implement simple, but not simpler solutions. This involves thinking about the overall system architecture and strategically incorporating AI capabilities into it. Don't just focus on fixing isolated bugs; take a holistic approach to AI implementation. Also ask the reason behind the requirements to make sure you are solving the right problems. This helps build your empathy towards product managers or business stakeholders.  
+Beside sharing your evaluation of tools, your primary goal should be to design and implement simple, but not simpler solutions. This involves thinking about the overall system architecture and strategically incorporating AI capabilities into it. Don't just focus on fixing isolated bugs; take a holistic approach to AI implementation. Also ask the reason behind the requirements to make sure you are solving the right problems. This helps build your empathy towards product managers or business stakeholders.
 By shifting your focus from tactical bug fixes to strategic AI integration, you'll be leading the way in AI-driven development, ensuring your solutions are not only functional but also intelligent and future-ready.
 
-### Be a craft person of your writing 
+### Be a craft person of your writing
 
-As you need to communicate your system design, documenting clearly and concisely your successes, failures, and the reasoning behind decisions can create a win-win situation. You can facilitate onboarding for new team members and help them to understand the project's history and context.   
+As you need to communicate your system design, documenting clearly and concisely your successes, failures, and the reasoning behind decisions can create a win-win situation. You can facilitate onboarding for new team members and help them to understand the project's history and context.
 You may want to pick up some writing classes to further improve your writing skills structurally. I recommend the [Udemy Ninja Writing course](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/learn/lecture/4395834?start=0#overview) or read [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548).
 
 ## 9+ Years of Experience
@@ -66,7 +68,7 @@ As experienced software developers with a history of maintaining quirky systems 
 
 In the rapidly evolving landscape of AI, adaptability and a measured response are essential for maintaining a competitive edge. This is particularly relevant for seasoned professionals who might feel threatened by the rapid advancements. Embracing change and focusing on strategic evolution you can leverage you and your own expertise and strength to navigate the AI revolution effectively.
 
-### Be a mentor 
+### Be a mentor
 
 Mentorship is also a valuable way to share your knowledge and experience. As a seasoned developer, you possess insights that can greatly benefit others in the field. Your guidance can help them navigate the complexities of software development, avoid common mistakes, and achieve their goals.
 
@@ -104,5 +106,7 @@ I am more than excited to welcome a new era of software development, when the ga
 
 # Upcoming Articles
 
-How to be productive in a new codebase within one week?  
+How to be productive in a new codebase within one week?
 How can you be your own project manager?
+
+> It was posted first on [MVA on Substack](https://open.substack.com/pub/mvtechstack/p/how-developers-can-10x-their-impact?r=iqxi6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
