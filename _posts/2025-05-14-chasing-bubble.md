@@ -22,3 +22,4 @@ Thank you son for the moment. With love,
 
 Baba
 
+_also posted on [Nous newsletter](https://open.substack.com/pub/nousone/p/chasing-bubble?r=iqxi6&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)_
