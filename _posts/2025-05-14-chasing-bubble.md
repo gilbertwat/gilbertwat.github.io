@@ -6,7 +6,7 @@ category: letter
 
 My beloved Theodore,
 
-This afternoon had to be one of my happiest moments. It has nothing to do with the App I built that reached a thousand subscribers. It also has nothing to do with the praise I received from colleagues for a well-put presentation. It has nothing to do with my promotion in my career.
+This afternoon had to be one of my happiest moments. It had nothing to do with the App I built that reached a thousand subscribers. It also had nothing to do with the praise I received from colleagues for a well-put presentation. It had nothing to do with my promotion in my career.
 
 This sunny afternoon I played soap bubble with you and your mother.
 
