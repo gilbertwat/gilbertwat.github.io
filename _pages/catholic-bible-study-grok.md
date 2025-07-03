@@ -4,6 +4,8 @@ title: One-Year Catholic Bible Reading Plan with Liturgical Alignment
 permalink: /catholic-bible-study-grok/
 ---
 
+Go to the prompt: [Grok](https://grok.com/share/bGVnYWN5_a1649dd8-3f27-4052-8e76-29272eb40772)
+
 This plan guides you through the entire Catholic Bible (73 books) in one year, starting July 1, 2025, with daily readings from the Old Testament, New Testament, and Wisdom/Psalms. It aligns with the Catholic liturgical calendar, prioritizing readings that reflect the themes of Advent, Christmas, Lent, Easter, and major feast days. Each day includes approximately 3-4 chapters, balancing narrative, wisdom, and epistolary texts, with deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees, additions to Esther and Daniel) integrated.
 
 ## Guidelines
