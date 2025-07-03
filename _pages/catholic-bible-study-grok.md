@@ -1,0 +1,417 @@
+---
+layout: single
+title: One-Year Catholic Bible Reading Plan with Liturgical Alignment
+permalink: /catholic-bible-study-grok/
+---
+
+This plan guides you through the entire Catholic Bible (73 books) in one year, starting July 1, 2025, with daily readings from the Old Testament, New Testament, and Wisdom/Psalms. It aligns with the Catholic liturgical calendar, prioritizing readings that reflect the themes of Advent, Christmas, Lent, Easter, and major feast days. Each day includes approximately 3-4 chapters, balancing narrative, wisdom, and epistolary texts, with deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees, additions to Esther and Daniel) integrated.
+
+## Guidelines
+- **Daily Structure**: Each day includes:
+  - Old Testament (narrative, prophets, or deuterocanonical books)
+  - Wisdom/Psalms (for prayer and reflection)
+  - New Testament (Gospels, Acts, Epistles, or Revelation)
+- **Liturgical Alignment**: Readings are chosen to reflect the liturgical season or feast day (e.g., Isaiah during Advent, Passion narratives in Lent).
+- **Pace**: Approximately 15-20 minutes of reading per day.
+- **Flexibility**: Adjust as needed; combine shorter days or split longer ones.
+- **Prayer**: Begin with a prayer, such as the *Come, Holy Spirit*, to prepare your heart.
+
+## Reading Plan
+
+### July 2025 (Ordinary Time)
+- **Jul 1**: Genesis 1-2, Psalm 1, Matthew 1
+- **Jul 2**: Genesis 3-4, Psalm 2, Matthew 2
+- **Jul 3**: Genesis 5-6, Psalm 3, Matthew 3
+- **Jul 4**: Genesis 7-8, Psalm 4, Matthew 4
+- **Jul 5**: Genesis 9-10, Psalm 5, Matthew 5
+- **Jul 6**: Genesis 11-12, Psalm 6, Matthew 6
+- **Jul 7**: Genesis 13-14, Psalm 7, Matthew 7
+- **Jul 8**: Genesis 15-16, Psalm 8, Matthew 8
+- **Jul 9**: Genesis 17-18, Psalm 9, Matthew 9
+- **Jul 10**: Genesis 19-20, Psalm 10, Matthew 10
+- **Jul 11**: Genesis 21-22, Psalm 11, Matthew 11
+- **Jul 12**: Genesis 23-24, Psalm 12, Matthew 12
+- **Jul 13**: Genesis 25-26, Psalm 13, Matthew 13
+- **Jul 14**: Genesis 27-28, Psalm 14, Matthew 14
+- **Jul 15**: Genesis 29-30, Psalm 15, Matthew 15
+- **Jul 16**: Genesis 31-32, Psalm 16, Matthew 16
+- **Jul 17**: Genesis 33-34, Psalm 17, Matthew 17
+- **Jul 18**: Genesis 35-36, Psalm 18, Matthew 18
+- **Jul 19**: Genesis 37-38, Psalm 19, Matthew 19
+- **Jul 20**: Genesis 39-40, Psalm 20, Matthew 20
+- **Jul 21**: Genesis 41-42, Psalm 21, Matthew 21
+- **Jul 22**: Genesis 43-44, Psalm 22, Matthew 22 (St. Mary Magdalene)
+- **Jul 23**: Genesis 45-46, Psalm 23, Matthew 23
+- **Jul 24**: Genesis 47-48, Psalm 24, Matthew 24
+- **Jul 25**: Genesis 49-50, Psalm 25, Matthew 25 (St. James, Apostle)
+- **Jul 26**: Exodus 1-2, Psalm 26, Matthew 26
+- **Jul 27**: Exodus 3-4, Psalm 27, Matthew 27
+- **Jul 28**: Exodus 5-6, Psalm 28, Matthew 28
+- **Jul 29**: Exodus 7-8, Psalm 29, Mark 1 (St. Martha)
+- **Jul 30**: Exodus 9-10, Psalm 30, Mark 2
+- **Jul 31**: Exodus 11-12, Psalm 31, Mark 3
+
+### August 2025 (Ordinary Time)
+- **Aug 1**: Exodus 13-14, Psalm 32, Mark 4
+- **Aug 2**: Exodus 15-16, Psalm 33, Mark 5
+- **Aug 3**: Exodus 17-18, Psalm 34, Mark 6
+- **Aug 4**: Exodus 19-20, Psalm 35, Mark 7
+- **Aug 5**: Exodus 21-22, Psalm 36, Mark 8
+- **Aug 6**: Exodus 23-24, Psalm 37, Mark 9 (Transfiguration)
+- **Aug 7**: Exodus 25-26, Psalm 38, Mark 10
+- **Aug 8**: Exodus 27-28, Psalm 39, Mark 11 (St. Dominic)
+- **Aug 9**: Exodus 29-30, Psalm 40, Mark 12
+- **Aug 10**: Exodus 31-32, Psalm 41, Mark 13
+- **Aug 11**: Exodus 33-34, Psalm 42, Mark 14
+- **Aug 12**: Exodus 35-36, Psalm 43, Mark 15
+- **Aug 13**: Exodus 37-38, Psalm 44, Mark 16
+- **Aug 14**: Exodus 39-40, Psalm 45, Luke 1 (St. Maximilian Kolbe)
+- **Aug 15**: Leviticus 1-2, Psalm 46, Luke 1:39-56 (Assumption of Mary)
+- **Aug 16**: Leviticus 3-4, Psalm 47, Luke 2
+- **Aug 17**: Leviticus 5-6, Psalm 48, Luke 3
+- **Aug 18**: Leviticus 7-8, Psalm 49, Luke 4
+- **Aug 19**: Leviticus 9-10, Psalm 50, Luke 5
+- **Aug 20**: Leviticus 11-12, Psalm 51, Luke 6
+- **Aug 21**: Leviticus 13-14, Psalm 52, Luke 7
+- **Aug 22**: Leviticus 15-16, Psalm 53, Luke 8 (Queenship of Mary)
+- **Aug 23**: Leviticus 17-18, Psalm 54, Luke 9
+- **Aug 24**: Leviticus 19-20, Psalm 55, Luke 10 (St. Bartholomew)
+- **Aug 25**: Leviticus 21-22, Psalm 56, Luke 11
+- **Aug 26**: Leviticus 23-24, Psalm 57, Luke 12
+- **Aug 27**: Leviticus 25-26, Psalm 58, Luke 13 (St. Monica)
+- **Aug 28**: Leviticus 27, Psalm 59, Luke 14 (St. Augustine)
+- **Aug 29**: Numbers 1-2, Psalm 60, Luke 15 (Beheading of John the Baptist)
+- **Aug 30**: Numbers 3-4, Psalm 61, Luke 16
+- **Aug 31**: Numbers 5-6, Psalm 62, Luke 17
+
+### September 2025 (Ordinary Time)
+- **Sep 1**: Numbers 7-8, Psalm 63, Luke 18
+- **Sep 2**: Numbers 9-10, Psalm 64, Luke 19
+- **Sep 3**: Numbers 11-12, Psalm 65, Luke 20
+- **Sep 4**: Numbers 13-14, Psalm 66, Luke 21
+- **Sep 5**: Numbers 15-16, Psalm 67, Luke 22
+- **Sep 6**: Numbers 17-18, Psalm 68, Luke 23
+- **Sep 7**: Numbers 19-20, Psalm 69, Luke 24
+- **Sep 8**: Numbers 21-22, Psalm 70, John 1 (Nativity of Mary)
+- **Sep 9**: Numbers 23-24, Psalm 71, John 2
+- **Sep 10**: Numbers 25-26, Psalm 72, John 3
+- **Sep 11**: Numbers 27-28, Psalm 73, John 4
+- **Sep 12**: Numbers 29-30, Psalm 74, John 5
+- **Sep 13**: Numbers 31-32, Psalm 75, John 6
+- **Sep 14**: Numbers 33-34, Psalm 87, John 3:13-17 (Exaltation of the Cross)
+- **Sep 15**: Numbers 35-36, Psalm 77, John 8 (Our Lady of Sorrows)
+- **Sep 16**: Deuteronomy 1-2, Psalm 78, John 9
+- **Sep 17**: Deuteronomy 3-4, Psalm 79, John 10
+- **Sep 18**: Deuteronomy 5-6, Psalm 80, John 11
+- **Sep 19**: Deuteronomy 7-8, Psalm 81, John 12
+- **Sep 20**: Deuteronomy 9-10, Psalm 82, John 13
+- **Sep 21**: Deuteronomy 11-12, Psalm 83, John 14 (St. Matthew)
+- **Sep 22**: Deuteronomy 13-14, Psalm 84, John 15
+- **Sep 23**: Deuteronomy 15-16, Psalm 85, John 16
+- **Sep 24**: Deuteronomy 17-18, Psalm 86, John 17
+- **Sep 25**: Deuteronomy 19-20, Psalm 88, John 18
+- **Sep 26**: Deuteronomy 21-22, Psalm 89, John 19
+- **Sep 27**: Deuteronomy 23-24, Psalm 90, John 20
+- **Sep 28**: Deuteronomy 25-26, Psalm 91, John 21
+- **Sep 29**: Deuteronomy 27-28, Psalm 103, John 1:47-51 (Archangels Michael, Gabriel, Raphael)
+- **Sep 30**: Deuteronomy 29-30, Psalm 92, Acts 1
+
+### October 2025 (Ordinary Time)
+- **Oct 1**: Deuteronomy 31-32, Psalm 93, Acts 2
+- **Oct 2**: Deuteronomy 33-34, Psalm 91, John 17:11-19 (Guardian Angels)
+- **Oct 3**: Joshua 1-2, Psalm 95, Acts 4
+- **Oct 4**: Joshua 3-4, Psalm 96, Acts 5 (St. Francis of Assisi)
+- **Oct 5**: Joshua 5-6, Psalm 97, Acts 6
+- **Oct 6**: Joshua 7-8, Psalm 98, Acts 7
+- **Oct 7**: Joshua 9-10, Psalm 90, Luke 1:26-38 (Our Lady of the Rosary)
+- **Oct 8**: Joshua 11-12, Psalm 100, Acts 9
+- **Oct 9**: Joshua 13-14, Psalm 101, Acts 10
+- **Oct 10**: Joshua 15-16, Psalm 102, Acts 11
+- **Oct 11**: Joshua 17-18, Psalm 103, Acts 12
+- **Oct 12**: Joshua 19-20, Psalm 104, Acts 13
+- **Oct 13**: Joshua 21-22, Psalm 105, Acts 14
+- **Oct 14**: Joshua 23-24, Psalm 106, Acts 15
+- **Oct 15**: Judges 1-2, Psalm 107, Acts 16
+- **Oct 16**: Judges 3-4, Psalm 108, Acts 17
+- **Oct 17**: Judges 5-6, Psalm 109, Acts 18
+- **Oct 18**: Judges 7-8, Psalm 1, Luke 10:1-9 (St. Luke)
+- **Oct 19**: Judges 9-10, Psalm 111, Acts 20
+- **Oct 20**: Judges 11-12, Psalm 112, Acts 21
+- **Oct 21**: Judges 13-14, Psalm 113, Acts 22
+- **Oct 22**: Judges 15-16, Psalm 114, Acts 23
+- **Oct 23**: Judges 17-18, Psalm 115, Acts 24
+- **Oct 24**: Judges 19-20, Psalm 116, Acts 25
+- **Oct 25**: Judges 21, Psalm 117, Acts 26
+- **Oct 26**: Ruth 1-2, Psalm 118, Acts 27
+- **Oct 27**: Ruth 3-4, Psalm 119:1-32, Acts 28
+- **Oct 28**: 1 Samuel 1-2, Psalm 119:33-64, Romans 1 (Sts. Simon and Jude)
+- **Oct 29**: 1 Samuel 3-4, Psalm 119:65-96, Romans 2
+- **Oct 30**: 1 Samuel 5-6, Psalm 119:97-128, Romans 3
+- **Oct 31**: 1 Samuel 7-8, Psalm 119:129-160, Romans 4
+
+### November 2025 (Ordinary Time, All Saints, All Souls)
+- **Nov 1**: 1 Samuel 9-10, Wisdom 3, Revelation 7:2-12 (All Saints)
+- **Nov 2**: 1 Samuel 11-12, Wisdom 4, John 5:24-29 (All Souls)
+- **Nov 3**: 1 Samuel 13-14, Psalm 120, Romans 6
+- **Nov 4**: 1 Samuel 15-16, Psalm 121, Romans 7
+- **Nov 5**: 1 Samuel 17-18, Psalm 122, Romans 8
+- **Nov 6**: 1 Samuel 19-20, Psalm 123, Romans 9
+- **Nov 7**: 1 Samuel 21-22, Psalm 124, Romans 10
+- **Nov 8**: 1 Samuel 23-24, Psalm 125, Romans 11
+- **Nov 9**: 1 Samuel 25-26, Psalm 84, John 2:13-22 (Dedication of Lateran Basilica)
+- **Nov 10**: 1 Samuel 27-28, Psalm 127, Romans 13
+- **Nov 11**: 1 Samuel 29-30, Psalm 128, Romans 14
+- **Nov 12**: 1 Samuel 31, Psalm 129, Romans 15
+- **Nov 13**: 2 Samuel 1-2, Psalm 130, Romans 16
+- **Nov 14**: 2 Samuel 3-4, Psalm 131, 1 Corinthians 1
+- **Nov 15**: 2 Samuel 5-6, Psalm 132, 1 Corinthians 2
+- **Nov 16**: 2 Samuel 7-8, Psalm 133, 1 Corinthians 3
+- **Nov 17**: 2 Samuel 9-10, Psalm 134, 1 Corinthians 4
+- **Nov 18**: 2 Samuel 11-12, Psalm 135, 1 Corinthians 5
+- **Nov 19**: 2 Samuel 13-14, Psalm 136, 1 Corinthians 6
+- **Nov 20**: 2 Samuel 15-16, Psalm 137, 1 Corinthians 7
+- **Nov 21**: 2 Samuel 17-18, Psalm 45, Luke 1:26-38 (Presentation of Mary)
+- **Nov 22**: 2 Samuel 19-20, Psalm 139, 1 Corinthians 9 (St. Cecilia)
+- **Nov 23**: 2 Samuel 21-22, Psalm 24, John 18:33-37 (Christ the King)
+- **Nov 24**: 2 Samuel 23-24, Psalm 141, 1 Corinthians 11
+- **Nov 25**: 1 Kings 1-2, Psalm 142, 1 Corinthians 12
+- **Nov 26**: 1 Kings 3-4, Psalm 143, 1 Corinthians 13
+- **Nov 27**: 1 Kings 5-6, Psalm 144, 1 Corinthians 14
+- **Nov 28**: 1 Kings 7-8, Psalm 145, 1 Corinthians 15
+- **Nov 29**: 1 Kings 9-10, Psalm 146, 1 Corinthians 16
+- **Nov 30**: Isaiah 1-2, Psalm 122, Luke 21:25-36 (1st Sunday of Advent)
+
+### December 2025 (Advent, Christmas)
+- **Dec 1**: Isaiah 3-4, Psalm 147, Luke 1:5-25
+- **Dec 2**: Isaiah 5-6, Psalm 148, Luke 1:26-38
+- **Dec 3**: Isaiah 7-8, Psalm 149, Matthew 1:18-25
+- **Dec 4**: Isaiah 9-10, Psalm 150, Luke 1:39-56
+- **Dec 5**: Isaiah 11-12, Proverbs 1, Luke 1:57-80
+- **Dec 6**: Isaiah 13-14, Proverbs 2, Matthew 2:1-12 (St. Nicholas)
+- **Dec 7**: Isaiah 15-16, Proverbs 3, Luke 3:1-20 (2nd Sunday of Advent)
+- **Dec 8**: Isaiah 17-18, Proverbs 4, Luke 1:26-38 (Immaculate Conception)
+- **Dec 9**: Isaiah 19-20, Proverbs 5, Luke 2:1-20
+- **Dec 10**: Isaiah 21-22, Proverbs 6, Matthew 3:1-12
+- **Dec 11**: Isaiah 23-24, Proverbs 7, Luke 2:21-40
+- **Dec 12**: Isaiah 25-26, Proverbs 8, Luke 1:46-55 (Our Lady of Guadalupe)
+- **Dec 13**: Isaiah 27-28, Proverbs 9, John 1:19-28 (3rd Sunday of Advent)
+- **Dec 14**: Isaiah 29-30, Proverbs 10, Luke 1:57-66
+- **Dec 15**: Isaiah 31-32, Proverbs 11, Matthew 1:18-25
+- **Dec 16**: Isaiah 33-34, Proverbs 12, Luke 2:1-14
+- **Dec 17**: Isaiah 35-36, Proverbs 13, Matthew 2:1-12
+- **Dec 18**: Isaiah 37-38, Proverbs 14, Luke 2:15-20
+- **Dec 19**: Isaiah 39-40, Proverbs 15, Luke 2:21-40
+- **Dec 20**: Isaiah 41-42, Proverbs 16, Luke 1:26-38 (4th Sunday of Advent)
+- **Dec 21**: Isaiah 43-44, Proverbs 17, Luke 2:1-20
+- **Dec 22**: Isaiah 45-46, Proverbs 18, Luke 2:21-40
+- **Dec 23**: Isaiah 47-48, Proverbs 19, Luke 2:41-52
+- **Dec 24**: Isaiah 49-50, Proverbs 20, Luke 2:1-20 (Christmas Eve)
+- **Dec 25**: Isaiah 9:1-6, Psalm 96, Luke 2:1-20 (Christmas Day)
+- **Dec 26**: 1 Kings 11-12, Psalm 97, Acts 6:8-7:60 (St. Stephen)
+- **Dec 27**: 1 Kings 13-14, Psalm 98, John 21:15-25 (St. John the Evangelist)
+- **Dec 28**: 1 Kings 15-16, Psalm 99, Matthew 2:16-18 (Holy Innocents)
+- **Dec 29**: 1 Kings 17-18, Proverbs 21, Luke 2:22-38
+- **Dec 30**: 1 Kings 19-20, Proverbs 22, Luke 2:39-52
+- **Dec 31**: 1 Kings 21-22, Proverbs 23, John 1:1-18 (Holy Family)
+
+### January 2026 (Christmas, Ordinary Time)
+- **Jan 1**: 2 Kings 1-2, Psalm 113, Luke 2:1-20 (Mary, Mother of God)
+- **Jan 2**: 2 Kings 3-4, Psalm 100, Matthew 2:1-12
+- **Jan 3**: 2 Kings 5-6, Psalm 72, Matthew 2:1-12 (Epiphany)
+- **Jan 4**: 2 Kings 7-8, Proverbs 24, John 1:29-34 (Baptism of the Lord)
+- **Jan 5**: 2 Kings 9-10, Proverbs 25, Mark 1
+- **Jan 6**: 2 Kings 11-12, Proverbs 26, Mark 2
+- **Jan 7**: 2 Kings 13-14, Proverbs 27, Mark 3
+- **Jan 8**: 2 Kings 15-16, Proverbs 28, Mark 4
+- **Jan 9**: 2 Kings 17-18, Proverbs 29, Mark 5
+- **Jan 10**: 2 Kings 19-20, Proverbs 30, Mark 6
+- **Jan 11**: 2 Kings 21-22, Proverbs 31, Mark 7
+- **Jan 12**: 2 Kings 23-24, Ecclesiastes 1, Mark 8
+- **Jan 13**: 2 Kings 25, Ecclesiastes 2, Mark 9
+- **Jan 14**: 1 Chronicles 1-2, Ecclesiastes 3, Mark 10
+- **Jan 15**: 1 Chronicles 3-4, Ecclesiastes 4, Mark 11
+- **Jan 16**: 1 Chronicles 5-6, Ecclesiastes 5, Mark 12
+- **Jan 17**: 1 Chronicles 7-8, Ecclesiastes 6, Mark 13
+- **Jan 18**: 1 Chronicles 9-10, Ecclesiastes 7, Mark 14
+- **Jan 19**: 1 Chronicles 11-12, Ecclesiastes 8, Mark 15
+- **Jan 20**: 1 Chronicles 13-14, Ecclesiastes 9, Mark 16
+- **Jan 21**: 1 Chronicles 15-16, Ecclesiastes 10, Luke 1
+- **Jan 22**: 1 Chronicles 17-18, Ecclesiastes 11, Luke 2
+- **Jan 23**: 1 Chronicles 19-20, Ecclesiastes 12, Luke 3
+- **Jan 24**: 1 Chronicles 21-22, Song of Solomon 1, Luke 4
+- **Jan 25**: 1 Chronicles 23-24, Song of Solomon 2, Acts 9:1-22 (Conversion of St. Paul)
+- **Jan 26**: 1 Chronicles 25-26, Song of Solomon 3, Luke 6
+- **Jan 27**: 1 Chronicles 27-28, Song of Solomon 4, Luke 7
+- **Jan 28**: 1 Chronicles 29, Song of Solomon 5, Luke 8
+- **Jan 29**: 2 Chronicles 1-2, Song of Solomon 6, Luke 9
+- **Jan 30**: 2 Chronicles 3-4, Song of Solomon 7, Luke 10
+- **Jan 31**: 2 Chronicles 5-6, Song of Solomon 8, Luke 11
+
+### February 2026 (Ordinary Time, Lent Begins Feb 11)
+- **Feb 1**: 2 Chronicles 7-8, Wisdom 1, Luke 12
+- **Feb 2**: 2 Chronicles 9-10, Wisdom 2, Luke 2:22-40 (Presentation of the Lord)
+- **Feb 3**: 2 Chronicles 11-12, Wisdom 3, Luke 14
+- **Feb 4**: 2 Chronicles 13-14, Wisdom 4, Luke 15
+- **Feb 5**: 2 Chronicles 15-16, Wisdom 5, Luke 16
+- **Feb 6**: 2 Chronicles 17-18, Wisdom 6, Luke 17
+- **Feb 7**: 2 Chronicles 19-20, Wisdom 7, Luke 18
+- **Feb 8**: 2 Chronicles 21-22, Wisdom 8, Luke 19
+- **Feb 9**: 2 Chronicles 23-24, Wisdom 9, Luke 20
+- **Feb 10**: 2 Chronicles 25-26, Wisdom 10, Luke 21
+- **Feb 11**: Joel 2:12-18, Psalm 51, Matthew 6:1-18 (Ash Wednesday)
+- **Feb 12**: Deuteronomy 30:15-20, Psalm 1, Luke 9:22-25 (Lent)
+- **Feb 13**: Isaiah 58, Psalm 31, Matthew 9:14-15 (Lent)
+- **Feb 14**: Leviticus 19, Psalm 119:1-16, Luke 5:27-32 (Lent)
+- **Feb 15**: Genesis 2-3, Psalm 32, Matthew 4:1-11 (1st Sunday of Lent)
+- **Feb 16**: Leviticus 11-12, Psalm 119:17-32, Matthew 5:17-19
+- **Feb 17**: Jonah 3, Psalm 119:33-48, Luke 11:29-32
+- **Feb 18**: Esther 3, Psalm 119:49-64, Matthew 7:7-12
+- **Feb 19**: Deuteronomy 30:1-14, Psalm 119:65-80, Matthew 5:20-26
+- **Feb 20**: Ezekiel 18:21-28, Psalm 119:81-96, Matthew 5:43-48
+- **Feb 21**: Deuteronomy 26:16-19, Psalm 119:97-112, Matthew 5:43-48
+- **Feb 22**: Genesis 22, Psalm 116, Romans 8:31-34 (2nd Sunday of Lent)
+- **Feb 23**: Daniel 9:4-10, Psalm 119:113-128, Luke 6:36-38
+- **Feb 24**: Isaiah 1:10-20, Psalm 119:129-144, Matthew 23:1-12
+- **Feb 25**: Jeremiah 18:18-20, Psalm 119:145-160, Matthew 20:17-28
+- **Feb 26**: Jeremiah 17:5-10, Psalm 119:161-176, Luke 16:19-31
+- **Feb 27**: Genesis 37, Psalm 105, Matthew 21:33-46
+- **Feb 28**: Micah 7:14-20, Psalm 103, Luke 15:1-32
+
+### March 2026 (Lent, Easter Triduum)
+- **Mar 1**: Exodus 20:1-17, Psalm 19, John 2:13-25 (3rd Sunday of Lent)
+- **Mar 2**: 2 Chronicles 27-28, Wisdom 11, Luke 4:24-30
+- **Mar 3**: 2 Chronicles 29-30, Wisdom 12, Matthew 5:17-19
+- **Mar 4**: 2 Chronicles 31-32, Wisdom 13, Luke 7:1-10
+- **Mar 5**: 2 Chronicles 33-34, Wisdom 14, Matthew 12:1-8
+- **Mar 6**: 2 Chronicles 35-36, Wisdom 15, Luke 9:51-62
+- **Mar 7**: Hosea 6:1-6, Psalm 51, Luke 18:9-14
+- **Mar 8**: 2 Chronicles 7:12-18, Psalm 95, John 3:14-21 (4th Sunday of Lent)
+- **Mar 9**: Ezra 1-2, Wisdom 16, John 4:5-42
+- **Mar 10**: Ezra 3-4, Wisdom 17, John 5:1-16
+- **Mar 11**: Ezra 5-6, Wisdom 18, John 5:17-30
+- **Mar 12**: Ezra 7-8, Wisdom 19, John 5:31-47
+- **Mar 13**: Ezra 9-10, Sirach 1, John 7:1-30
+- **Mar 14**: Nehemiah 1-2, Sirach 2, John 8:1-11
+- **Mar 15**: Ezekiel 37:12-14, Psalm 130, John 11:1-45 (5th Sunday of Lent)
+- **Mar 16**: Nehemiah 3-4, Sirach 3, John 8:31-59
+- **Mar 17**: Nehemiah 5-6, Sirach 4, John 9 (St. Patrick)
+- **Mar 18**: Nehemiah 7-8, Sirach 5, John 10:1-21
+- **Mar 19**: Nehemiah 9-10, Psalm 89, Matthew 1:16-24 (St. Joseph)
+- **Mar 20**: Nehemiah 11-12, Sirach 7, John 10:31-42
+- **Mar 21**: Nehemiah 13, Sirach 8, John 11:45-56
+- **Mar 22**: Isaiah 50:4-7, Psalm 22, Matthew 26:14-27:66 (Palm Sunday)
+- **Mar 23**: Isaiah 42:1-7, Psalm 27, John 12:1-11 (Holy Week)
+- **Mar 24**: Isaiah 49:1-6, Psalm 71, John 13:21-38
+- **Mar 25**: Isaiah 50:4-9, Psalm 69, Matthew 26:14-25 (Annunciation)
+- **Mar 26**: Exodus 12:1-14, Psalm 116, John 13:1-15 (Holy Thursday)
+- **Mar 27**: Isaiah 52:13-53:12, Psalm 31, John 18:1-19:42 (Good Friday)
+- **Mar 28**: Genesis 1-2, Psalm 33, Romans 6:3-11 (Holy Saturday)
+- **Mar 29**: Acts 10:34-43, Psalm 118, John 20:1-9 (Easter Sunday)
+- **Mar 30**: Tobit 1-2, Psalm 23, John 20:11-18 (Easter Octave)
+- **Mar 31**: Tobit 3-4, Psalm 24, John 21:1-14
+
+### April 2026 (Easter Season)
+- **Apr 1**: Tobit 5-6, Psalm 25, Luke 24:13-35
+- **Apr 2**: Tobit 7-8, Psalm 26, Luke 24:35-48
+- **Apr 3**: Tobit 9-10, Psalm 27, John 21:15-25
+- **Apr 4**: Tobit 11-12, Psalm 28, Acts 1:1-11
+- **Apr 5**: Tobit 13-14, Psalm 118, John 20:19-31 (Divine Mercy Sunday)
+- **Apr 6**: Judith 1-2, Sirach 9, Acts 2
+- **Apr 7**: Judith 3-4, Sirach 10, Acts 3
+- **Apr 8**: Judith 5-6, Sirach 11, Acts 4
+- **Apr 9**: Judith 7-8, Sirach 12, Acts 5
+- **Apr 10**: Judith 9-10, Sirach 13, Acts 6
+- **Apr 11**: Judith 11-12, Sirach 14, Acts 7
+- **Apr 12**: Judith 13-14, Psalm 116, John 10:1-10 (3rd Sunday of Easter)
+- **Apr 13**: Judith 15-16, Sirach 16, Acts 9
+- **Apr 14**: Esther 1-2, Sirach 17, Acts 10
+- **Apr 15**: Esther 3-4, Sirach 18, Acts 11
+- **Apr 16**: Esther 5-6, Sirach 19, Acts 12
+- **Apr 17**: Esther 7-8, Sirach 20, Acts 13
+- **Apr 18**: Esther 9-10, Sirach 21, Acts 14
+- **Apr 19**: Esther C-D, Psalm 23, John 10:11-18 (4th Sunday of Easter)
+- **Apr 20**: 1 Maccabees 1-2, Sirach 23, Acts 16
+- **Apr 21**: 1 Maccabees 3-4, Sirach 24, Acts 17
+- **Apr 22**: 1 Maccabees 5-6, Sirach 25, Acts 18
+- **Apr 23**: 1 Maccabees 7-8, Psalm 46, John 15:1-8 (St. George)
+- **Apr 24**: 1 Maccabees 9-10, Sirach 27, Acts 20
+- **Apr 25**: 1 Maccabees 11-12, Psalm 16, Mark 16:15-20 (St. Mark)
+- **Apr 26**: 1 Maccabees 13-14, Psalm 1, John 15:9-17 (5th Sunday of Easter)
+- **Apr 27**: 1 Maccabees 15-16, Sirach 30, Acts 23
+- **Apr 28**: 2 Maccabees 1-2, Sirach 31, Acts 24
+- **Apr 29**: 2 Maccabees 3-4, Sirach 32, Acts 25
+- **Apr 30**: 2 Maccabees 5-6, Sirach 33, Acts 26
+
+### May 2026 (Easter Season, Ordinary Time)
+- **May 1**: 2 Maccabees 7-8, Psalm 34, John 14:1-12 (St. Joseph the Worker)
+- **May 2**: 2 Maccabees 9-10, Sirach 35, Acts 28
+- **May 3**: 2 Maccabees 11-12, Psalm 80, John 15:18-26 (6th Sunday of Easter)
+- **May 4**: 2 Maccabees 13-14, Sirach 37, Romans 1
+- **May 5**: 2 Maccabees 15, Sirach 38, Romans 2
+- **May 6**: Job 1-2, Sirach 39, Romans 3
+- **May 7**: Job 3-4, Sirach 40, Romans 4
+- **May 8**: Job 5-6, Sirach 41, Romans 5
+- **May 9**: Job 7-8, Sirach 42, Romans 6
+- **May 10**: Acts 1:1-11, Psalm 47, Ephesians 1:17-23 (Ascension)
+- **May 11**: Job 9-10, Sirach 43, Romans 8
+- **May 12**: Job 11-12, Sirach 44, Romans 9
+- **May 13**: Job 13-14, Sirach 45, Romans 10
+- **May 14**: Job 15-16, Psalm 16, John 14:6-14 (St. Matthias)
+- **May 15**: Job 17-18, Sirach 47, Romans 12
+- **May 16**: Job 19-20, Sirach 48, Romans 13
+- **May 17**: Acts 2:1-11, Psalm 104, John 20:19-23 (Pentecost)
+- **May 18**: Job 21-22, Sirach 50, Romans 15
+- **May 19**: Job 23-24, Sirach 51, Romans 16
+- **May 20**: Job 25-26, Psalm 119:1-32, 1 Corinthians 1
+- **May 21**: Job 27-28, Psalm 119:33-64, 1 Corinthians 2
+- **May 22**: Job 29-30, Psalm 119:65-96, 1 Corinthians 3
+- **May 23**: Job 31-32, Psalm 119:97-128, 1 Corinthians 4
+- **May 24**: Proverbs 8:22-31, Psalm 8, John 16:12-15 (Trinity Sunday)
+- **May 25**: Job 33-34, Psalm 119:129-160, 1 Corinthians 6
+- **May 26**: Job 35-36, Psalm 119:161-176, 1 Corinthians 7
+- **May 27**: Job 37-38, Sirach 1, 1 Corinthians 8
+- **May 28**: Job 39-40, Sirach 2, 1 Corinthians 9
+- **May 29**: Job 41-42, Sirach 3, 1 Corinthians 10
+- **May 30**: Jeremiah 1-2, Sirach 4, 1 Corinthians 11
+- **May 31**: Deuteronomy 4:32-40, Psalm 33, Matthew 28:16-20 (Visitation)
+
+### June 2026 (Ordinary Time)
+- **Jun 1**: Jeremiah 3-4, Sirach 5, 1 Corinthians 12
+- **Jun 2**: Jeremiah 5-6, Sirach 6, 1 Corinthians 13
+- **Jun 3**: Jeremiah 7-8, Sirach 7, 1 Corinthians 14
+- **Jun 4**: Jeremiah 9-10, Psalm 34, Luke 22:14-20 (Corpus Christi)
+- **Jun 5**: Jeremiah 11-12, Sirach 9, 1 Corinthians 16
+- **Jun 6**: Jeremiah 13-14, Sirach 10, 2 Corinthians 1
+- **Jun 7**: Jeremiah 15-16, Sirach 11, 2 Corinthians 2
+- **Jun 8**: Jeremiah 17-18, Sirach 12, 2 Corinthians 3
+- **Jun 9**: Jeremiah 19-20, Sirach 13, 2 Corinthians 4
+- **Jun 10**: Jeremiah 21-22, Sirach 14, 2 Corinthians 5
+- **Jun 11**: Jeremiah 23-24, Psalm 89, Luke 22:24-30 (St. Barnabas)
+- **Jun 12**: Jeremiah 25-26, Psalm 51, 2 Corinthians 7 (Sacred Heart)
+- **Jun 13**: Jeremiah 27-28, Sirach 16, 2 Corinthians 8
+- **Jun 14**: Ezekiel 17:22-24, Psalm 92, Mark 4:26-34 (11th Sunday Ordinary)
+- **Jun 15**: Jeremiah 29-30, Sirach 18, 2 Corinthians 10
+- **Jun 16**: Jeremiah 31-32, Sirach 19, 2 Corinthians 11
+- **Jun 17**: Jeremiah 33-34, Sirach 20, 2 Corinthians 12
+- **Jun 18**: Jeremiah 35-36, Sirach 21, 2 Corinthians 13
+- **Jun 19**: Jeremiah 37-38, Sirach 22, Galatians 1
+- **Jun 20**: Jeremiah 39-40, Sirach 23, Galatians 2
+- **Jun 21**: Job 38:1-11, Psalm 107, Mark 4:35-41 (12th Sunday Ordinary)
+- **Jun 22**: Jeremiah 41-42, Sirach 25, Galatians 4
+- **Jun 23**: Jeremiah 43-44, Sirach 26, Galatians 5
+- **Jun 24**: Jeremiah 45-46, Psalm 139, Luke 1:57-80 (Nativity of John the Baptist)
+- **Jun 25**: Jeremiah 47-48, Sirach 28, Ephesians 1
+- **Jun 26**: Jeremiah 49-50, Sirach 29, Ephesians 2
+- **Jun 27**: Jeremiah 51-52, Sirach 30, Ephesians 3
+- **Jun 28**: Wisdom 1:13-15, Psalm 30, Mark 5:21-43 (13th Sunday Ordinary)
+- **Jun 29**: Lamentations 1-2, Psalm 16, Acts 12:1-11 (Sts. Peter and Paul)
+- **Jun 30**: Lamentations 3-4, Sirach 32, Ephesians 5
+
+## Notes
+- **Liturgical Alignment**: Readings are tailored to seasons (e.g., Isaiah for Advent, Passion narratives for Lent) and feast days (e.g., Luke 1:26-38 for Annunciation). Ordinary Time includes narrative and epistolary texts for continuity.
+- **Deuterocanonical Books**: Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees, and additions to Esther and Daniel are integrated, reflecting the Catholic canon.
+- **Psalms and Wisdom**: Psalms are spread across the year, with longer psalms (e.g., Psalm 119) split. Wisdom books complement historical or prophetic readings.
+- **New Testament**: Gospels are read multiple times to emphasize their centrality, with Acts and Epistles during Easter and Ordinary Time.
+- **Reflection**: Use a Catholic study Bible (e.g., New American Bible Revised Edition) for context, especially for deuterocanonical books or prophets.
+
+May this plan deepen your faith through God’s Word in harmony with the Church’s liturgical life!
