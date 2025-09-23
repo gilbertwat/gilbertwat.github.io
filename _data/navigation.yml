@@ -5,7 +5,3 @@ main:
     url: "/about"
   - title: "Manifesto"
     url: "/manifesto"
-  - title: "Archive"
-    url: "/archive"
-  - title: "Tags"
-    url: "/tags"

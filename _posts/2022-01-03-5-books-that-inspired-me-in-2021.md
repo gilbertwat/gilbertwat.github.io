@@ -1,6 +1,5 @@
 ---
 title: 5 books that inspired me in 2021
-tags: ["review", "books"]
 ---
 I am a bit late to the party this year. I have selected 5 books that I read in 2021 and share it here. The books on this list have given me a very different perspective of life and reality. In 2021, I am determined to stay on the course of making things people want. After reading these 5 books, I am filling a large knowledge and perspective gap in my mission of "make things people want". Through these 5 books, I started to be able to ask a more concrete question, *"I know how to make things digitally, but what about figuring out what do people want?"*
 

@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-HK"
 title                    : "Gilbert Wat's Blog"
 title_separator          : "|"
-subtitle                 : "sharing my life journey and the (over)thinking behind." # site tagline that appears below site title in masthead
+subtitle                 : "a point of view in building technology, team and fatherhood." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "Essays about life, technology, digital products, and everything in between"
+description              : "Essays about Gilbert's journey in building a family and his career"
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Gilbert Wat"
-  avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Writing about the intersection of Technology, Life and God. Partaking a journey to reveal the Order. 1% better every day is 37.7x better after a year."
+  avatar           : "/assets/images/profile-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A technologists that make things people want and scales it. Write mostly about technology, management and fatherhood."
   location         : "Does it matter?"
   email            :
   links:

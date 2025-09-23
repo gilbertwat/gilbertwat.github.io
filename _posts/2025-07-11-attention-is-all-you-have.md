@@ -1,6 +1,6 @@
 ---
 title: Attention is All You Have
-category: spirituality
+excerpt: "Discover the profound influence of attention on shaping our experience and the potential for transforming challenges through conscious focus."
 ---
 ## Introduction
 

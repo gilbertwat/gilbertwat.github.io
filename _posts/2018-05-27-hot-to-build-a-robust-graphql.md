@@ -35,7 +35,6 @@ In RESTful world, API designers can require the callers to bound the request. Ta
             $ref: '#/definitions/Orders'  
       summary: List orders  
       description: List orders  
-      tags:  
         - Order  
       produces:  
         - application/json

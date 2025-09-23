@@ -1,6 +1,5 @@
 ---
 title: The nature of money
-tags: [cryptocurrency, money, world]
 ---
 In this world of turmoil and uncertainty, with a fervent and fruitful discussion with my colleagues who are super into cryptocurrency, I finally make sense of something fundamental in human society. What is money and some fundamentals of economics.
 

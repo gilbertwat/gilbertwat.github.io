@@ -1,6 +1,5 @@
 ---
 title: Memento Mori&#58; After My Bicycle Crash
-tags: ["life"]
 ---
 
 On a bicycle ride last Saturday morning, I was T-boned by a Toyota minivan. Before the crash, I had been in a pretty good shape. I was averaging 180W. The temperature was comfortable. The sun was warm. Suddenly a minivan coming out from the village entrance crashed into me. I landed on my butt after a half-meter flight. Both of my legs were bruised.

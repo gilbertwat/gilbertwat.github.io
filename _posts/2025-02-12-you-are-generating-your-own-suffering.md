@@ -1,6 +1,5 @@
 ---
 title: You are generating your own suffering
-tags: ['mindset']
 ---
 # You are generating your own suffering
 

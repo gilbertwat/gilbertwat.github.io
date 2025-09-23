@@ -1,6 +1,5 @@
 ---
 title: How do we apply a sensible microservice architecture to GOGOVAN
-tags: ["Microservice", "software architecture"]
 ---
 
 Recently, we have a lot of discussions around microservice . At GOGOVAN, with a relatively small engineering team, how exactly do we apply the microservice pattern? In this article, we will share some of our experience and explore the logic behind our current approach. We will also share bits and pieces on how we solve our customers’ and teammates’ problems using the microservice pattern.

@@ -1,6 +1,5 @@
 ---
 title: Choosing Kindergarten for My Son
-tags: ["decision-making", "kindergarten", "education", "parenting"]
 ---
 
 ## Introduction
