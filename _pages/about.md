@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## About Gilbert Wat
 
-My service is to scale your business through build valuable software and adopt suitable technology in the value chain of your company. Throughout my career, I have partnered with technologists and a wide range of business to build useful software, streamline operations and improve user experience.
+My service is to scale your business through building valuable software and adopting a set of suitable technology in your value chain. Throughout my career, I have partnered with technologists and a wide range of businesses to build useful software, streamline operations and improve user experience.
 
 Trusted by multiple companies over a decade, I can help you build your product strategically.
 
@@ -16,7 +16,7 @@ If you are facing these challenges:
 - A low or ineffective adoption of key technology, particularly Gen A.I.
 - A product in an industry recently disrupted by Gen A.I., such as Education, Legal or Counseling
 
-I can help you tackle them with a holistic consideration across functions and pragmatic solutions with more than technical consideration.
+I can partner with you to tackle them orderly and cost-effectively.
 
 Some highlights of my previous services are:
 
