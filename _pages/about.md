@@ -5,7 +5,9 @@ permalink: /about/
 ---
 ## About Gilbert Wat
 
-My service is to build valuable software and adopt suitable technology in the value chain of your company. I has partnered with a wide range of business to build useful software, streamline operations and improve user experience. Trusted by multiple companies over a decade, I can help you build your product strategically.
+My service is to scale your business through build valuable software and adopt suitable technology in the value chain of your company. Throughout my career, I have partnered with technologists and a wide range of business to build useful software, streamline operations and improve user experience.
+
+Trusted by multiple companies over a decade, I can help you build your product strategically.
 
 If you are facing these challenges:
 
