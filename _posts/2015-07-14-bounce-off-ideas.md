@@ -1,5 +1,5 @@
 ---
-title: Bounce off Ideas
+title: Bounce off ideas
 ---
 Originally posted in [Medium](https://medium.com/@gilbertwat/bounce-off-ideas-244bfa1bbad1#.yftgx5pq6)
 

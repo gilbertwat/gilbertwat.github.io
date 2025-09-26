@@ -1,5 +1,5 @@
 ---
-title: Choosing Kindergarten for My Son
+title: Choosing kindergarten for my son
 ---
 
 ## Introduction

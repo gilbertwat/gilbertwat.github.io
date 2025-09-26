@@ -1,5 +1,5 @@
 ---
-title: My First Post in Get Things Done
+title: My first post in Get Things Done
 ---
 This is my first post in this new found freedom. Jekyll and ability to self-host!
 

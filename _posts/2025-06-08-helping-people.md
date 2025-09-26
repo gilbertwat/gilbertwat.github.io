@@ -1,5 +1,5 @@
 ---
-title: Helping People
+title: Helping people
 excerpt: "A small encounter that test my intent to help."
 ---
 # Helping People

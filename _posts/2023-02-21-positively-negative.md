@@ -1,5 +1,5 @@
 ---
-title: Positively Negative
+title: Positively negative
 ---
 Do you find you simply cannot get things done with some of your colleagues? They may always drift away from the main topic in the meetings, or find faults in the solutions, or have a too simplistic view of projects. Sometimes it may even be someone whom you manage or whom you report to.
 

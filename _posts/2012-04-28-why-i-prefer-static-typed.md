@@ -1,5 +1,5 @@
 ---
-title: Why I prefer static typed language
+title: Why i prefer static typed language
 ---
 Yes\. It is been a long time\.
 
