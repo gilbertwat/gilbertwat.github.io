@@ -1,6 +1,9 @@
 ---
 title: "Fun Friday: automating my publishing chore with n8n and Gemini"
-tags: "automation ,generative-ai ,workflow-optimization "
+tags: 
+- automation
+- generative-ai
+- workflow-optimization
 permalink: "fun-friday-automating-my-publishing-chore-with-n8n-and-gemini"
 ---
 
