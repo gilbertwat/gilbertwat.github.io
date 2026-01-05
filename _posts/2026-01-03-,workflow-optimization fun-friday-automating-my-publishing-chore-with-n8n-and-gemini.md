@@ -7,7 +7,7 @@ tags:
 permalink: "fun-friday-automating-my-publishing-chore-with-n8n-and-gemini"
 ---
 
-![cover: Editorial tech vector art, minimalist, cyber punk, dark mode aesthetic. A centralized glowing AI core resembling Gemini connecting to various digital nodes and pipes representing n8n automation workflows. Neon violet and deep blue accents on a pitch-black background. Sharp geometric lines, clean composition, and high-tech abstract interface elements.](https://chachaanteng.co/assets/images/ 2026-01-03-fun-friday-automating-my-publishing-chore-with-n8n-and-gemini-cover.png)
+![cover: Editorial tech vector art, minimalist, cyber punk, dark mode aesthetic. A centralized glowing AI core resembling Gemini connecting to various digital nodes and pipes representing n8n automation workflows. Neon violet and deep blue accents on a pitch-black background. Sharp geometric lines, clean composition, and high-tech abstract interface elements.](https://chachaanteng.co/assets/images/2026-01-03-fun-friday-automating-my-publishing-chore-with-n8n-and-gemini-cover.png)
 
 Again it is fun Friday, how lucky to start my 2026 with a fun Friday. I followed some software 前輩 advice to roll up my sleeves and build. I have built on a suite of new tools and workflows to eliminate a source of boredom in my routine.
 
