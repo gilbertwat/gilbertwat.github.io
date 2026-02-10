@@ -5,6 +5,7 @@ tags:
 - generative-ai
 - workflow-optimization
 permalink: "fun-friday-automating-my-publishing-chore-with-n8n-and-gemini"
+excerpt: "In this Fun Friday, I share how I built an agent using Google Doc, n8n, and Gemini to automate my multi-platform publishing chore."
 ---
 
 ![cover: Editorial tech vector art, minimalist, cyber punk, dark mode aesthetic. A centralized glowing AI core resembling Gemini connecting to various digital nodes and pipes representing n8n automation workflows. Neon violet and deep blue accents on a pitch-black background. Sharp geometric lines, clean composition, and high-tech abstract interface elements.](https://chachaanteng.co/assets/images/2026-01-03-fun-friday-automating-my-publishing-chore-with-n8n-and-gemini-cover.png)

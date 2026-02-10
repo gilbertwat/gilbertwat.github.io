@@ -2,6 +2,7 @@
 title: "We’ve been told that “Taste, Judgment, and Speed” are the ultimate shields against AI."
 tags: ""
 permalink: "weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai"
+excerpt: "Taste, Judgment, and Speed are often cited as shields against AI. But the future belongs to those with the courage to take risks and the humility to serve a purpose larger than their own."
 ---
 
 ![cover: Editorial tech vector art, minimalist, cyber punk, dark mode aesthetic. A minimalist human silhouette breaking out of a geometric prison made of glowing circuitry patterns. The figure is stepping onto a bridge of light toward a distant, abstract horizon. Color palette: deep charcoal, neon cyan, and sharp violet accents. Flat design, clean lines, high contrast, representing human courage against automation.](https://chachaanteng.co/assets/images/2026-02-09-weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai-cover.png)

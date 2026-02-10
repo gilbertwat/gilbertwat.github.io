@@ -6,6 +6,7 @@ tags:
 - "agent-architecture"
 - "agent-dev"
 permalink: "when-ai-agents-oversell-and-damage-your-brand"
+excerpt: "A 3-agent architecture (SalesMaker, BrandDefender, Responder) can resolve the issue of AI agents overly focused on sales goals damaging brand integrity by lying to customers."
 ---
 
 ![cover: Editorial tech vector art, minimalist, cyber punk, dark mode aesthetic. Three distinct glowing digital nodes titled SalesMaker, BrandDefender, and Responder connected by intricate data streams. A dark charcoal background with neon cyan and violet accents. Geometric shapes representing artificial intelligence oversight and ethical balance. High contrast, sleek professional illustration.](https://chachaanteng.co/assets/images/2026-01-16-when-ai-agents-oversell-and-damage-your-brand-cover.png)
