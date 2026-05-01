@@ -1,6 +1,7 @@
 ---
 title: Helping people
 excerpt: "A small encounter that test my intent to help."
+tags: life mindset
 ---
 # Helping People
 
@@ -21,4 +22,3 @@ The situation was a mess.
 Innately, I would like to help. There were tens of ideas floating in my brain, but none of the solutions right at that moment is appropriate. I feel helpless in my limited wisdom and intellect.
 
 I am choked. I can only pray for them.
-
