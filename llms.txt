@@ -1,0 +1,30 @@
+# Gilbert Wat's Blog
+> a point of view in building technology, team and fatherhood. Essays about Gilbert's journey in building a family and his career.
+
+Gilbert Wat is a technologist who builds products people want and scales them. He writes primarily about technology, management, and fatherhood.
+
+## Recent Posts
+- [LLMSpeak](https://www.chachaanteng.co/llmspeak/): A reflection on the impact of Large Language Models on writing, the emergence of "LLMSpeak," and how to maintain authenticity in a world of AI-generated content.
+- [Taste, Judgment, and Speed as Shields Against AI](https://www.chachaanteng.co/weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai/): Taste, Judgment, and Speed are often cited as shields against AI. But the future belongs to those with the courage to take risks and the humility to serve a purpose larger than their own.
+- [When AI Agents Oversell and Damage Your Brand](https://www.chachaanteng.co/when-ai-agents-oversell-and-damage-your-brand/): A 3-agent architecture (SalesMaker, BrandDefender, Responder) can resolve the issue of AI agents overly focused on sales goals damaging brand integrity.
+- [Fun Friday: automating my publishing chore with n8n and Gemini](https://www.chachaanteng.co/fun-friday-automating-my-publishing-chore-with-n8n-and-gemini/): In this Fun Friday, I share how I built an agent using Google Doc, n8n, and Gemini to automate my multi-platform publishing chore.
+- [Flies](https://www.chachaanteng.co/flies/): Beyond doomscrolling: I nuked social media and found peace. But not without a supernatural challenges from the get go.
+- [Attention is All You Have](https://www.chachaanteng.co/attention-is-all-you-have/): Discover the profound influence of attention on shaping our experience and the potential for transforming challenges through conscious focus.
+- [Helping people](https://www.chachaanteng.co/helping-people/): A small encounter that test my intent to help.
+- [Chasing bubble](https://www.chachaanteng.co/chasing-bubble/): Life's true joys often lie not in achievements, but in shared, simple moments of pure happiness with loved ones.
+- [Where should I go?](https://www.chachaanteng.co/where-should-i-go/): A spontaneous hike reveals life's hidden paths. Sometimes, the clearest way forward appears when we open our eyes and trust the journey.
+- [One painting; Two meanings](https://www.chachaanteng.co/one-painting-two-meanings/): Reflections on Hans Holbein's "The Dead Christ in the Tomb" and personal loss.
+
+## Main Pages
+- [About](https://www.chachaanteng.co/about/): Learn more about Gilbert Wat, his background, and his expertise in scaling businesses through technology.
+- [Manifesto](https://www.chachaanteng.co/manifesto/): Gilbert's beliefs and principles on technology and team building.
+- [Catholic Bible Study Grok](https://www.chachaanteng.co/catholic-bible-study-grok/): A one-year Catholic Bible reading plan with liturgical alignment.
+
+## Categories
+- [Technology](https://www.chachaanteng.co/categories/#technology)
+- [Management](https://www.chachaanteng.co/categories/#management)
+- [Fatherhood](https://www.chachaanteng.co/categories/#fatherhood)
+
+## Optional
+- [RSS Feed](https://www.chachaanteng.co/feed.xml)
+- [GitHub Repository](https://github.com/gilbertwat/gilbertwat.github.io)
