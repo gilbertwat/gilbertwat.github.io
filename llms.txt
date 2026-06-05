@@ -4,6 +4,7 @@
 Gilbert Wat is a technologist who builds products people want and scales them. He writes primarily about technology, management, and fatherhood.
 
 ## Recent Posts
+- [UFO、信仰與天主的肖像](https://www.chachaanteng.co/ufos-and-faith/): Reflections on how the existence of aliens might (or might not) impact Catholic faith and the understanding of being made in God's image.
 - [LLMSpeak](https://www.chachaanteng.co/llmspeak/): A reflection on the impact of Large Language Models on writing, the emergence of "LLMSpeak," and how to maintain authenticity in a world of AI-generated content.
 - [Taste, Judgment, and Speed as Shields Against AI](https://www.chachaanteng.co/weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai/): Taste, Judgment, and Speed are often cited as shields against AI. But the future belongs to those with the courage to take risks and the humility to serve a purpose larger than their own.
 - [When AI Agents Oversell and Damage Your Brand](https://www.chachaanteng.co/when-ai-agents-oversell-and-damage-your-brand/): A 3-agent architecture (SalesMaker, BrandDefender, Responder) can resolve the issue of AI agents overly focused on sales goals damaging brand integrity.
@@ -17,6 +18,7 @@ Gilbert Wat is a technologist who builds products people want and scales them. H
 
 ## Main Pages
 - [About](https://www.chachaanteng.co/about/): Learn more about Gilbert Wat, his background, and his expertise in scaling businesses through technology.
+- [Projects](https://www.chachaanteng.co/projects/): A reverse chronological list of professional experiences and key projects.
 - [Manifesto](https://www.chachaanteng.co/manifesto/): Gilbert's beliefs and principles on technology and team building.
 - [Catholic Bible Study Grok](https://www.chachaanteng.co/catholic-bible-study-grok/): A one-year Catholic Bible reading plan with liturgical alignment.
 
