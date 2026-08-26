@@ -4,6 +4,7 @@
 Gilbert Wat is a technologist who builds products people want and scales them. He writes primarily about technology, management, and fatherhood.
 
 ## Recent Posts
+- [如何有倫理地實踐AI](https://www.chachaanteng.co/how-to-practice-ai-ethically/): Reflections on Pope Leo XIV's encyclical on AI ethics, the value of human-centric AI tools, and preserving human essence and dignity.
 - [UFO、信仰與天主的肖像](https://www.chachaanteng.co/ufos-and-faith/): Reflections on how the existence of aliens might (or might not) impact Catholic faith and the understanding of being made in God's image.
 - [LLMSpeak](https://www.chachaanteng.co/llmspeak/): A reflection on the impact of Large Language Models on writing, the emergence of "LLMSpeak," and how to maintain authenticity in a world of AI-generated content.
 - [Taste, Judgment, and Speed as Shields Against AI](https://www.chachaanteng.co/weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai/): Taste, Judgment, and Speed are often cited as shields against AI. But the future belongs to those with the courage to take risks and the humility to serve a purpose larger than their own.
