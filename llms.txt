@@ -1,7 +1,19 @@
-# Gilbert Wat's Blog
-> I build AI for purposeful businesses, while raising my family.
+# Gilbert Wat's Chachaanteng for Technologists
+> Gilbert Wat builds AI systems for purposeful businesses in Hong Kong. Writing on AI ethics, responsible AI, agent system architecture, technology leadership, Catholic faith, and fatherhood.
 
-Gilbert Wat builds AI for intentional organizations and writes at Cha Chaan Teng about building AI with humanity — informed by a career shipping software across three continents, and by raising a son in Hong Kong.
+Gilbert Wat is a technology leader writing about building technology with ethics and humanity in mind — informed by a career shipping software across three continents, and by raising a son in Hong Kong.
+
+## Expertise
+- AI ethics and Catholic social teaching
+- AI agent architecture and system design
+- Engineering leadership and scaling tech teams
+- Fatherhood and digital wellness
+- Hong Kong tech ecosystem
+
+## Themes
+- **Building Technology for Humanity**: Where humanity builds technology for humanity. Essays on AI ethics, responsible AI, and the intersection of Catholic faith with technology.
+- **Building Technology**: Designing systems, building products and cultivating AI agents. Deep dives into agent architecture, system design, and engineering craft.
+- **Being Human**: Attention, faith, fatherhood, and life. Reflections on what it means to remain human in an age of acceleration.
 
 ## Recent Posts
 - [如何有倫理地實踐AI](https://www.chachaanteng.co/how-to-practice-ai-ethically/): Reflections on Pope Leo XIV's encyclical on AI ethics, the value of human-centric AI tools, and preserving human essence and dignity.
@@ -29,7 +41,8 @@ Gilbert Wat builds AI for intentional organizations and writes at Cha Chaan Teng
 - [About](https://www.chachaanteng.co/about/): Learn more about Gilbert Wat, his background, and his expertise in scaling businesses through technology.
 - [Projects](https://www.chachaanteng.co/projects/): A reverse chronological list of professional experiences and key projects.
 - [Manifesto](https://www.chachaanteng.co/manifesto/): Gilbert's beliefs and principles on technology and team building.
-- [Catholic Bible Study Grok](https://www.chachaanteng.co/catholic-bible-study-grok/): A one-year Catholic Bible reading plan with liturgical alignment.
+## Schema Markup
+Structured data uses schema.org Person and CreativeWork markup across all pages and posts to aid AI systems in understanding authorship, content type, and topical relationships.
 
 ## Categories
 - [Technology](https://www.chachaanteng.co/categories/#technology)
