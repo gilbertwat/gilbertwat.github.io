@@ -11,7 +11,7 @@ Gilbert Wat writes about technology, humanity, and everything in between — inf
 - Hong Kong tech ecosystem
 
 ## Themes
-- **Building Technology for Humanity**: Where humanity builds technology for humanity. Essays on AI ethics, responsible AI, and the intersection of Catholic faith with technology.
+- **Leveraging Technology for Humanity**: Where humanity builds technology for humanity. Essays on AI ethics, responsible AI, and the intersection of Catholic faith with technology.
 - **Building Technology**: Designing systems, building products and cultivating AI agents. Deep dives into agent architecture, system design, and engineering craft.
 - **Being Human**: Lessons of being a dad, husband, and leader. Reflections on what it means to remain human in an age of acceleration.
 
