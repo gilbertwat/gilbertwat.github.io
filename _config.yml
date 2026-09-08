@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-HK"
-title                    : "Gilbert Wat's Chachaanteng for Technologists"
+title                    : "Chachaanteng for Technologists — Gilbert Wat"
 title_separator          : "|"
 subtitle                 : "technology leader writing about building technology with ethics and humanity in mind." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
