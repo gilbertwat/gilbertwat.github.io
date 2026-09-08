@@ -4,7 +4,7 @@
 
 /* ----- Pillar headers on homepage ----- */
 .pillar-header {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
 }
 
 .pillar-title {
@@ -17,6 +17,11 @@
   margin: 0.25em 0 0;
   font-size: 0.875em;
   color: #6c6f85;
+}
+
+/* Tighten space between pillar header and post title */
+.home-pillar-post .archive__item-title {
+  margin-top: 0.5em;
 }
 
 /* ----- Archive container: enable right sidebar positioning ----- */
