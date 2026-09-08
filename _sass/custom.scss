@@ -24,6 +24,14 @@
   margin-top: 0.5em;
 }
 
+/* Hyphenation for homepage excerpts and article body */
+.home-pillar-post .archive__item-excerpt,
+.page__content {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
 /* ----- Archive container: enable right sidebar positioning ----- */
 .archive {
   position: relative;
