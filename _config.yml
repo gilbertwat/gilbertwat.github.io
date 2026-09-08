@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark
 locale                   : "en-HK"
 title                    : "Chachaanteng for Technologists — Gilbert Wat"
 title_separator          : "|"
-subtitle                 : "technology leader writing about building technology with ethics and humanity in mind." # site tagline that appears below site title in masthead
+subtitle                 : "Write about technology, humanity, and everything in between." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
 description              : "Gilbert Wat builds AI systems for purposeful businesses in Hong Kong. Writing on AI ethics, responsible AI, agent system architecture, technology leadership, Catholic faith, and fatherhood."
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

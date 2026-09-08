@@ -1,7 +1,7 @@
 # Chachaanteng for Technologists — Gilbert Wat
 > Gilbert Wat builds AI systems for purposeful businesses in Hong Kong. Writing on AI ethics, responsible AI, agent system architecture, technology leadership, Catholic faith, and fatherhood.
 
-Gilbert Wat is a technology leader writing about building technology with ethics and humanity in mind — informed by a career shipping software across three continents, and by raising a son in Hong Kong.
+Gilbert Wat writes about technology, humanity, and everything in between — informed by a career shipping software across three continents, and by raising a son in Hong Kong.
 
 ## Expertise
 - AI ethics and Catholic social teaching
