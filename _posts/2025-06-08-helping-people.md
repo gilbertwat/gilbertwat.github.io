@@ -1,8 +1,10 @@
 ---
-title: Helping people
+title: "Helping People"
 excerpt: "A small encounter that test my intent to help."
-tags: life mindset
-- being
+tags:
+  - life
+  - mindset
+  - being
 ---
 # Helping People
 
