@@ -1,5 +1,7 @@
 ---
 title: Golang-journey 101 - defer
+tags:
+- building
 ---
 I am trying to explore the possibilities of adding another tools in the arsenal of my team. Rails is awesome in rapid development, developing and iterating business logic, and most of the tasks in a web / mobile app are being taken care of. But everyone knows the elephant in the room — performance. Ruby is notoriously bad in performance, some of our services areas slow as 20 rps in 14 core machine! Data engineer in our company suggested us to try node / Golang. Coming from nodeJS / JS background, I am quite familiar with the Good, Bad and ugly of node and its ecosystem.(That’s another post)
 

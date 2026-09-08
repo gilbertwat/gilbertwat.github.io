@@ -1,5 +1,7 @@
 ---
 title: 大德肋撒聖師瞻禮
+tags:
+- being
 ---
 
 今日係大德肋撒（St Theresa de Avila)嘅瞻禮。我睇佢嘅[自傳](https://a.co/5XGdeoQ)真係學到野又感受好深。冒昧分享一下，有錯嘅話可以指證🙏🏻。

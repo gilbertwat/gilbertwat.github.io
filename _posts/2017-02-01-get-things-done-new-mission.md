@@ -1,5 +1,7 @@
 ---
 title: Get Things Done has a new mission
+tags:
+- being
 ---
 Starting from February, Get Things Done will become a platform for product developers and data analysts to write about their learnings on those topics. Topics may include "how to better develop an X product in Y language" or "How to start competing in Kaggle?". To start out, I will post a long article monthly on a topic of choice. 
 

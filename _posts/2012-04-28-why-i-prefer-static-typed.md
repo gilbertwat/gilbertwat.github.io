@@ -1,5 +1,7 @@
 ---
 title: Why i prefer static typed language
+tags:
+- building
 ---
 Yes\. It is been a long time\.
 

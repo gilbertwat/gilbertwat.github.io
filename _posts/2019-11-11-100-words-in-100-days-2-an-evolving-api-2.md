@@ -1,5 +1,7 @@
 ---
 title: 100 Words in 100 Days 2/100&#58; An evolving API 2
+tags:
+- building
 ---
 In [last article](/2019/11/10/100-words-in-100-days-1-an-evolving-api-1.html) our startup CTO Lucy shipped their first version of API for announcing a request of van service in the system. Some of the engineers with keen eyes may spot there are a lot of problems with the first version, feel free to comment here and let's chat! 
 

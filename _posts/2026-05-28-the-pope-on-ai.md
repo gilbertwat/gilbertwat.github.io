@@ -5,6 +5,7 @@ tags:
 - Catholic
 - Ethics
 - Building
+- bridging
 permalink: "the-pope-on-ai"
 excerpt: "How Pope Leo XIV’s first encyclical provides a moral and practical framework for building impactful, human-centric technology, particularly A.I."
 ---

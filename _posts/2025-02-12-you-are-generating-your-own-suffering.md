@@ -1,5 +1,7 @@
 ---
 title: You are generating your own suffering
+tags:
+- bridging
 ---
 # You are generating your own suffering
 

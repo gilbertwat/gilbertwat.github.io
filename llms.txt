@@ -1,7 +1,7 @@
 # Gilbert Wat's Blog
-> a point of view in building technology, team and fatherhood. Essays about Gilbert's journey in building a family and his career.
+> I build AI for purposeful businesses, while raising my family.
 
-Gilbert Wat is a technologist who builds products people want and scales them. He writes primarily about technology, management, and fatherhood.
+Gilbert Wat builds AI for intentional organizations and writes at Cha Chaan Teng about building AI with humanity — informed by a career shipping software across three continents, and by raising a son in Hong Kong.
 
 ## Recent Posts
 - [如何有倫理地實踐AI](https://www.chachaanteng.co/how-to-practice-ai-ethically/): Reflections on Pope Leo XIV's encyclical on AI ethics, the value of human-centric AI tools, and preserving human essence and dignity.
@@ -16,6 +16,14 @@ Gilbert Wat is a technologist who builds products people want and scales them. H
 - [Chasing bubble](https://www.chachaanteng.co/chasing-bubble/): Life's true joys often lie not in achievements, but in shared, simple moments of pure happiness with loved ones.
 - [Where should I go?](https://www.chachaanteng.co/where-should-i-go/): A spontaneous hike reveals life's hidden paths. Sometimes, the clearest way forward appears when we open our eyes and trust the journey.
 - [One painting; Two meanings](https://www.chachaanteng.co/one-painting-two-meanings/): Reflections on Hans Holbein's "The Dead Christ in the Tomb" and personal loss.
+- [How My Motto Almost Broke Me](https://www.chachaanteng.co/how-my-belief-almost-break-me/): A vulnerable reflection on how the pursuit of continuous 1% daily self-improvement became a source of fear and stagnation, and how fatherhood helped rebuild a healthier foundation.
+- [Build a legacy of wisdom for social good with GenAI](https://www.chachaanteng.co/build-a-legacy-for-social-good-with-genai/): A 3-part case study on stewarding a spiritual master's legacy through a GenAI-powered digital sanctuary — built with 20% technology and 80% empathy.
+- [You are generating your own suffering](https://www.chachaanteng.co/you-are-generating-your-own-suffering/): How generative AI's "hallucinations" mirror the ways our minds generate suffering through unexamined thoughts and narratives.
+- [How developers can 10x their impact with AI in 2025](https://www.chachaanteng.co/how-developer-10x-in-2025/): A career guide for developers at every stage on how to harness Generative AI — from cultivating fundamentals to strategic leadership.
+- [The day I was humbled by a SEN student](https://www.chachaanteng.co/humbled-by-sen-student/): A brief encounter with a student with special educational needs that cut through a busy workday with unexpected grace.
+- [生成式苦難](https://www.chachaanteng.co/生成式苦難/): [Cantonese] How our memories and emotions can subtly rewrite events like an AI hallucination — and how that insight can set us free.
+- [St Theresa of Avila Feast Day](https://www.chachaanteng.co/st-theresa-of-avila-feast-day/): Reflections on St Theresa's autobiography, founding a new Carmelite order against all odds, and what it means to pray with perseverance.
+- [Choosing kindergarten for my son](https://www.chachaanteng.co/choosing-kindergarten-for-my-son/): A father's framework for choosing a kindergarten — from aligning values and development goals to practical factors like teachers and community.
 
 ## Main Pages
 - [About](https://www.chachaanteng.co/about/): Learn more about Gilbert Wat, his background, and his expertise in scaling businesses through technology.

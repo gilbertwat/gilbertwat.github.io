@@ -1,6 +1,8 @@
 ---
 title: Where should I go?
 excerpt: "A spontaneous hike reveals life's hidden paths. Sometimes, the clearest way forward appears when we open our eyes and trust the journey, even when lost."
+tags:
+- being
 ---
 # Where should I go?
 

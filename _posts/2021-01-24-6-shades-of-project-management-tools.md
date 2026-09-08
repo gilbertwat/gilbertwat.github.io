@@ -1,5 +1,7 @@
 ---
 title: 6 shades of project management tools — Which one should I use?
+tags:
+- building
 ---
 Everyone use some kinds of project management tools to get things done. The space is HOT. There are some newcomers such as Notion and Airtable. Most of the companies are using some established one such as JIRA and MS Project. Sometimes we even go low-tech to use stickers and markers. We are surrounded by amazing tools, but why are people still complain about their project management tools daily?
 Every project management tools should, obviously, help us complete our projects.

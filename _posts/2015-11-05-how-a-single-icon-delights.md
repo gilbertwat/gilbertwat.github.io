@@ -1,5 +1,7 @@
 ---
 title: How a single icon delights 50% of our users
+tags:
+- building
 ---
 ***Originally post in [Medium](https://medium.com/@gilbertwat/how-a-single-icon-delights-50-of-our-customers-249a4f254f9#.m6jjbuqsb)***
 

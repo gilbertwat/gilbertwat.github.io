@@ -2,6 +2,7 @@
 title: Helping people
 excerpt: "A small encounter that test my intent to help."
 tags: life mindset
+- being
 ---
 # Helping People
 

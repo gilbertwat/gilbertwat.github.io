@@ -1,5 +1,7 @@
 ---
 title: Thucydides on Strategy
+tags:
+- being
 ---
 
 Recently reading up the history of Greece and stumbled upon this book in the library. This book is surprisingly easy to read and well-structured. I enjoyed it quite a bit. Thucydides is a historian in Ancient Greece. He witnessed the Peloponnessian War from 431-401 BC between Athen and Sparta. He is the first person who take a meticulous record of the war.

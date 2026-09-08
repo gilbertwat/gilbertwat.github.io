@@ -1,5 +1,7 @@
 ---
 title: "1 function to call when setInterval has failed you"
+tags:
+- building
 ---
 From time to time, we have to check if something is finished, or a particular script has been loaded successfully in the browser, we would make use of the `setInterval()` function in the vanilla Javascript. This function can be traced all the way back when Javascript first came out. We should be all familiar, but seldom use the function due to the advancement of Javascript libraries and framework. The function is useful, but it has 1 problem. The problem is that in a low latency requirement, this function cannot meet the demand of periodically to run, as soon as possible. Even if you call like this,
 

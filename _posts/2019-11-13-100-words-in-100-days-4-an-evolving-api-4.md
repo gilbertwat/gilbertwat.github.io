@@ -1,5 +1,7 @@
 ---
 title: 100 Words in 100 Days 4/100&#58; An evolving API (4)
+tags:
+- building
 ---
 In our [last article](/2019/11/12/100-words-in-100-days-3-an-evolving-api-3.html), our CTO Lucy and her new teammates Adam had developed 2 new features on the same API and in this article, they needed to merge them together. A simple `git merge` resulted like this. 
 

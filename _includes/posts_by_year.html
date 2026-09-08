@@ -1,0 +1,10 @@
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+<h4>Posts</h4>
+<ul style="list-style: none; padding: 0; margin: 0; font-size: 0.875em;">
+  {% for year_group in posts_by_year %}
+    <li style="margin-bottom: 0.35em;">
+      <a href="/posts/{{ year_group.name }}/" style="text-decoration: none; color: #4c4f69;">{{ year_group.name }}</a>
+      <span style="color: #9ca0b0; font-size: 0.75em;">({{ year_group.items.size }})</span>
+    </li>
+  {% endfor %}
+</ul>

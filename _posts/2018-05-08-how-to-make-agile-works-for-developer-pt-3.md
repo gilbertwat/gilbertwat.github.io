@@ -1,5 +1,7 @@
 ---
 title: How to make agile work as a developer? (Pt. 3)
+tags:
+- building
 ---
 Previously in Pt. [1] & [2], we discuss 3 tactics to discuss priorities and make sure all parties is aligned. The last part I can share some of the mindset changes I went through to better collaborate with other stakeholders.
 

@@ -1,5 +1,7 @@
 ---
 title: 100 Words in 100 Days 8/100&#58; An evolving API (8)
+tags:
+- building
 ---
 
 In [last article](/2019/11/16/100-words-in-100-days-7-an-evolving-api-7.html), the team has run into some unclear code with mutating object. This makes debugging very hard. Bob suggest the team to enforce 2 new coding standard.

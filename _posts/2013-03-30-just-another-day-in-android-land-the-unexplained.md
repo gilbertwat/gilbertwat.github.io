@@ -1,5 +1,7 @@
 ---
 title: ! 'Just Another Day in Android-land: The unexplained Locale'
+tags:
+- building
 ---
 
 ***Personally I think this is a very bad decision. But I have not tried hard enough to convince people it is a bad idea.***

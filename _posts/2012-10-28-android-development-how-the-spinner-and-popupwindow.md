@@ -1,6 +1,8 @@
 ---
 title: 'Android Development: How the Spinner and PopupWindow finally clarify my
   misconception about Context'
+tags:
+- building
 ---
 In my recent development, I have received a requirement to put Spinner inside a PopupWindow. I expected an easy task. When the popupwindow is shown, there was no error whatsoever. But whenever I click on the spinner, the program F.O.R.C.E.D C.L.O.S.E.D. (On a side note, Forced Close should be replaced by a swear word). The logcat gives a BadTokenException and asked if my Activity is still running. You must be kidding me, I was calling the Spinner when the Activity is running, and of course it is in the UI thread. I am not able to pinpoint the problem, and Google doesn’t really help much this time. I was forced to use my brain at last. I was excited.
 

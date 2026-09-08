@@ -1,5 +1,7 @@
 ---
 title: How do I estimate my tasks
+tags:
+- building
 ---
 
 ## A short story of an ordinary discussion in GOGOVAN software engineering team

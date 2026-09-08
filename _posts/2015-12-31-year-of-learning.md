@@ -1,5 +1,7 @@
 ---
 title: Year of learning
+tags:
+- being
 ---
 First of all I am grateful that I am still able to pursuit my goals. I am still the immature son of my wonderful parents and aging grandparents. I am still the talk big do small brother of my careful brother. For that I am very grateful to have them with me.
 

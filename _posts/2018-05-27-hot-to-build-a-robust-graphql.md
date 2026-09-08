@@ -1,5 +1,7 @@
 ---
 title: How to build robust GraphQL APIs
+tags:
+- building
 ---
 
 Just read this awesome article\[[1]\] in building GraphQL APIs. Github and facebook have created their own public facing GraphQL APIs. When I first dapple with this topic last year, one of the crucial question is resource management. Resource management is specifically the CPU and memory usage of data persistence layer.

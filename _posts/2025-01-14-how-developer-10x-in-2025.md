@@ -1,5 +1,6 @@
 ---
 title: How developers can 10x their impact with AI in 2025
+tags: [building]
 ---
 
 # How developers can 10x their impact with AI in 2025

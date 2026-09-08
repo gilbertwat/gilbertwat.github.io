@@ -1,6 +1,7 @@
 ---
 title: "We’ve been told that “Taste, Judgment, and Speed” are the ultimate shields against AI."
 tags: ""
+- bridging
 permalink: "weve-been-told-that-taste-judgment-and-speed-are-the-ultimate-shields-against-ai"
 excerpt: "Taste, Judgment, and Speed are often cited as shields against AI. But the future belongs to those with the courage to take risks and the humility to serve a purpose larger than their own."
 ---

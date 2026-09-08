@@ -1,6 +1,7 @@
 ---
 title: Chasing bubble
 excerpt: "Life's true joys often lie not in achievements, but in shared, simple moments of pure happiness with loved ones."
+tags: [being]
 ---
 
 My beloved Theodore,

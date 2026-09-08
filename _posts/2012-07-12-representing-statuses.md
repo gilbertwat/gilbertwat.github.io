@@ -1,5 +1,7 @@
 ---
 title: Representing Statuses
+tags:
+- building
 ---
 When I am doing system Design, there are some recurring problems. One of the problem is to represent status of certain records. Take an example of a transaction table.
 

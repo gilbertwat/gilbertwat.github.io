@@ -1,5 +1,7 @@
 ---
 title: How to make agile work as a developer? (Pt. 2)
+tags:
+- building
 ---
 
 Previously in Pt. [1], we have discussed why developers in Hong Kong or Taiwan think scrum is not working for them and one of the tactics on how to start the discussion with other stakeholders on the day to day activities of you and your team. Let’s discuss more about tactics we are using in GOGOVAN.

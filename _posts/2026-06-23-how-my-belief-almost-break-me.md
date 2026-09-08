@@ -1,6 +1,7 @@
 ---
 title: "How My Motto Almost Broke Me"
-tag: life
+tags:
+- being
 excerpt: "A vulnerable reflection on how the pursuit of continuous 1% daily self-improvement became a source of fear and stagnation, and how fatherhood helped rebuild a healthier foundation."
 ---
 

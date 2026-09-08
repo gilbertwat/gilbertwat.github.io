@@ -1,6 +1,7 @@
 ---
 title: Build a legacy of wisdom for social good with GenAI
 category: Case Study
+tags: [building]
 ---
 
 ## Project goal and core principles

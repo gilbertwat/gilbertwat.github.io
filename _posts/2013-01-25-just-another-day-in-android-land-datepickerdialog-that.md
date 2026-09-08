@@ -1,5 +1,7 @@
 ---
 title: ! 'Just another day in Android-land: DatePickerDialog that honor the app locale'
+tags:
+- building
 ---
 Recently our company needed to unify the whole app into one locale, we have faced obstacle in making the DatePickerDialog to use app locale instead of system locale. In case you don’t want to read my story of finding, you can directly [download it](https://gist.github.com/4631571). For the patience, here is the long story.
 

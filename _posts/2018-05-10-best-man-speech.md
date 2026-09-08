@@ -1,5 +1,7 @@
 ---
 title: Best man speech
+tags:
+- being
 ---
 
 _This piece stayed in Draft for almost 3 years already, I better publish it_

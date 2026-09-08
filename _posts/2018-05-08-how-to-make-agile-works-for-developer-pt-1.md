@@ -1,5 +1,7 @@
 ---
 title: How to make agile work as a developer? (Pt. 1)
+tags:
+- building
 ---
 
 Today I came across a very thought provoking post about why scrum / agile doesn’t work in most of the company in Taiwan[1]. In essence, the author make a point that as a senior developer of the team, beside of coding features and improving infrastructure, he has to deal with many non-development duties such as mentoring junior developers and attending business meetings as developer representative. Doing these duties don’t count in the sprint and most of the time he had to work overtime and make up for the misses. This triggers a lot of comments, I am also in. I asked about how we should solve this problem and the author replied with one of the post he had written some times later.[2]

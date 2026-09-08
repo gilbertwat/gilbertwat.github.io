@@ -1,5 +1,7 @@
 ---
 title: My Instagram got hacked, now what?
+tags:
+- building
 ---
 
 This morning when I woke up and did my daily routine of checking email, two very suspicious emails showed up in my inbox.

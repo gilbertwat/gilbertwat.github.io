@@ -2,6 +2,7 @@
 layout: single
 title: Projects & Experience
 permalink: /projects/
+author_profile: true
 ---
 
 Professional experience and key projects in reverse chronological order.

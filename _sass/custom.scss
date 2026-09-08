@@ -1,0 +1,66 @@
+/* ==========================================================================
+   Custom overrides for Cha Chaan Teng
+   ========================================================================== */
+
+/* ----- Pillar headers on homepage ----- */
+.pillar-header {
+  margin-bottom: 0.5em;
+}
+
+.pillar-title {
+  margin: 0;
+  font-size: 1.563em;
+  font-weight: bold;
+}
+
+.pillar-subtitle {
+  margin: 0.25em 0 0;
+  font-size: 0.875em;
+  color: #6c6f85;
+}
+
+/* ----- Archive container: enable right sidebar positioning ----- */
+.archive {
+  position: relative;
+}
+
+.page__inner-wrap {
+  position: relative;
+}
+
+/* ----- Right sidebar: remove top margin from Posts heading ----- */
+.sidebar__right h4 {
+  margin-top: 0;
+}
+
+/* ----- Footer: compact, uniform 12px ----- */
+.page__footer,
+.page__footer footer,
+.page__footer footer * {
+  font-size: 12px;
+}
+
+.page__footer {
+  margin-top: 0;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.page__footer footer {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.page__footer p,
+.page__footer ul,
+.page__footer li,
+.page__footer div {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+

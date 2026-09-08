@@ -1,5 +1,7 @@
 ---
 title: Bounce off ideas
+tags:
+- being
 ---
 Originally posted in [Medium](https://medium.com/@gilbertwat/bounce-off-ideas-244bfa1bbad1#.yftgx5pq6)
 

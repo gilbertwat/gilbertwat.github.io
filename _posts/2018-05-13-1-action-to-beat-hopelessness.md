@@ -1,5 +1,7 @@
 ---
 title: 1 action to beat hopelessness
+tags:
+- being
 ---
 
 In our generation, we have a lot of seemingly unsolvable problems. The city is dying, the country is dying, hell even the world is dying. The mainstream media is broadcasting depressing new. The government is doing nothing to rectify the imbalance of prosperity. The state is moving to destabilize the world to keep their power. Everything is breaking our generation will to change.

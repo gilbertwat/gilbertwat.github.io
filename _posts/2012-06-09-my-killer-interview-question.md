@@ -1,5 +1,7 @@
 ---
 title: My killer interview question (for junior software engineer)
+tags:
+- building
 ---
 ***This post is full of ignorance. But my main point still stand.***
 

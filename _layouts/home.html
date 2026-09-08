@@ -1,0 +1,99 @@
+---
+layout: archive
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
+
+<div class="page__inner-wrap">
+
+<aside class="sidebar__right sticky">
+  {% include posts_by_year.html %}
+</aside>
+
+{% assign building_posts = site.posts | where_exp: "post", "post.tags contains 'building'" %}
+{% assign being_posts = site.posts | where_exp: "post", "post.tags contains 'being'" %}
+{% assign bridging_posts = site.posts | where_exp: "post", "post.tags contains 'bridging'" %}
+
+<!-- Bridging -->
+<div class="pillar-header">
+  <h1 class="pillar-title">Building Technology for Humanity</h1>
+  <p class="pillar-subtitle">Where humanity build technology for humanity.</p>
+</div>
+
+{% if bridging_posts.size > 0 %}
+  {% assign p = bridging_posts[0] %}
+  <div class="list__item">
+    <article class="archive__item home-pillar-post" itemscope itemtype="https://schema.org/CreativeWork">
+      <h3 class="archive__item-title no_toc" itemprop="headline">
+        <a href="{{ p.url | relative_url }}" rel="permalink">{{ p.title }}</a>
+      </h3>
+      <p class="page__meta">
+        <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%B %-d, %Y" }}</time>
+      </p>
+      {% if p.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ p.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+      {% endif %}
+    </article>
+  </div>
+{% endif %}
+
+<p style="margin-bottom: 2em; font-size: 0.75em; color: #6c6f85;">
+  <a href="/tags/bridging/" style="text-decoration: none; color: inherit;">More on Building Technology for Humanity →</a>
+</p>
+
+<!-- Building -->
+<div class="pillar-header">
+  <h1 class="pillar-title">Building Technology</h1>
+  <p class="pillar-subtitle">System design, product, and craft.</p>
+</div>
+
+{% if building_posts.size > 0 %}
+  {% assign p = building_posts[0] %}
+  <div class="list__item">
+    <article class="archive__item home-pillar-post" itemscope itemtype="https://schema.org/CreativeWork">
+      <h3 class="archive__item-title no_toc" itemprop="headline">
+        <a href="{{ p.url | relative_url }}" rel="permalink">{{ p.title }}</a>
+      </h3>
+      <p class="page__meta">
+        <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%B %-d, %Y" }}</time>
+      </p>
+      {% if p.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ p.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+      {% endif %}
+    </article>
+  </div>
+{% endif %}
+
+<p style="margin-bottom: 2em; font-size: 0.75em; color: #6c6f85;">
+  <a href="/tags/building/" style="text-decoration: none; color: inherit;">More on Building Technology →</a>
+</p>
+
+<!-- Being -->
+<div class="pillar-header">
+  <h1 class="pillar-title">Being Human</h1>
+  <p class="pillar-subtitle">Attention, faith, fatherhood, and life.</p>
+</div>
+
+{% if being_posts.size > 0 %}
+  {% assign p = being_posts[0] %}
+  <div class="list__item">
+    <article class="archive__item home-pillar-post" itemscope itemtype="https://schema.org/CreativeWork">
+      <h3 class="archive__item-title no_toc" itemprop="headline">
+        <a href="{{ p.url | relative_url }}" rel="permalink">{{ p.title }}</a>
+      </h3>
+      <p class="page__meta">
+        <time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%B %-d, %Y" }}</time>
+      </p>
+      {% if p.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ p.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+      {% endif %}
+    </article>
+  </div>
+{% endif %}
+
+<p style="margin-bottom: 2em; font-size: 0.75em; color: #6c6f85;">
+  <a href="/tags/being/" style="text-decoration: none; color: inherit;">More on Being Human →</a>
+</p>
+
+</div>

@@ -1,5 +1,7 @@
 ---
 title: Choosing kindergarten for my son
+tags:
+- being
 ---
 
 ## Introduction

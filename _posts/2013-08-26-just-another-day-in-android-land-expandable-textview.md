@@ -1,5 +1,7 @@
 ---
 title: ! 'Just Another Day in Android-land: Expandable TextView with Custom Ellipsis'
+tags:
+- building
 ---
 After over 4 months of my first notorious “death march” our team can at last have life. I finally have time to write a custom component for my future use. It is a customized TextView with a few customization on the function that trim down excessive characters. Suppose the UI can only display a limited lines of characters by specifying android:maxLine attribute, The TextView can be clicked to show the whole text. Also the ellipsis (…) at the end of the text while trimmed, aka ellipsized, can be customized.
 

@@ -1,5 +1,7 @@
 ---
 title: 100 Words in 100 Days 10/100&#58; An evolving API (10)
+tags:
+- building
 ---
 
 In [last article](/2020/01/07/100-words-in-100-days-9-an-evolving-api-9.html), the structure of the code is not adequate for 2 developers to separate their work and be focus. And [lack of focus is the number 1 productivity destroyer](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190). So CTO Lucy have started to look for ways to decouple the API.She found a technique to hide all `discount_code` related logic into a single function.

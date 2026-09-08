@@ -1,5 +1,7 @@
 ---
 title: One painting; Two meanings
+tags:
+- being
 ---
 # One painting; Two meanings
 

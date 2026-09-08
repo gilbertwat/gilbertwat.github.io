@@ -1,5 +1,7 @@
 ---
 title: Reducer in Mixpanel API is weird, but genius
+tags:
+- building
 ---
 
 Mixpanel had been a crucial tool in my previous 2 startup jobs. We have to compile a lot of different views for our team to make decision based on the Mixpanel data. They can be very different and flexible. This flexibility is the key to mixpanel’s success. To leverage this, they need a very comprehensive query language for developers/marketers to perform complex queries on the data.
