@@ -13,7 +13,7 @@ Gilbert Wat is a technology leader writing about building technology with ethics
 ## Themes
 - **Building Technology for Humanity**: Where humanity builds technology for humanity. Essays on AI ethics, responsible AI, and the intersection of Catholic faith with technology.
 - **Building Technology**: Designing systems, building products and cultivating AI agents. Deep dives into agent architecture, system design, and engineering craft.
-- **Being Human**: Attention, faith, fatherhood, and life. Reflections on what it means to remain human in an age of acceleration.
+- **Being Human**: Lessons of being a dad, husband, and leader. Reflections on what it means to remain human in an age of acceleration.
 
 ## Recent Posts
 - [如何有倫理地實踐AI](https://www.chachaanteng.co/how-to-practice-ai-ethically/): Reflections on Pope Leo XIV's encyclical on AI ethics, the value of human-centric AI tools, and preserving human essence and dignity.
