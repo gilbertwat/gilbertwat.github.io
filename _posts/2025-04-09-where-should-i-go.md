@@ -4,7 +4,6 @@ excerpt: "A spontaneous hike reveals life's hidden paths. Sometimes, the cleares
 tags:
 - being
 ---
-# Where should I go?
 
 ## A short hike to Tao Fong Shan without a map
 

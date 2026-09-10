@@ -2,8 +2,8 @@
 title: One painting; Two meanings
 tags:
 - being
+excerpt: "Reflections on Hans Holbein's 'The Dead Christ in the Tomb' and personal loss."
 ---
-# One painting; Two meanings
 
 [https://www.artsy.net/artwork/hans-holbein-the-younger-the-dead-christ-in-the-tomb](https://www.artsy.net/artwork/hans-holbein-the-younger-the-dead-christ-in-the-tomb)
 

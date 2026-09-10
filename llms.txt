@@ -42,12 +42,12 @@ Gilbert Wat writes about technology, humanity, and everything in between — inf
 - [Projects](https://www.chachaanteng.co/projects/): A reverse chronological list of professional experiences and key projects.
 - [Manifesto](https://www.chachaanteng.co/manifesto/): Gilbert's beliefs and principles on technology and team building.
 ## Schema Markup
-Structured data uses schema.org Person and CreativeWork markup across all pages and posts to aid AI systems in understanding authorship, content type, and topical relationships.
+All pages carry schema.org Person markup and all posts carry schema.org BlogPosting markup with author, publisher, datePublished, and keywords to aid AI systems in understanding authorship, content type, and topical relationships.
 
-## Categories
-- [Technology](https://www.chachaanteng.co/categories/#technology)
-- [Management](https://www.chachaanteng.co/categories/#management)
-- [Fatherhood](https://www.chachaanteng.co/categories/#fatherhood)
+## Tags
+- [Building](https://www.chachaanteng.co/tags/building/): System design, product, and craft.
+- [Bridging](https://www.chachaanteng.co/tags/bridging/): Where technology and humanity collide.
+- [Being](https://www.chachaanteng.co/tags/being/): Attention, faith, fatherhood, and life.
 
 ## Optional
 - [RSS Feed](https://www.chachaanteng.co/feed.xml)

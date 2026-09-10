@@ -2,8 +2,8 @@
 title: You are generating your own suffering
 tags:
 - bridging
+excerpt: "How generative AI's 'hallucinations' mirror the ways our minds generate suffering through unexamined thoughts and narratives."
 ---
-# You are generating your own suffering
 
 Generative A.I. is changing our lives. Millions use large language models(LLMs) like ChatGPT to help in a diverse category of tasks. The tasks ranged from writing our emails to our bosses and clients, to help your kids complete their homework. While embracing this technology, I discovered how my mind works in processing life events has a stark similarity with how LLMs generate outputs.
 

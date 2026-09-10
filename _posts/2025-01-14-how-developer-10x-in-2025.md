@@ -1,9 +1,8 @@
 ---
 title: How developers can 10x their impact with AI in 2025
 tags: [building]
+excerpt: "A career guide for developers at every stage on how to harness Generative AI — from cultivating fundamentals to strategic leadership."
 ---
-
-# How developers can 10x their impact with AI in 2025
 
 ## A short guide for developers and tech leads to focus on the controllable
 

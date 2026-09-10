@@ -6,7 +6,6 @@ tags:
   - mindset
   - being
 ---
-# Helping People
 
 ## 2 humbling little encounters in an afternoon
 
