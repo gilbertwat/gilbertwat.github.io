@@ -15,5 +15,4 @@ I believe that great teams express at least some of the following attributes mos
 - be reachable with clear respect of boundaries.
 - be good vibe, basically.
 
-And in essence, everyone should always looks for ways to serve our customers and each other.
-
+And in essence, everyone should be fulfilled in serving better our customers and each other.

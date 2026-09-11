@@ -1,0 +1,24 @@
+# robots.txt for www.chachaanteng.co
+# Per RFC 9309: https://www.rfc-editor.org/rfc/rfc9309
+
+# Default policy: allow all crawlers
+User-agent: *
+Allow: /
+
+# AI crawlers — explicitly allowed for generative-engine discoverability
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://www.chachaanteng.co/sitemap.xml
