@@ -1,1 +1,7 @@
 <link rel="icon" type="image/png" href="/assets/images/icon.png">
+<script>
+  // Redirect non-www to www (eliminates GSC "Alternate page" notices)
+  if (window.location.hostname === 'chachaanteng.co') {
+    window.location.replace('https://www.chachaanteng.co' + window.location.pathname + window.location.search + window.location.hash);
+  }
+</script>
