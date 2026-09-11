@@ -3,10 +3,16 @@ layout: single
 title: Projects & Experience
 permalink: /projects/
 author_profile: true
-last_modified_at: 2026-09-08
+last_modified_at: 2026-09-11
 ---
 
 Professional experience and key projects in reverse chronological order.
+
+### **Nous**
+*   **AI Companion:** AI companion for a mental-wellness NGO, providing 24/7 lightweight counseling online.
+*   **AI Learning Experience:** AI features integrated into mental-wellness courses to make learning meaningful and engaging.
+*   **AI-Powered Book:** An interactive, AI-powered learning experience for a book on life.
+*   **Mission-Critical Agentic Workflow (Agent MEL):** AI agents and workflows for social-purpose organizations to integrate their monitoring, evaluation and learning (MEL) process into operations — reliable, traceable and flexible for their funders.
 
 ### **Preface** (01/2022 – 08/2025)
 *   **ERP Scaling & Shop Expansion:** Scaled the platform from 1 to 20 shops, enabling the opening of 7 new locations.
