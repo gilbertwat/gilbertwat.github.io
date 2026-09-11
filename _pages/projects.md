@@ -3,6 +3,7 @@ layout: single
 title: Projects & Experience
 permalink: /projects/
 author_profile: true
+last_modified_at: 2026-09-08
 ---
 
 Professional experience and key projects in reverse chronological order.

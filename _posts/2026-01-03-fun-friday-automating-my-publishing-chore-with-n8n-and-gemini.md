@@ -4,7 +4,7 @@ tags:
 - automation
 - generative-ai
 - workflow-optimization
-permalink: "fun-friday-automating-my-publishing-chore-with-n8n-and-gemini"
+permalink: "fun-friday-automating-my-publishing-chore-with-n8n-and-gemini/"
 excerpt: "In this Fun Friday, I share how I built an agent using Google Doc, n8n, and Gemini to automate my multi-platform publishing chore."
 ---
 

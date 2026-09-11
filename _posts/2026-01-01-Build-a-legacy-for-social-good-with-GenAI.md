@@ -1,6 +1,5 @@
 ---
 title: Build a legacy of wisdom for social good with GenAI
-category: Case Study
 tags: [building]
 excerpt: "A 3-part case study on stewarding a spiritual master's legacy through a GenAI-powered digital sanctuary — built with 20% technology and 80% empathy."
 ---

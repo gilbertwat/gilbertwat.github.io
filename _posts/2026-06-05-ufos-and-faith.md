@@ -5,7 +5,7 @@ tags:
 - Catholic
 - Faith
 - bridging
-permalink: "ufos-and-faith"
+permalink: "ufos-and-faith/"
 excerpt: "聽完黃神父關於UFO的分享後，反思外星人的存在如何影響（或不影響）天主教信仰及對天主肖像的理解。"
 ---
 

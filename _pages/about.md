@@ -3,6 +3,7 @@ layout: single
 title: About Gilbert Wat
 permalink: /about/
 author_profile: true
+last_modified_at: 2026-09-08
 ---
 
 I build AI for purposeful businesses, while raising my family.

@@ -3,6 +3,7 @@ layout: single
 title: Gilbert’s Manifesto
 permalink: /manifesto/
 author_profile: true
+last_modified_at: 2026-09-08
 ---
 
 I believe that great teams express at least some of the following attributes most of the time:
