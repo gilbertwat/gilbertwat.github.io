@@ -7,10 +7,6 @@ layout: archive
 
 <div class="page__inner-wrap">
 
-<aside class="sidebar__right sticky">
-  {% include posts_by_year.html %}
-</aside>
-
 {% assign building_posts = site.posts | where_exp: "post", "post.tags contains 'building'" %}
 {% assign being_posts = site.posts | where_exp: "post", "post.tags contains 'being'" %}
 {% assign bridging_posts = site.posts | where_exp: "post", "post.tags contains 'bridging'" %}
@@ -95,5 +91,9 @@ layout: archive
 <p style="margin-bottom: 2em; font-size: 0.75em; color: #6c6f85; font-style: italic;">
   <a href="/tags/being/" style="text-decoration: none; color: inherit;">More on Being Human →</a>
 </p>
+
+<aside class="sidebar__right posts-by-year">
+  {% include posts_by_year.html %}
+</aside>
 
 </div>
