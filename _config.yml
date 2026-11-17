@@ -174,6 +174,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - assets/images/profile-pic-master.jpeg # source portrait, kept out of the published site
+  - assets/images/icon-master.png # 1024px favicon source, kept out of the published site
   - Capfile
   - CHANGELOG
   - config
