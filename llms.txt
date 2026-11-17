@@ -40,7 +40,6 @@ Gilbert Wat writes about technology, humanity, and everything in between — inf
 ## Main Pages
 - [About](https://www.chachaanteng.co/about/): Learn more about Gilbert Wat, his background, and his expertise in scaling businesses through technology.
 - [Projects](https://www.chachaanteng.co/projects/): A reverse chronological list of professional experiences and key projects.
-- [Manifesto](https://www.chachaanteng.co/manifesto/): Gilbert's beliefs and principles on technology and team building.
 ## Schema Markup
 All pages carry schema.org Person markup and all posts carry schema.org BlogPosting markup with author, publisher, datePublished, and keywords to aid AI systems in understanding authorship, content type, and topical relationships.
 
