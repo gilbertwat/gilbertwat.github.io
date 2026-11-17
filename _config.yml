@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Gilbert Wat"
-  avatar           : "/assets/images/profile-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile-pic.webp" # 240x240 WebP derivative (~7KB); high-res master kept at /assets/images/profile-pic-master.jpeg
   bio              : "I build AI for purposeful businesses, while raising my family."
   location         : "Does it matter?"
   email            :
@@ -173,6 +173,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - assets/images/profile-pic-master.jpeg # source portrait, kept out of the published site
   - Capfile
   - CHANGELOG
   - config
