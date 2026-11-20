@@ -46,6 +46,26 @@
   margin-top: 0;
 }
 
+.page__title {
+  line-height: 1.2;
+  margin-bottom: 0;
+}
+
+/* ----- Post subtitle: rendered under the H1 by the forked _layouts/single.html ----- */
+.page__subtitle {
+  margin: 0 0 0.5em 0;
+  font-size: 1.1em;
+  line-height: 1.5;
+  font-style: italic;
+  color: #6c6f85;
+}
+
+/* The theme's `.page__title + .page__meta` tightening no longer applies once the
+   subtitle sits in between, so give the meta line its own breathing room. */
+.page__subtitle + .page__meta {
+  margin-top: 0.5em;
+}
+
 /* ----- "On this page" TOC: desktop only -----
    Below the $large breakpoint (64em) the theme drops the TOC out of the right
    column and renders it inline above the article, which pushes the post body
