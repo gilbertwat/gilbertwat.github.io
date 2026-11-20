@@ -46,6 +46,17 @@
   margin-top: 0;
 }
 
+/* ----- "On this page" TOC: desktop only -----
+   Below the $large breakpoint (64em) the theme drops the TOC out of the right
+   column and renders it inline above the article, which pushes the post body
+   down a screen or more. Individual posts only show it once there is room for
+   a right column. */
+@media (max-width: 63.9375em) {
+  .layout--single .sidebar__right {
+    display: none;
+  }
+}
+
 /* ----- Posts: no author pane, so let the article take its place -----
    The theme floats `.page` to the inline-end at width(100% - TOC width) and
    relies on the author sidebar to fill the left gap. With `author_profile:
