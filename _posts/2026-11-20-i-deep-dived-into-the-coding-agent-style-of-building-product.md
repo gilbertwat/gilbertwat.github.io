@@ -1,10 +1,9 @@
 ---
 title: "I Deep Dived Into the Coding Agent Style of Building Product, Here Is What I Found Out"
 tags:
-- building
-- "ai"
-- "agent-dev"
-- "agent-architecture"
+- "agentic-software-development"
+- "developer workflow"
+- "building product"
 permalink: "coding-agent-heavy-development/"
 excerpt: "Six months of coding-agent heavy development built and shipped a lot, and nearly broke me. A field report on agent-driven workflows, acceptance testing, the true financial, technical and team cost of speed, and the questions I still cannot answer."
 ---
