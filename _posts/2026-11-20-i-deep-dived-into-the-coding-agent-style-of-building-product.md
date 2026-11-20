@@ -36,7 +36,7 @@ During the development, I added more guardrails and agent skills as I went.
 
 #### SKILLs
 
-I did not use a lot of fancy SKILLs in my development workflow. I heavily leveraged superpower to design the spec and implementation plan. I also experimented with pstack later in the stage and it is a hit or miss to me. I won't go deeper into these skills here. There are already numerous tutorials to those SKILLs. They have done a better job than me.
+I did not use a lot of fancy SKILLs in my development workflow. I heavily leveraged superpower to design the spec and implementation plan. I also experimented with pstack later in the stage and it is a hit or miss to me. I won't go deeper into these skills here. There are already numerous tutorials for those SKILLs. They have done a better job than me.
 
 In the later stages, I added “grill-me” to the workflow but there are too many false positives. As a result, my design bloated unnecessarily. I still keep it as a catch-all phase to govern if I am not proper in my designs and fill up some areas that I had not put enough thoughts into.
 
