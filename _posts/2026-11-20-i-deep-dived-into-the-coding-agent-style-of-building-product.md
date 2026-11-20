@@ -4,6 +4,7 @@ tags:
 - "agentic-software-development"
 - "developer workflow"
 - "building product"
+- building
 permalink: "coding-agent-heavy-development/"
 excerpt: "Six months of coding-agent heavy development built and shipped a lot, and nearly broke me. A field report on agent-driven workflows, acceptance testing, the true financial, technical and team cost of speed, and the questions I still cannot answer."
 ---
