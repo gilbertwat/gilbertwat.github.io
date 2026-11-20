@@ -46,6 +46,18 @@
   margin-top: 0;
 }
 
+/* ----- Posts: no author pane, so let the article take its place -----
+   The theme floats `.page` to the inline-end at width(100% - TOC width) and
+   relies on the author sidebar to fill the left gap. With `author_profile:
+   false` that gap would sit empty, so the article claims the full width while
+   `padding-inline-end` (kept from the theme) still reserves the TOC column. */
+@media (min-width: 64em) {
+  .no-author-pane .page,
+  .no-author-pane .page__related {
+    width: 100%;
+  }
+}
+
 /* ----- Posts by Year: flatten below main on mobile, sticky right on desktop ----- */
 .posts-by-year {
   margin-top: 3em;
