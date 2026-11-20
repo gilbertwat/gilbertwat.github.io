@@ -41,7 +41,7 @@ I did not use a lot of fancy SKILLs in my development workflow. I heavily levera
 
 In the later stages, I added “grill-me” to the workflow but there are too many false positives. As a result, my design bloated unnecessarily. I still keep it as a catch-all phase to govern if I am not proper in my designs and fill up some areas that I had not put enough thoughts into.
 
-#### Guardrails in software development:
+#### Guardrails
 
 `index.md` is a document to provide an overview to the entire codebase and how the agent should navigate it. This is quite core to the LLM to gain relevant context and guidance on where it should put its attention.
 
@@ -53,7 +53,7 @@ I leave AGENTS.md very plain and simple.
 
 One of the regrets I didn't put in earlier is that I don’t use react-best-practices in the first place. `useEffect` is now used everywhere and some of the db queries are outside the designated folders, Also I only recently discovered modern-web-guidance. These are the 2 SKILLs that will potentially improve the quality of the codebase.
 
-### Acceptance-Testing based test suites
+#### Testing Suites
 
 Originally I didn't set up a proper testing framework, I was proven wrong: the agent changed some key behaviors in an unrelated update in the codebase. After this incident, I set up a rudimentary test suite. It is a sleep saver. Even if I don't set up a proper testing framework, the test suites are already good enough for me to govern the implementation.
 
@@ -87,7 +87,7 @@ I need to do something to regain my sanity, to put it mildly exaggerated.
 
 After this “episode”, only then I understand, the speed of development has overloaded my cognitive ability and it is hard for me to contribute meaningfully in the other areas of my life and business.
 
-## The real cost of coding agent style
+## The real cost of building with agent
 
 ### Financially, The token is burning faster as the codebase bloat
 
