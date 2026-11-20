@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "catppuccin_latte" # "air", "aqua", "contrast", "dark
 locale                   : "en-HK"
 title                    : "Cha Chaan Teng for Technologists — Gilbert Wat"
 title_separator          : "|"
-subtitle                 : "Write about technology, humanity, and everything in between." # site tagline that appears below site title in masthead
+subtitle                 : "Writings about technology, humanity, and everything in between." # site tagline that appears below site title in masthead
 name                     : "Gilbert Wat"
-description              : "Gilbert Wat builds AI systems for purposeful businesses in Hong Kong. Writing on AI ethics, responsible AI, agent system architecture, technology leadership, Catholic faith, and fatherhood."
+description              : "Gilbert Wat builds AI capabilities in Hong Kong. Writing on building responsible AI, technology leadership, and fatherhood."
 url                      : "https://www.chachaanteng.co" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gilbertwat/gilbertwat.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Gilbert Wat"
   avatar           : "/assets/images/profile-pic.webp" # 240x240 WebP derivative (~7KB); high-res master kept at /assets/images/profile-pic-master.jpeg
-  bio              : "I build AI for purposeful businesses, while raising my family."
-  location         : "Does it matter?"
+  bio              : "Building product with purpose and helping people to do so."
+  location         : "Anywhere in the world"
   email            :
   links:
     - label: "Email"
