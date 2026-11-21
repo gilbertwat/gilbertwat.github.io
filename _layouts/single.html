@@ -36,12 +36,14 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
+          <div class="title">
           {% if page.title -%}
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>
           {%- endif %}
           {% include page__subtitle.html %}
+          </div>
           {% include page__meta.html locale=locale %}
         </header>
       {% endunless %}

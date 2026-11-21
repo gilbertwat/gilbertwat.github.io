@@ -19,6 +19,13 @@
   color: #6c6f85;
 }
 
+.pillar-more-on {
+  margin-bottom: 3em;
+  font-size: 0.75em;
+  color: #6c6f85;
+  font-style: italic;
+}
+
 /* Tighten space between pillar header and post title */
 .home-pillar-post .archive__item-title {
   margin-top: 0.5em;
@@ -96,9 +103,19 @@
   }
 }
 
+@media (min-width: 80em) {
+  .sidebar {
+    width: calc(200px - 1em);
+  }
+}
+
 /* ----- Posts by Year: flatten below main on mobile, sticky right on desktop ----- */
 .posts-by-year {
   margin-top: 3em;
+
+  li {
+    display: inline-block;
+  }
 }
 
 @media (min-width: 64em) {
@@ -106,18 +123,28 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 200px;
-    margin-right: -200px;
+    width: 150px;
+    margin-right: -150px;
     margin-top: 0;
     padding-left: 1em;
     z-index: 10;
+
+    li {
+      display: block;
+    }
+
   }
 }
 
 @media (min-width: 80em) {
+  .archive {
+    width: calc(100% - 200px);
+    padding-inline-end: 150px;
+  }
   .posts-by-year {
-    width: 300px;
-    margin-right: -300px;
+    width: 150px;
+    margin-right: -150px;
+    padding-left: 3em;
   }
 }
 

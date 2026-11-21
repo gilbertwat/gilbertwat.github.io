@@ -6,24 +6,26 @@ author_profile: true
 last_modified_at: 2026-09-11
 ---
 
-Professional experience and key projects in reverse chronological order.
+Professional experience and key projects Me or my team shipped in reverse chronological order.
 
-### **Nous**
+### **Nous** (09/2025 - Now)
 *   **AI Companion:** AI companion for a mental-wellness NGO, providing 24/7 lightweight counseling online.
 *   **AI Learning Experience:** AI features integrated into mental-wellness courses to make learning meaningful and engaging.
 *   **AI-Powered Book:** An interactive, AI-powered learning experience for a book on life.
 *   **Mission-Critical Agentic Workflow (Agent MEL):** AI agents and workflows for social-purpose organizations to integrate their monitoring, evaluation and learning (MEL) process into operations — reliable, traceable and flexible for their funders.
 
 ### **Preface** (01/2022 – 08/2025)
-*   **ERP Scaling & Shop Expansion:** Scaled the platform from 1 to 20 shops, enabling the opening of 7 new locations.
-*   **Generative A.I. Product Offerings:** Built a cross-platform mobile app and O2O engagement tools using ChatGPT/Gen AI.
+*   **Digital Platform Scaling & Shop Expansion:** Introduce proper architecture and migration plan to scale the platform from 1 to 20 shops, enabling the opening of 7 new locations.
+*   **Unified Digital Experience**: Introduce mobile and web experience for learners, coffee drinkers and trainers to experience the same quality and brand experience digitally.
+*   **Generative A.I. Product Offerings:** Built a cross-platform mobile app and O2O engagement tools using ChatGPT/Gen AI. From A.I. Photo Booth with Coffee Matching, to AI- assisted learning experience.
 
 ### **GOGOX** (02/2019 – 01/2022)
 *   **Mobile App Revamp:** Led the revamp of iOS and Android customer apps, including e-Payment and door-to-door delivery features.
-*   **DevOps & Quality Infrastructure:** Built monitoring dashboards and reduced production defects by 50% per quarter.
+*   **DevOps & Quality Infrastructure:** Architected and lead the team to reduce production defects by 50% per quarter, while maintaining SLO and product iteration velocity.
 
 ### **GOGOVAN** (06/2017 – 02/2019)
-*   **Platform Optimization:** Reduced cloud costs by 60% and optimized critical routines like order dispatching.
+*   **Platform Stablization**: Reach and maintain 99.9% uptime and error-free rate per quarter.
+*   **Platform Optimization:** Reduced cloud costs by 60% and optimized critical routines like order dispatching with AI deployment.
 *   **New Product Lines:** Shipped new driver apps and the "GOGODelivery" service.
 
 ### **Accenture** (03/2017 – 06/2017)

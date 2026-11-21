@@ -1,11 +1,9 @@
 ---
 title: How developers can 10x their impact with AI in 2025
 tags: [building]
+subtitle: "A short guide for developers and tech leads to focus on the controllable"
 excerpt: "A career guide for developers at every stage on how to harness Generative AI — from cultivating fundamentals to strategic leadership."
 ---
-
-## A short guide for developers and tech leads to focus on the controllable
-
 Gen AI shook up software development in 2024\. While predicting what will happen in 2025, some said SaaS is dead. Some said software development is dead. While some of the fearmongers declared so, the reality is more nuanced. The pace of change will accelerate and transform rather than kill the industry. Strong teams will continue to release new tools and models, each promising to reshape the landscape. Strong companies in different industries will continue to figure out the best way to leverage Generative AI to provide the best experience to their customers. How exhilarating\!
 Throughout this article, we will explore how we can harness the Generative AI and 10x your career, regardless which stage you are in, and some extra tips for the tech leaders in the end.
 

@@ -7,7 +7,7 @@ tags:
 - "building product"
 - building
 permalink: "coding-agent-heavy-development/"
-excerpt: "Six months of coding-agent heavy development built and shipped a lot, and nearly broke me. A field report on agent-driven workflows, acceptance testing, the true financial, technical and team cost of speed, and the questions I still cannot answer."
+excerpt: "A field report on a 6-month immersion to agent-driven product building workflow, the speed up, its true cost, and the questions remains for the industry."
 ---
 
 ## Preface
